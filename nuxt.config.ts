@@ -10,7 +10,11 @@ export default defineNuxtConfig({
     baseURL: process.env.BASE_URL || '/'
   },
   modules: [
-    '@nuxt/content',
+    ['@nuxt/content', {
+      experimental: {
+        clientDB: true
+      }
+    }],
     (_options, nuxt) => {
       nuxt.hooks.hook('vite:extendConfig', (config) => {
         // @ts-expect-error
