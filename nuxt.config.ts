@@ -6,6 +6,9 @@ export default defineNuxtConfig({
   build: {
     transpile: [ 'vuetify' ]
   },
+  app: {
+    baseURL: process.env.BASE_URL || '/'
+  },
   modules: [
     '@nuxt/content',
     (_options, nuxt) => {
