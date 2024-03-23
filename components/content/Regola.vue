@@ -1,11 +1,14 @@
 <template>
-  <v-card color="grey lighten-3" flat>
+  <ContentDoc
+  :path="src"
+  v-slot="{ doc }"
+  >
+  <v-card color="grey-lighten-3" flat>
     <v-card-title>REGOLA:</v-card-title>
-    <v-card-text class="indigo--text">
-      {{ description }}
+    <v-card-text class="text-indigo">
+      {{ doc.description }}
     </v-card-text>
     <v-card-actions>
-
       <v-btn
         icon
         block
@@ -13,7 +16,7 @@
         class="text-left"
         @click="show = !show"
       >
-        <v-icon>{{ show ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
+        <v-icon>{{ show ? 'chevron-up' : 'chevron-down' }}</v-icon>
         <span v-if="!show">Se hai bisogno di aiuto per leggere la regola clicka qui</span>
       </v-btn>
     </v-card-actions>
@@ -23,35 +26,20 @@
         <v-divider></v-divider>
 
         <v-card-text>
-          <nuxt-content :document="content" />
+          <ContentRenderer :value="doc" />
         </v-card-text>
       </div>
     </v-expand-transition>
   </v-card>
+  </ContentDoc>
 </template>
 
-<script>
-export default {
-  name: 'LysRegola',
-  props: {
+<script lang="ts" setup>
+defineProps({
     src: {
       type: String,
       required: true
     }
-  },
-  data () {
-    return {
-      content: null,
-      show: false
-    }
-  },
-  computed: {
-    description () {
-      return this.content ? this.content.description : null
-    }
-  },
-  async created () {
-    this.content = await this.$content(this.src).fetch()
-  }
-}
+  })
+const show = ref(false)
 </script>
