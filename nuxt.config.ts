@@ -13,6 +13,17 @@ export default defineNuxtConfig({
     ['@nuxt/content', {
       experimental: {
         clientDB: true
+      },
+      markdown: {
+        remarkPlugins: {
+          'remark-math': true
+        },
+        rehypePlugins: [
+          ['rehype-katex', {
+            legno: true,
+            fleqn: true
+          }]
+        ]
       }
     }],
     (_options, nuxt) => {
