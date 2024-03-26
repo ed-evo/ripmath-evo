@@ -2,12 +2,11 @@
   <ContentNavigation
   v-slot="{ navigation }"
   >
-    <v-list v-model:opened="open">
+    <v-list v-model:opened="open" nav>
       <lys-nav-item
         v-for="item in navigation"
         :key="item._path"
         :item="item"
-        as="lys-nav-item"
       />
     </v-list>
   </ContentNavigation>
