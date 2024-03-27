@@ -1,0 +1,12 @@
+@use 'vuetify/settings';
+@use 'sass:map';
+
+.katex {
+  color: map.get(settings.$red, 'base');
+}
+
+blockquote {
+    margin-left: 2rem;
+    border-left: 6px solid map.get(settings.$grey, 'lighten-2');
+    padding-left: 1rem;
+}
