@@ -16,14 +16,16 @@ export default defineNuxtConfig({
       },
       markdown: {
         remarkPlugins: {
-          'remark-math': true
+          'remark-math': true,
+          'remark-heading-id': true
         },
-        rehypePlugins: [
-          ['rehype-katex', {
+        rehypePlugins: {
+          'rehype-katex': {
             legno: true,
-            fleqn: true
-          }]
-        ]
+            fleqn: true,
+            output: 'html'
+          }
+        }
       }
     }],
     (_options, nuxt) => {
