@@ -1,7 +1,10 @@
 ---
 title: Potenza di potenze
-description: la potenza di una potenza e' ancora una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti.
 ---
+
+la potenza di una potenza e' ancora una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti.
+
+<!--more-->
 
 # $$ (a^r)^s = a^{r \cdot s} $$
 

@@ -1,7 +1,10 @@
 ---
 title: Quoziente di potenze con la stessa base
-description: Il quoziente di due potenze con la stessa base e' una potenza che ha per base la stessa base e per esponente la differenza degli esponenti.
 ---
+
+Il quoziente di due potenze con la stessa base e' una potenza che ha per base la stessa base e per esponente la differenza degli esponenti.
+
+<!--more-->
 
 ## $$ a^r \div a^s = a^{r-s} $$
 

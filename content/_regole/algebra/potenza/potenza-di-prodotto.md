@@ -1,7 +1,10 @@
 ---
 title: Potenza di un prodotto
-description: La potenza di un prodotto e' uguale al prodotto delle potenze dei fattori
 ---
+
+La potenza di un prodotto e' uguale al prodotto delle potenze dei fattori
+
+<!--more-->
 
 ## $$ (a \cdot b \cdot c)^n = a^n \cdot b^n \cdot c^n $$
 

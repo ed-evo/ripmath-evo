@@ -1,7 +1,10 @@
 ---
 title: Prodotto di potenze con la stessa base
-description: il prodotto di due potenze con la stessa base e' una potenza che ha per base la stessa base e per esponente la somma degli esponenti.
 ---
+
+il prodotto di due potenze con la stessa base e' una potenza che ha per base la stessa base e per esponente la somma degli esponenti.
+
+<!--more-->
 
 ## $$ a^r \cdot a^s = a^{r + s} $$
 

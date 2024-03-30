@@ -1,13 +1,15 @@
 <template>
   <ContentDoc
-  :path="src"
+  :path="`_regole${src}`"
   v-slot="{ doc }"
   >
   <v-card color="grey-lighten-3" flat>
-    <v-card-title>REGOLA:</v-card-title>
-    <v-card-text class="text-indigo">
-      {{ doc.description }}
-    </v-card-text>
+    <v-card-title>REGOLA: {{ doc.title }}</v-card-title>
+    <v-expand-transition>
+        <v-card-text class="text-indigo">
+          <ContentRenderer :value="doc" :excerpt="!show" />
+        </v-card-text>
+    </v-expand-transition>
     <v-card-actions>
       <v-btn
         icon
@@ -20,16 +22,6 @@
         <span v-if="!show">Se hai bisogno di aiuto per leggere la regola clicka qui</span>
       </v-btn>
     </v-card-actions>
-
-    <v-expand-transition>
-      <div v-show="show">
-        <v-divider></v-divider>
-
-        <v-card-text>
-          <ContentRenderer :value="doc" />
-        </v-card-text>
-      </div>
-    </v-expand-transition>
   </v-card>
   </ContentDoc>
 </template>
