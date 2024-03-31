@@ -2,15 +2,22 @@
   <v-list-group
   v-if="item.children"
   :value="item._path"
-
   >
     <template v-slot:activator="{ props, isOpen }">
       <v-list-item
         v-bind="props"
         :title="item.title"
         variant="tonal"
+        @click.native.prevent
       >
         <template v-slot:prepend>
+          <v-btn
+          :icon="`far fa-folder-${ isOpen ? 'open' : 'closed'}`"
+          size="x-small"
+          variant="plain"
+          ></v-btn>
+        </template>
+        <template v-slot:append>
           <v-btn
           :to="item._path"
           icon="fas fa-arrow-up-right-from-square"
