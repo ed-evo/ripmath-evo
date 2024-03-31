@@ -16,7 +16,7 @@
     <template v-slot:default="{ isActive }">
       <v-card color="grey-lighten-3" flat>
         <v-card-text>
-          <ContentRenderer :value="doc" :excerpt="doc.excerpt && !show" />
+          <ContentRenderer :value="doc" :excerpt="doc.excerpt && !showMore" />
         </v-card-text>
         <v-card-actions>
           <v-btn
@@ -25,10 +25,10 @@
             block
             tile
             class="text-left"
-            @click="show = !show"
+            @click="showMore = !showMore"
           >
-            <v-icon>{{ show ? 'chevron-up' : 'chevron-down' }}</v-icon>
-            <span v-if="!show">Espandi</span>
+            <v-icon>{{ showMore ? 'chevron-up' : 'chevron-down' }}</v-icon>
+            <span v-if="!showMore">Espandi</span>
           </v-btn>
           <v-btn
             icon
@@ -56,5 +56,5 @@ defineProps({
       type: String
     }
   })
-const show = ref(false)
+const showMore = ref(false)
 </script>
