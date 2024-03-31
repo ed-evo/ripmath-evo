@@ -281,9 +281,14 @@ typings/
 # Next.js build output
 .next
 
-# Nuxt.js build / generate output
-.nuxt
+### NuxtJS ###
+# Generated dirs
 dist
+.nuxt
+.nuxt-*
+.output
+.gen
+
 
 # Gatsby files
 .cache/

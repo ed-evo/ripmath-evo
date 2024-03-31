@@ -1,6 +1,6 @@
 <template>
   <ContentDoc
-  :path="`_regole${src}`"
+  :path="src"
   v-slot="{ doc }"
   >
   <v-card color="grey-lighten-3" flat>
