@@ -4,10 +4,13 @@
 </template>
 
 <script lang="ts" setup>
-console.log('page')
-const { path } = useRoute()
-const { data: page } = await useAsyncData('content', () =>
-  queryCollection('content').path(path).first(),
-  { watch: () => path }
+const route = useRoute()
+const page = ref(null)
+watch(
+  () => route.path,
+  async newPath => {
+    page.value = await queryCollection('content').path(newPath).first()
+  },
+  { immediate: true }
 )
 </script>
