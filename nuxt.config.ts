@@ -3,17 +3,27 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
   build: {
-    transpile: [ 'vuetify' ]
+    transpile: [ 'vuetify', '@fortawesome/vue-fontawesome' ]
   },
+
   app: {
     baseURL: process.env.BASE_URL || '/'
   },
+
   modules: [
-    ['@nuxt/content', {
-      experimental: {
-        clientDB: true
-      },
+    ['@nuxt/content'],
+    (_options, nuxt) => {
+      nuxt.hooks.hook('vite:extendConfig', (config) => {
+        // @ts-expect-error
+        config.plugins?.push(vuetify({ autoImport: true }))
+      })
+    }
+  ],
+
+  content: {
+    build: {
       markdown: {
         remarkPlugins: {
           'remark-math': true,
@@ -27,14 +37,12 @@ export default defineNuxtConfig({
           }
         }
       }
-    }],
-    (_options, nuxt) => {
-      nuxt.hooks.hook('vite:extendConfig', (config) => {
-        // @ts-expect-error
-        config.plugins?.push(vuetify({ autoImport: true }))
-      })
+    },
+    database: {
+      type: 'libsql'
     }
-  ],
+  },
+
   vite: {
     vue: {
       template: {
@@ -42,6 +50,7 @@ export default defineNuxtConfig({
       }
     }
   },
+
   /*
    ** Global CSS
    */
@@ -49,4 +58,6 @@ export default defineNuxtConfig({
     '~/node_modules/katex/dist/katex.css',
     '~/assets/style/custom.scss'
   ],
+
+  compatibilityDate: '2025-01-18',
 })

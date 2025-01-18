@@ -1,16 +1,12 @@
 <template>
-  <ContentDoc
-  :path="src"
-  v-slot="{ doc }"
-  >
   <v-card color="grey-lighten-3" flat>
-    <v-card-title>{{ doc.title }}</v-card-title>
+    <v-card-title>{{ doc?.title }}</v-card-title>
     <v-expand-transition>
         <v-card-text :class="[textColor]">
-          <ContentRenderer :value="doc" :excerpt="doc.excerpt && !showMore" />
+          <ContentRenderer v-if="doc" :value="doc" :excerpt="doc?.excerpt && !showMore" />
         </v-card-text>
     </v-expand-transition>
-    <v-card-actions v-if="doc.excerpt">
+    <v-card-actions v-if="doc?.excerpt">
       <v-btn
         icon
         block
@@ -23,11 +19,10 @@
       </v-btn>
     </v-card-actions>
   </v-card>
-  </ContentDoc>
 </template>
 
 <script lang="ts" setup>
-defineProps({
+const props = defineProps({
     src: {
       type: String,
       required: true
@@ -38,4 +33,9 @@ defineProps({
     }
   })
 const showMore = ref(false)
+
+const { data: doc } = await useAsyncData('inset-content', () =>
+  queryCollection('content').path(props.src).first(),
+  { watch: () => props.src }
+)
 </script>

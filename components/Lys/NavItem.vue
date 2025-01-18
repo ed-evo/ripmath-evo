@@ -1,7 +1,7 @@
 <template>
   <v-list-group
   v-if="item.children"
-  :value="item._path"
+  :value="item.path"
   >
     <template v-slot:activator="{ props, isOpen }">
       <v-list-item
@@ -19,11 +19,11 @@
         </template>
         <template v-slot:append>
           <v-btn
-          :to="item._path"
+          :to="item.path"
           icon="fas fa-arrow-up-right-from-square"
           size="x-small"
           variant="plain"
-          :disabled="path === item._path"
+          :disabled="path === item.path"
           @click.native.stop
           ></v-btn>
         </template>
@@ -31,15 +31,15 @@
     </template>
     <lys-nav-item
       v-for="child in item.children"
-      :key="child._path"
+      :key="child.path"
       :item="child"
       class="pa-0"
     />
   </v-list-group>
   <v-list-item v-else
-    :to="item._path"
+    :to="item.path"
     :title="item.title"
-    :active="path === item._path"
+    :active="path === item.path"
   />
 </template>
 

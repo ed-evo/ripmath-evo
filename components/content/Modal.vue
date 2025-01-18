@@ -1,8 +1,4 @@
 <template>
-  <ContentDoc
-  :path="`${src}`"
-  v-slot="{ doc }"
-  >
   <v-dialog>
     <template v-slot:activator="{ props: activatorProps}">
       <v-btn
@@ -43,11 +39,10 @@
       </v-card>
     </template>
   </v-dialog>
-  </ContentDoc>
 </template>
 
 <script lang="ts" setup>
-defineProps({
+const props = defineProps({
     src: {
       type: String,
       required: true
@@ -57,4 +52,9 @@ defineProps({
     }
   })
 const showMore = ref(false)
+
+const { data: doc } = await useAsyncData('inset-content', () =>
+  queryCollection('content').path(props.src).first(),
+  { watch: () => props.src }
+)
 </script>
