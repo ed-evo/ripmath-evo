@@ -7,6 +7,7 @@
 console.log('page')
 const { path } = useRoute()
 const { data: page } = await useAsyncData('content', () =>
-  queryCollection('content').path(path).first()
+  queryCollection('content').path(path).first(),
+  { watch: () => path }
 )
 </script>
