@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      BASE_URL: /ripmath-evo/
+      BASE_URL: /${{ github.event.repository.name }}/
     steps:
       - uses: actions/checkout@main
       - run: corepack enable
