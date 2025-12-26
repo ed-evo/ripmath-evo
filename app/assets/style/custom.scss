@@ -1,6 +1,8 @@
 @use 'vuetify/settings';
 @use 'sass:map';
 
+@use 'katex/dist/katex' as *;
+
 .katex {
   color: map.get(settings.$red, 'base');
 }

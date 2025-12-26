@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
+import tsconfigPaths from 'vite-tsconfig-paths'
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -39,7 +40,8 @@ export default defineNuxtConfig({
       }
     },
     database: {
-      type: 'libsql'
+      type: 'sqlite',
+      filename: ':memory:'
     }
   },
 
@@ -48,14 +50,14 @@ export default defineNuxtConfig({
       template: {
         transformAssetUrls
       }
-    }
+    },
+    plugins: [tsconfigPaths()]
   },
 
   /*
    ** Global CSS
    */
   css: [
-    '~/node_modules/katex/dist/katex.css',
     '~/assets/style/custom.scss'
   ],
 
