@@ -1,6 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
-import tsconfigPaths from 'vite-tsconfig-paths'
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -14,7 +13,7 @@ export default defineNuxtConfig({
   },
 
   modules: [
-    ['@nuxt/content'],
+    '@nuxt/content',
     (_options, nuxt) => {
       nuxt.hooks.hook('vite:extendConfig', (config) => {
         // @ts-expect-error
@@ -46,12 +45,15 @@ export default defineNuxtConfig({
   },
 
   vite: {
+    plugins: [
+      // @ts-expect-error
+      vuetify({ autoImport: true }),
+    ],
     vue: {
       template: {
         transformAssetUrls
       }
     },
-    plugins: [tsconfigPaths()]
   },
 
   /*
