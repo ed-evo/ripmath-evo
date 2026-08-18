@@ -3,51 +3,16 @@ package main
 import (
 	"context"
 	"fmt"
-	"io/fs"
 	"log"
 	"os"
-	"strings"
+	"os/signal"
+	"syscall"
 
+	"github.com/ed-evo/ripmath-evo/markdownify/internal/ai"
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/config"
+	"github.com/ed-evo/ripmath-evo/markdownify/internal/resources"
+	"golang.org/x/sync/errgroup"
 )
-
-func readResources(ctx context.Context, base fs.FS) (<-chan string, <-chan error) {
-	resourcesCh := make(chan string)
-	errsCh := make(chan error, 1)
-
-	go func() {
-		defer close(resourcesCh)
-		defer close(errsCh)
-		
-		err := fs.WalkDir(base, ".", func (path string, d fs.DirEntry, err error) error {
-				if err != nil {
-					return err
-				}
-
-				select {
-				case <- ctx.Done():
-					return ctx.Err()
-				default:
-				}
-
-				if !d.IsDir() && strings.HasSuffix(path, ".html") {
-					select {
-					case resourcesCh <- path[:len(path) - 5]:
-					case <-ctx.Done():
-						return ctx.Err()
-					}
-					
-				}
-				return nil
-			})
-		
-		if err != nil {
-			errsCh <- fmt.Errorf("Error woking FS %w", err)
-		}
-	}()
-
-	return resourcesCh, errsCh
-}
 
 func main() {
 	cfg := config.Get()
@@ -59,15 +24,23 @@ func main() {
 
 	log.Printf("%v\n%v", screenshotFs, mateFs)
 
-	ctx := context.Background()
+	baseCtx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
+	defer stop()
 
-	resources, errs := readResources(ctx, mateFs)
+	g, gCtx := errgroup.WithContext(baseCtx)
 
-	for r := range resources {
-		log.Printf("resource %s", r)
-	}
+	resourcesChan := make(chan string)
 
-	if err := <-errs; err != nil {
-		fmt.Printf("Walk error: %v\n", err)
+	g.Go(func() error {
+		defer close(resourcesChan)
+		return resources.ListHtml(gCtx, mateFs, resourcesChan)
+	})
+
+	g.Go(func() error {
+		return ai.Process(baseCtx, screenshotFs, mateFs, resourcesChan)
+	})
+
+    if err := g.Wait(); err != nil {
+		fmt.Printf("Execution error: %v\n", err)
 	}
 }
