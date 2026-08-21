@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	_ "embed"
 	"fmt"
 	"log"
 	"os"
@@ -12,7 +13,11 @@ import (
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/config"
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/resources"
 	"golang.org/x/sync/errgroup"
+	"google.golang.org/genai"
 )
+
+//go:embed system.prompt
+var systemPrompt string
 
 func main() {
 	cfg := config.Get()
@@ -27,9 +32,18 @@ func main() {
 	baseCtx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
 	defer stop()
 
+	client, err := genai.NewClient(baseCtx, &genai.ClientConfig{
+		APIKey:  cfg.GeminiApiKey,
+		Backend: genai.BackendGeminiAPI,
+	})
+	if err != nil {
+		log.Fatal("failed to create Genai Client: %w", err)
+		return
+	}
+
 	g, gCtx := errgroup.WithContext(baseCtx)
 
-	resourcesChan := make(chan string)
+	resourcesChan := make(chan string, 1)
 
 	g.Go(func() error {
 		defer close(resourcesChan)
@@ -37,7 +51,17 @@ func main() {
 	})
 
 	g.Go(func() error {
-		return ai.Process(baseCtx, screenshotFs, mateFs, resourcesChan)
+		return ai.Process(
+			baseCtx,
+			client,
+			&ai.ProcessData{
+				Cfg: cfg,
+				Htmls: mateFs,
+				Screenshots: screenshotFs,
+				SystemPrompt: systemPrompt,
+			},
+			resourcesChan,
+		)
 	})
 
     if err := g.Wait(); err != nil {

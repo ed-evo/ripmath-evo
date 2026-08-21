@@ -12,6 +12,7 @@ type Config struct {
 	GeminiModel  string `env:"GEMINI_MODEL"`
 	ScreenshotsDir string `env:"TOMD_SCREENSHOTS_DIR"`
 	MateDir string `env:"TOMD_MATE_DIR"`
+	OutputDir string `env:"TOMD_OUTPUT_DIR"`
 }
 
 var (
