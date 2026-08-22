@@ -1,6 +1,7 @@
 package ai
 
 import (
+	"archive/zip"
 	"context"
 	"encoding/json"
 	"fmt"
@@ -18,8 +19,7 @@ import (
 
 type ProcessData struct {
 	Cfg *config.Config
-	Screenshots fs.FS
-	Htmls fs.FS
+	Resources []*resources.Resource
 	SystemPrompt string
 }
 
@@ -30,18 +30,29 @@ func Process(
 	ctx context.Context,
 	c *genai.Client,
 	d *ProcessData,
-	resources <-chan resources.Resource,
 ) error {
+	cfg := d.Cfg
+	screenshots, err := zip.OpenReader(cfg.ScreenshotsZip)
+	if err != nil {
+		return fmt.Errorf("Error opening screenshots")
+	}
+	defer screenshots.Close()
+
+	htmls, err := zip.OpenReader(cfg.MateZip)
+	if err != nil {
+		return fmt.Errorf("Error opening mate")
+	}
+	defer htmls.Close()
 	g, gCtx := errgroup.WithContext(ctx)
 	l := rate.NewLimiter(limit, tpm)
-	consumes := tpm - 1
-	for r := range resources {
-		resource := r
-		if err := l.WaitN(gCtx, consumes); err != nil {
-			return fmt.Errorf("Rate limite error: %w", err)
-		}
+	// Empty wait, to reduce hitting Genai limit on startup burst
+	if err := l.WaitN(gCtx, tpm); err != nil {
+		return fmt.Errorf("Rate limite error: limit err %w", err)
+	}
+	var consumes int
+	for _, resource := range d.Resources {
 		log.Printf("resource %s", resource.Name)
-		img, err := fs.ReadFile(d.Screenshots, resource.Png)
+		img, err := fs.ReadFile(screenshots, resource.Png)
 		if err != nil {
 			return fmt.Errorf("Error reading screenshot: %w", err)
 		}
@@ -51,7 +62,7 @@ func Process(
 				Data: img,
 			},
 		}
-		html, err := fs.ReadFile(d.Htmls, resource.Html)
+		html, err := fs.ReadFile(htmls, resource.Html)
 		if err != nil {
 			return fmt.Errorf("Error reading html: %w", err)
 		}
@@ -59,26 +70,28 @@ func Process(
 		userContent := genai.NewContentFromParts([]*genai.Part{imgPart, htmlPart}, genai.RoleUser)
 		count, err := c.Models.CountTokens(
 			ctx,
-			d.Cfg.GeminiModel,
+			cfg.GeminiModel,
 			[]*genai.Content{userContent, genai.NewContentFromText(d.SystemPrompt, genai.RoleUser)},
-			&genai.CountTokensConfig{
-			},
+			&genai.CountTokensConfig{},
 		)
 		if err != nil {
 			return fmt.Errorf("Error counting tokens %w", err)
 		} else {
 			consumes = int(float64(count.TotalTokens) * 1.5)
-			log.Printf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, 1.5 * float64(count.TotalTokens))
+			log.Printf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, consumes)
 			if (consumes >= tpm) {
 				log.Printf("Resource %v exceed max token skip.", resource)
-				consumes = 1
 				continue
 			}
+		}
+
+		if err := l.WaitN(gCtx, consumes); err != nil {
+			return fmt.Errorf("Rate limite error: limit err %w, grouperr %w", err, gCtx.Err())
 		}
 		g.Go(func() error {
 			resp, err := c.Models.GenerateContent(
 				ctx,
-				d.Cfg.GeminiModel,
+				cfg.GeminiModel,
 				[]*genai.Content{userContent},
 				&genai.GenerateContentConfig{
 					SystemInstruction: genai.Text(d.SystemPrompt)[0],
@@ -89,11 +102,11 @@ func Process(
 				return fmt.Errorf("Error from genai: %w", err)
 			}
 			dir := path.Dir(resource.Name)
-			err = os.MkdirAll(path.Join(d.Cfg.OutputDir, dir), 0755)
+			err = os.MkdirAll(path.Join(cfg.OutputDir, dir), 0755)
 			if err != nil {
 				return err
 			}
-			outputBase := path.Join(d.Cfg.OutputDir, resource.Name)
+			outputBase := path.Join(cfg.OutputDir, resource.Name)
 			err = os.WriteFile(outputBase + ".md", []byte(resp.Text()), 0755)
 			if err != nil {
 				return err

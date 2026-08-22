@@ -1,7 +1,6 @@
 package main
 
 import (
-	"archive/zip"
 	"context"
 	_ "embed"
 	"fmt"
@@ -21,26 +20,22 @@ import (
 var systemPrompt string
 
 func main() {
-	cfg := config.Get()
+	if err := run(); err != nil {
+		log.Fatalf("Execution error: %v", err)
+	}
+}
 
+func run() error {
+	cfg := config.Get()
+	
 	logFile, err := os.OpenFile(cfg.LogFile, os.O_CREATE | os.O_WRONLY | os.O_APPEND, 0666)
 	if err != nil {
-		log.Fatalf("Error opening logfile, %w", err)
+		return fmt.Errorf("Error opening logfile, %w", err)
 	}
 	defer logFile.Close()
 	log.SetOutput(logFile)
-
-	screenshotFs, err := zip.OpenReader(cfg.ScreenshotsZip)
-	if err != nil {
-		log.Fatal("Error opening screenshots")
-	}
-	defer screenshotFs.Close()
-
-	mateFs, err := zip.OpenReader(cfg.MateZip)
-	if err != nil {
-		log.Fatal("Error opening mate")
-	}
-	defer mateFs.Close()
+	log.Print("Start To-Md")
+	defer log.Print("Stop To-Md")
 
 	baseCtx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
 	defer stop()
@@ -50,18 +45,16 @@ func main() {
 		Backend: genai.BackendGeminiAPI,
 	})
 	if err != nil {
-		log.Fatal("failed to create Genai Client: %w", err)
-		return
+		return fmt.Errorf("failed to create Genai Client: %w", err)
 	}
 
 	g, gCtx := errgroup.WithContext(baseCtx)
 
-	resourcesChan := make(chan resources.Resource, 1)
+	resList, err := resources.ListHtml(gCtx, *cfg)
 
-	g.Go(func() error {
-		defer close(resourcesChan)
-		return resources.ListHtml(gCtx, mateFs, screenshotFs, cfg.OutputDir, resourcesChan)
-	})
+	if err != nil {
+		return fmt.Errorf("Error reading resources: %w", err)
+	}
 
 	g.Go(func() error {
 		return ai.Process(
@@ -69,15 +62,14 @@ func main() {
 			client,
 			&ai.ProcessData{
 				Cfg: cfg,
-				Htmls: mateFs,
-				Screenshots: screenshotFs,
+				Resources: resList,
 				SystemPrompt: systemPrompt,
 			},
-			resourcesChan,
 		)
 	})
 
     if err := g.Wait(); err != nil {
-		fmt.Printf("Execution error: %v\n", err)
+		return fmt.Errorf("Execution error: %w\n", err)
 	}
+	return nil
 }
