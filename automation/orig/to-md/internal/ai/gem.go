@@ -69,6 +69,11 @@ func Process(
 		} else {
 			consumes = int(float64(count.TotalTokens) * 1.5)
 			log.Printf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, 1.5 * float64(count.TotalTokens))
+			if (consumes >= tpm) {
+				log.Printf("Resource %v exceed max token skip.", resource)
+				consumes = 1
+				continue
+			}
 		}
 		g.Go(func() error {
 			resp, err := c.Models.GenerateContent(
