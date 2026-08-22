@@ -10,6 +10,7 @@ import (
 	"path"
 
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/config"
+	"github.com/ed-evo/ripmath-evo/markdownify/internal/resources"
 	"golang.org/x/sync/errgroup"
 	"golang.org/x/time/rate"
 	"google.golang.org/genai"
@@ -29,7 +30,7 @@ func Process(
 	ctx context.Context,
 	c *genai.Client,
 	d *ProcessData,
-	resources <-chan string,
+	resources <-chan resources.Resource,
 ) error {
 	g, gCtx := errgroup.WithContext(ctx)
 	l := rate.NewLimiter(limit, tpm)
@@ -39,8 +40,8 @@ func Process(
 		if err := l.WaitN(gCtx, consumes); err != nil {
 			return fmt.Errorf("Rate limite error: %w", err)
 		}
-		log.Printf("resource %s", resource)
-		img, err := fs.ReadFile(d.Screenshots, resource + ".png")
+		log.Printf("resource %s", resource.Name)
+		img, err := fs.ReadFile(d.Screenshots, resource.Png)
 		if err != nil {
 			return fmt.Errorf("Error reading screenshot: %w", err)
 		}
@@ -50,7 +51,7 @@ func Process(
 				Data: img,
 			},
 		}
-		html, err := fs.ReadFile(d.Htmls, resource + ".html")
+		html, err := fs.ReadFile(d.Htmls, resource.Html)
 		if err != nil {
 			return fmt.Errorf("Error reading html: %w", err)
 		}
@@ -67,7 +68,7 @@ func Process(
 			return fmt.Errorf("Error counting tokens %w", err)
 		} else {
 			consumes = int(float64(count.TotalTokens) * 1.5)
-			log.Printf("%v, %v, %v", count, count.TotalTokens, 1.5 * float64(count.TotalTokens))
+			log.Printf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, 1.5 * float64(count.TotalTokens))
 		}
 		g.Go(func() error {
 			resp, err := c.Models.GenerateContent(
@@ -82,12 +83,13 @@ func Process(
 			if err != nil {
 				return fmt.Errorf("Error from genai: %w", err)
 			}
-			dir := path.Dir(resource)
+			dir := path.Dir(resource.Name)
 			err = os.MkdirAll(path.Join(d.Cfg.OutputDir, dir), 0755)
 			if err != nil {
 				return err
 			}
-			err = os.WriteFile(path.Join(d.Cfg.OutputDir, resource + ".md"), []byte(resp.Text()), 0755)
+			outputBase := path.Join(d.Cfg.OutputDir, resource.Name)
+			err = os.WriteFile(outputBase + ".md", []byte(resp.Text()), 0755)
 			if err != nil {
 				return err
 			}
@@ -96,7 +98,7 @@ func Process(
 			if err != nil {
 				return fmt.Errorf("Error serializing to json: %w", err)
 			}
-			err = os.WriteFile(path.Join(d.Cfg.OutputDir, resource + ".json"), j, 0755)
+			err = os.WriteFile(outputBase + ".json", j, 0755)
 			if err != nil {
 				return err
 			}

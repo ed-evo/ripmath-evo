@@ -1,6 +1,7 @@
 package main
 
 import (
+	"archive/zip"
 	"context"
 	_ "embed"
 	"fmt"
@@ -21,13 +22,25 @@ var systemPrompt string
 
 func main() {
 	cfg := config.Get()
-	log.Printf("%v", cfg)
 
-	screenshotFs := os.DirFS(cfg.ScreenshotsDir)
+	logFile, err := os.OpenFile(cfg.LogFile, os.O_CREATE | os.O_WRONLY | os.O_APPEND, 0666)
+	if err != nil {
+		log.Fatalf("Error opening logfile, %w", err)
+	}
+	defer logFile.Close()
+	log.SetOutput(logFile)
 
-	mateFs := os.DirFS(cfg.MateDir)
+	screenshotFs, err := zip.OpenReader(cfg.ScreenshotsZip)
+	if err != nil {
+		log.Fatal("Error opening screenshots")
+	}
+	defer screenshotFs.Close()
 
-	log.Printf("%v\n%v", screenshotFs, mateFs)
+	mateFs, err := zip.OpenReader(cfg.MateZip)
+	if err != nil {
+		log.Fatal("Error opening mate")
+	}
+	defer mateFs.Close()
 
 	baseCtx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
 	defer stop()
@@ -43,11 +56,11 @@ func main() {
 
 	g, gCtx := errgroup.WithContext(baseCtx)
 
-	resourcesChan := make(chan string, 1)
+	resourcesChan := make(chan resources.Resource, 1)
 
 	g.Go(func() error {
 		defer close(resourcesChan)
-		return resources.ListHtml(gCtx, mateFs, resourcesChan)
+		return resources.ListHtml(gCtx, mateFs, screenshotFs, cfg.OutputDir, resourcesChan)
 	})
 
 	g.Go(func() error {
