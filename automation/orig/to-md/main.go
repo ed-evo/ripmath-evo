@@ -65,7 +65,7 @@ func main() {
 
 	g.Go(func() error {
 		return ai.Process(
-			baseCtx,
+			gCtx,
 			client,
 			&ai.ProcessData{
 				Cfg: cfg,
