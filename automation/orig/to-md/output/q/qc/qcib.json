@@ -1,0 +1,56 @@
+{
+  "sdkHttpResponse": {
+    "headers": {
+      "Alt-Svc": [
+        "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Content-Type": [
+        "application/json; charset=UTF-8"
+      ],
+      "Date": [
+        "Sat, 22 Aug 2026 23:35:25 GMT"
+      ],
+      "Server": [
+        "scaffolding on HTTPServer2"
+      ],
+      "Server-Timing": [
+        "gfet4t7; dur=40067"
+      ],
+      "Vary": [
+        "Origin",
+        "X-Origin",
+        "Referer"
+      ],
+      "X-Content-Type-Options": [
+        "nosniff"
+      ],
+      "X-Frame-Options": [
+        "SAMEORIGIN"
+      ],
+      "X-Gemini-Service-Tier": [
+        "standard"
+      ],
+      "X-Xss-Protection": [
+        "0"
+      ]
+    }
+  },
+  "modelVersion": "gemma-4-31b-it",
+  "responseId": "FTKKav7sDpr4kdUPkIGYuQM",
+  "usageMetadata": {
+    "candidatesTokenCount": 248,
+    "promptTokenCount": 1871,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1613
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 1087,
+    "totalTokenCount": 3206
+  }
+}

@@ -1,0 +1,1 @@
+> Questa è la tavola di verità della proposizione **indipendenza diretta**, cioè nella proposizione composta l'apporto della proposizione $$p$$ è ininfluente e quindi possiamo considerare la proposizione composta come proposizione $$q$$.

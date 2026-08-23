@@ -1,0 +1,1 @@
+> basta considerare la sola matrice incompleta perché la matrice completa ha l'ultima colonna (colonna dei termini noti) tutta nulla e quindi in pratica coincide con la matrice incompleta

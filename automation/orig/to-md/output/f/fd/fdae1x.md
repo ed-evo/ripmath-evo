@@ -1,0 +1,3 @@
+> ### [Leggiamo con calma il testo cercando di capire bene tutti i termini]{.text-red}
+> 
+> Quando leggi un problema devi non solo capire la costruzione che devi fare ma anche sapere le proprietà delle figure che sono coinvolte: se ad esempio si parla di rombo devi sapere quali sono le proprietà del rombo (diagonali uguali e perpendicolari, lati uguali e paralleli due a due), quindi per fare i problemi devi studiare: ai miei alunni di solito consiglio di farsi una specie di specchietto elencando le figure e le relative proprietà.

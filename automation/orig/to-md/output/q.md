@@ -1,0 +1,119 @@
+# [q]{.text-black} [Successioni]{.text-blue}
+
+- Generalità sulle successioni
+    - Introduzione
+    - Definizione
+    - Nomenclatura
+    - Particolari tipi di successioni
+        - Somme
+            - Somma della successione naturale con una costante
+            - Successione dei numeri pari
+            - Successione dei numeri dispari
+            - Successione di Fibonacci
+        - Prodotto per $$-1$$
+            - Successione dei numeri interi negativi
+            - Successione dei numeri pari negativi
+            - Successione dei numeri dispari negativi
+        - Prodotto con fattori a segno alterno
+            - Successione oscillante convergente
+            - Successione oscillante divergente
+            - Successione oscillante indeterminata
+        - Prodotti
+            - Prodotto per $$0$$
+            - Prodotto per una costante diversa da $$0$$
+        - Quozienti
+            - Divisione per una costante
+            - Termine variabile come divisore
+            - Rapporto fra due termini variabili
+        - Elevamenti a potenza
+            - Termine variabile alla base
+            - Esponente variabile con base positiva
+            - Esponente variabile con base negativa o nulla
+            - Termine variabile sia alla base che all'esponente
+        - Alcune successioni particolari
+            - Successione fattoriale
+            - Successione di Nepero
+            - Altre successioni verso numeri trascendenti
+            - Successione di numeri geometrici
+- Progressioni
+    - Progressioni aritmetiche
+        - Definizione
+        - Ricerca di un termine qualunque
+        - Costruzione di una progressione dati due termini
+        - Conoscendo il termine di posto $$h$$ determinare il termine di posto $$k$$
+        - Somma di $$n$$ termini di una progressione aritmetica
+    - Progressioni geometriche
+        - Definizione
+        - Ricerca di un termine qualunque
+        - Costruzione di una progressione dati due termini
+        - Conoscendo il termine di posto $$h$$ determinare il termine di posto $$k$$
+        - Somma di $$n$$ termini di una progressione geometrica
+        - Somma dei termini di una progressione geometrica
+        - Prodotto di $$n$$ termini di una progressione geometrica
+- Successioni
+    - Definizioni
+    - Rappresentazione cartesiana
+    - Limiti di successioni numeriche reali
+        - Limite finito di una successione
+        - Limite infinito di una successione
+        - Casi possibili
+    - Successione infinitesima
+    - Convergenza di una successione
+    - Divergenza di una successione
+    - Successioni aventi lo stesso carattere
+    - Operazioni sulle successioni
+        - Somma
+        - Differenza
+        - Prodotto
+        - Quoziente
+    - Operazioni sui limiti finiti di successioni
+        - Somma
+        - Differenza
+        - Prodotto
+        - Quoziente
+    - Teoremi
+        - Teorema dell'unicità del limite
+        - Teorema della permanenza del segno
+        - Conseguenze del teorema della permanenza del segno
+        - Teorema della minorante
+        - Teorema della maggiorante
+        - Teorema della minorante e maggiorante
+    - Successioni monotone
+    - Un esempio
+    - Studio della successione geometrica
+    - Criterio di convergenza di Cauchy
+- Serie
+    - Introduzione
+    - Definizioni
+    - Serie geometrica
+    - Resto di una serie
+    - Criterio generale di convergenza
+    - Proprietà di una serie
+        - Proprietà distributiva rispetto ad una costante
+        - Proprietà associativa
+    - Criteri di convergenza e divergenza
+        - Serie a segno costante
+            - Serie a termini tutti positivi o tutti negativi
+            - Conseguenze sulle ridotte
+            - Serie armonica
+            - Criterio del confronto
+        - Serie a segno alterno
+            - Convergenza della serie a termini a segno alterno
+            - Applicazioni alle ridotte
+            - Un esempio
+        - Convergenza assoluta
+            - Definizione di convergenza assoluta
+            - Proprietà
+        - Cenni su altri criteri di convergenza
+            - Criterio della radice
+            - Criterio del rapporto
+            - Criterio di Raabe
+    - Operazioni sulle serie
+        - Somma
+        - Differenza
+        - Prodotto secondo Cauchy
+    - Conclusioni (utilizzo delle serie)
+
+---
+[piano generale del sito]
+---

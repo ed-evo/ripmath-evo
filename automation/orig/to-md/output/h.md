@@ -1,0 +1,61 @@
+[# h Algebra astratta]{.text-blue}
+
+- Introduzione
+- Ripasso sulle proprietà delle operazioni elementari
+    - operazioni elementari
+    - proprietà dell'addizione
+    - proprietà della moltiplicazione
+    - mutue proprietà di somma e prodotto
+- Strutture algebriche
+    - Metodo operativo e nomenclatura
+    - Struttura algebrica
+        - Legge di composizione interna
+        - Elemento neutro
+        - Elemento simmetrico
+        - Concetto di struttura algebrica
+    - Semigruppo
+        - Un esempio da illusionista: i tre bicchieri
+        - Il gioco del $$15$$
+    - Gruppo
+        - Esempi di strutture di gruppo
+        - Proprietà dei gruppi
+            - Unicità dell'elemento neutro
+            - Unicità dell'elemento simmetrico
+            - Ogni elemento è semplificabile
+        - Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)
+            - Cosa significa resto modulo $$p$$
+            - Relazione di equivalenza ed insieme quoziente su $$N$$
+            - Collegamento ai sistemi di numerazione
+            - Rappresentazione di un gruppo finito mediante la tabella di Cayley
+            - Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)
+                - Insieme dei resti modulo $$5$$
+                - Insieme dei resti modulo $$4$$
+                - Insieme dei resti modulo $$3$$
+                - Insieme dei resti modulo $$2$$
+                - Insieme dei resti modulo $$6$$
+                - Insieme dei resti modulo $$7$$
+                - Insieme dei resti modulo $$8$$
+                - Insieme dei resti modulo $$9$$
+    - Anello
+        - Esempi di struttura ad anello
+    - Corpo
+        - Definizione
+        - Campo
+        - Esempi
+    - Spazi vettoriali
+        - Caratteristiche di un numero complesso
+        - I vettori in fisica
+        - La moltiplicazione nei numeri complessi
+        - Spazio vettoriale
+        - Esempi di spazi vettoriali
+- Morfismi
+    - un esempio
+    - definizione di morfismo
+    - endomorfismo
+    - omomorfismo
+    - monomorfismo
+    - epimorfismo
+    - isomorfismo
+    - automorfismo
+
+[piano generale del sito](../piano.html)
