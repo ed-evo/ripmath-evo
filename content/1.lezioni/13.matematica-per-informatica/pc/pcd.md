@@ -40,6 +40,6 @@ Questo insieme è detto algebra di Boole se valgono le seguenti leggi:
   > **Nota:** Cioè $$1$$ è l'elemento neutro per $$\otimes$$.
 
 - **Leggi del complemento**
-  > **Nota:** Significano semplicemente che se $$a$$ vale $$0$$ allora $$a'$$ vale $$1$$ e se $$a$$ vale $$1$$ allora $$a'$$ vale $$0$$.
+  > **Nota:** Significano semplicemente che se $$a$$ vale $$0$$ allora $$à$$ vale $$1$$ e se $$a$$ vale $$1$$ allora $$à$$ vale $$0$$.
   $$
   a \oplus

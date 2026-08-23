@@ -4,6 +4,6 @@
 
 corrisponde alla [congiunzione inversa in logica](../../k/kb/kblao.html)
 
-$$(a+b)' = a' \cdot b'$$ per il [principio di dualità](../pc/pcf.html)
+$$(a+b)' = à \cdot b'$$ per il [principio di dualità](../pc/pcf.html)
 
-$$a'b'$$ è in forma normale disgiuntiva completa
+$$àb'$$ è in forma normale disgiuntiva completa

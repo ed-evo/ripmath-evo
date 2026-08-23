@@ -11,25 +11,25 @@ infatti abbiamo le 4 possibilità
 In forma normale disgiuntiva completa possiamo pensarla come
 
 $$
-a+b = a'b + ab' + ab
+a+b = àb + ab' + ab
 $$
 
 Per esercizio dimostriamolo algebricamente
 
-> $$a+b = (a+b)(a+a') =$$ [moltiplico per $$(a+a')=1$$ per la [prima legge del complemento](../pc/pcd.html)]
+> $$a+b = (a+b)(a+à) =$$ [moltiplico per $$(a+à)=1$$ per la [prima legge del complemento](../pc/pcd.html)]
 >
-> $$= aa + aa' + ab + ab' =$$ [sviluppo; $$aa=a$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$aa'=0$$ per la [seconda legge del complemento](../pc/pcd.html)]
+> $$= aa + aà + ab + ab' =$$ [sviluppo; $$aa=a$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$aà=0$$ per la [seconda legge del complemento](../pc/pcd.html)]
 >
-> $$= a + ab + a'b =$$ [so che $$a+ab=a$$ per la [prima legge di assorbimento](../pc/pcg.html)]
+> $$= a + ab + àb =$$ [so che $$a+ab=a$$ per la [prima legge di assorbimento](../pc/pcg.html)]
 >
-> $$= a + a'b =$$
+> $$= a + àb =$$
 >
-> $$= a(b+b') + a'b =$$ [moltiplico per $$(b+b')=1$$ il primo termine ed ottengo]
+> $$= a(b+b') + àb =$$ [moltiplico per $$(b+b')=1$$ il primo termine ed ottengo]
 >
-> $$= ab + ab' + a'b$$
+> $$= ab + ab' + àb$$
 >
 > cioè ordinando come avevamo già visto nella pagina della tabella
 >
 > $$
-> a+b = a'b + ab' + ab
+> a+b = àb + ab' + ab
 > $$

@@ -7,22 +7,22 @@ corrisponde alla [disgiunzione inversa in logica](../../k/kb/kblae.html)
 in forma normale disgiuntiva completa possiamo pensarla come
 
 $$
-(ab)' = a'b' + a'b + ab'
+(ab)' = àb' + àb + ab'
 $$
 
 per esercizio dimostriamolo algebricamente
 
 $$
-(ab)' = a' + b'
+(ab)' = à + b'
 $$
 > per il [principio di dualità](../pc/pcf.html)
 
 $$
-= a' + b' = (a' + b')(a + a')
+= à + b' = (à + b')(a + à)
 $$
-> moltiplico per $$(a + a') = 1$$ per la [prima legge del complemento](../pc/pcd.html)
+> moltiplico per $$(a + à) = 1$$ per la [prima legge del complemento](../pc/pcd.html)
 
 $$
-= a'a + a'a' + ab' + a'b'
+= àa + àà + ab' + àb'
 $$
-> sviluppo; $$a'a' = a'$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$a'a = 0$$ per la [second
+> sviluppo; $$àà = à$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$àa = 0$$ per la [second

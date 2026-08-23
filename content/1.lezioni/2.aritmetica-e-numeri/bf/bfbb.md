@@ -18,7 +18,7 @@ I postulati sono:
   Il successivo di ogni numero è diverso da $$1$$, cioè il numero $$1$$ non ha antecedente.
 - $$p(1)$$ e
   $$
-  p(a) \implies p(a') \quad \forall a \in N \implies p(n) \quad \forall n \in N
+  p(a) \implies p(à) \quad \forall a \in N \implies p(n) \quad \forall n \in N
   $$
   Se una proprietà è vera per il numero $$1$$ e, avendola supposta vera per un numero ne segue che è vera anche per il successivo di quel numero allora essa è vera per tutti i Numeri Naturali.
 

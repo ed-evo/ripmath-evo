@@ -1,3 +1,0 @@
-# titolo
-
-> qui il testo

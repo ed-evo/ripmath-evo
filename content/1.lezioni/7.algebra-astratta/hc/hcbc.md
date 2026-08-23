@@ -1,9 +1,9 @@
 # [Elemento simmetrico]{.text-red}
 
-Dato un insieme di enti $$A$$ e su di esso un'operazione $$\oplus$$ diremo che $$a'$$ appartenente ad $$A$$ è l'**elemento simmetrico** rispetto all'elemento $$a$$ di $$A$$ se vale:
+Dato un insieme di enti $$A$$ e su di esso un'operazione $$\oplus$$ diremo che $$à$$ appartenente ad $$A$$ è l'**elemento simmetrico** rispetto all'elemento $$a$$ di $$A$$ se vale:
 
 $$
-\textcolor{red}{a \oplus a' = a' \oplus a = n}
+\textcolor{red}{a \oplus à = à \oplus a = n}
 $$
 
 cioè la composizione di qualunque elemento $$a$$ di $$A$$ con il proprio simmetrico restituisce sempre l'elemento neutro $$n$$.

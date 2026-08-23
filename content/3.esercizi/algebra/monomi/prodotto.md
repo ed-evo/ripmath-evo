@@ -1,5 +1,5 @@
 Consiglio
-Nel calcolo dei monomi e' molto utile pensare il monomio sempre con evidenziati gli elementi sottointesi
+Nel calcolo dei monomi è molto utile pensare il monomio sempre con evidenziati gli elementi sottointesi
 ad esempio un monomio del tipo
 
 a2b
@@ -8,7 +8,7 @@ dovresti pensarlo come
 
 + 1 a2b1
 
-E' importante farlo perche' in tutte le operazioni saranno sempre coinvolti il segno, il numero e le lettere ed averle evidenziate e' un buon aiuto per eseguire correttamente l'operazione
+È importante farlo perché in tutte le operazioni saranno sempre coinvolti il segno, il numero e le lettere ed averle evidenziate è un buon aiuto per eseguire correttamente l'operazione
 esempio se devo fare la moltiplicazione
 
   -a2b · 3ab3 =
@@ -17,7 +17,7 @@ significa
 
 = - 1a2b1 · (+3a1b3) =
 
-quindi seguendo le regole e' ora facile moltiplicare segno con segno, numero con numero e nelle lettere sommare gli esponenti
+quindi seguendo le regole è ora facile moltiplicare segno con segno, numero con numero e nelle lettere sommare gli esponenti
 
 = (- ·+) 1·3 a2+1b1+3 = -3a3b4
 
@@ -25,7 +25,7 @@ quindi seguendo le regole e' ora facile moltiplicare segno con segno, numero con
 Prodotto di monomi
 
 
-Prima di iniziare, ricordo che un monomio e', sempre, composto di 3 parti (a volte sottointese): il segno, il coefficiente numerico e la parte letterale
+Prima di iniziare, ricordo che un monomio è, sempre, composto di 3 parti (a volte sottointese): il segno, il coefficiente numerico e la parte letterale
 per il segno occorre utilizzare le regole dei segni per la somma ed il prodotto dei numeri relativi
 per il numero possiamo semplicemente moltiplicare o dividere
 per il segno occorre utilizzare le regole delle potenze

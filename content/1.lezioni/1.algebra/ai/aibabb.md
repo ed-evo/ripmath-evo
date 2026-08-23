@@ -61,7 +61,7 @@ $$
 \textcolor{red}{
 \begin{cases} 
 ax + by = c \\ 
-a'x - b'y = c' 
+àx - b'y = c' 
 \end{cases}
 }
 $$
@@ -70,6 +70,6 @@ $$
 
 $$
 \textcolor{red}{
-\frac{a}{a'} = \frac{b}{b'} \neq \frac{c}{c'}
+\frac{a}{à} = \frac{b}{b'} \neq \frac{c}{c'}
 }
 $$

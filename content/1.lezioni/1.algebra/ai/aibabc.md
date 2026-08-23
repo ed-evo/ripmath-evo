@@ -34,11 +34,11 @@ $$
 In generale un sistema
 
 $$
-\begin{cases} \textcolor{red}{ax + by = c} \\ \textcolor{red}{a'x - b'y = c'} \end{cases}
+\begin{cases} \textcolor{red}{ax + by = c} \\ \textcolor{red}{àx - b'y = c'} \end{cases}
 $$
 
 è indeterminato se
 
 $$
-\frac{\textcolor{red}{a}}{\textcolor{red}{a'}} = \frac{\textcolor{red}{b}}{\textcolor{red}{b'}} = \frac{\textcolor{red}{c}}{\textcolor{red}{c'}}
+\frac{\textcolor{red}{a}}{\textcolor{red}{à}} = \frac{\textcolor{red}{b}}{\textcolor{red}{b'}} = \frac{\textcolor{red}{c}}{\textcolor{red}{c'}}
 $$

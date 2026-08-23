@@ -2,14 +2,14 @@
 
 Possiamo pensare l'attivazione di un interruttore come il passaggio al complementare nell'algebra di Boole: infatti se lo stato è $$1$$ aprendo l'interruttore passeremo allo stato $$0$$ e se lo stato è $$0$$ chiudendo l'interruttore passeremo allo stato $$1$$.
 
-| $$a$$ | $$a'$$ |
+| $$a$$ | $$à$$ |
 | :---: | :---: |
 | [$$1$$]{.text-red} | [$$0$$]{.text-red} |
 | [$$0$$]{.text-red} | [$$1$$]{.text-red} |
 
 Questo, sostituendo $$0$$ con **FALSO** e $$1$$ con **VERO** corrisponde alla tavola di verità per la negazione logica: nell'algebra di Boole posso chiamare gli elementi indifferentemente $$0$$ e $$1$$ oppure $$F$$ e $$V$$ e questo ci permetterà di usare il computer oltre che per fare calcoli numerici anche per fare calcoli logici, con tutte le possibilità che ciò offre.
 
-| $$a$$ | $$a'$$ |
+| $$a$$ | $$à$$ |
 | :---: | :---: |
 | $$p$$ | $$\overline{p}$$ |
 | [$$V$$]{.text-red} | [$$F$$]{.text-red} |

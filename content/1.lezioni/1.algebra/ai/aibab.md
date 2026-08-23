@@ -19,24 +19,24 @@ Quando ho un sistema
 $$
 \begin{cases}
 \textcolor{red}{ax + by = c} \\
-\textcolor{red}{a'x - b'y = c'}
+\textcolor{red}{àx - b'y = c'}
 \end{cases}
 $$
 
 si può dire anche senza risolverlo se è possibile, impossibile od indeterminato osservandone i coefficienti:
 
 $$
-\textcolor{red}{\frac{a}{a'} \neq \frac{b}{b'}}
+\textcolor{red}{\frac{a}{à} \neq \frac{b}{b'}}
 $$
 sistema possibile
 
 $$
-\textcolor{red}{\frac{a}{a'} = \frac{b}{b'} \neq \frac{c}{c'}}
+\textcolor{red}{\frac{a}{à} = \frac{b}{b'} \neq \frac{c}{c'}}
 $$
 sistema impossibile
 
 $$
-\textcolor{red}{\frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'}}
+\textcolor{red}{\frac{a}{à} = \frac{b}{b'} = \frac{c}{c'}}
 $$
 sistema indeterminato
 

@@ -15,19 +15,19 @@ a + 1 = (a + 1) \cdot 1
 $$ (seconda legge dell'identità)
 
 $$
-(a + 1) \cdot 1 = (a + 1) \cdot (a + a')
+(a + 1) \cdot 1 = (a + 1) \cdot (a + à)
 $$ (prima legge del complemento)
 
 $$
-(a + 1) \cdot (a + a') = a + (1 \cdot a')
+(a + 1) \cdot (a + à) = a + (1 \cdot à)
 $$ (prima legge distributiva letta a rovescio)
 
 $$
-a + (1 \cdot a') = a + a'
+a + (1 \cdot à) = a + à
 $$ (seconda legge dell'identità)
 
 $$
-a + a' = 1
+a + à = 1
 $$ (prima legge del complemento)
 
 Quindi, per la proprietà transitiva delle uguaglianze, leggendo il primo e l'ultimo termine delle uguaglianze otteniamo:
@@ -51,9 +51,9 @@ a \cdot 0 = (a \cdot 0) + 0
 $$ (prima legge dell'identità)
 
 $$
-(a \cdot 0) + 0 = (a \cdot 0) + (a \cdot a')
+(a \cdot 0) + 0 = (a \cdot 0) + (a \cdot à)
 $$ (seconda legge del complemento)
 
 $$
-(a \cdot 0) + (a \cdot a') = a \cdot (0 + a')
+(a \cdot 0) + (a \cdot à) = a \cdot (0 + à)
 $$

@@ -8,7 +8,7 @@
     </template>
     <v-card>
       <v-card-title>RISPOSTA</v-card-title>
-      <v-card-text>E' un contadino della Basilicata!</v-card-text>
+      <v-card-text>È un contadino della Basilicata!</v-card-text>
     </v-card>
   </v-dialog>
 </template>

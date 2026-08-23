@@ -36,11 +36,11 @@ $$
 In generale, un sistema:
 
 $$
-\begin{cases} \textcolor{red}{ax + by = c} \\ \textcolor{red}{a'x - b'y = c'} \end{cases}
+\begin{cases} \textcolor{red}{ax + by = c} \\ \textcolor{red}{àx - b'y = c'} \end{cases}
 $$
 
 è possibile se:
 
 $$
-\frac{\textcolor{red}{a}}{\textcolor{red}{a'}} \neq \frac{\textcolor{red}{b}}{\textcolor{red}{b'}}
+\frac{\textcolor{red}{a}}{\textcolor{red}{à}} \neq \frac{\textcolor{red}{b}}{\textcolor{red}{b'}}
 $$

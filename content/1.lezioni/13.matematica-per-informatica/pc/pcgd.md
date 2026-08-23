@@ -18,13 +18,13 @@ $$
    $$
    a + a + (b + c) = a 
    $$
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $$à$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
-   a' + (a + b) + c = a' + (b \cdot c) 
+   à + (a + b) + c = à + (b \cdot c) 
    $$
 4. e vale anche 
    $$
-   a' + a + (b + c) = a' + (b \cdot c) 
+   à + a + (b + c) = à + (b \cdot c) 
    $$
 5. per la proprietà transitiva delle uguaglianze
 
@@ -71,13 +71,13 @@ $$
    $$
    a + a \cdot (b \cdot c) = a 
    $$
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $$à$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
-   a' + (a \cdot b) \cdot c = a' + (b \cdot c) 
+   à + (a \cdot b) \cdot c = à + (b \cdot c) 
    $$
 4. e vale anche 
    $$
-   a' + a \cdot (b \cdot c) = a' + (b \cdot c) 
+   à + a \cdot (b \cdot c) = à + (b \cdot c) 
    $$
 5. per la proprietà transitiva delle uguaglianze
 
@@ -133,13 +133,13 @@ Eseguiamo i calcoli
    a \cdot (a + c) = a
    $$ (seconda legge dell'assorbimento dimostrata prima)
 
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $$à$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
-   a' + (a \cdot b) \cdot c = a' + (b \cdot c) 
+   à + (a \cdot b) \cdot c = à + (b \cdot c) 
    $$
 4. e vale anche 
    $$
-   a' + a \cdot (b \cdot c) = a' + (b \cdot c) 
+   à + a \cdot (b \cdot c) = à + (b \cdot c) 
    $$
 5. per la proprietà transitiva delle uguaglianze
 

@@ -35,7 +35,7 @@ Per ogni teorema indicheremo anche il duale. Dimostrato il teorema non ci sarebb
   $$(a + b) + c = a + (b + c)$$
 
 - **Unicità del complemento**
-  se $$a + x = 1$$ ed $$a \cdot x = 0$$ allora $$x = a'$$
+  se $$a + x = 1$$ ed $$a \cdot x = 0$$ allora $$x = à$$
 
 - **Legge del doppio complemento**
   $$((a)')' = a$$

@@ -1,6 +1,6 @@
 Approfondimento
 
-Come nel prodotto anche nelle potenze e' molto utile pensare il monomio sempre con evidenziati gli elementi sottointesi
+Come nel prodotto anche nelle potenze è molto utile pensare il monomio sempre con evidenziati gli elementi sottointesi
 ad esempio un elevamento a potenza del tipo
 
 (-3a4b)3 =
@@ -9,17 +9,17 @@ dovresti pensarlo come
 
 = (- 3 a4b1)3 =
 
-E' importante farlo perche' in tutte le operazioni saranno sempre coinvolti il segno, il numero e le lettere ed averle evidenziate e' un buon aiuto per eseguire correttamente l'operazione
+È importante farlo perché in tutte le operazioni saranno sempre coinvolti il segno, il numero e le lettere ed averle evidenziate è un buon aiuto per eseguire correttamente l'operazione
 in questo caso devo: moltiplicare il segno meno 3 volte per se' stesso
 come regola nelle potenze
-se il segno e' piu' ottieni piu'
-se e' meno
+se il segno è più ottieni più
+se è meno
 con esponente della potenza dispari ottieni meno
-con esponente dela potenza pari ottieni piu'
+con esponente dela potenza pari ottieni più
 
 Numero moltiplicato tre volte per se' stesso 3·3·3 = 33
 prodotto degli esponenti per 3
-e' semplice fare i calcoli
+è semplice fare i calcoli
 
 = - 33 a4·3b3·3 = -27 a12b9
 
@@ -28,7 +28,7 @@ e' semplice fare i calcoli
 Elevamento a potenza di monomi
 
 
-Prima di iniziare, ricordo che un monomio e', sempre, composto di 3 parti (a volte sottointese): il segno, il coefficiente numerico e la parte letterale
+Prima di iniziare, ricordo che un monomio è, sempre, composto di 3 parti (a volte sottointese): il segno, il coefficiente numerico e la parte letterale
 per il segno occorre utilizzare le regole dei segni per il prodotto dei numeri relativi
 per il numero, se semplice da fare, calcoleremo, altrimenti seguiremo le regole delle potenze
 per la parte letterale occorre utilizzare le regole delle potenze

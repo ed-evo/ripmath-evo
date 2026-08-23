@@ -25,15 +25,15 @@ a = a + 0
 $$ (prima legge dell'identità)
 
 $$
-a + 0 = a + (a \cdot a')
+a + 0 = a + (a \cdot à)
 $$ (seconda legge del complemento)
 
 $$
-a + (a \cdot a') = (a + a) \cdot (a + a')
+a + (a \cdot à) = (a + a) \cdot (a + à)
 $$ (prima legge distributiva)
 
 $$
-(a + a) \cdot (a + a') = (a + a) \cdot 1
+(a + a) \cdot (a + à) = (a + a) \cdot 1
 $$ (prima legge del complemento)
 
 $$
@@ -61,15 +61,15 @@ a = a \cdot 1
 $$ (seconda legge dell'identità)
 
 $$
-a \cdot 1 = a \cdot (a + a')
+a \cdot 1 = a \cdot (a + à)
 $$ (prima legge del complemento)
 
 $$
-a \cdot (a + a') = (a \cdot a) + (a \cdot a')
+a \cdot (a + à) = (a \cdot a) + (a \cdot à)
 $$ (seconda legge distributiva)
 
 $$
-(a \cdot a) + (a \cdot a') = (a \cdot a) + 0
+(a \cdot a) + (a \cdot à) = (a \cdot a) + 0
 $$ (seconda legge del complemento)
 
 $$

@@ -8,7 +8,7 @@ corrisponde alla negazione fra elementi logici (not)
 $$
 \begin{array}{|c|c|}
 \hline
-a & a' \\
+a & à \\
 \hline
 \textcolor{red}{1} & \textcolor{red}{0} \\
 \textcolor{red}{0} & \textcolor{red}{1} \\
@@ -118,25 +118,25 @@ $$
 Calcolare, per quanto possibile, l'espressione
 
 $$
-a + a' \cdot (a + b) + b \cdot (a' + b) + a \cdot b' + b' \cdot (a + b') =
+a + à \cdot (a + b) + b \cdot (à + b) + a \cdot b' + b' \cdot (a + b') =
 $$
 $$
-= a + a' \cdot a + a' \cdot b + b \cdot a' + b^2 + a \cdot b' + b' \cdot a + b'^2 =
+= a + à \cdot a + à \cdot b + b \cdot à + b^2 + a \cdot b' + b' \cdot a + b'^2 =
 $$
 $$
-= a + 1 + (a' \cdot b + b \cdot a') + b + (a \cdot b' + b' \cdot a) + b' =
+= a + 1 + (à \cdot b + b \cdot à) + b + (a \cdot b' + b' \cdot a) + b' =
 $$
 $$
-= a + 1 + (a' \cdot b + a' \cdot b) + b + (a \cdot b' + a \cdot b') + b' =
+= a + 1 + (à \cdot b + à \cdot b) + b + (a \cdot b' + a \cdot b') + b' =
 $$
 $$
-= a + 1 + a' \cdot b + b + a \cdot b' + b' =
+= a + 1 + à \cdot b + b + a \cdot b' + b' =
 $$
 $$
-= a + 1 + (a' \cdot b + b) + (a \cdot b' + b') =
+= a + 1 + (à \cdot b + b) + (a \cdot b' + b') =
 $$
 $$
-= a + 1 + b \cdot (a' + 1) + b' \cdot (a' + 1) =
+= a + 1 + b \cdot (à + 1) + b' \cdot (à + 1) =
 $$
 $$
 = a + 1 + b \cdot 1 + b' \cdot 1 =

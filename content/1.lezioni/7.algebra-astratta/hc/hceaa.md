@@ -37,9 +37,9 @@ Cominciamo dal primo punto
     $$
     3 + 0 = 0 + 3 = 3
     $$
-    - ogni elemento $$a$$ di $$\mathbb{Z}$$ possiede in $$+$$ l'elemento simmetrico $$a'$$ tale che:
+    - ogni elemento $$a$$ di $$\mathbb{Z}$$ possiede in $$+$$ l'elemento simmetrico $$à$$ tale che:
     $$
-    a + a' = a' + a = 0
+    a + à = à + a = 0
     $$
     Infatti dato un numero basta considerare lo stesso numero con segno contrario; es:
     $$

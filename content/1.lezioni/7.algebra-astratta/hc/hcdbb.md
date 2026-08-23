@@ -8,53 +8,53 @@
 > **Dimostrazione:**
 >
 > Ipotesi: $$(A, \ast)$$ è un gruppo
-> Tesi: per ogni elemento $$a$$ è unico $$a'$$ tale che $$a \ast a' = n$$
+> Tesi: per ogni elemento $$a$$ è unico $$à$$ tale che $$a \ast à = n$$
 >
 > Per definizione di gruppo dato un elemento $$a$$ il simmetrico deve esistere quindi basterà dimostrare che ce n'è uno solo (è unico).
 >
-> Per assurdo supponiamo che, dato l'elemento $$a$$ esistano due elementi simmetrici $$a'$$ ed $$a''$$, allora avrò per definizione di elemento simmetrico:
+> Per assurdo supponiamo che, dato l'elemento $$a$$ esistano due elementi simmetrici $$à$$ ed $$à'$$, allora avrò per definizione di elemento simmetrico:
 >
 > 1. $$
-> \textcolor{red}{a \ast a' = a' \ast a = n}
+> \textcolor{red}{a \ast à = à \ast a = n}
 > $$
 > 2. $$
-> \textcolor{red}{a \ast a'' = a'' \ast a = n}
+> \textcolor{red}{a \ast à' = à' \ast a = n}
 > $$
 >
-> Sviluppo $$a'$$ fino ad ottenere $$a''$$:
+> Sviluppo $$à$$ fino ad ottenere $$à'$$:
 >
 > $$
-> \textcolor{red}{a' = a' \ast n =}
+> \textcolor{red}{à = à \ast n =}
 > $$
 >
-> al posto di $$n$$ metto $$(a \ast a'')$$:
+> al posto di $$n$$ metto $$(a \ast à')$$:
 >
 > $$
-> \textcolor{red}{= a' \ast (a \ast a'') =}
+> \textcolor{red}{= à \ast (a \ast à') =}
 > $$
 >
-> Uso la proprietà associativa per collegare $$a$$ con $$a'$$:
+> Uso la proprietà associativa per collegare $$a$$ con $$à$$:
 >
 > $$
-> \textcolor{red}{= (a' \ast a) \ast a'' =}
+> \textcolor{red}{= (à \ast a) \ast à' =}
 > $$
 >
-> Ma $$(a' \ast a) = n$$ quindi:
+> Ma $$(à \ast a) = n$$ quindi:
 >
 > $$
-> \textcolor{red}{= n \ast a'' =}
+> \textcolor{red}{= n \ast à' =}
 > $$
 >
 > e, per la proprietà dell'elemento neutro $$n$$:
 >
 > $$
-> \textcolor{red}{= a''}
+> \textcolor{red}{= à'}
 > $$
 >
 > Quindi leggendo il primo e l'ultimo termine dell'eguaglianza ottengo:
 >
 > $$
-> \textcolor{red}{a' = a''}
+> \textcolor{red}{à = à'}
 > $$
 >
 > Cioè se esistono due elementi simmetrici essi sono uguali, come volevamo dimostrare.

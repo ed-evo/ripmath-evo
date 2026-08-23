@@ -1,6 +1,6 @@
 # [Contro-omologia]{.text-red}
 
-È la contro-omologia $$ab' + a'b$$.
+È la contro-omologia $$ab' + àb$$.
 
 Corrisponde alla [disgiunzione esclusiva in logica](../../k/kb/kblah.html): è $$1$$ se uno dei due componenti è $$1$$, ma non entrambi.
 

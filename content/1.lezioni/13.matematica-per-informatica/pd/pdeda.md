@@ -11,27 +11,27 @@ La "molla" in mezzo fa in modo che se un circuito è chiuso l'altro è aperto e 
 In forma normale disgiuntiva completa possiamo pensarla come:
 
 $$
-1 = a'b' + a'b + ab' + ab
+1 = àb' + àb + ab' + ab
 $$
 
 Per esercizio dimostriamolo algebricamente:
 
 $$
-1 = 1 \cdot (a + a') =
+1 = 1 \cdot (a + à) =
 $$
-> **Nota:** Moltiplico per $$(a + a') = 1$$ per la prima legge del complemento.
+> **Nota:** Moltiplico per $$(a + à) = 1$$ per la prima legge del complemento.
 
 $$
-= a + a' = (a + a')(b + b') =
+= a + à = (a + à)(b + b') =
 $$
 > **Nota:** Moltiplico per $$(b + b') = 1$$ per la prima legge del complemento.
 
 $$
-= ab + ab' + a'b + a'b'
+= ab + ab' + àb + àb'
 $$
 
 Ed ordinando otteniamo, come avevamo già visto nella pagina della tabella:
 
 $$
-1 = a'b' + a'b + ab' + ab
+1 = àb' + àb + ab' + ab
 $$

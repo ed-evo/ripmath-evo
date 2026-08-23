@@ -24,7 +24,7 @@ In pratica si tratta di modificare l'ultima riga in modo da avere il "riporto" n
 
 Basterà quindi modificare leggermente il circuito di tale porta per avere il risultato cercato.
 
-La porta **xor** è caratterizzata dalla forma normale disgiuntiva completa $$ab' + a'b$$, cioè dal circuito logico (dove i fili si incrociano non c'è contatto ma vi sono dei ponti).
+La porta **xor** è caratterizzata dalla forma normale disgiuntiva completa $$ab' + àb$$, cioè dal circuito logico (dove i fili si incrociano non c'è contatto ma vi sono dei ponti).
 
 Aggiungiamo il "riporto" nel seguente modo ed otteniamo il circuito desiderato.
 

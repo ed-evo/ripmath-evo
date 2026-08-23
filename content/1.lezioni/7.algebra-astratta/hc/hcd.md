@@ -16,9 +16,9 @@ $$
 $$
 \textcolor{red}{a \otimes n = n \otimes a = a}
 $$
-4. ogni elemento $$a$$ possiede in $$\otimes$$ l'elemento simmetrico $$a'$$ tale che:
+4. ogni elemento $$a$$ possiede in $$\otimes$$ l'elemento simmetrico $$à$$ tale che:
 $$
-\textcolor{red}{a \otimes a' = a' \otimes a = n}
+\textcolor{red}{a \otimes à = à \otimes a = n}
 $$
 
 Se il gruppo gode della proprietà commutativa allora il gruppo si dice **commutativo** o **abeliano**.

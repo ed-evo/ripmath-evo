@@ -8,7 +8,7 @@ Nella seguente tabella elenco le $$16$$ possibilità; chiamo:
 - $$\text{a}$$ primo filo
 - $$\text{b}$$ secondo filo
 
-| $$\text{a}$$ | $$\text{b}$$ | $$\text{T}$$ | $$a+b$$ | $$a+b'$$ | $$a'+b$$ | $$(a \cdot b)'$$ | $$\text{a}$$ | $$\text{b}$$ | $$(a \cdot b') + (a' \cdot b)$$ | $$(a \cdot b) + (a' \cdot b')$$ | $$b'$$ | $$a'$$ | $$a \cdot b$$ | $$a \cdot b'$$ | $$a' \cdot b$$ | $$(a+b)'$$ | $$\text{C}$$ |
+| $$\text{a}$$ | $$\text{b}$$ | $$\text{T}$$ | $$a+b$$ | $$a+b'$$ | $$à+b$$ | $$(a \cdot b)'$$ | $$\text{a}$$ | $$\text{b}$$ | $$(a \cdot b') + (à \cdot b)$$ | $$(a \cdot b) + (à \cdot b')$$ | $$b'$$ | $$à$$ | $$a \cdot b$$ | $$a \cdot b'$$ | $$à \cdot b$$ | $$(a+b)'$$ | $$\text{C}$$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | $$0$$ | $$0$$ | $$1$$ | $$0$$ | $$1$$ | $$1$$ | $$1$$ | $$0$$ | $$0$$ | $$0$$ | $$1$$ | $$1$$ | $$1$$ | $$0$$ | $$0$$ | $$0$$ | $$1$$ | $$0$$ |
 | $$0$$ | $$1$$ | $$1$$ | $$1$$ | $$0$$ | $$1$$ | $$1$$ | $$0$$ | $$1$$ | $$1$$ | $$0$$ | $$0$$ | $$1$$ | $$0$$ | $$0$$ | $$1$$ | $$0$$ | $$0$$ |
@@ -17,22 +17,22 @@ Nella seguente tabella elenco le $$16$$ possibilità; chiamo:
 
 Se fermi il mouse sulle colonne in basso della tabella potrai leggere il nome del circuito presente in quella colonna.
 
-Da notare che applicando le leggi di dualità è possibile dare più "etichette" ad una stessa colonna: alcune "etichette" sono in forma normale disgiuntiva completa, tipo ad esempio $$(a \cdot b') + (a' \cdot b)$$, altre no, ad esempio $$(a+b)'$$ non è in forma disgiuntiva completa.
+Da notare che applicando le leggi di dualità è possibile dare più "etichette" ad una stessa colonna: alcune "etichette" sono in forma normale disgiuntiva completa, tipo ad esempio $$(a \cdot b') + (à \cdot b)$$, altre no, ad esempio $$(a+b)'$$ non è in forma disgiuntiva completa.
 
 > ### [Importante!]{.text-red}
 >
 > Osserva nelle prime due colonne $$\text{a}$$ e $$\text{b}$$ e considera gli $$1$$ come variabili e gli $$0$$ come i loro complementari; allora hai che in ogni colonna ottieni la porta scritta nella forma normale disgiuntiva:
 >
 > Infatti in ogni colonna:
-> - il primo termine corrisponderà ad $$a'b'$$ ($$a=0, b=0$$)
-> - il secondo termine corrisponderà ad $$a'b$$ ($$a=0, b=1$$)
+> - il primo termine corrisponderà ad $$àb'$$ ($$a=0, b=0$$)
+> - il secondo termine corrisponderà ad $$àb$$ ($$a=0, b=1$$)
 > - il terzo termine corrisponderà ad $$ab'$$ ($$a=1, b=0$$)
 > - il quarto termine corrisponderà ad $$ab$$ ($$a=1, b=1$$)
 >
 > Infatti:
-> - nella tautologia hai $$1, 1, 1, 1$$ che puoi tradurre come $$a'b' + a'b + ab' + ab$$
-> - nella somma $$a+b$$ hai $$0, 1, 1, 1$$ che puoi tradurre come $$a'b + ab' + ab$$
-> - nell'implicazione diretta $$a+b'$$ hai $$1, 0, 1, 1$$ che puoi tradurre come $$a'b' + ab' + ab$$
+> - nella tautologia hai $$1, 1, 1, 1$$ che puoi tradurre come $$àb' + àb + ab' + ab$$
+> - nella somma $$a+b$$ hai $$0, 1, 1, 1$$ che puoi tradurre come $$àb + ab' + ab$$
+> - nell'implicazione diretta $$a+b'$$ hai $$1, 0, 1, 1$$ che puoi tradurre come $$àb' + ab' + ab$$
 >
 > la contraddizione (ultima colonna) non ha rappresentazione.
 >

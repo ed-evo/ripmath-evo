@@ -5,13 +5,13 @@ Se consideriamo due parabole qualunque della famiglia e ne facciamo l'intersezio
 Teoricamente, per trovare i punti base di una famiglia di parabole partiamo dall'equazione: dividiamo i termini contenenti la $$k$$ da quelli senza $$k$$ e scriviamo:
 
 $$
-y = a'x^2 + b'x + c' + k(a''x^2 + b''x + c'')
+y = àx^2 + b'x + c' + k(à'x^2 + b''x + c'')
 $$
 
 Consideriamo il polinomio che è moltiplicato per $$k$$ e poniamolo uguale a zero:
 
 $$
-a''x^2 + b''x + c'' = 0
+à'x^2 + b''x + c'' = 0
 $$
 
 Otteniamo un'equazione di secondo grado le cui soluzioni sono le ascisse dei punti base del fascio e, sostituendo tali valori nell'equazione della famiglia, troviamo le ordinate corrispondenti.

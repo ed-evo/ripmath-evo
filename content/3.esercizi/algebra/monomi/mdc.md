@@ -1,9 +1,9 @@
 Massimo Comun Divisore
 
 
-Regola: il M.C.D. e' il prodotto dei fattori comuni presi una sola volta con l'esponente piu' piccolo
-Quindi, per calcolare il M.C.D. prima dovrai scomporre i coefficienti numerici in fattori (la parte letterale e' gia' scomposta) ed applicare poi la regola
-Per rendere piu' semplice il trovare i fattori cercati conviene mettere in colonna i vari fattori e nella colonna cercare quello ad esponente piu' piccolo, se c'e', altrimenti, se il fattore manca si considera 1, ed essendo una moltiplicazione, si sottointende   se vuoi approfondire
+Regola: il M.C.D. è il prodotto dei fattori comuni presi una sola volta con l'esponente più piccolo
+Quindi, per calcolare il M.C.D. prima dovrai scomporre i coefficienti numerici in fattori (la parte letterale è già scomposta) ed applicare poi la regola
+Per rendere più semplice il trovare i fattori cercati conviene mettere in colonna i vari fattori e nella colonna cercare quello ad esponente più piccolo, se c'è, altrimenti, se il fattore manca si considera 1, ed essendo una moltiplicazione, si sottointende   se vuoi approfondire
 
 Calcolare il Massimo Comun Divisore dei seguenti gruppi di monomi
 1       6 a2 b     4 a b2	                    	Soluzione
