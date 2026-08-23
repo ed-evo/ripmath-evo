@@ -8,12 +8,12 @@ import (
 )
 
 type Config struct {
-	GeminiApiKey string `env:"GEMINI_API_KEY"`
-	GeminiModel  string `env:"GEMINI_MODEL"`
+	GeminiApiKey   string `env:"GEMINI_API_KEY"`
+	GeminiModel    string `env:"GEMINI_MODEL"`
 	ScreenshotsZip string `env:"TOMD_SCREENSHOTS_ZIP"`
-	MateZip string `env:"TOMD_MATE_ZIP"`
-	OutputDir string `env:"TOMD_OUTPUT_DIR"`
-	LogFile string `env:"TOMD_LOG_FILE"`
+	MateZip        string `env:"TOMD_MATE_ZIP"`
+	OutputDir      string `env:"TOMD_OUTPUT_DIR"`
+	LogFile        string `env:"TOMD_LOG_FILE"`
 }
 
 var (

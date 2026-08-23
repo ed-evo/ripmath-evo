@@ -6,12 +6,12 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"os"
 	"os/signal"
 	"syscall"
 
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/ai"
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/config"
+	"github.com/ed-evo/ripmath-evo/markdownify/internal/logger"
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/resources"
 	"google.golang.org/genai"
 )
@@ -19,30 +19,29 @@ import (
 //go:embed system.prompt
 var systemPrompt string
 
-func main() {
+var l = logger.Get()
 
+func main() {
+	l.Info("ToMd Started")
 	resourcePtr := flag.String("resource", "", "Resource to process. Path without ext")
 	flag.Parse()
 
 	if err := run(resourcePtr); err != nil {
+		l.Error(fmt.Sprintf("Execcution error: %v", err))
 		log.Fatalf("Execution error: %v", err)
 	}
 }
 
 func run(r *string) error {
+	l.Info("Start processing")
 	cfg := config.Get()
-
-	logFile, err := os.OpenFile(cfg.LogFile, os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
-	if err != nil {
-		return fmt.Errorf("Error opening logfile, %w", err)
-	}
-	defer logFile.Close()
-	log.SetOutput(logFile)
-	log.Print("Start To-Md")
 	defer log.Print("Stop To-Md")
 
 	ctx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
 	defer stop()
+	defer func() {
+		l.Info("Stop Processing")
+	}()
 
 	client, err := genai.NewClient(ctx, &genai.ClientConfig{
 		APIKey:  cfg.GeminiApiKey,
@@ -54,15 +53,15 @@ func run(r *string) error {
 	var resList []*resources.Resource
 	if r != nil && *r != "" {
 		resList = []*resources.Resource{
-			&resources.Resource{
+			{
 				Name: *r,
 				Html: *r + ".html",
-				Png: *r + ".png",
+				Png:  *r + ".png",
 			},
 		}
 	} else {
 		resList, err = resources.ListHtml(ctx, *cfg)
-	
+
 		if err != nil {
 			return fmt.Errorf("Error reading resources: %w", err)
 		}
