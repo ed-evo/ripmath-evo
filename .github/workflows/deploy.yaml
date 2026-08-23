@@ -23,7 +23,10 @@ jobs:
           cache: true
       # Pick your own package manager and build script
       - run: pnpm install --frozen-lockfile
-      - run: npx nuxt build --preset github_pages
+      - name: build pages
+        run: npx nuxt build --preset github_pages
+        env:
+          NODE_OPTIONS: "--max-old-space-size=6144 --trace-gc"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@main
         with:

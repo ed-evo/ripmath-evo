@@ -43,7 +43,12 @@ export default defineNuxtConfig({
       filename: ':memory:'
     }
   },
-
+  nitro: {
+    prerender: {
+      concurrency: 10,
+      interval: 0
+    }
+  },
   vite: {
     plugins: [
       // @ts-expect-error
