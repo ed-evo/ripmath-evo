@@ -1,4 +1,4 @@
-# [Tronco di cono]{.text-red}
+# Tronco di cono
 
 - Definizione
 - Area della superficie

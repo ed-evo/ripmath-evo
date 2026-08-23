@@ -1,4 +1,4 @@
-# [Primo termine positivo]{.text-red}
+# Primo termine positivo
 
 Se il primo termine è positivo, ricordando che la ragione, essendo un rapporto, non può essere nulla, consideriamo i seguenti casi:
 

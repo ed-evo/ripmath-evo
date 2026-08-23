@@ -1,4 +1,4 @@
-# [Poligoni]{.text-red}
+# Poligoni
 
 Abbiamo studiato le figure con $$3$$ lati, possiamo passare a quelle con $$4, 5, 6 \dots$$ lati, cioè ai poligoni
 

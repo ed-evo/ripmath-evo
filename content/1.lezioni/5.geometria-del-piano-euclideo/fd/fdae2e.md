@@ -1,4 +1,4 @@
-## [Scriviamo lo stesso procedimento a rovescio (partiamo dall'ipotesi ed arriviamo alla tesi)]{.text-red}
+## Scriviamo lo stesso procedimento a rovescio (partiamo dall'ipotesi ed arriviamo alla tesi)
 
 Ora facciamo il ragionamento contrario del punto precedente: cioè partiamo dalle ipotesi ed arriviamo alla tesi.
 

@@ -1,4 +1,4 @@
-# [Grafico della funzione coseno]{.text-red}
+# Grafico della funzione coseno
 
 Per disegnare la funzione $$\textcolor{red}{y = \cos x}$$ occorre sull'asse delle x usare i multipli e i sottomultipli di $$\pi$$, ricordando che $$\pi = 3,14$$ unità del piano. La funzione ha le seguenti caratteristiche:
 

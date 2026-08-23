@@ -1,4 +1,4 @@
-# [Approssimazione (cenni)]{.text-red}
+# Approssimazione (cenni)
 
 Come ho già detto considereremo, se non esplicitamente esposto, $$7$$ cifre decimali che ci possono dare una discreta approssimazione, anche se, oggi come oggi, mediante l'uso dei computer, possiamo utilizzare quante cifre decimali vogliamo.
 

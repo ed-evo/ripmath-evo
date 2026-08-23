@@ -1,4 +1,4 @@
-# [Proiezione di una retta su un piano]{.text-red}
+# Proiezione di una retta su un piano
 
 Consideriamo un piano $$\alpha$$ ed una retta $$r$$ non giacente sul piano ma che lo intersechi nel punto $$P$$.
 

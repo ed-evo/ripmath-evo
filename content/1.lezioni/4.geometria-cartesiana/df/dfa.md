@@ -1,4 +1,4 @@
-# [Definizione di iperbole]{.text-red}
+# Definizione di iperbole
 
 > L'ellisse si otteneva come somma; l'iperbole si ottiene come differenza
 

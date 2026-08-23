@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 [Data la parabola $$y = -x^2 + 6x$$ indicate con $$O$$ ed $$A$$ le intersezioni fra la parabola e l'asse delle $$x$$, indicata poi con $$B$$ l'ulteriore intersezione fra la retta $$y = kx$$ e la parabola determinare il valore di $$k$$ perché l'area del triangolo $$OAB$$ abbia valore $$15$$ unità quadrate del piano.]{.text-blue}
 

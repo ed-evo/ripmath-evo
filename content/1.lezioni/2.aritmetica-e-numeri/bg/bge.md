@@ -1,4 +1,4 @@
-# [Divisione]{.text-red}
+# Divisione
 
 > Sulla divisione, mentalmente, non riesco a fare moltissimo, comunque qualcosa si riesce a fare
 

@@ -1,4 +1,4 @@
-# [Classe di grandezze]{.text-red}
+# Classe di grandezze
 
 Potremo sviluppare la teoria della misura all'interno di una classe di grandezze
 

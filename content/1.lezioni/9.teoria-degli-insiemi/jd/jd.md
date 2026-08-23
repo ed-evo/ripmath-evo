@@ -1,4 +1,4 @@
-# [Applicazioni o funzioni]{.text-red}
+# Applicazioni o funzioni
 
 Veniamo ora a definire mediante gli insiemi uno dei concetti più importanti della matematica: il concetto di applicazione o funzione:
 

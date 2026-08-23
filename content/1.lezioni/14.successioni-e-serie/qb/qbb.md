@@ -1,4 +1,4 @@
-# [Progressioni geometriche]{.text-red}
+# Progressioni geometriche
 
 - definizione
 - ricerca di un termine qualunque

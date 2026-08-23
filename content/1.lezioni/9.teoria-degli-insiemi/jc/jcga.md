@@ -1,4 +1,4 @@
-# [Insieme quoziente]{.text-red}
+# Insieme quoziente
 
 La relazione di equivalenza è importantissima perché se riusciamo ad individuarla su un insieme l'insieme stesso viene suddiviso in sottoinsiemi (chiamati anche classi) tali che formano una [partizione](../jb/jbh.html) dell'insieme di partenza, cioè gli elementi di un nuovo insieme, l'**insieme quoziente**.
 

@@ -1,4 +1,4 @@
-# [criterio di convergenza di Cauchy]{.text-red}
+# criterio di convergenza di Cauchy
 
 Vediamo infine, come ultimo argomento (per ora) sulle successioni, un criterio, cioè una scorciatoia, che ci permetta senza dover fare tutti i calcoli, di vedere se una successione è convergente o divergente.
 

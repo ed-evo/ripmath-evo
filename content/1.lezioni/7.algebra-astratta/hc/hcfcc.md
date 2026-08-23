@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Verificare la presenza delle strutture di corpo e di campo sull'insieme $$\mathbf{r_2}$$ dei resti modulo 2 con le operazioni di addizione e moltiplicazione.
 

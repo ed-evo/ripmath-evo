@@ -1,4 +1,4 @@
-# [Criterio del confronto]{.text-red}
+# Criterio del confronto
 
 Prima di introdurre il criterio del confronto fra serie a termini tutti positivi o tutti negativi parliamo di maggiorante e di minorante di una serie numerica.
 

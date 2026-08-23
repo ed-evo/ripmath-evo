@@ -1,4 +1,4 @@
-# [Calcolo di i]{.text-red}
+# Calcolo di i
 
 Partiamo sempre dalla formula della capitalizzazione composta
 

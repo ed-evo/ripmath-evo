@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{red}{y = 7xe^x \log x}

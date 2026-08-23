@@ -1,4 +1,4 @@
-# [Perpendicolarità fra rette e piano]{.text-red}
+# Perpendicolarità fra rette e piano
 
 > Cerchiamo di estendere allo spazio le nozioni già viste nel piano, precisamente cerchiamo di estendere allo spazio la nozione di perpendicolarità già vista nel piano.
 

@@ -1,4 +1,4 @@
-# [Utilità dei logaritmi]{.text-red}
+# Utilità dei logaritmi
 
 Quando Nepero inventò i logaritmi i matematici contemporanei dissero che era stata loro regalata la metà della vita: infatti l'occupazione principale dei matematici e soprattutto di quelli che si occupavano di astronomia ed astrologia (cioè di quasi tutti) era quella di calcolare la posizione dei pianeti, nel presente, nel passato e nel futuro e l'espressione "calcoli astronomici" non era certo un modo di dire.
 

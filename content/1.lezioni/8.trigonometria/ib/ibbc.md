@@ -1,4 +1,4 @@
-# [Funzione tangente]{.text-red}
+# Funzione tangente
 
 - Definizione
 - Valori di $$\text{tg } \alpha$$

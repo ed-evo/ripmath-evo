@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un triangolo rettangolo un cateto è uguale ai $$3/4$$ dell'altro. Sapendo che la somma dei cateti è $$21\text{ m}$$, determinare l'area del triangolo.]{.text-blue}
 

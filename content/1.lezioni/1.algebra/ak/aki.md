@@ -1,4 +1,4 @@
-# [Disequazioni irrazionali ad indice pari]{.text-red}
+# Disequazioni irrazionali ad indice pari
 
 > In prima stesura consideriamo solamente radici quadrate
 

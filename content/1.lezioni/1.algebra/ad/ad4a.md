@@ -1,4 +1,4 @@
-# [PRODOTTO FRA UN MONOMIO ED UN POLINOMIO]{.text-red}
+# PRODOTTO FRA UN MONOMIO ED UN POLINOMIO
 
 Per moltiplicare un monomio per un polinomio occorre ricordare il significato di [parentesi](parentes.html): tutti i termini interni hanno lo stesso diritto rispetto all'operazione esterna; quindi basterà moltiplicare il monomio esterno per ogni termine del polinomio.
 

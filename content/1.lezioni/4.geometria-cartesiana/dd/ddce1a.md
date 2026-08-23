@@ -1,4 +1,4 @@
-# [Rappresentazione grafica]{.text-red}
+# Rappresentazione grafica
 
 Traccio la retta:
 $$

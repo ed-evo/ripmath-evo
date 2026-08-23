@@ -1,4 +1,4 @@
-# [Formula di duplicazione per il seno]{.text-red}
+# Formula di duplicazione per il seno
 
 Partiamo dalla formula
 

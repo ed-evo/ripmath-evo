@@ -1,4 +1,4 @@
-# [Probabilità classica]{.text-red}
+# Probabilità classica
 
 Anche qui, come negli altri tipi di probabilità, introdurremo solo i concetti essenziali tipici della teoria rimandando ad una trattazione generale nella probabilità assiomatica.
 

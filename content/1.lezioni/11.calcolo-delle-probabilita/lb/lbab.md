@@ -1,4 +1,4 @@
-# [Fattoriale di un numero]{.text-red}
+# Fattoriale di un numero
 
 Abbiamo bisogno di scrivere in modo più compatto un insieme di prodotti del tipo
 

@@ -1,4 +1,4 @@
-# [Funzione composta]{.text-red}
+# Funzione composta
 
 Dai un'occhiata alle [applicazioni composte](../../j/jd/jdh.html) a Teoria degli insiemi.
 

@@ -1,4 +1,4 @@
-# [Equazioni letterali]{.text-red}
+# Equazioni letterali
 
 Un'equazione si dice letterale quando oltre ai numeri ed alle incognite vi compaiono anche delle lettere.
 

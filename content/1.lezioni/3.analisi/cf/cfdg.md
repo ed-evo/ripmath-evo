@@ -1,4 +1,4 @@
-# [Applicazione alle forme indeterminate (regola di De L'Hôpital)]{.text-red}
+# Applicazione alle forme indeterminate (regola di De L'Hôpital)
 
 Questa regola è molto utile e si può applicare a tutte le forme indeterminate del tipo $$0/0$$ ed $$\infty/\infty$$.
 

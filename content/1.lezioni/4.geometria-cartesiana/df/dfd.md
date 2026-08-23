@@ -1,4 +1,4 @@
-# [Iperbole equilatera]{.text-red}
+# Iperbole equilatera
 
 Consideriamo un'iperbole in cui siano uguali i valori $$\textcolor{blue}{a}$$ e $$\textcolor{blue}{b}$$, cioè
 

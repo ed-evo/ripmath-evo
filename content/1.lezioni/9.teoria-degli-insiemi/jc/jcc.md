@@ -1,4 +1,4 @@
-# [Relazione riflessiva]{.text-red}
+# Relazione riflessiva
 
 Definiamo ora le relazioni principali sia dal punto di vista della definizione come sottoinsieme del prodotto cartesiano che con la definizione (più usata) riferita agli elementi dell'insieme.
 

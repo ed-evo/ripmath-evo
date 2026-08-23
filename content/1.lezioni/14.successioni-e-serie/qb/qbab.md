@@ -1,4 +1,4 @@
-# [Ricerca di un termine qualunque della progressione aritmetica]{.text-red}
+# Ricerca di un termine qualunque della progressione aritmetica
 
 Siccome la differenza fra ogni termine e l'antecedente resta costante, conoscendo il primo termine e la ragione possiamo trovare un termine qualunque della progressione.
 

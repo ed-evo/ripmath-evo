@@ -1,4 +1,4 @@
-# [Trovare l'equazione della parabola date 3 condizioni]{.text-red}
+# Trovare l'equazione della parabola date 3 condizioni
 
 Facciamo alcuni esercizi sulla determinazione della parabola date 3 condizioni:
 

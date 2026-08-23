@@ -1,4 +1,4 @@
-# [Passaggio per un punto]{.text-red}
+# Passaggio per un punto
 
 Imporre la condizione di passaggio per un punto significa prendere l'equazione della circonferenza
 

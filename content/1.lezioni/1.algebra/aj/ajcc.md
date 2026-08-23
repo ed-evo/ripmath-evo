@@ -1,4 +1,4 @@
-# [Proprietà dei determinanti]{.text-red}
+# Proprietà dei determinanti
 
 Vediamo le principali:
 

@@ -1,4 +1,4 @@
-# [Disequazioni di secondo grado]{.text-red}
+# Disequazioni di secondo grado
 
 Come hai visto per alcune disequazioni di secondo grado potremmo usare la scomposizione in fattori di primo grado, però vi sono delle equazioni che non sono scomponibili.
 

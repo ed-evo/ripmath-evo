@@ -1,4 +1,4 @@
-# [Dimostrazione di un teorema]{.text-red}
+# Dimostrazione di un teorema
 
 Vediamo ora di affrontare in modo "logico" come si dimostra un teorema
 

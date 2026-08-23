@@ -1,1 +1,1 @@
-# [Esercizio]{.text-red}
+# Esercizio

@@ -1,4 +1,4 @@
-# [traslazione di coordinate]{.text-red}
+# traslazione di coordinate
 
 Consideriamo in nero un sistema di coordinate in cui il punto $$P$$ abbia coordinate (che chiameremo vecchie coordinate)
 $$

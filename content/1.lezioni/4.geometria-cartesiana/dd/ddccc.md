@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \textcolor{blue}{x_o^2 + y_o^2 - r^2 = c}

@@ -1,4 +1,4 @@
-# [Numeri in forma polinomiale]{.text-red}
+# Numeri in forma polinomiale
 
 In questa pagina vediamo come, matematicamente, partendo da un numero come siamo abituati a trattarlo (forma decimale) è possibile trasformarlo in forma polinomiale
 

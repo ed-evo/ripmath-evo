@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 Data l'equazione
 $$

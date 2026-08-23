@@ -1,4 +1,4 @@
-# [Grafico della funzione logaritmo]{.text-red}
+# Grafico della funzione logaritmo
 
 Vediamo adesso il grafico della funzione
 

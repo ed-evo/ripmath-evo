@@ -1,4 +1,4 @@
-# [Applicazione al quoziente fra numeri razionali]{.text-red}
+# Applicazione al quoziente fra numeri razionali
 
 Veramente questo potremmo saltarlo, perché basta applicare la regola e trasformiamo il quoziente in un prodotto: facciamolo comunque, ci servirà come esercizio per eseguire il [quoziente fra numeri razionali](bcf.html), prima devi trasformare in prodotto (prima frazione moltiplicata per l'inverso della seconda), poi, se le frazioni hanno termini complicati, conviene semplificare, utilizzando i criteri di scomposizione, il primo numeratore per il secondo denominatore ed il primo denominatore per il secondo numeratore e moltiplicare successivamente le frazioni risultanti.
 

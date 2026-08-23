@@ -1,4 +1,4 @@
-# [Sillogismo ipotetico]{.text-red}
+# Sillogismo ipotetico
 
 ---
 

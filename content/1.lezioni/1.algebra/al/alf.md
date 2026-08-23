@@ -1,4 +1,4 @@
-# [Possibili basi per i logaritmi]{.text-red}
+# Possibili basi per i logaritmi
 
 Se prendiamo la definizione di logaritmo
 

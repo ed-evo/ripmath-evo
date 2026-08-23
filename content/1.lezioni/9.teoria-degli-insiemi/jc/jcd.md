@@ -1,4 +1,4 @@
-# [Relazione simmetrica]{.text-red}
+# Relazione simmetrica
 
 - Diciamo che una relazione $$\textcolor{red}{R}$$ è **simmetrica** se come sottoinsieme del prodotto cartesiano $$\textcolor{red}{A \times A}$$ è formata da un insieme simmetrico rispetto alla diagonale principale.
 

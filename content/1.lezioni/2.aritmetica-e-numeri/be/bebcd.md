@@ -1,4 +1,4 @@
-# [Quoziente di numeri complessi in forma trigonometrica]{.text-red}
+# Quoziente di numeri complessi in forma trigonometrica
 
 > La regola che vale per il prodotto varrà analogamente per il quoziente (ricorda che una salita vista dall'altra parte è una discesa)
 

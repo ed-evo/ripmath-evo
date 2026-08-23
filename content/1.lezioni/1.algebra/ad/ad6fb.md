@@ -1,6 +1,6 @@
 # Raggruppamenti possibili per polinomi a cinque termini
 
-## [Alcuni raggruppamenti possibili per polinomi a cinque termini]{.text-red}
+## Alcuni raggruppamenti possibili per polinomi a cinque termini
 
 Qui abbiamo vari casi e bisogna decidere volta per volta cosa fare:
 

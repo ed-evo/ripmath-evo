@@ -1,4 +1,4 @@
-# [Conica degenere]{.text-red}
+# Conica degenere
 
 È l'intersezione fra un cono matematico ed un piano passante per il vertice e la circonferenza di base: otteniamo una coppia di rette.
 

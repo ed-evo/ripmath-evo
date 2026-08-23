@@ -1,4 +1,4 @@
-# [perché scrivo così]{.text-red}
+# perché scrivo così
 
 In pratica non faccio altro che "leggere" la formula
 

@@ -1,4 +1,4 @@
-# [esercizi sulla tangenza ad una parabola]{.text-red}
+# esercizi sulla tangenza ad una parabola
 
 Vediamo quali sono i principali tipi di esercizi sul concetto di tangenza
 

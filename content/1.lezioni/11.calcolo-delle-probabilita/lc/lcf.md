@@ -1,4 +1,4 @@
-# [Probabilità soggettiva]{.text-red}
+# Probabilità soggettiva
 
 - [Introduzione](lcfa.html)
 - [Definizione](lcfb.html)

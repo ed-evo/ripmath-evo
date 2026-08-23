@@ -1,4 +1,4 @@
-# [Secondo teorema di Euclide]{.text-red}
+# Secondo teorema di Euclide
 
 **In ogni triangolo rettangolo il quadrato costruito sull'altezza relativa all'ipotenusa è equivalente al rettangolo che ha per lati le proiezioni dei cateti sull'ipotenusa**
 

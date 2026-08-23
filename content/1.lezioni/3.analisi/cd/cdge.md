@@ -1,4 +1,4 @@
-# [Forme indeterminate del tipo $$1^{\infty}$$ e $$\infty^0$$]{.text-red}
+# Forme indeterminate del tipo $$1^{\infty}$$ e $$\infty^0$$
 
 È piuttosto raro che capiti di calcolare forme di questo genere (ho visto farlo solo in un liceo scientifico), però per risolverle basta ricordare che il logaritmo è funzione inversa dell'esponenziale e che valgono le seguenti uguaglianze (indico con $$\log x$$ il logaritmo naturale di $$x$$):
 

@@ -1,4 +1,4 @@
-# [Differenza fra numeri binari]{.text-red}
+# Differenza fra numeri binari
 
 Per eseguire le operazioni di differenza seguiremo queste regole:
 

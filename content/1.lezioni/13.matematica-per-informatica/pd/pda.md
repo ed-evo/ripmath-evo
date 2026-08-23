@@ -1,4 +1,4 @@
-# [Interruttori]{.text-red}
+# Interruttori
 
 - [il problema](pdaa.html)
 - [il circuito apri-chiudi](pdab.html)

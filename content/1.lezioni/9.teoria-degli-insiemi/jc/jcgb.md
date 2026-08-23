@@ -1,4 +1,4 @@
-# [Generazione dell'insieme $$N$$]{.text-red}
+# Generazione dell'insieme $$N$$
 
 Utilizzando la relazione di equivalenza è possibile generare logicamente, mediante gli insiemi, l'insieme [$$N$$]{.text-red} dei Numeri Naturali:
 

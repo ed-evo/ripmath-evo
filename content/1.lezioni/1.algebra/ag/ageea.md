@@ -1,4 +1,4 @@
-# [Esercizio su disequazione più complessa]{.text-red}
+# Esercizio su disequazione più complessa
 
 Risolviamo la disequazione:
 

@@ -1,4 +1,4 @@
-# [Determinazione dei punti di flesso obliquo]{.text-red}
+# Determinazione dei punti di flesso obliquo
 
 > Veramente con questo metodo troviamo sia i flessi obliqui che quelli orizzontali: poiché nei punti di flesso la tangente attraversa la curva, la curva stessa dovrà a destra ed a sinistra del punto avere una concavità di tipo diverso, quindi la determinazione del flesso è legata alla [determinazione della concavità della curva](cgfa.html).
 

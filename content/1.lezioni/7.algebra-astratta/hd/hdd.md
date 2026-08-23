@@ -1,4 +1,4 @@
-# [Omomorfismo]{.text-red}
+# Omomorfismo
 
 L'omomorfismo è un caso speciale di morfismo: si ha quando l'operazione si conserva:
 cioè le due strutture

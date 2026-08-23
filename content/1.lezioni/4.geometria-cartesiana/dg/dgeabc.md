@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la parabola $$y = x^2$$, trovare le equazioni della sua tangente parallela alla retta $$y = 2x$$.
 

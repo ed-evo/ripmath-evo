@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 > **Avvertenza:** in questi esercizi i risultati saranno dei numeri naturali perché così ho predisposto gli esercizi; nei problemi reali di solito troverai il risultato sotto radice, quindi sarebbe utile un ripasso dei [radicali](../../a/ak/ak.html).
 

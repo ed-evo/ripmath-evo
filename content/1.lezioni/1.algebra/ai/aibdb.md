@@ -1,4 +1,4 @@
-# [Sistema di $$k$$ equazioni in $$n$$ incognite]{.text-red}
+# Sistema di $$k$$ equazioni in $$n$$ incognite
 
 $$
 \textcolor{red}{k = n}

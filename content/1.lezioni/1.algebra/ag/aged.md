@@ -1,4 +1,4 @@
-# [Applicazioni a disequazioni quoziente di espressioni di primo e secondo grado]{.text-red}
+# Applicazioni a disequazioni quoziente di espressioni di primo e secondo grado
 
 Siccome il quoziente si comporta, per i segni, come il prodotto quando hai un quoziente devi pensare che ogni quoziente è equivalente a più sistemi di disequazioni.
 

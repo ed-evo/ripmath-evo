@@ -1,4 +1,4 @@
-# [Angolo di 18 gradi ($$\frac{\pi}{10}$$)]{.text-red}
+# Angolo di 18 gradi ($$\frac{\pi}{10}$$)
 
 Consideriamo l'angolo di $$18$$ gradi: se lo ribalto attorno all'asse delle $$x$$ ottengo un angolo di $$36$$ gradi, cioè un decimo dell'angolo giro, allora la corda dell'arco è il lato del decagono regolare.
 

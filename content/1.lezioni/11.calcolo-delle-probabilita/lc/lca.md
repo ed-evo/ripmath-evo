@@ -1,4 +1,4 @@
-# [Introduzione; il concetto di evento]{.text-red}
+# Introduzione; il concetto di evento
 
 Introduciamo il concetto di evento:
 

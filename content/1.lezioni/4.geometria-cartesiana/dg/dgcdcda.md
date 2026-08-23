@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Disegnare le possibili intersezioni fra un'iperbole in forma canonica e una parabola con asse verticale.
 

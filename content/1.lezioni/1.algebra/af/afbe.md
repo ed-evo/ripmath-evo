@@ -1,4 +1,4 @@
-# [Equazione possibile, impossibile ed indeterminata]{.text-red}
+# Equazione possibile, impossibile ed indeterminata
 
 Come in tutti i linguaggi anche nel linguaggio della matematica posso dire frasi vere, posso dire bugie e posso dire cose inutili: questo si riflette sulle equazioni relative a quelle frasi che potranno essere possibili, impossibili od indeterminate.
 

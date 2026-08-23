@@ -1,4 +1,4 @@
-# [Proposizione controinversa]{.text-red}
+# Proposizione controinversa
 
 Chiameremo **proposizione controinversa** la proposizione ottenuta prendendo le negazioni dell'ipotesi e della tesi e scambiandone le posizioni:
 

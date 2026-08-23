@@ -1,4 +1,4 @@
-# [Tre radici più un'espressione senza radici]{.text-red}
+# Tre radici più un'espressione senza radici
 
 Lasceremo una radice ed il termine senza radice da una parte e porteremo le altre due radici dall'altra parte facendo in modo, per semplicità, di spostare le radici dove hanno il segno positivo (se possibile).
 

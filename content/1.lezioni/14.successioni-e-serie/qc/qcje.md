@@ -1,4 +1,4 @@
-# [Teorema della maggiorante]{.text-red}
+# Teorema della maggiorante
 
 Analogamente possiamo dire:
 

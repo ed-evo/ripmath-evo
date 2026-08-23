@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura di spazio vettoriale sullo spazio ordinario $$R^n$$ con le normali operazioni di addizione e moltiplicazione e con moltiplicazione scalare la normale moltiplicazione $$R \cdot R^n$$
 

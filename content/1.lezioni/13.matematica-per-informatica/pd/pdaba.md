@@ -1,4 +1,4 @@
-## [effetto magnetico di una corrente elettrica]{.text-red}
+## effetto magnetico di una corrente elettrica
 
 Consideriamo un filo percorso da corrente: se il filo è collegato a una pila la corrente per convenzione parte dal polo positivo (quello più lungo e stretto) ed arriva al polo negativo (quello piccolo e tozzo).
 

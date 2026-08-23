@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$
 \textcolor{blue}{6x + 12 - 2x > 4x - 3}

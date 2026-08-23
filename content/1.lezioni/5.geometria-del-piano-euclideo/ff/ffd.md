@@ -1,4 +1,4 @@
-# [Criterio fondamentale del parallelismo]{.text-red}
+# Criterio fondamentale del parallelismo
 
 Se due rette tagliate da una trasversale formano angoli alterni interni uguali allora le due rette sono parallele
 

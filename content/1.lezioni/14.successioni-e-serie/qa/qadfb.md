@@ -1,4 +1,4 @@
-# [Esponente variabile con base positiva]{.text-red}
+# Esponente variabile con base positiva
 
 Distinguiamo 3 casi:
 

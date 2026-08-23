@@ -1,4 +1,4 @@
-# [Funzione di ripartizione]{.text-red}
+# Funzione di ripartizione
 
 La funzione di ripartizione viene introdotta per aiutarci a studiare le distribuzioni di probabilità.
 

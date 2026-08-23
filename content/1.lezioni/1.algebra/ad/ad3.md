@@ -1,4 +1,4 @@
-# [DIFFERENZA DI POLINOMI]{.text-red}
+# DIFFERENZA DI POLINOMI
 
 Per fare la differenza fra polinomi occorre far cadere le parentesi ed eseguire la somma fra i monomi simili
 

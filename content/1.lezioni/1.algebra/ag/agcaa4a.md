@@ -1,4 +1,4 @@
-## [Calcoli]{.text-red}
+## Calcoli
 
 $$
 \textcolor{blue}{x^2 - 3x - 10 = 0}

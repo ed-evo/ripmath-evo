@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 [In un parallelogramma gli angoli opposti sono congruenti]{.text-red-darken-1} e viceversa.
 [Se in un quadrilatero gli angoli opposti sono congruenti allora il quadrilatero è un parallelogramma]{.text-red-darken-1}.

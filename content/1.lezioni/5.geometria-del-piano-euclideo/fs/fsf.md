@@ -1,4 +1,4 @@
-# [Applicazioni]{.text-red}
+# Applicazioni
 
 Vediamo ora alcune applicazioni della sezione aurea
 

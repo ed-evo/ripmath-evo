@@ -1,4 +1,4 @@
-# [Cos'è una struttura algebrica]{.text-red}
+# Cos'è una struttura algebrica
 
 Vedi anche i concetti espressi in [algebra astratta](../../h/hc/hcb.html)
 

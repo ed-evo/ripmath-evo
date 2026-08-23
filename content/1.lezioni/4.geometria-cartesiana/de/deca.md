@@ -1,4 +1,4 @@
-# [Disegnare l'ellisse]{.text-red}
+# Disegnare l'ellisse
 
 Vediamo un paio di esempi:
 

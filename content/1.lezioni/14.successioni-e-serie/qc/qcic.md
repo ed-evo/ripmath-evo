@@ -1,4 +1,4 @@
-# [Prodotto di limiti di successioni convergenti]{.text-red}
+# Prodotto di limiti di successioni convergenti
 
 Se le successioni
 

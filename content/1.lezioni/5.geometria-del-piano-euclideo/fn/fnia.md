@@ -1,4 +1,4 @@
-# [Area del rettangolo]{.text-red}
+# Area del rettangolo
 
 Determiniamo quanto vale l'area del rettangolo $$\textcolor{red}{R_1}$$ di vertici $$\textcolor{red}{ABCD}$$
 sappiamo che $$\textcolor{red}{\overline{BC} = a}$$ e $$\textcolor{red}{\overline{CD} = b}$$

@@ -1,4 +1,4 @@
-# [Sistema omogeneo]{.text-red}
+# Sistema omogeneo
 
 Vediamo ora un caso particolare: è possibile risolvere un sistema quando la somma delle incognite vale sempre zero?
 costruiamo il sistema con il solito metodo: consideriamo i valori 

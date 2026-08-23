@@ -1,4 +1,4 @@
-# [Limite più infinito per $$x$$ tendente ad infinito]{.text-red}
+# Limite più infinito per $$x$$ tendente ad infinito
 
 Per dire che abbiamo limite più infinito quando $$x$$ tende ad infinito dobbiamo dire che quando il bordo dell'intorno di infinito sulle $$y$$ si allontana verso l'alto (più infinito) allora anche il bordo del corrispondente intorno completo di infinito sull'asse $$x$$ si allontana contemporaneamente a destra ed a sinistra.
 

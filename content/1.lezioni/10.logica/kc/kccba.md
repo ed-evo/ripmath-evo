@@ -1,4 +1,4 @@
-# [Giudizio universale negativo]{.text-red}
+# Giudizio universale negativo
 
 Mostriamo che, mediante la teoria degli insiemi, è possibile evidenziare la verità o meno del giudizio universale negativo:
 

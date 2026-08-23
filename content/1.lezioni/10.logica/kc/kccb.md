@@ -1,4 +1,4 @@
-# [Giudizio universale negativo]{.text-red}
+# Giudizio universale negativo
 
 > Si chiama universale perché usiamo il quantificatore universale, lo chiamiamo negativo perché è in una frase negativa.
 

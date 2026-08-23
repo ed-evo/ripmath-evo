@@ -1,3 +1,3 @@
-# [titolo]{.text-red}
+# titolo
 
 testo

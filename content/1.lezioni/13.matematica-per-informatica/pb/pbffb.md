@@ -1,4 +1,4 @@
-# [La differenza come somma complementare]{.text-red}
+# La differenza come somma complementare
 
 Vediamo come è possibile, con l'uso dei complementari, trasformare l'operazione di sottrazione in un'operazione di somma, senza quindi dover ricorrere a prestiti dalle colonne precedenti.
 

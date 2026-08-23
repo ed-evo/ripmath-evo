@@ -1,4 +1,4 @@
-# [Il circuito somma binaria]{.text-red}
+# Il circuito somma binaria
 
 Terminiamo questo capitolo mostrando come costruire il circuito somma binaria, che è alla base di tutte le operazioni matematiche e logiche che è possibile fare con il computer: il nostro problema è trasformare la somma nell'algebra binaria di Boole in modo che, tramite un particolare circuito, diventi la somma fra due numeri binari.
 

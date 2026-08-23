@@ -1,4 +1,4 @@
-# [Relazione transitiva]{.text-red}
+# Relazione transitiva
 
 Diciamo che la relazione $$\textcolor{red}{R}$$ su $$\textcolor{red}{A \times A}$$ è **transitiva** se ogni volta che si ha $$\textcolor{red}{aRb}$$ e $$\textcolor{red}{bRc}$$ allora segue che $$\textcolor{red}{aRc}$$.
 

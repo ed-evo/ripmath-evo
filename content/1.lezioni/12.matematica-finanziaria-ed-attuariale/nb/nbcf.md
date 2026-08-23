@@ -1,4 +1,4 @@
-# [Sconto composto]{.text-red}
+# Sconto composto
 
 Lo sconto si dice composto quando è calcolato ad interesse composto cioè quando per ottenere il valore nominale si applica l'interesse composto alla somma scontata.
 

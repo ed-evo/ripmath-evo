@@ -1,4 +1,4 @@
-# [Scomposizione secondo il quadrato del binomio]{.text-red}
+# Scomposizione secondo il quadrato del binomio
 
 Scriviamo la formula del quadrato del binomio
 

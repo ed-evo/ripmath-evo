@@ -1,4 +1,4 @@
-# [Collegamento ai sistemi di numerazione]{.text-red}
+# Collegamento ai sistemi di numerazione
 
 Non posso procedere senza fare notare i profondi collegamenti che esistono fra i resti modulo $$p$$ e i sistemi di numerazione in base $$p$$.
 

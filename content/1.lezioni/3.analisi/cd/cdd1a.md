@@ -1,4 +1,4 @@
-# [Limite nel caso di un numero diviso zero]{.text-red}
+# Limite nel caso di un numero diviso zero
 
 Se noi dividiamo un numero per zero otteniamo dei [risultati assurdi](../../divisozero.html) ma ora il concetto di limite ci permette di dare un significato anche alla divisione per zero:
 

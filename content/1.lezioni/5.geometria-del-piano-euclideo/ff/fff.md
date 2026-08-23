@@ -1,4 +1,4 @@
-# [Criterio inverso del fondamentale]{.text-red}
+# Criterio inverso del fondamentale
 
 Ricordiamoci che è valido il quinto postulato:
 **Data una retta e un punto fuori di essa, da quel punto si può tracciare solo una retta parallela alla retta data**.

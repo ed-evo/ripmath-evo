@@ -1,4 +1,4 @@
-# [Significato geometrico delle derivate successive di una funzione]{.text-red}
+# Significato geometrico delle derivate successive di una funzione
 
 Se considero una funzione e la sua derivata prima abbiamo già visto la relazione
 

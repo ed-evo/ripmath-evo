@@ -1,4 +1,4 @@
-# [Quoziente fra numeri complessi]{.text-red}
+# Quoziente fra numeri complessi
 
 Per capire come funziona il quoziente basta considerare che 
 $$

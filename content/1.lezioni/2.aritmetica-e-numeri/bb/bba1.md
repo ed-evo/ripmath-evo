@@ -1,4 +1,4 @@
-# [Tra storia e leggenda]{.text-red}
+# Tra storia e leggenda
 
 Nel bacino del Mediterraneo nel primo millennio avanti Cristo i Fenici fondarono la loro fortuna sul commercio di tessuti che solo essi sapevano colorare di porpora utilizzando un particolare mollusco.
 

@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del montante ad interesse composto per tempi interi con valori sulle tavole]{.text-red}
+# Esercizio sul calcolo del montante ad interesse composto per tempi interi con valori sulle tavole
 
 Si impiega il capitale di $$12600 \text{ €}$$ per $$3$$ anni ad interesse composto al $$2,50\%$$.
 Calcolarne il montante nei vari modi possibili e confrontare i risultati.

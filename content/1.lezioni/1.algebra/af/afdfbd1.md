@@ -1,4 +1,4 @@
-## [esercizi]{.text-red}
+## esercizi
 
 $$
 \textcolor{red}{x^2 + 5x - 36 = 0}

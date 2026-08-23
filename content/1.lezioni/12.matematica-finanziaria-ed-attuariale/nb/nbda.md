@@ -1,4 +1,4 @@
-# [Montante sulla retta dei tempi]{.text-red}
+# Montante sulla retta dei tempi
 
 Partiamo da un esempio banale: consideriamo la somma di $$100$$ euro al tasso del $$10\%$$ per un certo numero di anni, ad esempio $$4$$, vediamo da $$0$$ a $$4$$ anni cosa succede
 

@@ -1,4 +1,4 @@
-# [Applicazione al prodotto fra numeri razionali]{.text-red}
+# Applicazione al prodotto fra numeri razionali
 
 Quando fai il prodotto fra numeri razionali, se le frazioni hanno termini complicati, conviene prima di eseguire il prodotto semplificare, utilizzando i criteri di scomposizione, il primo numeratore per il secondo denominatore ed il primo denominatore per il secondo numeratore e moltiplicare successivamente le frazioni risultanti.
 

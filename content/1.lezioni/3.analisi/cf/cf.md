@@ -1,4 +1,4 @@
-# [Derivate]{.text-red}
+# Derivate
 
 Arriviamo ora ad uno dei concetti più importanti dell'analisi, il concetto di derivata di una funzione.
 

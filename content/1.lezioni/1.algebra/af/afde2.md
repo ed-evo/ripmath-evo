@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare tutte le soluzioni delle equazioni
 [$$x^3 + 1 = 0$$]{.text-red}

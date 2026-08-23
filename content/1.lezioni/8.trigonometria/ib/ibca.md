@@ -1,4 +1,4 @@
-# [Prima relazione fondamentale]{.text-red}
+# Prima relazione fondamentale
 
 Lega fra loro il seno ed il coseno permettendo di trasformare l'uno nell'altro.
 

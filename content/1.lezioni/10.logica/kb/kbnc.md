@@ -1,4 +1,4 @@
-# [Dimostrazione di un teorema: metodo diretto]{.text-red}
+# Dimostrazione di un teorema: metodo diretto
 
 La proposizione diretta è alla base del metodo diretto per la dimostrazione di un teorema.
 

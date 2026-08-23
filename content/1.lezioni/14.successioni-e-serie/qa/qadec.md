@@ -1,4 +1,4 @@
-# [Rapporto fra due termini variabili]{.text-red}
+# Rapporto fra due termini variabili
 
 La situazione si fa più interessante quando abbiamo una frazione con termini variabili sia al numeratore che al denominatore; supponiamo prima che i due termini differiscano di $$1$$.
 

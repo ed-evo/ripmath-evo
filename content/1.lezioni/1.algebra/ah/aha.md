@@ -1,4 +1,4 @@
-# [Generalità sui Problemi]{.text-red}
+# Generalità sui Problemi
 
 Non c'è studente che sentendo la parola Problema non si senta preoccupato; in effetti non c'è niente di cui preoccuparsi perché un problema è sì qualcosa da risolvere, però la soluzione è già insita nel problema stesso e basta trasformarlo in linguaggio matematico per poterlo risolvere in modo automatico mediante i meccanismi dell'algebra.
 

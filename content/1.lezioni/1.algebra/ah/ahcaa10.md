@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 **Problema:**
 [In un numero di due cifre la cifra delle decine supera di $$2$$ il doppio della cifra delle unità. Scambiando le cifre fra loro si ottiene un numero inferiore di $$36$$ al numero dato. Trovare il numero]{.text-blue}

@@ -1,4 +1,4 @@
-# [Metodo di confronto]{.text-red}
+# Metodo di confronto
 
 Se hai bisogno di una spiegazione [più approfondita](aibaac0.html)
 

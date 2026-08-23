@@ -1,4 +1,4 @@
-# [Teorema delle secanti]{.text-red}
+# Teorema delle secanti
 
 Se da un punto esterno traccio due secanti a una stessa circonferenza, allora un'intera secante e la sua parte esterna formano i medi, l'altra intera secante e la sua parte esterna formano gli estremi di una proporzione.
 

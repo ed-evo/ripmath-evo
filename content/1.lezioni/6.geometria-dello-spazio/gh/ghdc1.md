@@ -1,11 +1,11 @@
 > Stampa le figure su un foglio, ritaglia la parte colorata e piegala secondo le linee nere: otterrai le figure a lato
 
-## [Tetraedro]{.text-red}
+## Tetraedro
 
-## [Ottaedro]{.text-red}
+## Ottaedro
 
-## [Icosaedro]{.text-red}
+## Icosaedro
 
-## [Cubo]{.text-red}
+## Cubo
 
-## [Dodecaedro]{.text-red}
+## Dodecaedro

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Eseguire il seguente quoziente fra numeri binari:
 **$$100010001 : 11011 =$$**

@@ -1,4 +1,4 @@
-# [Teorema sugli angoli opposti al vertice]{.text-red}
+# Teorema sugli angoli opposti al vertice
 
 Due angoli si dicono opposti al vertice se i lati dell'uno sono sui prolungamenti dei lati dell'altro.
 In figura gli angoli opposti al vertice sono l'angolo $$\textcolor{blue}{a}$$ e l'angolo $$\textcolor{red}{b}$$.

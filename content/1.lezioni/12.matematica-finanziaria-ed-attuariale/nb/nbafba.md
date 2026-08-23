@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del capitale ad interesse composto per tempi interi]{.text-red}
+# Esercizio sul calcolo del capitale ad interesse composto per tempi interi
 
 Ho impiegato una somma per $$5$$ anni ad interesse composto al tasso $$i = 2,5\%$$ ed oggi ho ricevuto un montante di $$\text{€ } 12655,65$$; dite quale somma ho depositato $$5$$ anni fa.
 

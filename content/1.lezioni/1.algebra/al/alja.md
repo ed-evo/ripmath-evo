@@ -1,4 +1,4 @@
-# [Esercizi sulle equazioni logaritmiche]{.text-red}
+# Esercizi sulle equazioni logaritmiche
 
 Gli esercizi sono risolti con entrambi i metodi: scegli il metodo che ti ha insegnato il tuo professore.
 

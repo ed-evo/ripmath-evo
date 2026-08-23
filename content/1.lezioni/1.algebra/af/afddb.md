@@ -1,4 +1,4 @@
-# [Ricerca delle soluzioni reali e complesse nelle equazioni binomie]{.text-red}
+# Ricerca delle soluzioni reali e complesse nelle equazioni binomie
 
 Se cerchiamo le soluzioni sia reali che complesse dovremo fare ricorso alle scomposizioni di [somme e differenze di potenze](../ad/ad6d.html).
 Risolviamo gli stessi esercizi della pagina precedente.

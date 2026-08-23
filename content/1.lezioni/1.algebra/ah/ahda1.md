@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 ## Problema:
 [Trovare quel numero che, sommato al suo quadrato, dia come risultato 20]{.text-blue}

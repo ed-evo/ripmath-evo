@@ -1,4 +1,4 @@
-# [razionalizzazione]{.text-red}
+# razionalizzazione
 
 $$
 \textcolor{blue}{x = \frac{1}{\sqrt{2}}}

@@ -1,4 +1,4 @@
-# [Esempi di calcolo di un determinante utilizzandone le proprietà]{.text-red}
+# Esempi di calcolo di un determinante utilizzandone le proprietà
 
 Vediamo come è possibile, utilizzando le regole della pagina precedente, trasformare un determinante in un altro con lo stesso valore ma con una riga (colonna) che abbia alcuni elementi nulli; in questo modo mi conviene sviluppare il determinante secondo quella riga (colonna).
 

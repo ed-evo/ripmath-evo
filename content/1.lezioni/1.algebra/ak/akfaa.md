@@ -1,4 +1,4 @@
-# [Razionalizzazione con una radice di indice due al denominatore]{.text-red}
+# Razionalizzazione con una radice di indice due al denominatore
 
 Se abbiamo una radice quadrata al denominatore tipo:
 

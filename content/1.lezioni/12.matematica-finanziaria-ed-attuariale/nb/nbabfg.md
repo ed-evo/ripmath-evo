@@ -1,4 +1,4 @@
-# [calcolo del Montante]{.text-red}
+# calcolo del Montante
 
 > Per calcolare il Montante ad interesse semplice si può calcolare prima l'interesse poi sommarlo al capitale, comunque è possibile anche applicare direttamente la formula
 

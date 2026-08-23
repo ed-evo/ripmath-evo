@@ -1,4 +1,4 @@
-# [Asse di rotazione non passante per un lato del settore circolare]{.text-red}
+# Asse di rotazione non passante per un lato del settore circolare
 
 Occorre per prima cosa, per i solidi, aver sempre bene chiara la rappresentazione spaziale della figura: consideriamo il caso a fianco.
 

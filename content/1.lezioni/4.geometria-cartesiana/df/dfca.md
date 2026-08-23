@@ -1,4 +1,4 @@
-# [Asintoti dell'iperbole]{.text-red}
+# Asintoti dell'iperbole
 
 Consideriamo l'equazione canonica dell'iperbole
 

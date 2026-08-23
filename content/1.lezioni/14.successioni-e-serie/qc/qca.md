@@ -1,4 +1,4 @@
-# [Definizioni sulle successioni]{.text-red}
+# Definizioni sulle successioni
 
 D'ora in avanti, senza specificare $$N$$ oppure $$Z$$ diremo che la successione 
 $$a_1, a_2, a_3, a_4, \dots, a_n, a_{n+1}, \dots$$ 

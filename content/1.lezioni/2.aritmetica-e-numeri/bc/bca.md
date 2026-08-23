@@ -1,4 +1,4 @@
-# [Ampliamento dell'insieme Z]{.text-red}
+# Ampliamento dell'insieme Z
 
 Finora i numeri sono come dei paracarri su una strada, cioè sono a distanza regolare fra loro ma in mezzo fra un numero e l'altro non c'è niente, quindi, per poter sempre fare la divisione dovrò riempire questi spazi indicando ognuno col suo nome i valori che posso trovare.
 

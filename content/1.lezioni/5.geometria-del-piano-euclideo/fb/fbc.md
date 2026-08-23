@@ -1,4 +1,4 @@
-# [La dimostrazione]{.text-red}
+# La dimostrazione
 
 > **Nota importante:**
 > Spesso ho incontrato alunni che dicono: "ma è evidente, perché devo dimostrarlo?"

@@ -1,4 +1,4 @@
-# [Determinazione di altri eventuali punti]{.text-red}
+# Determinazione di altri eventuali punti
 
 Per individuare dei punti ove non si sa di preciso come si comporti la funzione basta sostituire dei valori alla $$x$$ e calcolare i valori corrispondenti per la $$y$$, otterremo così delle coordinate di punti per cui passa la funzione.
 

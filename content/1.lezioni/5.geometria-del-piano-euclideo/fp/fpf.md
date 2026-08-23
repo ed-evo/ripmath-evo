@@ -1,4 +1,4 @@
-# [Similitudine fra triangoli]{.text-red}
+# Similitudine fra triangoli
 
 - [Definizione](fpfa.html)
 - [Primo criterio](fpfb.html)

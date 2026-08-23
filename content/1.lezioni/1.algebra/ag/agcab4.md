@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 [$$
 \frac{x^2 - 5x + 6}{x^2 - 4x - 5} \ge 0

@@ -1,4 +1,4 @@
-# [Fascio di rette improprio]{.text-red}
+# Fascio di rette improprio
 
 Si definisce fascio di rette improprie l'insieme di tutte le rette parallele ad una retta data.
 

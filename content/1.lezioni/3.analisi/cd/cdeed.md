@@ -1,4 +1,4 @@
-# [Limite di un quoziente di funzioni]{.text-red}
+# Limite di un quoziente di funzioni
 
 Anche qui possiamo dire che il limite di un quoziente di funzioni è uguale al quoziente dei limiti, però a patto che al limite la funzione al denominatore abbia un valore diverso da zero.
 

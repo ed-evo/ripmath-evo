@@ -1,4 +1,4 @@
-# [Successione dei numeri pari negativi]{.text-red}
+# Successione dei numeri pari negativi
 
 Possiamo moltiplicare per $$-1$$ ogni termine della successione dei numeri pari
 $$

@@ -1,4 +1,4 @@
-# [Proprietà delle operazioni unione ed intersezione]{.text-red}
+# Proprietà delle operazioni unione ed intersezione
 
 Vediamo in questa pagina le principali proprietà dell'unione e dell'intersezione
 

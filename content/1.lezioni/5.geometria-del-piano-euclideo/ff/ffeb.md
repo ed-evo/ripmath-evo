@@ -1,4 +1,4 @@
-# [Geometrie non euclidee]{.text-red}
+# Geometrie non euclidee
 
 Vediamo ora un breve cenno su alcune geometrie che vennero presentate attorno al $$1870$$, che obbediscono a tutti i postulati di Euclide ad eccezione del quinto.
 

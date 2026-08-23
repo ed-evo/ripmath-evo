@@ -1,4 +1,4 @@
-# [Funzione radice]{.text-red}
+# Funzione radice
 
 Consideriamo solo il caso delle radici quadrate: distinguiamo due sottocasi:
 

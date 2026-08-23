@@ -1,4 +1,4 @@
-# [Teorema delle tre perpendicolari]{.text-red}
+# Teorema delle tre perpendicolari
 
 > **Nota:** Questo teorema ci garantisce che, in una piramide regolare, il raggio del cerchio inscritto nella base e l'apotema cadono nello stesso punto di un lato.
 

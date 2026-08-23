@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \textcolor{red}{\begin{cases} a^2 + b^2 = 2 \\ b = a \end{cases}}

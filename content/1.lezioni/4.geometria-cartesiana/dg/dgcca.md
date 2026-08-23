@@ -1,4 +1,4 @@
-# [Vertice, fuoco, asse e direttrice]{.text-red}
+# Vertice, fuoco, asse e direttrice
 
 Se consideriamo l'equazione
 
@@ -10,7 +10,7 @@ per ottenere le equazioni del vertice, del fuoco e della direttrice basterà con
 
 ---
 
-## [Coordinate del vertice]{.text-red}
+## Coordinate del vertice
 [calcoli](dgccaa.html)
 
 $$
@@ -21,7 +21,7 @@ Determinare le coordinate del vertice della parabola di equazione $$\textcolor{r
 
 ---
 
-## [Coordinate del fuoco]{.text-red}
+## Coordinate del fuoco
 [calcoli](dgccab.html)
 
 $$
@@ -32,7 +32,7 @@ Determinare le coordinate del fuoco della parabola di equazione $$\textcolor{red
 
 ---
 
-## [Equazione dell'asse]{.text-red}
+## Equazione dell'asse
 [calcoli](dgccac.html)
 
 $$
@@ -43,7 +43,7 @@ Determinare l'equazione dell'asse della parabola di equazione $$\textcolor{red}{
 
 ---
 
-## [Equazione della direttrice]{.text-red}
+## Equazione della direttrice
 [calcoli](dgccad.html)
 
 $$

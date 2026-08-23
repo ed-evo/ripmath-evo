@@ -1,4 +1,4 @@
-# [Metodo di sostituzione]{.text-red}
+# Metodo di sostituzione
 
 Risolviamo il sistema generico
 $$

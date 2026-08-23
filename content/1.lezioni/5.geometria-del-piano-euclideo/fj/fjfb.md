@@ -1,4 +1,4 @@
-# [Precisazioni sugli angoli alla circonferenza]{.text-red}
+# Precisazioni sugli angoli alla circonferenza
 
 Conseguenza immediata del teorema sugli angoli al centro ed alla circonferenza è che:
 

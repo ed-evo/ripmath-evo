@@ -1,4 +1,4 @@
-# [Congruenza fra triangoli]{.text-red}
+# Congruenza fra triangoli
 
 Per definire la congruenza fra due triangoli ci rifacciamo alla definizione di congruenza trovata nei postulati.
 

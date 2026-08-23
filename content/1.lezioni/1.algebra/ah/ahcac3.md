@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un rettangolo il perimetro è di $$120\text{ cm}$$ e la base è la metà dell'altezza; determinare l'area]{.text-blue}
 

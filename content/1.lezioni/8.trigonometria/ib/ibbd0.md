@@ -1,4 +1,4 @@
-# [Differenze fra reciproca di una funzione e funzione inversa]{.text-red}
+# Differenze fra reciproca di una funzione e funzione inversa
 
 Si definisce **reciproca di una funzione** la funzione che moltiplicata con quella di partenza mi dà come risultato $$1$$. Esempio: data la funzione
 

@@ -1,4 +1,4 @@
-# [Razionalizzazione]{.text-red}
+# Razionalizzazione
 
 Se voglio calcolare anche approssimativamente il valore di un'espressione tipo:
 

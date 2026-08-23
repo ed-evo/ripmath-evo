@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 Mostrare la presenza della struttura ad anello per l'insieme $$P(A)$$, insieme potenza dell'insieme $$A$$, con le operazioni di differenza simmetrica $$\Delta$$ ed intersezione $$\cap$$.
 

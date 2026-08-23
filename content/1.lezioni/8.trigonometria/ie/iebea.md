@@ -1,4 +1,4 @@
-# [base di riferimento orizzontale]{.text-red}
+# base di riferimento orizzontale
 
 Supponiamo che il segmento $$AC$$ sia orizzontale: in tal caso il triangolo $$ACH$$ giace sul piano orizzontale.
 

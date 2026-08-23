@@ -1,4 +1,4 @@
-# [Capitalizzazioni]{.text-red}
+# Capitalizzazioni
 
 In matematica finanziaria il denaro viene trattato come fosse un bene qualunque, quindi il suo utilizzo commerciale è finalizzato ad un guadagno derivante dal suo utilizzo.
 

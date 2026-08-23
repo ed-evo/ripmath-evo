@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trasformare il numero di Gödel $$6.530.347.008.000$$ nella sua espressione algebrica
 

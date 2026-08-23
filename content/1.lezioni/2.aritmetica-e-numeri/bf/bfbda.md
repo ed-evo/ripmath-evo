@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trasformare l'espressione $$1+1=2$$ in numero di Gödel
 

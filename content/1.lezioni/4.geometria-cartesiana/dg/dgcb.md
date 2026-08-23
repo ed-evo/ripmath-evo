@@ -1,4 +1,4 @@
-# [Equazione della parabola con asse parallelo all'asse y]{.text-red}
+# Equazione della parabola con asse parallelo all'asse y
 
 Consideriamo l'equazione della parabola con vertice nell'origine $$\textcolor{red}{O}$$,
 

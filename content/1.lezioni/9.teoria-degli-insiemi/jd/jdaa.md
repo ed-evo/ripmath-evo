@@ -1,4 +1,4 @@
-# [esempi di applicazioni]{.text-red}
+# esempi di applicazioni
 
 Questa rappresentata a destra non è una applicazione perché esiste un elemento dell'insieme $$A$$ a cui non corrisponde nulla nell'insieme $$B$$.
 

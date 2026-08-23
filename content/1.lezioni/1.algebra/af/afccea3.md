@@ -1,4 +1,4 @@
-# [Dimostrazione]{.text-red}
+# Dimostrazione
 
 Debbo dimostrare che da
 - [$$a$$]{.text-red} positivo

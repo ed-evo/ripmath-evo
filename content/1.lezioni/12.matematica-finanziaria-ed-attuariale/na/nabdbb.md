@@ -1,4 +1,4 @@
-# [Differenza]{.text-red}
+# Differenza
 
 Se utilizziamo la proprietà che nei logaritmi un quoziente può essere trasformato in una differenza, dovremo poi, una volta trasformati gli addendi in logaritmi, eseguire tale differenza.
 
@@ -6,7 +6,7 @@ C'è però un problema: la mantissa del logaritmo non deve mai essere negativa, 
 
 Tale operazione si chiama
 
-## [Cologaritmo]{.text-red}
+## Cologaritmo
 
 Vediamo come comportarci con un esempio:
 Supponiamo di aver ottenuto il valore per il logaritmo $$-3,468901$$ (con il segno meno davanti).

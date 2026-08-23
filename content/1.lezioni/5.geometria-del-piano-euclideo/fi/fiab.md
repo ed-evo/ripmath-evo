@@ -1,4 +1,4 @@
-# [Punto equidistante dagli estremi del segmento $\longrightarrow$ Punto appartenente alla perpendicolare nel punto medio del segmento]{.text-red}
+# Punto equidistante dagli estremi del segmento $\longrightarrow$ Punto appartenente alla perpendicolare nel punto medio del segmento
 
 Come ipotesi abbiamo che il punto $$P$$ ha la stessa distanza dagli estremi del segmento; dobbiamo dimostrare che il punto allora si trova sulla perpendicolare condotta dal punto medio del segmento.
 

@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 La sezione aurea, inizialmente studiata dai greci (la costruzione che faremo è attribuita ad Erone), fu reintrodotta in Europa durante le crociate, fu poi studiata da Piero Della Francesca (De corporibus regolaris) e divulgata soprattutto ad opera di Luca Pacioli (Divina proporzione, opera a tutti gli ingegni perspicaci curiosa e necessaria) e, nel Rinascimento, fu studiata e cercata in natura soprattutto come rettangolo aureo (rettangolo formato da un segmento e dalla sua sezione aurea).
 

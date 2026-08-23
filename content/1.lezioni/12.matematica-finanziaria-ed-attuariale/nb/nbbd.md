@@ -1,4 +1,4 @@
-# [Passaggio dal tasso annuo effettivo al tasso frazionato]{.text-red}
+# Passaggio dal tasso annuo effettivo al tasso frazionato
 
 Più complicato è ricavare il tasso frazionato conoscendo il tasso annuo effettivo: partiamo dalla formula
 

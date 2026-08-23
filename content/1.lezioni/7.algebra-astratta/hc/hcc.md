@@ -1,4 +1,4 @@
-# [Semigruppo]{.text-red}
+# Semigruppo
 
 la prima struttura è ricalcata sull'insieme $$\mathbb{N}$$ con l'operazione di addizione od anche con l'operazione di moltiplicazione: è la struttura più semplice, ed è possibile individuarla in moltissimi argomenti.
 

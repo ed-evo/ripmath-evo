@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Il sistema binario fu pensato come idea matematica senza applicazioni pratiche già nel diciassettesimo secolo, ma fu soltanto con Boole e poi con la nascita dell'informatica che acquisì l'importanza che oggi gli compete, quale sistema di numerazione ormai più utilizzato nel mondo.
 

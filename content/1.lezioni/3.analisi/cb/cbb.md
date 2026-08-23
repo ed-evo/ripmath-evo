@@ -1,4 +1,4 @@
-# [PUNTO DI ACCUMULAZIONE]{.text-red}
+# PUNTO DI ACCUMULAZIONE
 
 Un punto si dice di accumulazione per un insieme di punti se qualunque suo intorno contiene sempre almeno un punto dell'insieme diverso dal nostro punto.
 

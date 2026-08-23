@@ -1,4 +1,4 @@
-# [Costruzione geometrica]{.text-red}
+# Costruzione geometrica
 
 Considero un segmento $$AB$$ e dal punto $$B$$ ne traccio la perpendicolare e considero il segmento $$BO$$ congruente alla metà di $$AB$$.
 

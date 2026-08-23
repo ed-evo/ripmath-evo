@@ -1,4 +1,4 @@
-# [Settore sferico]{.text-red}
+# Settore sferico
 
 - Definizione
 - Area della superficie del settore sferico

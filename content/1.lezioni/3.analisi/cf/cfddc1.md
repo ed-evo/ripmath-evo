@@ -1,4 +1,4 @@
-# [Dimostrazione della regola per la derivata di un quoziente]{.text-red}
+# Dimostrazione della regola per la derivata di un quoziente
 
 > **Avvertenza:** per una migliore visualizzazione metti la pagina a tutto schermo
 

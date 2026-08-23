@@ -1,4 +1,4 @@
-# [Come costruire lo schema]{.text-red}
+# Come costruire lo schema
 
 Pongo che i due termini del prodotto siano maggiori di zero:
 

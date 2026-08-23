@@ -1,4 +1,4 @@
-# [Mutue posizioni fra retta e circonferenza]{.text-red}
+# Mutue posizioni fra retta e circonferenza
 
 Vediamo ora come si può caratterizzare la diversa posizione di una retta rispetto ad una circonferenza utilizzando la distanza fra il centro della circonferenza e la retta: abbiamo tre possibilità.
 

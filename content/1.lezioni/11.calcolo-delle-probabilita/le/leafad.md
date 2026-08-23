@@ -1,4 +1,4 @@
-# [Caratteristiche della variabile binomiale]{.text-red}
+# Caratteristiche della variabile binomiale
 
 Raccogliendo, nella variabile binomiale $$S_n$$ abbiamo che:
 

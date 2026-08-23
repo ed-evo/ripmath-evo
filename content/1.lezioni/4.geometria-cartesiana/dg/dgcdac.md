@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Rappresentare graficamente la parabola di equazione
 $$\textcolor{red}{y = x^2 - 6x + 10}$$

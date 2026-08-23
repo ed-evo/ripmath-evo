@@ -1,4 +1,4 @@
-# [Il piano complesso]{.text-red}
+# Il piano complesso
 
 Sul piano complesso potremo considerare alcune interessanti proprietà per i numeri complessi
 

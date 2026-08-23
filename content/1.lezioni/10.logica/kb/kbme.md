@@ -1,4 +1,4 @@
-# [Sillogismo disgiuntivo]{.text-red}
+# Sillogismo disgiuntivo
 
 Esempi di sillogismo disgiuntivo:
 

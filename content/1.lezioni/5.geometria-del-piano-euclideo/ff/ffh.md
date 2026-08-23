@@ -1,4 +1,4 @@
-# [Criteri di congruenza per i triangoli rettangoli]{.text-red}
+# Criteri di congruenza per i triangoli rettangoli
 
 È possibile ora introdurre dei criteri di congruenza limitatamente ai triangoli rettangoli. Visto che sappiamo che tra due triangoli rettangoli un angolo è per forza congruente essendo retto, basterà togliere un angolo dai criteri che già conosciamo.
 

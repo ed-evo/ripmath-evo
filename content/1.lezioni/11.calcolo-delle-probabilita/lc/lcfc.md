@@ -1,4 +1,4 @@
-## [Proprietà della probabilità soggettiva]{.text-red}
+## Proprietà della probabilità soggettiva
 
 La probabilità soggettiva deve godere delle stesse proprietà della probabilità classica, cioè (ripetiamole, un ripasso fa sempre bene)
 

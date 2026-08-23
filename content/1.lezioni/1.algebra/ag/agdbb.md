@@ -1,4 +1,4 @@
-# [Parabola tangente all'asse delle x]{.text-red}
+# Parabola tangente all'asse delle x
 
 È equivalente al caso ove il $$\Delta$$ del polinomio è uguale a $$0$$ ($$2$$ soluzioni reali coincidenti = $$2$$ punti coincidenti, cioè un solo punto sull'asse $$x$$).
 

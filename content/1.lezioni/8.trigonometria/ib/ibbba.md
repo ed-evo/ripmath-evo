@@ -1,4 +1,4 @@
-## [Definizione del coseno di un angolo $$\alpha$$]{.text-red}
+## Definizione del coseno di un angolo $$\alpha$$
 
 Il coseno di $$\alpha$$ viene definito come rapporto dell'orizzontale $$OH$$ al raggio della circonferenza
 

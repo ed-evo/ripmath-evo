@@ -1,4 +1,4 @@
-# [Misura di archi ed angoli]{.text-red}
+# Misura di archi ed angoli
 
 Se voglio misurare un arco di circonferenza con un angolo posso farlo in modo semplice, più difficile è misurarlo in centimetri perché a circonferenze diverse corrispondono misure lineari diverse, mentre io ho bisogno di una misura valida sempre per tutte le circonferenze.
 

@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 $$
 \textcolor{red}{y' = \frac{15x^2}{1 + (x^3 + 1)^2}}

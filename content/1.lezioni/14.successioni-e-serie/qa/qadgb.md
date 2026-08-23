@@ -1,4 +1,4 @@
-# [Successione di Nepero]{.text-red}
+# Successione di Nepero
 
 È la successione $$s: \mathbb{N} \to \mathbb{R}$$
 

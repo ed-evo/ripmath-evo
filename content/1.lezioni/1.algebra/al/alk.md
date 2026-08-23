@@ -1,4 +1,4 @@
-# [Disequazioni logaritmiche]{.text-red}
+# Disequazioni logaritmiche
 
 Per poterle risolvere bene devi conoscere **perfettamente** il grafico della funzione logaritmo sia con base maggiore di $$1$$ che con base compresa fra $$0$$ ed $$1$$. [ripasso](ali.html)
 

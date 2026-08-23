@@ -1,4 +1,4 @@
-# [Sistemi di disequazioni di primo grado]{.text-red}
+# Sistemi di disequazioni di primo grado
 
 Un sistema di disequazioni è un insieme di disequazioni che valgono contemporaneamente.
 Il sistema si dice di primo grado quando le disequazioni che lo compongono sono di primo grado.

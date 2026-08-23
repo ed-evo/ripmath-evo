@@ -1,4 +1,4 @@
-# [Coordinate polari nello spazio]{.text-red}
+# Coordinate polari nello spazio
 
 Facciamo un breve cenno sulle coordinate polari nello spazio.
 

@@ -1,4 +1,4 @@
-# [Secondo principio di equivalenza]{.text-red}
+# Secondo principio di equivalenza
 
 Il secondo principio di equivalenza delle equazioni dice che:
 

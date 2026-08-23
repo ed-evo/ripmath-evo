@@ -1,4 +1,4 @@
-# [Definizione di progressione geometrica]{.text-red}
+# Definizione di progressione geometrica
 
 Definiamo **progressione geometrica** una successione in cui è costante il quoziente fra ogni termine ed il suo antecedente.
 

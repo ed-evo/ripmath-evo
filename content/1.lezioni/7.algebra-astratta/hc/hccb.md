@@ -1,4 +1,4 @@
-# [Altro esempio: il gioco del 15]{.text-red}
+# Altro esempio: il gioco del 15
 
 È un vecchio gioco degli anni $$60$$: si tratta di una cornice con $$15$$ tesserine identiche numerate da $$1$$ a $$15$$ in disordine e devono essere messe in ordine dall'$$1$$ al $$15$$; utilizzando il quadratino vuoto puoi fare scorrere le tessere adiacenti: la configurazione giusta da ottenere è la seguente:
 

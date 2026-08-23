@@ -1,4 +1,4 @@
-# [Anticlessidra]{.text-red}
+# Anticlessidra
 
 Come prima cosa definiamo il solido chiamato **anticlessidra**:
 

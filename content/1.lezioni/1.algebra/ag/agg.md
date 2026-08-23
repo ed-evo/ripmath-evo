@@ -1,4 +1,4 @@
-# [Disequazioni con moduli]{.text-red}
+# Disequazioni con moduli
 
 > È un particolare tipo di disequazioni che però sono usate abbastanza spesso: approfittiamone anche per sviluppare meglio il concetto di disuguaglianza fra valori assoluti
 

@@ -1,1 +1,1 @@
-# [Criteri di congruenza dei poligoni]{.text-red}
+# Criteri di congruenza dei poligoni

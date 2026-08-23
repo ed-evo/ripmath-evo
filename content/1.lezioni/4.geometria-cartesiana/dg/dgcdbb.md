@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione della parabola con asse verticale che passa per i punti [$$A=(4, 0)$]{.text-blue}, [$$B=(1, -3)$]{.text-blue} ed è tangente alla retta [$$y = -4$$]{.text-blue}.
 L'equazione generica della parabola con asse verticale è

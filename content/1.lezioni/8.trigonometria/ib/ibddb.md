@@ -1,4 +1,4 @@
-# [Quarto quadrante: $$360^\circ - \alpha = -\alpha$$ (angoli opposti)]{.text-red}
+# Quarto quadrante: $$360^\circ - \alpha = -\alpha$$ (angoli opposti)
 
 Se il punto $$P$$ corrisponde all'angolo $$360^\circ - \alpha$$ allora il punto $$Q$$ corrisponderà all'angolo $$\alpha$$.
 

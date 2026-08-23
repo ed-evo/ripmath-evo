@@ -1,4 +1,4 @@
-# [Equazione segmentaria della retta]{.text-red}
+# Equazione segmentaria della retta
 
 La retta esiste anche in una particolare forma (ormai in disuso)
 

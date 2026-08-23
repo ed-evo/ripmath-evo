@@ -1,4 +1,4 @@
-# [Uguaglianze]{.text-red}
+# Uguaglianze
 
 In matematica un'uguaglianza è un'uguaglianza tra due enti.
 

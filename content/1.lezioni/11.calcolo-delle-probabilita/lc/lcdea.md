@@ -1,4 +1,4 @@
-# [Teorema della probabilità totale]{.text-red}
+# Teorema della probabilità totale
 
 Consideriamo un evento composto da più eventi tra loro mutualmente incompatibili (nel senso che se succede l'uno non può succedere l'altro): allora possiamo dire che:
 

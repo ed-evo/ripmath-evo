@@ -1,4 +1,4 @@
-# [Costruzione del cilindro]{.text-red}
+# Costruzione del cilindro
 
 Considero il rettangolo $$ABCD$$ e considero l'asse passante per $$BC$$ come asse di rotazione.
 

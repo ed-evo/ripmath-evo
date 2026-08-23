@@ -1,4 +1,4 @@
-# [Solidi di rotazione]{.text-red}
+# Solidi di rotazione
 
 Consideriamo ora i solidi di rotazione: possiamo definirli come la parte di spazio occupata da una figura piana quando essa ruota attorno ad un asse; naturalmente ci limiteremo a far ruotare figure che ci permettano di avere dei calcoli umani.
 

@@ -1,4 +1,4 @@
-# [Esercizi sulla parabola con vertice nell'origine ed asse verticale]{.text-red}
+# Esercizi sulla parabola con vertice nell'origine ed asse verticale
 
 Se osserviamo l'equazione della parabola
 

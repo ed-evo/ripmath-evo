@@ -1,4 +1,4 @@
-# [Piramide]{.text-red}
+# Piramide
 
 Ora per avere la piramide basta prendere la parte di piramide indefinita compresa fra il vertice $$V$$ e il poligono generatore.
 

@@ -1,4 +1,4 @@
-# [Posizioni di una retta rispetto ad una circonferenza]{.text-red}
+# Posizioni di una retta rispetto ad una circonferenza
 
 Una retta rispetto alla circonferenza può essere:
 - esterna

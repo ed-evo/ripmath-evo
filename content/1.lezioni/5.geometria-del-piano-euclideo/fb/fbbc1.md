@@ -1,4 +1,4 @@
-# [Movimento rigido]{.text-red}
+# Movimento rigido
 
 Movimento è lo spostamento di un oggetto.
 

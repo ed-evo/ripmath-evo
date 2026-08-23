@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Il calcolo della probabilità è ormai una delle branche più importanti della matematica, soprattutto per le sue molteplici applicazioni che vanno dalla fisica quantistica, alla termodinamica, alle assicurazioni eccetera...
 

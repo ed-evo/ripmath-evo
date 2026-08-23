@@ -1,4 +1,4 @@
-# [Proprietà dello scomporre]{.text-red}
+# Proprietà dello scomporre
 
 La proprietà dello scomporre dice che
 

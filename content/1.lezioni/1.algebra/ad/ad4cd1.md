@@ -1,4 +1,4 @@
-# [PASSAGGI PER CALCOLARE IL CUBO DEL BINOMIO]{.text-red}
+# PASSAGGI PER CALCOLARE IL CUBO DEL BINOMIO
 
 $$\textcolor{red}{(a+b)^3 = (a+b) \cdot (a+b) \cdot (a+b) =}$$
 

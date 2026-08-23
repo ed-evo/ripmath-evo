@@ -1,4 +1,4 @@
-# [Esagono regolare circoscritto ad una circonferenza]{.text-red}
+# Esagono regolare circoscritto ad una circonferenza
 ## o circonferenza inscritta in un esagono regolare
 
 Anche qui, congiungendo il centro del cerchio con i vertici dell'esagono si ottengono $$6$$ triangoli equilateri.

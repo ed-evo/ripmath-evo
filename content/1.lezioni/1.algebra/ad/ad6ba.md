@@ -1,4 +1,4 @@
-## [Casi particolari]{.text-red}
+## Casi particolari
 
 I casi particolari che tratteremo sono:
 

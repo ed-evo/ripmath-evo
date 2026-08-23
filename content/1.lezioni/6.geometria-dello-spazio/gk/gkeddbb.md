@@ -1,4 +1,4 @@
-# [Asse di rotazione passante per un lato del settore circolare]{.text-red}
+# Asse di rotazione passante per un lato del settore circolare
 
 Anche qui occorre avere ben chiara la rappresentazione spaziale della figura: consideriamo il caso a fianco.
 

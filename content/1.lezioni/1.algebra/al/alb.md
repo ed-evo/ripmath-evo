@@ -1,4 +1,4 @@
-# [Cos'è il logaritmo]{.text-red}
+# Cos'è il logaritmo
 
 > Come dice mio figlio Emanuele, quando uno fa le potenze e poi, come operazione inversa, fa le radici pensa di aver finito, invece...
 

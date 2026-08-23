@@ -1,4 +1,4 @@
-# [Differenza di potenze dispari]{.text-red}
+# Differenza di potenze dispari
 
 Cercheremo la regola per scomporre tutte quelle potenze del tipo $$x^n - a^n$$ per $$n$$ dispari, cioè ad esempio:
 

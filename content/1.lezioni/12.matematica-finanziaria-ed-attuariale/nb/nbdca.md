@@ -1,4 +1,4 @@
-# [reciproco]{.text-red}
+# reciproco
 
 Due termini si dicono fra loro reciproci se il loro prodotto vale $$1$$
 

@@ -1,4 +1,4 @@
-# [Teorema di Pitagora]{.text-red}
+# Teorema di Pitagora
 
 È forse il teorema più noto della geometria ma non è quello originale di Pitagora.
 

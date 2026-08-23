@@ -1,4 +1,4 @@
-# [Limite di una successione divergente]{.text-red}
+# Limite di una successione divergente
 
 Per fare il limite di una successione divergente rifacciamoci al concetto che si ha un limite quando avendo un intervallo che si contrae anche l'intervallo corrispondente si deve contrarre; ora non è necessario che l'intervallo sia un intorno di un valore finito, ma può anche essere un intorno di infinito.
 

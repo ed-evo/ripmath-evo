@@ -1,4 +1,4 @@
-# [Somma delle radici nell'equazione di secondo grado]{.text-red}
+# Somma delle radici nell'equazione di secondo grado
 
 Considero le due radici dell'equazione di secondo grado:
 

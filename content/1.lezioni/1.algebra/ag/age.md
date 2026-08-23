@@ -1,4 +1,4 @@
-# [Sistemi con disequazioni di secondo grado]{.text-red}
+# Sistemi con disequazioni di secondo grado
 
 > Per fare questo argomento devi già conoscere i sistemi di equazioni di primo e secondo grado.
 

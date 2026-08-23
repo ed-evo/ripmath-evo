@@ -1,4 +1,4 @@
-# [Somma fra serie]{.text-red}
+# Somma fra serie
 
 Consideriamo la serie
 

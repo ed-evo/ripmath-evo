@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [Determinare due numeri sapendo che la somma di $$\frac{1}{4}$$ del maggiore e della metà del minore è $$12$$ e che dividendoli fra loro si ottiene come quoziente $$2$$ e come resto $$8$$]{.text-blue}
 

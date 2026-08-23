@@ -1,4 +1,4 @@
-# [Primo criterio di similitudine fra triangoli]{.text-red}
+# Primo criterio di similitudine fra triangoli
 
 **Se due triangoli hanno due angoli congruenti allora i due triangoli sono simili**
 

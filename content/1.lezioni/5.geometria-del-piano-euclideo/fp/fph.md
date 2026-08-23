@@ -1,4 +1,4 @@
-# [Poligoni simili]{.text-red}
+# Poligoni simili
 
 Vediamo ora di estendere il concetto di similitudine dai triangoli ai poligoni
 

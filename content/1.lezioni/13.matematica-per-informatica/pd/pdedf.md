@@ -1,4 +1,4 @@
-# [Indipendenza inversa]{.text-red}
+# Indipendenza inversa
 
 È l'indipendenza inversa o incompatibilità $$a$$
 

@@ -1,4 +1,4 @@
-# [Rappresentazione cartesiana di una successione]{.text-red}
+# Rappresentazione cartesiana di una successione
 
 È possibile dare una rappresentazione cartesiana a una successione.
 

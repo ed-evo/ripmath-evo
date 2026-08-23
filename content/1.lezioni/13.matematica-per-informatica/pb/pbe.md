@@ -1,4 +1,4 @@
-# [Sistema di numerazione decimale]{.text-red}
+# Sistema di numerazione decimale
 
 Vediamo in questa pagina di mettere assieme quanto detto sul sistema di numerazione decimale.
 

@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 $$
 \textcolor{blue}{\log_{a} 0 = x}

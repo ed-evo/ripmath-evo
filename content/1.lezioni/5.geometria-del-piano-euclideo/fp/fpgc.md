@@ -1,4 +1,4 @@
-# [Secondo teorema di Euclide]{.text-red}
+# Secondo teorema di Euclide
 
 > **In ogni triangolo rettangolo un cateto è medio proporzionale fra l'ipotenusa e la proiezione del cateto stesso sull'ipotenusa**
 

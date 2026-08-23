@@ -1,4 +1,4 @@
-# [Equazioni di secondo grado con parametro]{.text-red}
+# Equazioni di secondo grado con parametro
 
 sono esercizi che vengono spesso utilizzati dagli insegnanti soprattutto perché costringono l'alunno ad utilizzare un tipo di ragionamento "comparativo" possibile solo se ha appreso certe nozioni fondamentali sulle equazioni di secondo grado.
 

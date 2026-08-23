@@ -1,4 +1,4 @@
-# [Equazioni reciproche]{.text-red}
+# Equazioni reciproche
 
 Sono equazioni caratterizzate dal fatto che per ogni soluzione esiste sempre come soluzione anche la sua reciproca (senza considerare il segno).
 

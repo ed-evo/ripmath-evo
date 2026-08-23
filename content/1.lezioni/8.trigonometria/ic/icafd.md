@@ -1,4 +1,4 @@
-# [Quarta formula di Werner]{.text-red}
+# Quarta formula di Werner
 
 Partiamo dalle due formule di addizione e sottrazione per il coseno e sottraiamo in verticale.
 

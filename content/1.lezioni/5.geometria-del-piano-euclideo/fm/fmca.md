@@ -1,4 +1,4 @@
-# [Primo teorema di Euclide]{.text-red}
+# Primo teorema di Euclide
 
 **In ogni triangolo rettangolo il quadrato costruito su un cateto è equivalente ad un rettangolo avente per lati l'ipotenusa e la proiezione del cateto sull'ipotenusa**
 

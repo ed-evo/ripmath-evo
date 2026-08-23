@@ -1,4 +1,4 @@
-# [Raggruppamento per polinomi a cinque termini: differenza di cubi]{.text-red}
+# Raggruppamento per polinomi a cinque termini: differenza di cubi
 
 In questo caso quattro dei termini concorrono a formare un cubo di un binomio ed il quinto termine è ancora un cubo
 

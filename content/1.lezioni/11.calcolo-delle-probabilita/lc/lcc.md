@@ -1,4 +1,4 @@
-# [Operazioni sugli eventi]{.text-red}
+# Operazioni sugli eventi
 
 Consideriamo due eventi $$\textcolor{red}{E_1}$$ ed $$\textcolor{red}{E_2}$$ appartenenti ad una medesima prova;
 

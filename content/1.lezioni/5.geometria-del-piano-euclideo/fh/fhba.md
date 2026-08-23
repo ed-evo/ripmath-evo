@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 [In un parallelogramma i lati opposti sono congruenti]{.text-red-darken-1}
 e viceversa

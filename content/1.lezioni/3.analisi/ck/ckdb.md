@@ -1,4 +1,4 @@
-# [Tabella dei principali integrali indefiniti]{.text-red}
+# Tabella dei principali integrali indefiniti
 
 Viene data ora la tabella dei principali integrali indefiniti: comunque, qualunque integrale che calcolerai, una volta calcolato potrà essere aggiunto alla tabella.
 

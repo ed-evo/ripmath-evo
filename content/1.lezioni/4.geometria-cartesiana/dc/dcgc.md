@@ -1,4 +1,4 @@
-# [Rototraslazione di coordinate]{.text-red}
+# Rototraslazione di coordinate
 
 Metto qui di seguito le formule per la rototraslazione di coordinate: si tratta di sommare una traslazione con una rotazione, pertanto otterremo:
 

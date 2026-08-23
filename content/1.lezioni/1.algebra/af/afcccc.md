@@ -1,4 +1,4 @@
-# [Caso del discriminante minore di zero]{.text-red}
+# Caso del discriminante minore di zero
 
 Facciamo un esempio
 $$\textcolor{red}{x^2 - 2x + 5 = 0}$$

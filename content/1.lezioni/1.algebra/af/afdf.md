@@ -1,4 +1,4 @@
-# [Equazioni irrazionali]{.text-red}
+# Equazioni irrazionali
 
 Sono equazioni in cui la $$x$$ compare sotto il segno di radice: per poterle risolvere dovremo eliminare le radici elevando i termini opportunamente.
 

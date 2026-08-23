@@ -1,4 +1,4 @@
-# [Crescenza e decrescenza]{.text-red}
+# Crescenza e decrescenza
 
 - definizione di funzione crescente
 - definizione di funzione decrescente

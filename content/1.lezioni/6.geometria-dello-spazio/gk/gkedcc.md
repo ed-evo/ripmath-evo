@@ -1,4 +1,4 @@
-# [Volume del segmento sferico a due basi]{.text-red}
+# Volume del segmento sferico a due basi
 
 **Volume segmento sferico a due basi**
 

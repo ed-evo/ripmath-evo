@@ -1,4 +1,4 @@
-# [Risolvere l'equazione:]{.text-red}
+# Risolvere l'equazione:
 
 $$
 \textcolor{red}{\frac{x - 1}{2} + \frac{2x + 1}{10} = 2x - 2 + \frac{1 - 3x}{5}}
@@ -54,7 +54,7 @@ $$
 
 $$x = 2$$ è la soluzione.
 
-## [Verifica:]{.text-red}
+## Verifica:
 
 Sostituisco a $$x$$ il valore $$2$$ nell'equazione di partenza:
 

@@ -1,4 +1,4 @@
-# [Variabili aleatorie continue]{.text-red}
+# Variabili aleatorie continue
 
 > Parleremo di variabili aleatorie continue quando l'insieme dei valori possibili sarà continuo, cioè avremo un numero infinito di probabilità per tutti i valori compresi in un intervallo in corrispondenza biunivoca con un intervallo della Retta Reale (per semplicità).
 

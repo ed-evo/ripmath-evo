@@ -1,4 +1,4 @@
-# [successioni]{.text-red}
+# successioni
 
 Riprendiamo ora le successioni da un punto di vista più avanzato
 

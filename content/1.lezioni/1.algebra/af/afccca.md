@@ -1,4 +1,4 @@
-# [Caso del discriminante maggiore di zero]{.text-red}
+# Caso del discriminante maggiore di zero
 
 Facciamo un esempio
 $$\textcolor{red}{x^2 - 3x - 4 = 0}$$

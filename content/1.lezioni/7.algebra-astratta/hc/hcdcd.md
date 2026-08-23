@@ -1,4 +1,4 @@
-# [Rappresentazione di un gruppo finito mediante la tabella di Cayley]{.text-red}
+# Rappresentazione di un gruppo finito mediante la tabella di Cayley
 
 È possibile rappresentare i gruppi finiti (gruppi con un numero finito di elementi) mediante dei particolari diagrammi chiamati diagrammi di Cayley; vediamoli su un paio di gruppi.
 

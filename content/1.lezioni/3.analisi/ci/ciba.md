@@ -1,4 +1,4 @@
-# [Campo di esistenza]{.text-red}
+# Campo di esistenza
 
 Per il campo di esistenza dobbiamo considerare tre casi:
 

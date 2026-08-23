@@ -1,4 +1,4 @@
-# [Equazioni irrazionali con indice pari]{.text-red}
+# Equazioni irrazionali con indice pari
 
 La radice con il suo termine è sempre considerata positiva quindi 
 $$\textcolor{red}{\sqrt{x}}$$ è un numero positivo

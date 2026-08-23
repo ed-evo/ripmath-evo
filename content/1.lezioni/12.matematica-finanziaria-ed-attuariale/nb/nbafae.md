@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del montante ad interesse composto per tempi interi con tassi non sulle tavole]{.text-red}
+# Esercizio sul calcolo del montante ad interesse composto per tempi interi con tassi non sulle tavole
 
 Si impiega il capitale di $$€ 10000$$ per $$6$$ anni e $$6$$ mesi al $$2,55\%$$ annuo. Calcolarne il montante nei modi possibili e confrontare i risultati.
 

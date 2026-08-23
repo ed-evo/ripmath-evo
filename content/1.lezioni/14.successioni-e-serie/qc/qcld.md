@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 Mostriamo che la successione $$1/2^{k-1}$$ è una maggiorante (per $$k > 2$$) della successione $$1/k!$$.
 

@@ -1,4 +1,4 @@
-# [Conclusioni]{.text-red}
+# Conclusioni
 
 Facendo il punto, devo mettere l'accento sull'importanza delle serie nel calcolo di un valore approssimato:
 

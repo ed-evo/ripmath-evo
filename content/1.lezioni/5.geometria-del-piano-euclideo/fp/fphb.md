@@ -1,4 +1,4 @@
-# [Criteri di similitudine fra poligoni]{.text-red}
+# Criteri di similitudine fra poligoni
 
 Siccome di solito si preferisce suddividere i poligoni in triangoli simili, i criteri, operativamente, non vengono utilizzati, sono comunque un discreto esercizio mentale: se consideriamo l'equivalente dei criteri di similitudine fra triangoli scartando quello che non viene considerato:
 

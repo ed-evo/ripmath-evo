@@ -1,4 +1,4 @@
-## [Tre equazioni equivalenti]{.text-red}
+## Tre equazioni equivalenti
 
 Anche qui facciamo un semplice esempio e poi raccogliamo i risultati
 

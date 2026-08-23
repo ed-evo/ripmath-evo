@@ -1,4 +1,4 @@
-# [Matrici quadrate]{.text-red}
+# Matrici quadrate
 
 Una matrice è quadrata se ha tante righe quante colonne
 

@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo $$9$$ (o relazione di congruenza modulo $$9$$)]{.text-red}
+# Insieme dei resti modulo $$9$$ (o relazione di congruenza modulo $$9$$)
 
 > **Nota:** Per vedere i calcoli ferma il mouse sul numero della tabella che ti interessa.
 

@@ -1,4 +1,4 @@
-# [Cos'è un Logaritmo decimale]{.text-red}
+# Cos'è un Logaritmo decimale
 
 Se hai bisogno di una trattazione teorica più completa e generale puoi riferirti all'argomento [logaritmi](../../a/al/al.html) sviluppato in algebra.
 

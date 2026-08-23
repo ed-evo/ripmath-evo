@@ -1,4 +1,4 @@
-# [Circocentro]{.text-red}
+# Circocentro
 
 Definiamo **circocentro** di un triangolo il punto di incontro degli assi dei suoi lati.
 

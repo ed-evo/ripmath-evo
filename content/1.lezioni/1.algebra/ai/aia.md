@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 Un sistema è un insieme di equazioni che valgono contemporaneamente
 

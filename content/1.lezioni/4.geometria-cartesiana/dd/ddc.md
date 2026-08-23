@@ -1,4 +1,4 @@
-# [Circonferenza]{.text-red}
+# Circonferenza
 
 Si definisce circonferenza l'insieme dei punti del piano che hanno la stessa distanza da un punto fisso detto centro
 

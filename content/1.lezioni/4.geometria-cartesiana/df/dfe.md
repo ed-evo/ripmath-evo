@@ -1,4 +1,4 @@
-# [Iperbole equilatera riferita ai propri asintoti]{.text-red}
+# Iperbole equilatera riferita ai propri asintoti
 
 Presa l'equazione dell'iperbole equilatera se operiamo una rotazione di assi di $$45^\circ$$ avremo che gli asintoti corrisponderanno agli assi cartesiani ortogonali ed otterremo l'equazione
 

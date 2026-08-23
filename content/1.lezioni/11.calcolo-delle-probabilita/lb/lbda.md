@@ -1,4 +1,4 @@
-# [Relazioni fra coefficienti binomiali e potenza di un binomio]{.text-red}
+# Relazioni fra coefficienti binomiali e potenza di un binomio
 
 Cerchiamo di capire il significato dei coefficienti binomiali; ad esempio iniziamo a vedere quelli per le combinazioni di due oggetti
 

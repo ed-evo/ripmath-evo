@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 $$
 \textcolor{red}{y' = 7e^x \cdot (x \log x + \log x + 1)}

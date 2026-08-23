@@ -1,4 +1,4 @@
-# [Ortocentro]{.text-red}
+# Ortocentro
 
 Definiamo **ortocentro** di un triangolo il punto di incontro delle sue altezze.
 

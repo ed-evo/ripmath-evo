@@ -1,4 +1,4 @@
-# [Serie a termini tutti positivi o tutti negativi]{.text-red}
+# Serie a termini tutti positivi o tutti negativi
 
 Consideriamo una serie i cui termini siano tutti positivi
 

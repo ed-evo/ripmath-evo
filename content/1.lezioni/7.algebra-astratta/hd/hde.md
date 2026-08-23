@@ -1,4 +1,4 @@
-# [Monomorfismo]{.text-red}
+# Monomorfismo
 
 Diciamo che si ha un monomorfismo se abbiamo un morfismo e l'applicazione $$f$$ è iniettiva: cioè ad ogni elemento diverso della prima struttura corrisponde un solo elemento della seconda struttura.
 

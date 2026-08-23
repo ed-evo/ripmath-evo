@@ -1,4 +1,4 @@
-# [Relazioni fra elementi di un triangolo rettangolo dipendenti dal seno]{.text-red}
+# Relazioni fra elementi di un triangolo rettangolo dipendenti dal seno
 
 Considero il triangolo rettangolo inscritto in un quarto di circonferenza come nella figura a fianco.
 Dalla definizione di seno abbiamo:

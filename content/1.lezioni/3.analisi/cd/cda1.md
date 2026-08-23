@@ -1,4 +1,4 @@
-# [Esercizi sulla definizione di limite]{.text-red}
+# Esercizi sulla definizione di limite
 
 Intuitivamente, quando l'intervallo sulla $$y$$ $$|f(x)-l|$$ diventa piccolissimo $$\epsilon$$ anche l'intervallo sulla $$x$$ $$|x-x_0|$$ diventa minore di una quantità dipendente dal primo $$\delta_\epsilon$$ e questo sarà il metodo che useremo negli esercizi.
 

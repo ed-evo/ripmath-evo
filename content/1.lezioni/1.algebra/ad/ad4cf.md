@@ -1,4 +1,4 @@
-# [POTENZA DEL BINOMIO]{.text-red}
+# POTENZA DEL BINOMIO
 
 Se io ora ti chiedessi di calcolare
 

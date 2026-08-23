@@ -1,4 +1,4 @@
-# [metodo dello studio della derivata prima]{.text-red}
+# metodo dello studio della derivata prima
 
 Questo metodo si basa sulla regola che:
 

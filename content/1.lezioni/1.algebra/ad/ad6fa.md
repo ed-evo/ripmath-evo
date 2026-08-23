@@ -1,4 +1,4 @@
-# [Raggruppamenti possibili per polinomi a quattro termini]{.text-red}
+# Raggruppamenti possibili per polinomi a quattro termini
 
 Il caso classico del raggruppamento a quattro termini è quello in cui tre termini concorrono in un quadrato ed il quarto è ancora un quadrato:
 

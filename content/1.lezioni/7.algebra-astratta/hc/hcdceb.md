@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo 4 (o relazione di congruenza modulo 4)]{.text-red}
+# Insieme dei resti modulo 4 (o relazione di congruenza modulo 4)
 
 Per vedere i calcoli ferma il mouse sul numero della tabella che ti interessa.
 

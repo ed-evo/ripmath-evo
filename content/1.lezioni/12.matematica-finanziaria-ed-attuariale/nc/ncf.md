@@ -1,4 +1,4 @@
-> # [Osservazione importante]{.text-red}
+> # Osservazione importante
 >
 > È sempre possibile passare dal valore di una rendita calcolato in una certa data a quello relativo ad una data diversa: si tratta di spostare nel tempo il valore della rendita come abbiamo già visto.
 >

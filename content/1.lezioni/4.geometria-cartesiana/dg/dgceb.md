@@ -1,4 +1,4 @@
-# [Alcune curve particolari di una famiglia di parabole]{.text-red}
+# Alcune curve particolari di una famiglia di parabole
 
 Data la famiglia
 $$

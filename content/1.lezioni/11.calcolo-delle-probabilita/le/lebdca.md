@@ -1,4 +1,4 @@
-> ## [Osservazione]{.text-red}
+> ## Osservazione
 >
 > Come ho già detto la funzione di densità non esprime una probabilità; infatti se hai una funzione continua come fai ad assegnare ad un punto una probabilità?
 >

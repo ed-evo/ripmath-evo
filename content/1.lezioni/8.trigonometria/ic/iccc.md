@@ -1,4 +1,4 @@
-# [Equazioni in seno e coseno di vario tipo]{.text-red}
+# Equazioni in seno e coseno di vario tipo
 
 Tutte le equazioni trigonometriche vanno o ricondotte ai tre tipi fondamentali, oppure ai tipi specifici della trigonometria: per fare questo, a livello indicativo, vi sono alcune regole da seguire:
 

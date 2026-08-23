@@ -1,4 +1,4 @@
-# [Conservazione della somma]{.text-red}
+# Conservazione della somma
 
 Dimostriamo che si conserva la somma, cioè se $$EF$$ è la somma di $$AB$$ e $$CD$$, allora $$E'F'$$ è la somma di $$A'B'$$ e $$C'D'$$.
 

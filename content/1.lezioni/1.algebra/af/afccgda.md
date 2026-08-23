@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione che ha come radici
 

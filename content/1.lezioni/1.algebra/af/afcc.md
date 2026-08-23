@@ -1,4 +1,4 @@
-# [Equazione di secondo grado completa]{.text-red}
+# Equazione di secondo grado completa
 
 È l'equazione
 

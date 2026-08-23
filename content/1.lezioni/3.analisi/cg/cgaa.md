@@ -1,4 +1,4 @@
-# [Funzione crescente]{.text-red}
+# Funzione crescente
 
 > Intuitivamente una funzione è crescente quando va verso l'alto. Siccome siamo in un piano cartesiano, diremo che è crescente quando, spostando il punto sulle $$x$$ verso destra, il punto sulle $$y$$ si sposta verso l'alto.
 > 

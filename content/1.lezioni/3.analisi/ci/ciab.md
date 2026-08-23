@@ -1,4 +1,4 @@
-# [Funzione pari]{.text-red}
+# Funzione pari
 
 Una funzione si dice pari se cambiando di segno la $$x$$ la funzione non cambia di segno in formula:
 

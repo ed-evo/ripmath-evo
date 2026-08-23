@@ -1,4 +1,4 @@
-# [Applicazioni delle formule di addizione e sottrazione]{.text-red}
+# Applicazioni delle formule di addizione e sottrazione
 
 Possiamo ora trovare altri valori per il seno ed il coseno partendo dai valori noti; facciamo un paio di esercizi:
 

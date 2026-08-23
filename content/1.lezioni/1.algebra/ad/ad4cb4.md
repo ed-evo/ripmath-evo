@@ -1,4 +1,4 @@
-# [metodo per ricordare la regola del quadrato]{.text-red}
+# metodo per ricordare la regola del quadrato
 
 Osserva la seguente figura e dimmi cosa ti sembra.
 

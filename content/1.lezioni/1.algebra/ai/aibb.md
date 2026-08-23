@@ -1,4 +1,4 @@
-# [Sistema di 3 equazioni a tre incognite]{.text-red}
+# Sistema di 3 equazioni a tre incognite
 
 Vediamo ora come risolvere un sistema di tre equazioni in tre incognite
 

@@ -1,4 +1,4 @@
-# [Approssimazione per eccesso]{.text-red}
+# Approssimazione per eccesso
 
 Significa approssimare il numero con valori più alti.
 

@@ -1,4 +1,4 @@
-# [Somma e differenza fra radicali]{.text-red}
+# Somma e differenza fra radicali
 
 Per somma intendiamo la somma algebrica cioè sia la somma che la differenza.
 Per capire come eseguire la somma fra radicali ripensiamo alla somma fra monomi:

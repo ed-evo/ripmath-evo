@@ -1,4 +1,4 @@
-> # [Nota sulla determinazione degli asintoti orizzontali od obliqui]{.text-red}
+> # Nota sulla determinazione degli asintoti orizzontali od obliqui
 > 
 > È possibile, semplicemente osservando la forma di una funzione, capire se la funzione ha un asintoto orizzontale, un asintoto obliquo oppure non ha asintoti di quel genere:
 > Basta ricordare che per i limiti nelle [forme indeterminate](../cd/cdgbb.html):

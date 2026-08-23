@@ -1,4 +1,4 @@
-# [esempio di relazione d'ordine parziale non antisimmetrica]{.text-red}
+# esempio di relazione d'ordine parziale non antisimmetrica
 
 Una relazione $$R$$ su un insieme $$A$$ è antisimmetrica se vale
 

@@ -1,4 +1,4 @@
-# [Variabili aleatorie discrete]{.text-red}
+# Variabili aleatorie discrete
 
 Parleremo di variabili aleatorie discrete quando l'insieme dei valori possibili sarà finito, cioè avremo un numero finito di probabilità e quindi di eventi diversi.
 

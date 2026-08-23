@@ -1,4 +1,4 @@
-# [Giudizio universale affermativo]{.text-red}
+# Giudizio universale affermativo
 
 > Si chiama universale perché usiamo il quantificatore universale, lo chiamiamo affermativo perché è in una frase affermativa.
 

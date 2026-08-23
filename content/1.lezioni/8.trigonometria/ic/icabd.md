@@ -1,4 +1,4 @@
-# [Tabella di riepilogo formule di duplicazione]{.text-red}
+# Tabella di riepilogo formule di duplicazione
 
 $$
 \textcolor{red}{\sin 2\alpha = 2 \sin \alpha \cos \alpha}

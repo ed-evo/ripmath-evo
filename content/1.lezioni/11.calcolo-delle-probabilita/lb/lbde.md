@@ -1,4 +1,4 @@
-# [Relazione di Stiefel]{.text-red}
+# Relazione di Stiefel
 
 > Dobbiamo dimostrare che è valida l'uguaglianza:
 >

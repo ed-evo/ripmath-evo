@@ -1,4 +1,4 @@
-# [Numeri di Gödel]{.text-red}
+# Numeri di Gödel
 
 Consideriamo la tabella dell'alfabeto che abbiamo visto precedentemente ed associamo ad ogni termine dell'alfabeto un numero dispari partendo da $$3$$ (si indica con $$g(\text{simbolo})$$).
 

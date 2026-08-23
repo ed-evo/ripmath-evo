@@ -1,4 +1,4 @@
-# [Quoziente fra numeri razionali]{.text-red}
+# Quoziente fra numeri razionali
 
 Definiamo il quoziente come il prodotto fra la prima frazione e l'inverso della seconda
 

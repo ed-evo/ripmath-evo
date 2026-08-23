@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Ora si comincia effettivamente a fare qualcosa di serio: stabiliremo l'equivalenza fra una retta nel piano e l'equazione generica di primo grado in due incognite. Meglio ancora, stabiliremo l'equivalenza fra la retta nel piano e la funzione di primo grado ad una incognita.
 

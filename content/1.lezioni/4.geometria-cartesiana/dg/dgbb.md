@@ -1,4 +1,4 @@
-# [Proprietà della parabola con vertice nell'origine ed asse verticale]{.text-red}
+# Proprietà della parabola con vertice nell'origine ed asse verticale
 
 [Matematicamente](dgbba.html) sull'equazione della parabola
 

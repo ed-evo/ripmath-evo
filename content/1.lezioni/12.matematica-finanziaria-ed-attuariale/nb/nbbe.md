@@ -1,4 +1,4 @@
-# [Equivalenza fra due capitalizzazioni frazionate]{.text-red}
+# Equivalenza fra due capitalizzazioni frazionate
 
 Se abbiamo due capitalizzazioni frazionate con frazioni di anno diverse è possibile ricavare il tasso della prima conoscendo quello della seconda e viceversa:
 La via più intuitiva sarebbe quella di passare dal primo tasso frazionato al tasso annuo nominale e da quello ricavare il secondo tasso frazionato, ma di solito, come calcoli, non è una cosa breve.

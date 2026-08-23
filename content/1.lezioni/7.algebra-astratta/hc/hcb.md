@@ -1,4 +1,4 @@
-# [Struttura algebrica]{.text-red}
+# Struttura algebrica
 
 Prima di introdurre il concetto fondamentale di struttura algebrica esaminiamo alcuni concetti che ci saranno necessari
 

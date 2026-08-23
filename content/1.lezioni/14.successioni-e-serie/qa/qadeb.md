@@ -1,4 +1,4 @@
-# [Termine variabile come divisore]{.text-red}
+# Termine variabile come divisore
 
 Qui abbiamo una successione molto importante, che applica $$N$$ in un sottoinsieme di $$Z$$
 

@@ -1,4 +1,4 @@
-# [Addizione fra numeri naturali]{.text-red}
+# Addizione fra numeri naturali
 
 D'ora in avanti useremo indifferentemente i termini somma e addizione anche se la somma indica il risultato mentre l'addizione indica l'operazione.
 

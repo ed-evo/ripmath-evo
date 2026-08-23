@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un trapezio di area $$150\text{ m}^2$$ l'altezza vale $$5\text{ metri}$$ e la base maggiore è doppia della minore. Calcolare la misura delle due basi]{.text-blue}
 

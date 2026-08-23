@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 In effetti una retta può essere pensata come una circonferenza di raggio infinito.
 

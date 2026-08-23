@@ -1,4 +1,4 @@
-# [Variabile aleatoria (casuale)]{.text-red}
+# Variabile aleatoria (casuale)
 
 > **Definizione:** La variabile aleatoria è una variabile che può assumere valori diversi in corrispondenza di altrettanti eventi che costituiscono una partizione dello spazio delle probabilità.
 

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$\textcolor{blue}{x^4 + 13x^2 + 36 = 0}$$ pongo
 

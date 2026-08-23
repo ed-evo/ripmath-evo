@@ -1,4 +1,4 @@
-> # [Osservazione]{.text-red}
+> # Osservazione
 > 
 > Consideriamo il montante di una rendita posticipata; per semplicità considero una rendita immediata posticipata e di $$5$$ periodi vediamone la retta dei tempi.
 > 

@@ -1,4 +1,4 @@
-# [Volume del cilindro]{.text-red}
+# Volume del cilindro
 
 Per calcolare il volume faremo semplicemente riferimento al [principio di Cavalieri](../gj/gjf.html).
 

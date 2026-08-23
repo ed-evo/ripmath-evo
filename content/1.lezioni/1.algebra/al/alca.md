@@ -1,4 +1,4 @@
-# [Esercizi sulla definizione di logaritmo]{.text-red}
+# Esercizi sulla definizione di logaritmo
 
 Trovare il valore dei seguenti logaritmi:
 

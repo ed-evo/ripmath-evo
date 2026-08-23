@@ -1,4 +1,4 @@
-# [Il calcolo integrale]{.text-red}
+# Il calcolo integrale
 
 Insieme al calcolo delle derivate è l'altra faccia del calcolo differenziale
 

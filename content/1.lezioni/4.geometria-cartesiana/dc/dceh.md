@@ -1,4 +1,4 @@
-# [Distanza di un punto da una retta]{.text-red}
+# Distanza di un punto da una retta
 
 È un problema che potrebbe essere risolto con le nozioni che già abbiamo: basta fare
 - perpendicolare dal punto alla retta

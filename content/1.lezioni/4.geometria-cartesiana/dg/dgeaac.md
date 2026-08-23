@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la parabola $$y = x^2 + 1$$, trovare le equazioni delle tangenti condotte alla parabola dall'origine $$O(0,0)$$ e, indicati con $$A$$ e $$B$$ i punti in cui tali tangenti toccano la parabola, trovare l'area del triangolo $$OAB$$.
 

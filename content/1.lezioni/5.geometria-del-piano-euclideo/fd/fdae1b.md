@@ -1,4 +1,4 @@
-## [Scriviamo l'ipotesi e la tesi]{.text-red}
+## Scriviamo l'ipotesi e la tesi
 
 [Dato il triangolo $$ABC$$ si prolunghino i lati $$AB$$ ed $$AC$$ oltre $$A$$ di due segmenti $$AD = AB$$ ed $$AE = AC$$. Dimostrare che sono congruenti i segmenti $$BC$$ e $$DE$$.]{.text-blue}
 

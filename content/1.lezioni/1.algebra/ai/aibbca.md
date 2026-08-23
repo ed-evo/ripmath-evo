@@ -1,4 +1,4 @@
-# [Sistema possibile]{.text-red}
+# Sistema possibile
 
 Diremo che il sistema è possibile se le tre equazioni che lo compongono derivano da informazioni valide.
 

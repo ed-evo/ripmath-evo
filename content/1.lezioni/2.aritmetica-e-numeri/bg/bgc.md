@@ -1,4 +1,4 @@
-# [Sottrazione]{.text-red}
+# Sottrazione
 
 - Per sottrarre $$11$$ da un numero basta togliere $$10$$ e poi togliere $$1$$
 $$

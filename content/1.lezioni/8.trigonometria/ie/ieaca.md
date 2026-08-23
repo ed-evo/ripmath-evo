@@ -1,4 +1,4 @@
-# [Formule di Briggs]{.text-red}
+# Formule di Briggs
 
 Le formule di Briggs ci permettono di esprimere il seno, il coseno e la tangente dell'angolo metà mediante i lati del triangolo.
 

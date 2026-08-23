@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{0/0}$$ non ha significato]{.text-red}
+# $$\textcolor{red}{0/0}$$ non ha significato
 
 > Infatti $$\textcolor{red}{0/0}$$ può essere uguale a qualunque numero, ad esempio al numero $$\textcolor{red}{5}$$.
 >

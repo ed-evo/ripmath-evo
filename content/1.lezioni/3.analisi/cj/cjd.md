@@ -1,4 +1,4 @@
-# [Introduzione alla formula di Taylor]{.text-red}
+# Introduzione alla formula di Taylor
 
 La formula di Taylor si propone di trasformare una funzione continua e derivabile (almeno di ordine $$n$$) in una somma di funzioni polinomiali.
 

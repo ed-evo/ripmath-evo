@@ -1,4 +1,4 @@
-# [In un angoloide ogni faccia è minore della somma di tutte le altre facce]{.text-red}
+# In un angoloide ogni faccia è minore della somma di tutte le altre facce
 
 > **Dimostrazione:**
 >

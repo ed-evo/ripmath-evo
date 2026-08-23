@@ -1,4 +1,4 @@
-# [integrazione per scomposizione]{.text-red}
+# integrazione per scomposizione
 
 Sono integrali in cui devi aggiungere e, contemporaneamente, togliere qualcosa al numeratore per renderlo semplificabile con il denominatore: se in questo modo ottieni integrali risolvibili sei a posto, altrimenti provi un altro metodo.
 

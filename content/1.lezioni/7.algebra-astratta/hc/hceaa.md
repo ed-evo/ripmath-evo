@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Mostrare la presenza della struttura ad anello per l'insieme $$\mathbb{Z}$$ dei numeri interi con le operazioni di addizione ($$+$$) e moltiplicazione ($$\cdot$$)
 

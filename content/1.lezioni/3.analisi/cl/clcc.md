@@ -1,4 +1,4 @@
-# [Equazioni differenziali del primo ordine lineari]{.text-red}
+# Equazioni differenziali del primo ordine lineari
 
 Diremo che un'equazione differenziale è lineare se la $$y$$ e la $$y'$$ hanno lo stesso grado (nel nostro caso $$1$$).
 

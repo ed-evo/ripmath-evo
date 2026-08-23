@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 $$
 \textcolor{blue}{x^2 + 2x - 3 = 0}

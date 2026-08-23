@@ -1,4 +1,4 @@
-# [Dimostrazione dell'equazione segmentaria della retta]{.text-red}
+# Dimostrazione dell'equazione segmentaria della retta
 
 > Troviamo la formula dell'equazione segmentaria della retta
 > 

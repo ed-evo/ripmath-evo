@@ -1,4 +1,4 @@
-# [Retta per l'origine]{.text-red}
+# Retta per l'origine
 
 Consideriamo dei punti allineati con l'origine degli assi:
 

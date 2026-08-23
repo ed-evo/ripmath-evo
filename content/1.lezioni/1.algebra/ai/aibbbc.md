@@ -1,4 +1,4 @@
-# [Calcolo del determinante 3x3 col metodo normale]{.text-red}
+# Calcolo del determinante 3x3 col metodo normale
 
 Il determinante di ordine $$1$$ corrisponde al numero stesso:
 

@@ -1,4 +1,4 @@
-# [discussione di equazioni di secondo grado]{.text-red}
+# discussione di equazioni di secondo grado
 
 - Metodo di Tartinville
 - Metodo grafico

@@ -1,4 +1,4 @@
-# [Scarto quadratico medio]{.text-red}
+# Scarto quadratico medio
 
 Siccome la varianza è una quantità di secondo grado (essendovi i quadrati degli scarti), al suo posto si considera spesso la sua radice quadrata (in modo da avere valori dello stesso ordine dei dati), che viene indicata come **scarto quadratico medio**.
 

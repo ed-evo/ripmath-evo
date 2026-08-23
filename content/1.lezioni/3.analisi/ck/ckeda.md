@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Calcolare l'area della regione di piano compresa fra la curva $$y = \frac{1}{x}$$ e l'asse delle $$x$$ tra gli estremi $$0$$ e $$1$$.
 

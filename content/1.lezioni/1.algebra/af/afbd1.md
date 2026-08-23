@@ -1,4 +1,4 @@
-# [risolvere la seguente equazione]{.text-red}
+# risolvere la seguente equazione
 
 $$
 \textcolor{red}{16x - 14 = 14x - 10}

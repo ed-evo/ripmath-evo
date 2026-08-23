@@ -1,4 +1,4 @@
-# [Triangolo con angoli $$30^\circ$$, $$60^\circ$$ e $$90^\circ$$]{.text-red}
+# Triangolo con angoli $$30^\circ$$, $$60^\circ$$ e $$90^\circ$$
 
 È logicamente un triangolo rettangolo poiché ha un angolo di $$90^\circ$$; inoltre è la metà di un triangolo equilatero: infatti eseguendo un ribaltamento attorno al cateto maggiore ottengo un triangolo con tre angoli di $$60^\circ$$, cioè equiangolo e quindi equilatero.
 

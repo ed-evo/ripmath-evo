@@ -1,4 +1,4 @@
-# [In ogni triangolo a lato maggiore sta opposto l'angolo maggiore]{.text-red}
+# In ogni triangolo a lato maggiore sta opposto l'angolo maggiore
 
 L'enunciato stavolta è già nel titolo.
 

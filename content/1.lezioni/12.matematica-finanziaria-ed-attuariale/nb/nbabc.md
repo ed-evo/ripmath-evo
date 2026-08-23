@@ -1,4 +1,4 @@
-# [Formule inverse]{.text-red}
+# Formule inverse
 
 Consideriamo la formula
 

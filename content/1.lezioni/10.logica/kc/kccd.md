@@ -1,4 +1,4 @@
-# [Giudizio particolare negativo]{.text-red}
+# Giudizio particolare negativo
 
 > Si chiama particolare perché usiamo il quantificatore esistenziale, lo chiamiamo negativo perché è in una frase negativa.
 

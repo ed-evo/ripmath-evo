@@ -1,4 +1,4 @@
-# [dimostrazione prima legge di De Morgan]{.text-red}
+# dimostrazione prima legge di De Morgan
 
 La **prima legge di Morgan** dice:
 

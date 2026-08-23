@@ -1,4 +1,4 @@
-# [Studio completo di funzione]{.text-red}
+# Studio completo di funzione
 
 Lo studio completo di una funzione si può sintetizzare nei seguenti punti:
 

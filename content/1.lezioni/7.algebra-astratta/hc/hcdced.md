@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo 2 (o relazione di congruenza modulo 2)]{.text-red}
+# Insieme dei resti modulo 2 (o relazione di congruenza modulo 2)
 
 Questa è importantissima: è alla base del sistema di numerazione a base $$2$$, cioè del sistema di numerazione su cui si basa l'Informatica.
 Inoltre puoi trovarne strutture isomorfe in varie discipline (mettere vari link).

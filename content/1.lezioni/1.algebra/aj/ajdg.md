@@ -1,4 +1,4 @@
-# [Prodotto esterno nelle matrici]{.text-red}
+# Prodotto esterno nelle matrici
 
 Il prodotto visto nella pagina precedente ($$-1/5$$ per la matrice) si considera come prodotto esterno o prodotto fra uno scalare ed una matrice. Indichiamolo con $$\textcolor{red}{x}$$.
 

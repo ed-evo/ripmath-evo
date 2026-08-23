@@ -1,4 +1,4 @@
-# [Moltiplicazione fra numeri naturali]{.text-red}
+# Moltiplicazione fra numeri naturali
 
 D'ora in avanti useremo indifferentemente i termini prodotto e moltiplicazione anche se il prodotto indica il risultato mentre la moltiplicazione indica l'operazione.
 

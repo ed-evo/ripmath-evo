@@ -1,4 +1,4 @@
-# [circuito $$xor$$ (or esclusivo)]{.text-red}
+# circuito $$xor$$ (or esclusivo)
 
 Mostriamo come funziona il circuito $$xor$$ (or esclusivo)
 

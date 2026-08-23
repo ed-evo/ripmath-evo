@@ -1,4 +1,4 @@
-# [Asintoto verticale]{.text-red}
+# Asintoto verticale
 
 Si ha un asintoto verticale quando, all'avvicinarsi della $$x$$ ad un valore finito, il valore della $$y$$ cresce all'infinito.
 

@@ -1,4 +1,4 @@
-# [Introduzione al calcolo integrale]{.text-red}
+# Introduzione al calcolo integrale
 
 Per capire il perché del calcolo integrale facciamo un semplice esempio:
 

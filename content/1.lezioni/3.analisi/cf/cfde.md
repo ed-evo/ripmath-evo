@@ -1,4 +1,4 @@
-# [Tangente ad una curva in un suo punto e legami con la derivata]{.text-red}
+# Tangente ad una curva in un suo punto e legami con la derivata
 
 Mediante la derivata è possibile trovare la tangente ad una curva in un suo punto in maniera molto semplice e rapida senza dover usare lo scomodo [metodo del discriminante](../../d/dd/ddcfb.html) come si fa in geometria cartesiana.
 

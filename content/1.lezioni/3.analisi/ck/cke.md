@@ -1,4 +1,4 @@
-# [Integrali definiti]{.text-red}
+# Integrali definiti
 
 L'integrale definito è il concetto iniziale di integrale come operazione finalizzata al calcolo delle aree.
 

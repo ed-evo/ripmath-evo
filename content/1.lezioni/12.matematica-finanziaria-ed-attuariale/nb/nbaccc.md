@@ -1,4 +1,4 @@
-# [Calcolo di t]{.text-red}
+# Calcolo di t
 
 Partiamo sempre dalla formula della capitalizzazione composta
 

@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Debbo risolvere il sistema
 

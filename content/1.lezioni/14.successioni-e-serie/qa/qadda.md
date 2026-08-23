@@ -1,4 +1,4 @@
-# [Prodotto per 0 (successione nulla)]{.text-red}
+# Prodotto per 0 (successione nulla)
 
 Moltiplicando qualunque successione per $$0$$ avremo una successione nulla
 

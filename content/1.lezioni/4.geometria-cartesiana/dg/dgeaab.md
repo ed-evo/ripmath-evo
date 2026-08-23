@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la parabola
 **$$y = -x^2 + 6x$$**

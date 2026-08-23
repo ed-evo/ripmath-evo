@@ -1,4 +1,4 @@
-# [Proprietà dell'addizione]{.text-red}
+# Proprietà dell'addizione
 
 Elenchiamo semplicemente le proprietà che ci interesseranno con un semplice esempio semplificativo: dimostreremo poi le varie proprietà nella sezione dedicata ad aritmetica razionale (fare link).
 

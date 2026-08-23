@@ -1,4 +1,4 @@
-# [Radici n-esime dell'unità mediante la formula (in gradi)]{.text-red}
+# Radici n-esime dell'unità mediante la formula (in gradi)
 
 $$x^6 = 1$$
 

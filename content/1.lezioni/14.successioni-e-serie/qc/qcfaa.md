@@ -1,4 +1,4 @@
-# [Perché il modulo si scompone in due disequazioni]{.text-red}
+# Perché il modulo si scompone in due disequazioni
 
 La disequazione
 $$

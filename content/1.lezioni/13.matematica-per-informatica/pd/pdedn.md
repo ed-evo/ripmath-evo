@@ -1,4 +1,4 @@
-# [Contro-implicazione inversa]{.text-red}
+# Contro-implicazione inversa
 
 > È la contro-implicazione inversa $$àb$$
 >

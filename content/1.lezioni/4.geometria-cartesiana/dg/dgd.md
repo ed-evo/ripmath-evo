@@ -1,4 +1,4 @@
-# [Parabola con asse orizzontale]{.text-red}
+# Parabola con asse orizzontale
 
 Possiamo considerare la parabola con asse orizzontale come la parabola con asse verticale in cui scambiamo le $$y$$ con le $$x$$
 

@@ -1,4 +1,4 @@
-# [SOMMA DI DUE MONOMI PER LA LORO DIFFERENZA]{.text-red}
+# SOMMA DI DUE MONOMI PER LA LORO DIFFERENZA
 
 Proviamo a scrivere [ $$(2a+3b)(2a-3b) =$$ ]{.text-red}
 $$

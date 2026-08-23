@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \frac{n(n-1)(n-2)...(n-k+1)}{n^k} =

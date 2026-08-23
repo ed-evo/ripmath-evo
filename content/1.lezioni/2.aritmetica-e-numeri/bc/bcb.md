@@ -1,4 +1,4 @@
-# [Insieme $$\mathbb{Q}$$ dei numeri razionali]{.text-red}
+# Insieme $$\mathbb{Q}$$ dei numeri razionali
 
 Possiamo ora definire l'Insieme $$\mathbb{Q}$$ dei numeri razionali:
 
@@ -15,7 +15,7 @@ $$\mathbb{Q}$$ è l'insieme dei numeri $$\frac{m}{n}$$ tali che $$m$$ è un nume
 
 Una rappresentazione molto usata sarà:
 
-### [la retta dei numeri razionali]{.text-red}
+### la retta dei numeri razionali
 
 facendo corrispondere ad ogni numero razionale un punto della retta ($$3$$ ad esempio può essere pensato $$\frac{3}{1}$$ e quindi razionale).
 

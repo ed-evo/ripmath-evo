@@ -1,4 +1,4 @@
-## [Secante di un angolo]{.text-red}
+## Secante di un angolo
 
 > La secante è la funzione reciproca del coseno
 >

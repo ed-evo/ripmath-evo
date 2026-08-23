@@ -1,4 +1,4 @@
-# [Calcolo approssimato di $$\sqrt{2}$$]{.text-red}
+# Calcolo approssimato di $$\sqrt{2}$$
 
 Cerchiamo di vedere come rappresentare e quanto vale questo nuovo tipo di numero che misura il rapporto fra la diagonale ed il lato del quadrato.
 

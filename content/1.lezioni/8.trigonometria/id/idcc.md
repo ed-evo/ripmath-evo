@@ -1,4 +1,4 @@
-# [Relazioni fra elementi di un triangolo rettangolo dipendenti dalla tangente]{.text-red}
+# Relazioni fra elementi di un triangolo rettangolo dipendenti dalla tangente
 
 Considero il triangolo rettangolo inscritto in un quarto di circonferenza.
 Dalla seconda relazione fondamentale, cioè:

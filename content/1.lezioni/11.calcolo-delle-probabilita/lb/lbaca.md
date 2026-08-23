@@ -1,4 +1,4 @@
-# [Permutazioni con oggetti ripetuti]{.text-red}
+# Permutazioni con oggetti ripetuti
 
 Facciamo un esempio con $$4$$ oggetti di cui $$3$$ uguali:
 $$\textcolor{red}{a \quad b \quad b \quad b}$$

@@ -1,4 +1,4 @@
-# [Sfera e superficie sferica]{.text-red}
+# Sfera e superficie sferica
 
 > In alcuni testi con **sfera** si intende sia il solido sia la superficie sferica; è purtroppo un uso piuttosto comune e, dal contesto del libro, dovrai capire di cosa si tratti. Qui invece cerchiamo di distinguere chiamando il solido (volume) **sfera** e la superficie (area) **superficie sferica**
 

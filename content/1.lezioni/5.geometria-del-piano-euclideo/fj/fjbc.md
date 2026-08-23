@@ -1,4 +1,4 @@
-# [La perpendicolare condotta dal centro alla corda la taglia a metà]{.text-red}
+# La perpendicolare condotta dal centro alla corda la taglia a metà
 
 **Ipotesi:** $$OH \perp AB$$
 **Tesi:** $$AH = HB$$

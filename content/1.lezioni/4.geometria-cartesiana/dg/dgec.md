@@ -1,4 +1,4 @@
-# [Esercizi con parametro sulla parabola]{.text-red}
+# Esercizi con parametro sulla parabola
 
 Sono parecchio utilizzati perché uniscono ad una necessaria conoscenza grafica anche un tipo di ragionamento analitico per la risoluzione
 

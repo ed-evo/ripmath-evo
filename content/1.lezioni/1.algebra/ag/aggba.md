@@ -1,4 +1,4 @@
-# [Disuguaglianza fra un modulo ed un numero reale positivo]{.text-red}
+# Disuguaglianza fra un modulo ed un numero reale positivo
 
 Troveremo questa disuguaglianza soprattutto quando dovremo verificare il valore di un limite di successione o di funzione.
 

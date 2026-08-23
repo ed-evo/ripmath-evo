@@ -1,4 +1,4 @@
-# [Operazioni con i radicali]{.text-red}
+# Operazioni con i radicali
 
 Come per tutti gli enti matematici appena definiti ora occorre studiare quali sono le regole per le operazioni fra gli enti stessi.
 

@@ -1,4 +1,4 @@
-# [Coefficienti binomiali]{.text-red}
+# Coefficienti binomiali
 
 Vediamo ora, data la loro importanza, di studiare meglio i coefficienti binomiali, il loro collegamento allo sviluppo del quadrato di un binomio ed anche alcune formule notevoli
 

@@ -1,4 +1,4 @@
-# [Angolo di 30 gradi ($$\frac{\pi}{6}$$)]{.text-red}
+# Angolo di 30 gradi ($$\frac{\pi}{6}$$)
 
 Consideriamo l'angolo di $$30^\circ$$: se lo ribalto attorno all'asse delle $$x$$ ottengo un angolo di $$60^\circ$$ ed il triangolo $$OPQ$$ è equilatero.
 

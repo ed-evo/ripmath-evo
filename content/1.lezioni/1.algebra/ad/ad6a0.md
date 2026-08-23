@@ -1,4 +1,4 @@
-# [PERCHÉ LA SCOMPOSIZIONE]{.text-red}
+# PERCHÉ LA SCOMPOSIZIONE
 
 Dopo aver fatte le operazioni con i numeri interi sei passato ad eseguire le operazioni con le frazioni e per poter fare il minimo comune multiplo e quindi la somma hai dovuto scomporre i numeri in fattori primi.
 

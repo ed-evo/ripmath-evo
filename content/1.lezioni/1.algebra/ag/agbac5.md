@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$\textcolor{blue}{(x + 2)^2 - 2x < x^2 - 4x - 3}$$
 

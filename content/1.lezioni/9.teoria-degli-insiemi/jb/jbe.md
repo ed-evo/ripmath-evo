@@ -1,5 +1,5 @@
-# [Insieme delle parti]{.text-red}
-## [Insieme potenza di un insieme]{.text-red}
+# Insieme delle parti
+## Insieme potenza di un insieme
 
 Definiamo **Insieme delle parti di $$A$$** oppure **Insieme potenza di $$A$$**
 

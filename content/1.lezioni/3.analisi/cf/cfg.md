@@ -1,4 +1,4 @@
-# [Derivate parziali]{.text-red}
+# Derivate parziali
 
 Veramente per poter fare le derivate parziali bisognerebbe parlare prima di funzioni a più incognite, cioè del tipo
 

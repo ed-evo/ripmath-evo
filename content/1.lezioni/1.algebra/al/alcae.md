@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \textcolor{blue}{\log_{4} \frac{1}{64} = x}

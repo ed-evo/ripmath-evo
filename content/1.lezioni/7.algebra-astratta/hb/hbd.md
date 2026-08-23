@@ -1,4 +1,4 @@
-# [Mutue proprietà di somma e prodotto]{.text-red}
+# Mutue proprietà di somma e prodotto
 
 Anche qui elenchiamo semplicemente la proprietà che ci interessa con un semplice esempio semplificativo:
 

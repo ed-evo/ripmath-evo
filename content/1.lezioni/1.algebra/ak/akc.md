@@ -1,4 +1,4 @@
-# [Radicali algebrici]{.text-red}
+# Radicali algebrici
 
 I radicali algebrici sono l'operazione inversa dell'elevamento a potenza: infatti se ho $$\sqrt{25}$$ significa che devo trovare quel numero che moltiplicato per sé stesso mi dà $$25$$, quindi avrò $$5$$ perché $$5 \times 5 = 25$$, ma avrò anche $$-5$$ perché $$(-5) \times (-5) = 25$$.
 

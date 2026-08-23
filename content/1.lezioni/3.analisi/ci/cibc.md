@@ -1,4 +1,4 @@
-# [Punti di intersezione con gli assi]{.text-red}
+# Punti di intersezione con gli assi
 
 Si tratta di calcolare le coordinate dei punti in cui la funzione incontra gli assi coordinati: per fare ciò occorre fare
 

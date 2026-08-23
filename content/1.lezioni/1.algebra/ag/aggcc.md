@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Dire per quali valori di $$x$$ la seguente disequazione risulta verificata
 
@@ -229,7 +229,7 @@ Il sistema ammette soluzione $$x > 2$$ (devi considerare dove sono valide entram
 
 Adesso metto assieme i risultati dei tre sistemi e trovo la soluzione.
 
-## [Soluzione]{.text-red}
+## Soluzione
 
 $$x > 2$$
 

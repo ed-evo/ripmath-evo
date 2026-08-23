@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Eseguire il seguente prodotto fra numeri binari:
 $$10010 \cdot 1001100 =$$

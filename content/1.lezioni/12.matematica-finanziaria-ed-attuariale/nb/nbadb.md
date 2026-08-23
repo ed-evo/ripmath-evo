@@ -1,4 +1,4 @@
-# [Formula esponenziale]{.text-red}
+# Formula esponenziale
 
 Basterà semplicemente trasformare il tempo in frazione ed applicare la formula
 

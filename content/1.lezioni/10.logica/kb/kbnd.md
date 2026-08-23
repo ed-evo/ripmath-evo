@@ -1,4 +1,4 @@
-# [Dimostrazione di un teorema: metodo inverso (dimostrazione per assurdo)]{.text-red}
+# Dimostrazione di un teorema: metodo inverso (dimostrazione per assurdo)
 
 > La proposizione cointroinversa è alla base del metodo inverso per la dimostrazione di un teorema.
 

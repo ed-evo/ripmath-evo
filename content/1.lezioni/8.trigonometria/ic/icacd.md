@@ -1,4 +1,4 @@
-# [Tabella di riepilogo formule di bisezione]{.text-red}
+# Tabella di riepilogo formule di bisezione
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \pm \sqrt{\frac{1 - \cos \alpha}{2}}}

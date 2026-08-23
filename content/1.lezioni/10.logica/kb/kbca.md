@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Dimostriamo che vale la proprietà distributiva della congiunzione logica rispetto alla disgiunzione inclusiva
 

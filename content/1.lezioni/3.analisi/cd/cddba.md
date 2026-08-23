@@ -1,4 +1,4 @@
-# [Limite finito $$l$$ per $$x$$ tendente a più infinito]{.text-red}
+# Limite finito $$l$$ per $$x$$ tendente a più infinito
 
 Per dire che abbiamo un limite finito $$l$$ quando $$x$$ tende a più infinito dobbiamo dire che quando l'intorno di $$l$$ sulle $$y$$ si restringe, il bordo del corrispondente intorno di infinito sull'asse $$x$$ si allontana sempre più verso più infinito.
 

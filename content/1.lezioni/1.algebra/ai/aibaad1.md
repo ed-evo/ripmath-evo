@@ -1,4 +1,4 @@
-# [Metodo di Cramer]{.text-red}
+# Metodo di Cramer
 
 ---
 

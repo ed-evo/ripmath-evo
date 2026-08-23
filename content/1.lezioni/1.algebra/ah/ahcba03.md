@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un numero di tre cifre la cifra delle unità è uguale a quella delle centinaia; scambiando tra loro la cifra delle unità e quella delle decine si ottiene un numero che supera di 27 quello di partenza. Trovare il numero sapendo che la somma delle sue cifre è 12]{.text-blue}
 

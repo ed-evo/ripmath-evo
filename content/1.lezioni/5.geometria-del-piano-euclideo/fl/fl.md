@@ -1,4 +1,4 @@
-# [Costruzioni geometriche con riga e compasso]{.text-red}
+# Costruzioni geometriche con riga e compasso
 
 È un argomento ormai obsoleto, secondo me.
 

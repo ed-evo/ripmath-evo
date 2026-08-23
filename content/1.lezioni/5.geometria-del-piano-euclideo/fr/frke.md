@@ -1,4 +1,4 @@
-# [Relazione fra raggio del cerchio e lati del triangolo inscritto]{.text-red}
+# Relazione fra raggio del cerchio e lati del triangolo inscritto
 
 **Teorema:**
 Il raggio del cerchio in cui è inscritto un triangolo è uguale al prodotto dei lati fratto 4 volte l'area del triangolo stesso.

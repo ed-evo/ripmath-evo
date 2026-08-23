@@ -1,4 +1,4 @@
-# [Definizione di numero complesso]{.text-red}
+# Definizione di numero complesso
 
 Un numero si dice complesso quando è formato da un numero reale più (o meno) un numero immaginario. Esempio:
 

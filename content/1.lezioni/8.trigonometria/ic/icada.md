@@ -1,4 +1,4 @@
-# [Formula parametrica per il seno]{.text-red}
+# Formula parametrica per il seno
 
 > L'interessante di queste formule è il tipo di ragionamento che sta alla base del procedimento: trasformare l'espressione in una frazione e quindi dividere numeratore e denominatore per lo stesso termine (di solito quello in basso a sinistra); sarà un procedimento che useremo altre volte.
 

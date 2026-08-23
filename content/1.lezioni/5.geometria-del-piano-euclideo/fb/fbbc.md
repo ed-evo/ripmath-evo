@@ -1,4 +1,4 @@
-# [Postulati dell'uguaglianza]{.text-red}
+# Postulati dell'uguaglianza
 
 Bisogna distinguere fra uguaglianza e congruenza: due cose sono uguali se sono la stessa cosa, cioè se occupano lo stesso spazio nello stesso tempo.
 

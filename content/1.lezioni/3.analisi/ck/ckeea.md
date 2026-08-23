@@ -1,4 +1,4 @@
-# [Volume del cilindro]{.text-red}
+# Volume del cilindro
 
 Vediamo come trovare il volume del cilindro:
 

@@ -1,4 +1,4 @@
-# [Similitudine fra figure piane qualsiasi]{.text-red}
+# Similitudine fra figure piane qualsiasi
 
 Per capire la similitudine fra figure piane qualsiasi pensiamo ad un proiettore e ad uno schermo che si possa avvicinare ed allontanare dal proiettore sempre sulla stessa linea (senza torsione): le figure appariranno sullo schermo più o meno grandi, ma "simili" fra loro nel senso che conserveranno la forma.
 

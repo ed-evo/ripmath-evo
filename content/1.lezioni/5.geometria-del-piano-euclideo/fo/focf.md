@@ -1,4 +1,4 @@
-# [Unicità del quarto proporzionale]{.text-red}
+# Unicità del quarto proporzionale
 
 Vale la proprietà
 

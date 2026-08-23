@@ -1,4 +1,4 @@
-# [Raggruppamenti possibili per polinomi a sei termini]{.text-red}
+# Raggruppamenti possibili per polinomi a sei termini
 
 In questo caso i raggruppamenti possibili sono ancor più numerosi: per dartene un'idea pensa a tutte le scomposizioni fatte tali che il numero dei termini di due scomposizioni sia $$6$$ e tali che i termini delle due scomposizioni non si possano sommare tra loro; quindi:
 

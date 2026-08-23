@@ -1,4 +1,4 @@
-## [Soluzione del problema]{.text-red}
+## Soluzione del problema
 
 > Ragioniamo ancora su Achille e la tartaruga: Achille raggiungerà la tartaruga nel punto alla distanza dalla partenza di metri $$111,1111\dots$$ e siccome il numero è decimale illimitato e periodico se voglio scriverlo tutto non finirò mai, però alla decima cifra decimale la distanza fra Achille e la tartaruga sarà minore del diametro di un atomo!
 >

@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del capitale ad interesse composto per tempi interi con tasso non sulle tavole]{.text-red}
+# Esercizio sul calcolo del capitale ad interesse composto per tempi interi con tasso non sulle tavole
 
 Ho impiegato un capitale per $$18$$ anni ad interesse composto al $$4,865\%$$ ed ho ricevuto come montante la somma di $$\text{€ } 22225,80$$.
 Calcolare l'ammontare del capitale versato inizialmente.

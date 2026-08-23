@@ -1,4 +1,4 @@
-# [Definizione di corpo]{.text-red}
+# Definizione di corpo
 
 Diamo ora la definizione di corpo: basterà aggiungere alla struttura di anello il fatto che esista per la seconda operazione un elemento neutro e che per ogni elemento sia presente un elemento opposto (con l'eccezione dell'elemento neutro della prima operazione).
 

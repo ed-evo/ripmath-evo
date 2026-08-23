@@ -1,4 +1,4 @@
-# [Se in un triangolo l'altezza, la mediana e la bisettrice condotte dal vertice opposto alla base sono coincidenti allora il triangolo è isoscele]{.text-red}
+# Se in un triangolo l'altezza, la mediana e la bisettrice condotte dal vertice opposto alla base sono coincidenti allora il triangolo è isoscele
 
 Posso anche prendere per ipotesi che coincidono altezza e mediana, oppure prendere per ipotesi che coincidono altezza e bisettrice, od anche prendere per ipotesi che coincidono mediana e bisettrice; in tutti e tre i casi il triangolo sarà isoscele.
 

@@ -1,4 +1,4 @@
-# [Potenza fra numeri reali]{.text-red}
+# Potenza fra numeri reali
 
 > Qui è un po' complicato: dovremo considerare vari casi:
 

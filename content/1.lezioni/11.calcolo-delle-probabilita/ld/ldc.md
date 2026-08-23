@@ -1,4 +1,4 @@
-# [Gioco equo]{.text-red}
+# Gioco equo
 
 Abbiamo visto alcuni giochi in cui il gioco è equilibrato, cioè posso vincere o perdere (lancio di una moneta), e, invece, giochi in cui la tendenza è perdere (enalotto); questo ci porta a parlare di gioco equo, cioè un gioco in cui ci si confronti alla pari, con le stesse possibilità (non probabilità) di vincita e di perdita.
 

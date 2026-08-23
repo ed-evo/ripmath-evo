@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione della parabola con asse verticale che passa per i punti $$\textcolor{blue}{A=(1,0)}$$, $$\textcolor{blue}{B=(0,2)}$$ e $$\textcolor{blue}{C=(3,2)}$$
 

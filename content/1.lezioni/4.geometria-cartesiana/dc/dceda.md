@@ -1,4 +1,4 @@
-# [Fascio di rette proprio]{.text-red}
+# Fascio di rette proprio
 
 È l'insieme di tutte le rette che passano per un punto.
 

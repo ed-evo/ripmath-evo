@@ -1,4 +1,4 @@
-# [Concavità di una curva]{.text-red}
+# Concavità di una curva
 
 Per capire cos'è la concavità consideriamo una delle curve più semplici: la parabola passante per l'origine
 

@@ -1,4 +1,4 @@
-# [Sistema lineare omogeneo]{.text-red}
+# Sistema lineare omogeneo
 
 Se il sistema è lineare omogeneo di $$n$$ equazioni in $$n$$ incognite invece devi:
 

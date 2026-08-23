@@ -1,4 +1,4 @@
-# [Circuiti logici ed elettrici]{.text-red}
+# Circuiti logici ed elettrici
 
 - interruttori
 - Operazione unaria: il passaggio al complementare

@@ -1,4 +1,4 @@
-# [Teoremi sui limiti di successioni]{.text-red}
+# Teoremi sui limiti di successioni
 
 Raccogliamo qui alcuni teoremi sui limiti di successioni
 

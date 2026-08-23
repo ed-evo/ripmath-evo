@@ -1,4 +1,4 @@
-# [Conseguenze del teorema di Talete: teoremi sulle bisettrici]{.text-red}
+# Conseguenze del teorema di Talete: teoremi sulle bisettrici
 
 Utilizzando il teorema di Talete vediamo alcune interessanti proprietà delle bisettrici di un triangolo:
 

@@ -1,4 +1,4 @@
-# [Come fare le tabelle rapidamente]{.text-red}
+# Come fare le tabelle rapidamente
 
 Per fare le tabelle in modo veloce, ad esempio nella tabella precedente, prendo tre gruppi di lettere (su $$4$$), cioè considero in ordine alfabetico $$3$$ delle $$4$$ lettere possibili:
 $$abc$$, $$abd$$, $$acd$$ e $$bcd$$.

@@ -1,4 +1,4 @@
-# [Cos'è la capitalizzazione frazionata]{.text-red}
+# Cos'è la capitalizzazione frazionata
 
 Quando abbiamo la capitalizzazione di una somma tale capitalizzazione può avvenire anche per periodi diversi dall'anno; ad esempio molto usata in ambito bancario è la capitalizzazione semestrale: dopo sei mesi la banca calcola l'interesse maturato e lo riaggiunge al capitale e così via di sei mesi in sei mesi.
 

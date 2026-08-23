@@ -1,4 +1,4 @@
-# [Teorema inverso del precedente]{.text-red}
+# Teorema inverso del precedente
 
 Vale il teorema:
 

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Si dimostri per via elementare che, se due grandezze positive hanno somma costante, il prodotto è massimo quando sono uguali
 

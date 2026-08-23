@@ -1,4 +1,4 @@
-# [Limite infinito per x tendente ad un valore infinito]{.text-red}
+# Limite infinito per x tendente ad un valore infinito
 
 Qui abbiamo quattro casi con segni ben definiti più tre casi con infinito generico
 

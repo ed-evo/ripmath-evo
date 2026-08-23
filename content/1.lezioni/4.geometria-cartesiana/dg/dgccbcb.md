@@ -1,4 +1,4 @@
-# [Metodo semplice per determinare le condizioni]{.text-red}
+# Metodo semplice per determinare le condizioni
 
 Se abbiamo le coordinate del vertice
 $$\textcolor{blue}{V = (x_0, y_0)}$$

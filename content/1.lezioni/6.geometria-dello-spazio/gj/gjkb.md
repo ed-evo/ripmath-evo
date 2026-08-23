@@ -1,4 +1,4 @@
-# [Volume del tronco di piramide]{.text-red}
+# Volume del tronco di piramide
 
 Consideriamo il tronco di piramide di base maggiore $$B$$, di base minore $$b$$ e di altezza $$h$$.
 

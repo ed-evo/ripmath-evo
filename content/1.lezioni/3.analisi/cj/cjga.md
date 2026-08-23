@@ -1,4 +1,4 @@
-# [Sviluppo in serie]{.text-red}
+# Sviluppo in serie
 
 Sviluppare in serie di potenze la funzione
 

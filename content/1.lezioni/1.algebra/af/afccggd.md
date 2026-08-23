@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Semplificare la seguente frazione:
 

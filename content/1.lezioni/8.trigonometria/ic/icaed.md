@@ -1,4 +1,4 @@
-# [quarta formula di prostaferesi]{.text-red}
+# quarta formula di prostaferesi
 
 Partiamo dalle due formule di addizione e sottrazione per il seno e sottraiamo in verticale
 > i due termini uguali $$\textcolor{blue}{\cos \alpha \cos \beta}$$ avendo lo stesso segno si annullano e spariscono

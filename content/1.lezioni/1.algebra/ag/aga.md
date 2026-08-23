@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 La disequazione è una disuguaglianza che è verificata per certi intervalli di valori.
 

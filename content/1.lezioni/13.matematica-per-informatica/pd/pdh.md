@@ -1,4 +1,4 @@
-# [Conclusioni]{.text-red}
+# Conclusioni
 
 Abbiamo visto che, utilizzando il sistema binario e l'algebra binaria di Boole, è possibile far eseguire operazioni di somma a due correnti elettriche che percorrano un particolare circuito e che tali operazioni si possono estendere alla logica con tutto quello che ciò comporta; ora, avendo acquisito gli strumenti matematici, si tratta di elaborare l'architettura del calcolatore elettronico con la sua memoria e la sua unità operativa, ma questo è specifico dell'informatica.
 

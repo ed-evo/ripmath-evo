@@ -1,4 +1,4 @@
-# [Cono]{.text-red}
+# Cono
 
 - [Definizione](gkca.html)
 - [Area della superficie](gkcb.html)

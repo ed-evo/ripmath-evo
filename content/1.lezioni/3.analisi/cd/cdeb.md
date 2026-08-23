@@ -1,4 +1,4 @@
-# [Teorema della permanenza del segno]{.text-red}
+# Teorema della permanenza del segno
 
 Il teorema dice che [se una funzione ha limite diverso da $$0$$ esiste tutto un intervallo ove la funzione ha lo stesso segno del suo limite.]{.text-purple}
 

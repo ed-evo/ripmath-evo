@@ -1,4 +1,4 @@
-# [Varianza]{.text-red}
+# Varianza
 
 Per la varianza consideriamo al solito lo scarto dal valore medio e poi facciamo la somma dei quadrati degli scarti (ricordo che l'integrale è il limite della somma)
 

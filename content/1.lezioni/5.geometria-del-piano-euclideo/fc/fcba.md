@@ -1,4 +1,4 @@
-# [Segmenti]{.text-red}
+# Segmenti
 
 Considero una retta sul piano: sulla retta posso considerare un punto $$A$$: ottengo che la retta viene divisa in due parti che chiamerò semirette di origine $$A$$.
 

@@ -1,4 +1,4 @@
-# [dimostrazione]{.text-red}
+# dimostrazione
 
 Voglio dimostrare che per l'asintoto vale
 

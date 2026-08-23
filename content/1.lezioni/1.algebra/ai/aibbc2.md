@@ -1,4 +1,4 @@
-# [informazioni ripetute]{.text-red}
+# informazioni ripetute
 
 Prendiamo sempre i valori $$\textcolor{red}{x = 1}$$, $$\textcolor{red}{y = 2}$$, $$\textcolor{red}{z = 3}$$ e costruiamoci delle equazioni: queste saranno ripetute se ci daranno informazioni uguali sullo stesso fatto.
 

@@ -1,4 +1,4 @@
-# [Relazioni]{.text-red}
+# Relazioni
 
 Veniamo ora al concetto di **relazione** che ci permetterà di considerare corrispondenze fra elementi di uno o più insiemi.
 

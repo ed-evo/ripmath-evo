@@ -1,4 +1,4 @@
-# [Problemi di massimo e minimo]{.text-red}
+# Problemi di massimo e minimo
 
 1)
 Tra tutti i rettangoli di perimetro assegnato $$2p$$ determinare quello di area massima

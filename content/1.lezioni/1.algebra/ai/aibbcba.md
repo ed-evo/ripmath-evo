@@ -1,4 +1,4 @@
-# [Due equazioni equivalenti]{.text-red}
+# Due equazioni equivalenti
 
 Prima facciamo un semplice esempio e poi raccogliamo i risultati.
 

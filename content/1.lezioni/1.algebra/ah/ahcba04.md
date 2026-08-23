@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In una frazione il numeratore supera di $$15$$ il denominatore. Sottraendo $$2$$ a entrambi i termini si ottiene una frazione equivalente a $$\frac{7}{2}$$. Trovare la frazione]{.text-blue}
 

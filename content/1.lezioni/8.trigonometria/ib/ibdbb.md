@@ -1,4 +1,4 @@
-# [Secondo quadrante: $$180^\circ - \alpha$$ (angoli supplementari)]{.text-red}
+# Secondo quadrante: $$180^\circ - \alpha$$ (angoli supplementari)
 
 Se il punto $$P$$ corrisponde all'angolo $$180^\circ - \alpha$$ allora il punto $$Q$$ corrisponderà all'angolo $$\alpha$$.
 

@@ -1,4 +1,4 @@
-# [Formula di Taylor con resto di Peano]{.text-red}
+# Formula di Taylor con resto di Peano
 
 > metti la pagina a tutto schermo altrimenti le formule si vedono male
 

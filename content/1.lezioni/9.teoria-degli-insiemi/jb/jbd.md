@@ -1,4 +1,4 @@
-# [Sottoinsiemi di un insieme]{.text-red}
+# Sottoinsiemi di un insieme
 
 Definiamo sottoinsieme di un insieme dato un nuovo insieme che abbia come elementi degli elementi presenti nell'insieme di partenza: ad esempio dato
 

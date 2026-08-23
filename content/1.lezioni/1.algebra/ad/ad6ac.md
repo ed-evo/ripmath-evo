@@ -1,4 +1,4 @@
-# [RACCOGLIMENTO A FATTOR COMUNE PARZIALE]{.text-red}
+# RACCOGLIMENTO A FATTOR COMUNE PARZIALE
 
 Il raccoglimento a fattor comune parziale si può eseguire solamente quando i termini del polinomio sono $$4, 6, 8...$$ Il ragionamento da fare è il seguente:
 

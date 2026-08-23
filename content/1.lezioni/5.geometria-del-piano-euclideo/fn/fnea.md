@@ -1,4 +1,4 @@
-# [Approssimazione per difetto]{.text-red}
+# Approssimazione per difetto
 
 Significa approssimare il numero con valori più bassi.
 

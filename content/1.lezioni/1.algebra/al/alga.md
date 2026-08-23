@@ -1,4 +1,4 @@
-# [Logaritmo di un prodotto]{.text-red}
+# Logaritmo di un prodotto
 
 ---
 

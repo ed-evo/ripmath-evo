@@ -1,4 +1,4 @@
-# [Geometria di Lobacewskij-Bolyai]{.text-red}
+# Geometria di Lobacewskij-Bolyai
 
 Per capire questa geometria dobbiamo prendere un'altra definizione (equivalente) di parallela.
 

@@ -1,4 +1,4 @@
-# [Fasci di circonferenze]{.text-red}
+# Fasci di circonferenze
 
 Analogamente a quanto abbiamo fatto per il fascio di rette estendiamo il concetto di fascio alla circonferenza
 

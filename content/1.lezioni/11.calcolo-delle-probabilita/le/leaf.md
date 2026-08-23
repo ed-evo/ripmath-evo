@@ -1,4 +1,4 @@
-# [Distribuzioni di probabilità]{.text-red}
+# Distribuzioni di probabilità
 
 Data la variabile aleatoria
 

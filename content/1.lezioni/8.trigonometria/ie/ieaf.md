@@ -1,4 +1,4 @@
-# [Mediane di un triangolo]{.text-red}
+# Mediane di un triangolo
 
 Chiamiamo $$\delta$$ l'angolo **BMA**, di conseguenza l'angolo **CMA** sarà $$180 - \delta$$.
 Applichiamo il teorema di Carnot ai triangoli **BMA** e **CMA** ricordando che essendo **AM** la mediana sarà:

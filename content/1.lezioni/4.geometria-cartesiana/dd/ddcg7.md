@@ -1,4 +1,4 @@
-# [Problemi vari]{.text-red}
+# Problemi vari
 
 Teoricamente sono tanti.
 Ti faccio un elenco dei problemi che possono capitare con un esercizio di esempio per ciascuno di essi (o meglio svilupperò l'esercizio in futuro).

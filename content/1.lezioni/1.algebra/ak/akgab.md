@@ -1,4 +1,4 @@
-# [esercizio sui radicali in forma esponenziale]{.text-red}
+# esercizio sui radicali in forma esponenziale
 
 $$
 \textcolor{red}{\sqrt{\frac{a \sqrt[3]{a \sqrt{a}}}{\sqrt[4]{a \sqrt{a}}}}}

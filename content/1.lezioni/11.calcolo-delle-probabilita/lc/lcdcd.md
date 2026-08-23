@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \textcolor{red}{p = \frac{1}{D'_{6,3}}}

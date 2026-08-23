@@ -1,4 +1,4 @@
-# [I limiti]{.text-red}
+# I limiti
 
 Se la funzione è il concetto di base per la matematica il limite è il concetto di base per le funzioni: infatti è il limite che ci permette di superare i paradossi dovuti all'insufficienza del concetto di punto perché ci permette di utilizzare il concetto di intervallo.
 

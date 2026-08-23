@@ -1,4 +1,4 @@
-# [Scomporre in fattori primi]{.text-red}
+# Scomporre in fattori primi
 
 > **Avvertenza:** di seguito faccio tutti i passaggi dettagliati, ma, di solito, si impiega molto meno tempo per eseguire una scomposizione di quello che ci vuole per dirlo; naturalmente tu puoi abbreviare
 

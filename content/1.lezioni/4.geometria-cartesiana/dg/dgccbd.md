@@ -1,4 +1,4 @@
-# [Condizioni utilizzando le coordinate del fuoco]{.text-red}
+# Condizioni utilizzando le coordinate del fuoco
 
 Anche il fuoco, come il vertice, dà luogo a due condizioni.
 

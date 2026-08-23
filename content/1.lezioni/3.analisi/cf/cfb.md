@@ -1,4 +1,4 @@
-# [Definizione di derivata]{.text-red}
+# Definizione di derivata
 
 Dobbiamo vedere come varia la $$y$$ quando la $$x$$ varia in modo regolare: intuitivamente il sistema più semplice è quello di considerare un intervallo sulla $$y$$ ed il corrispondente intervallo sulle $$x$$ e farne il rapporto: questo mi darà la variazione media. Se voglio la variazione in un punto dovrò restringere gli intervalli fino a quel punto.
 

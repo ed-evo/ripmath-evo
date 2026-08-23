@@ -1,4 +1,4 @@
-# [REGOLA DEL QUADRATO DEL TRINOMIO]{.text-red}
+# REGOLA DEL QUADRATO DEL TRINOMIO
 
 $$
 \textcolor{red}{(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ac}

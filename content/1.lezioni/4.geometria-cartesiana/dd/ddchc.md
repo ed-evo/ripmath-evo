@@ -1,4 +1,4 @@
-# [Asse radicale]{.text-red}
+# Asse radicale
 
 L'equazione di primo grado che abbiamo ottenuto nella pagina precedente sottraendo termine a termine le due circonferenze è
 

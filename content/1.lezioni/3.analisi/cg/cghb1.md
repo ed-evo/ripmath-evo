@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Tra tutti i rettangoli di perimetro assegnato $$2p$$ determinare quello di area massima
 

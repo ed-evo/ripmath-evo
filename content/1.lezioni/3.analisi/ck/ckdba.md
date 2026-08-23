@@ -1,4 +1,4 @@
-# [Tabella applicata alle funzioni di funzione]{.text-red}
+# Tabella applicata alle funzioni di funzione
 
 Ricordando la regola per la derivata di una funzione di funzione:
 

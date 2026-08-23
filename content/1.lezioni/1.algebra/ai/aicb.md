@@ -1,4 +1,4 @@
-# [Sistemi di secondo grado a due incognite]{.text-red}
+# Sistemi di secondo grado a due incognite
 
 È il sistema fra un'equazione di primo grado ed un'equazione di secondo grado:
 

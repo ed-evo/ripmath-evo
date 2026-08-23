@@ -1,4 +1,4 @@
-# [Equazione della circonferenza passante per due punti assegnati e tangente ad una retta data]{.text-red}
+# Equazione della circonferenza passante per due punti assegnati e tangente ad una retta data
 
 Trovare l'equazione della circonferenza passante per i punti [$$O(0,0)$$  $$A(0,4)$${.text-blue}] e tangente alla retta [$$y = x$${.text-blue}].
 

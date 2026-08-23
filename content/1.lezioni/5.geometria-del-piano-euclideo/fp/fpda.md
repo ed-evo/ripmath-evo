@@ -1,4 +1,4 @@
-# [Dividere un segmento in più parti uguali]{.text-red}
+# Dividere un segmento in più parti uguali
 
 Considero il segmento $$AB$$, voglio, come esempio, dividerlo in $$5$$ parti uguali.
 

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Mostrare la presenza della struttura ad anello per l'insieme $$r_5$$, insieme dei resti modulo 5 con le relative operazioni di addizione $$\oplus$$ e moltiplicazione $$\otimes$$.
 

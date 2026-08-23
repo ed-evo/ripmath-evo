@@ -1,4 +1,4 @@
-# [Tre radici]{.text-red}
+# Tre radici
 
 Lasceremo una radice da una parte e porteremo le altre due dall'altra parte facendo in modo, per semplicità, di spostare le radici dove hanno il segno positivo.
 

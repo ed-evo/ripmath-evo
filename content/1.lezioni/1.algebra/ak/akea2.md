@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 > Metti la pagina a tutto schermo altrimenti la formula potrebbe andare a capo e diventare incomprensibile
 

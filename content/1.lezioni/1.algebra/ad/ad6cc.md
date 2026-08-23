@@ -1,4 +1,4 @@
-# [Scomposizione secondo il cubo del binomio]{.text-red}
+# Scomposizione secondo il cubo del binomio
 
 È la più complicata da calcolare.
 

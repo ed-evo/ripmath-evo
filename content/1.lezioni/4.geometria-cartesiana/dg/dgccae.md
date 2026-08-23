@@ -1,4 +1,4 @@
-# [esercizio per determinare le coordinate del vertice]{.text-red}
+# esercizio per determinare le coordinate del vertice
 
 Determinare le coordinate del vertice della parabola di equazione
 $$

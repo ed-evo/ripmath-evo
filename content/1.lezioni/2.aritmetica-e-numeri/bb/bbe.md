@@ -1,4 +1,4 @@
-# [Differenza fra numeri interi]{.text-red}
+# Differenza fra numeri interi
 
 Al solito userò indifferentemente la parola differenza e la parola sottrazione anche se la prima indica il risultato e la seconda indica l'operazione.
 

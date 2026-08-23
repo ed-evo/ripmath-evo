@@ -1,4 +1,4 @@
-# [Coppia ordinata]{.text-red}
+# Coppia ordinata
 
 Finora negli insiemi non abbiamo mai usato l'ordine: per poterlo introdurre usiamo il concetto di coppia ordinata: quindi la coppia ordinata servirà a inserire il concetto di ordine nella teoria degli insiemi.
 

@@ -1,4 +1,4 @@
-# [Coimplicazione]{.text-red}
+# Coimplicazione
 
 > Anche la **coimplicazione** è solo da considerare come tabella cui corrispondono certi valori di verità e non come discorso logico;
 

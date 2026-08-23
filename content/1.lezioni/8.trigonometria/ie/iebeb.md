@@ -1,4 +1,4 @@
-# [base di riferimento non orizzontale]{.text-red}
+# base di riferimento non orizzontale
 
 Se la base di riferimento $$AD$$ non è orizzontale prima calcolo una base di riferimento orizzontale $$AC$$ con il teorema delle proiezioni:
 

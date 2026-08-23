@@ -1,4 +1,4 @@
-# [Concetto di volume]{.text-red}
+# Concetto di volume
 
 Introduciamo ora uno dei concetti fondamentali dello spazio: il **volume** inteso come spazio racchiuso entro la superficie di un solido; intuitivamente il volume potrebbe essere la quantità di acqua o di sabbia che mi serve per riempire completamente il solido.
 Siccome per misurare dobbiamo usare una unità che sia dello stesso tipo dell'oggetto misurato useremo uno dei solidi più semplici: il cubo.

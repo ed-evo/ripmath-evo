@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la parabola $$y = x^2 - kx + 1$$, determinare il valore di $$k$$ affinché essa sia tangente alla retta $$y = 2x$$.
 

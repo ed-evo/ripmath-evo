@@ -1,4 +1,4 @@
-# [Forme indeterminate del tipo $$\textcolor{red}{\infty / \infty}$$]{.text-red}
+# Forme indeterminate del tipo $$\textcolor{red}{\infty / \infty}$$
 
 Intanto bisogna dire che queste forme indeterminate si hanno generalmente quando facciamo il limite per $$x$$ tendente ad $$\infty$$, cioè:
 

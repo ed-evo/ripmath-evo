@@ -1,4 +1,4 @@
-# [PUNTO ADERENTE]{.text-red}
+# PUNTO ADERENTE
 
 Un punto si dirà aderente (o di aderenza) ad un insieme quando o appartiene all'insieme o è di accumulazione per l'insieme stesso:
 

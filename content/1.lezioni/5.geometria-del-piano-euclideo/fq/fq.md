@@ -1,4 +1,4 @@
-# [Applicazioni metriche]{.text-red}
+# Applicazioni metriche
 
 Ora possiamo vedere alcune applicazioni metriche, derivate dalle teorie precedenti, che ci permetteranno di risolvere abbastanza agevolmente varie classi di problemi
 

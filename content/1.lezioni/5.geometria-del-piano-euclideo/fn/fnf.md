@@ -1,4 +1,4 @@
-# [Classi contigue di numeri razionali]{.text-red}
+# Classi contigue di numeri razionali
 
 Ora esponiamo con rigore matematico quanto fatto intuitivamente nella pagina precedente: introduciamo il concetto di **classi contigue**.
 

@@ -1,4 +1,4 @@
-# [Equazione della circonferenza dato il centro ed il raggio]{.text-red}
+# Equazione della circonferenza dato il centro ed il raggio
 
 Partiamo dalla definizione di circonferenza
 

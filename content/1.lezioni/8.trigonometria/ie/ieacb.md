@@ -1,4 +1,4 @@
-# [Formula di Erone]{.text-red}
+# Formula di Erone
 ## Area del triangolo conoscendone la misura dei tre lati
 
 Consideriamo un triangolo qualunque $$ABC$$ e supponiamo di conoscerne la misura dei tre lati; in queste condizioni posso ricavare una formula che mi permetta di calcolare l'area del triangolo stesso.

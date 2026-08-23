@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione della parabola con asse verticale che passa per il punto [$$A=(0,3)$]{.text-blue}, ed ha il vertice nel punto [$$V=(2, -1)$]{.text-blue}
 

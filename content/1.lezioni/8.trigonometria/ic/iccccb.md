@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \textcolor{red}{\tan^2 x - 2 \tan x + 1 = 0}

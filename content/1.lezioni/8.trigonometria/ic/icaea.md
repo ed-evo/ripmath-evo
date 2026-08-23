@@ -1,4 +1,4 @@
-# [Prima formula di prostaferesi]{.text-red}
+# Prima formula di prostaferesi
 
 Partiamo dalle due formule di addizione e sottrazione per il seno e sommiamo in verticale.
 

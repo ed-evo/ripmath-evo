@@ -1,4 +1,4 @@
-# [Dominio]{.text-red}
+# Dominio
 
 Ora per analogia consideriamo l'insieme dei valori che l'applicazione può assumere sull'insieme $$A$$ (in pratica consideriamo l'insieme $$A$$), questo verrà definito:
 

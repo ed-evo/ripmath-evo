@@ -1,4 +1,4 @@
-# [Equazioni tipiche della trigonometria]{.text-red}
+# Equazioni tipiche della trigonometria
 
 Sono equazioni la cui soluzione deriva da una tecnica esclusivamente trigonometrica; possiamo suddividerle in:
 

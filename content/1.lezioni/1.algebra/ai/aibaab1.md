@@ -1,4 +1,4 @@
-# [Metodo di addizione e sottrazione]{.text-red}
+# Metodo di addizione e sottrazione
 
 $$
 \begin{cases} \textcolor{red}{2x + 3y = 12} \\ \textcolor{red}{3x - y = 7} \end{cases}

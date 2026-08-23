@@ -1,4 +1,4 @@
-# [Operazioni elementari]{.text-red}
+# Operazioni elementari
 
 Chiamiamo **operazioni elementari** le operazioni interne nell'insieme $$N$$ dei numeri naturali: cioè:
 

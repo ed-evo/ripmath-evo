@@ -1,3 +1,3 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Pagina in costruzione (forse)

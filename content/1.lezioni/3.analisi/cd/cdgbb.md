@@ -1,4 +1,4 @@
-# [Forme indeterminate del tipo $$\infty/\infty$$ metodo del confronto fra infiniti]{.text-red}
+# Forme indeterminate del tipo $$\infty/\infty$$ metodo del confronto fra infiniti
 
 Posso rendere molto più semplice il calcolo della pagina precedente con il seguente ragionamento: se un numero tende all'infinito, tenderà all'infinito prima $$x^2$$ rispetto ad $$x$$ (prova a mettere al posto di $$x$$ un numero grande, il suo quadrato sarà ancora più grande) cioè intuitivamente quando $$x^2$$ è già infinito ancora $$x$$ è un valore inferiore quindi trascurabile, quindi in questi limiti basta considerare solo la $$x$$ a potenza più grande, allora
 

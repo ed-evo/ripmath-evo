@@ -1,4 +1,4 @@
-# [Sistemi di grado superiore al primo]{.text-red}
+# Sistemi di grado superiore al primo
 
 Sono sistemi che dipendono, per la loro soluzione, dal risolvere un'equazione di grado maggiore di $$1$$
 

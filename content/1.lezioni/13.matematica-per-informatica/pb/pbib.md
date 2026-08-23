@@ -1,4 +1,4 @@
-# [Relazione fra sistema esadecimale e binario]{.text-red}
+# Relazione fra sistema esadecimale e binario
 
 Vale la relazione importantissima: **Un numero esadecimale si può trasformare in binario semplicemente trasformando in binario ciascuna delle sue cifre**:
 

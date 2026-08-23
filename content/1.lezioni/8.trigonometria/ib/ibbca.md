@@ -1,4 +1,4 @@
-# [Definizione della tangente di un angolo $$\alpha$$]{.text-red}
+# Definizione della tangente di un angolo $$\alpha$$
 
 La tangente di $$\alpha$$ viene definita come rapporto del segmento di tangente in $$A$$ alla circonferenza intercettato dal prolungamento del raggio $$OP$$ con il raggio $$OA$$ della circonferenza.
 

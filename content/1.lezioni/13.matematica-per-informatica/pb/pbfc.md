@@ -1,4 +1,4 @@
-# [I numeri binari]{.text-red}
+# I numeri binari
 
 Costruiamo una tabella trovando i numeri binari corrispondenti ai numeri decimali
 

@@ -1,4 +1,4 @@
-# [Teorema fondamentale dell'algebra]{.text-red}
+# Teorema fondamentale dell'algebra
 
 Il teorema fondamentale dell'algebra dice che:
 

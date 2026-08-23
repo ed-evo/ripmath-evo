@@ -1,4 +1,4 @@
-# [Esempi di calcolo di qualche semplice derivata]{.text-red}
+# Esempi di calcolo di qualche semplice derivata
 
 Per iniziare proviamo a calcolare la derivata di [$$y = x^2$$]{.text-red}
 

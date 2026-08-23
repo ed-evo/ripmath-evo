@@ -1,4 +1,4 @@
-# [Calcolo]{.text-red}
+# Calcolo
 
 Trasformare l'espressione $$\textcolor{red}{x + 6 = 2(x + 2)}$$ nel suo numero di Gödel, considerando valida la tabella alfabetica considerata.
 

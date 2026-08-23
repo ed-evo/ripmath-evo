@@ -1,4 +1,4 @@
-# [Area della superficie della zona sferica]{.text-red}
+# Area della superficie della zona sferica
 
 Anche qui la formula è molto semplice: è la stessa che vale per la calotta sferica.
 

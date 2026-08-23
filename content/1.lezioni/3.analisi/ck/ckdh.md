@@ -1,4 +1,4 @@
-# [Integrazione di funzioni razionali]{.text-red}
+# Integrazione di funzioni razionali
 
 - Introduzione
 - Tipi di frazioni elementari

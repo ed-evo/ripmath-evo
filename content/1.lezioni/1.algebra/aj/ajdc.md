@@ -1,4 +1,4 @@
-# [matrice nulla]{.text-red}
+# matrice nulla
 
 Definiamo matrice nulla la matrice con tutti gli elementi uguali a zero.
 

@@ -1,4 +1,4 @@
-# [Radicali aritmetici]{.text-red}
+# Radicali aritmetici
 
 Quando non ci interessa sapere che segno otteniamo estraendo la radice parliamo di radicali aritmetici, cioè di radicali senza segno.
 

@@ -1,4 +1,4 @@
-# [Come si disegna la funzione $$y = \tan x$$]{.text-red}
+# Come si disegna la funzione $$y = \tan x$$
 
 Dobbiamo immaginare di "srotolare" una circonferenza sull'asse delle $$x$$.
 

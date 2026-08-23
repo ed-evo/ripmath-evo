@@ -1,4 +1,4 @@
-# [Intersezioni fra una parabola ed una circonferenza]{.text-red}
+# Intersezioni fra una parabola ed una circonferenza
 
 Essendo le equazioni della parabola e della circonferenza entrambe di secondo grado, se facciamo il sistema per trovare i punti comuni otterremo come equazione risolvente un'equazione di quarto grado;
 

@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Ti vengono qui forniti alcuni esercizi in ordine di difficoltà; prova a risolverli da solo e fai la verifica per vedere se hai trovato la soluzione giusta; se hai delle difficoltà controlla lo svolgimento (risoluzione).
 

@@ -1,4 +1,4 @@
-# [Derivate successive]{.text-red}
+# Derivate successive
 
 Se ho una funzione del tipo
 $$

@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 Risolviamo l'equazione:
 $$\textcolor{blue}{2x^2 + 5x + 2 = 0}$$

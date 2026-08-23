@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 risolvere la seguente equazione:
 

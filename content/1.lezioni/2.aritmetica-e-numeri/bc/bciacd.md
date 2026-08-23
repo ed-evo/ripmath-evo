@@ -1,4 +1,4 @@
-# [Criterio di scomposizione per 11]{.text-red}
+# Criterio di scomposizione per 11
 
 Qui cominciamo ad avere un criterio un po' complicato, ma serve spesso, quindi.....
 

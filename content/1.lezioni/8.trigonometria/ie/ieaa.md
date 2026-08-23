@@ -1,4 +1,4 @@
-# [Area del triangolo]{.text-red}
+# Area del triangolo
 ## Conoscendone due lati e l'angolo compreso
 
 Consideriamo un triangolo qualunque $$ABC$$ e supponiamo di conoscerne due lati e l'angolo compreso: in queste condizioni posso ricavare una formula che mi permette di avere l'area del triangolo stesso.

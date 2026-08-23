@@ -1,4 +1,4 @@
-# [Area della superficie del cilindro]{.text-red}
+# Area della superficie del cilindro
 
 Sviluppando la superficie del cilindro su un piano otteniamo $$2$$ cerchi (le basi) ed un rettangolo che è la superficie laterale.
 

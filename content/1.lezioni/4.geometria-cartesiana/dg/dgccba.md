@@ -1,4 +1,4 @@
-# [Condizione di passaggio per un punto]{.text-red}
+# Condizione di passaggio per un punto
 
 Per scrivere la condizione di passaggio della parabola
 

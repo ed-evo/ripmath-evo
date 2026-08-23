@@ -1,4 +1,4 @@
-# [Asse di un segmento]{.text-red}
+# Asse di un segmento
 
 Come **figura geometrica:**
 [l'asse di un segmento è la perpendicolare condotta nel punto di mezzo del segmento;]{.text-red-darken-1}

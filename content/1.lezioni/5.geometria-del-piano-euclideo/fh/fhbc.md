@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 [ogni diagonale divide un parallelogramma in due triangoli congruenti]{.text-red-darken-1}
 e viceversa

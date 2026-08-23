@@ -1,4 +1,4 @@
-# [Perpendicolarità fra due rette nello spazio]{.text-red}
+# Perpendicolarità fra due rette nello spazio
 
 Va da sé che la nozione di perpendicolarità fra due rette nello spazio sarà ripresa esattamente dalla nozione di perpendicolarità nel piano dicendo:
 

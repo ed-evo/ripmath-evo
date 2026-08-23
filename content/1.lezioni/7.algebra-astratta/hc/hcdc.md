@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)]{.text-red}
+# Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)
 
 Dipendentemente dal tuo libro di testo avrai la prima o la seconda denominazione.
 

@@ -1,4 +1,4 @@
-# [Proprietà del prodotto cartesiano]{.text-red}
+# Proprietà del prodotto cartesiano
 
 Diciamo subito che, essendo le coppie ordinate, il prodotto cartesiano di due insiemi distinti non gode della proprietà commutativa, cioè:
 

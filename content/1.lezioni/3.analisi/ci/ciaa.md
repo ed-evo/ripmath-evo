@@ -1,4 +1,4 @@
-# [Grafici dei principali tipi di funzioni]{.text-red}
+# Grafici dei principali tipi di funzioni
 
 Le funzioni qui di seguito saranno considerate solo dal punto di vista della loro rappresentazione grafica, le spiegazioni e le dimostrazioni relative saranno trattate nella Geometria Cartesiana
 

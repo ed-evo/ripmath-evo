@@ -1,4 +1,4 @@
-# [Geometria di Klein]{.text-red}
+# Geometria di Klein
 
 Siccome due rette sono parallele se non hanno nessun punto in comune, nel piano di Klein due rette parallele saranno così
 

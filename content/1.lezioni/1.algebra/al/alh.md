@@ -1,4 +1,4 @@
-# [Cambiamento di base]{.text-red}
+# Cambiamento di base
 
 Talvolta può essere utile cambiare la base del logaritmo, qui vediamo come è possibile fare
 

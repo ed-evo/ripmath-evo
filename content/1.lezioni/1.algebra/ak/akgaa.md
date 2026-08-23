@@ -1,4 +1,4 @@
-# [esercizio sui radicali in forma esponenziale]{.text-red}
+# esercizio sui radicali in forma esponenziale
 
 $$
 \textcolor{red}{\sqrt[3]{2} \cdot \sqrt[4]{4} \cdot \sqrt{8} =}

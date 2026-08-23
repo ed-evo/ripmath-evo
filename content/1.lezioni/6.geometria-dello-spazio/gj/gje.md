@@ -1,4 +1,4 @@
-# [Superficie laterale e totale]{.text-red}
+# Superficie laterale e totale
 
 Consideriamo come primo esempio una piramide obliqua, in tal caso dobbiamo avere la pazienza di calcolare la superficie faccia per faccia, perché le facce laterali generalmente avranno basi ed apoteme diverse una dall'altra.
 

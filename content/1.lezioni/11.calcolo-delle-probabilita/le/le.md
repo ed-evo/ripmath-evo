@@ -1,4 +1,4 @@
-## [Distribuzioni di probabilità]{.text-red}
+## Distribuzioni di probabilità
 
 Distinguiamo i casi in cui le variabili casuali siano discrete dal caso in cui si presentino in forma continua:
 

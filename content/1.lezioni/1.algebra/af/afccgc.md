@@ -1,4 +1,4 @@
-# [esercizi sulle equazioni di secondo grado complete]{.text-red}
+# esercizi sulle equazioni di secondo grado complete
 
 Risolvere le seguenti equazioni:
 

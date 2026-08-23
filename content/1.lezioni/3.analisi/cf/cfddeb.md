@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 $$
 \textcolor{red}{y' = e^x (x^2 + 3x + 1)}

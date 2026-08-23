@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 [$$x^2 - 3x - 10 \ge 0$$]{.text-blue}
 

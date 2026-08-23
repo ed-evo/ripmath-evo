@@ -1,4 +1,4 @@
-# [Applicazioni della trigonometria]{.text-red}
+# Applicazioni della trigonometria
 
 Vediamo ora di applicare quanto studiato a problemi effettivi, anche pratici; vedremo applicazioni in vari ambiti
 

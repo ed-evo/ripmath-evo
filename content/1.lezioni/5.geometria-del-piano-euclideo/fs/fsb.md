@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 > Si definisce **sezione aurea** di un segmento $$AB$$ la parte di segmento che è media proporzionale fra tutto il segmento e la parte che resta:
 >

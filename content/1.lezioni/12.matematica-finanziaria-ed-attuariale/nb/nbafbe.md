@@ -1,4 +1,4 @@
-## [Esercizio sul calcolo del capitale ad interesse composto per tempi non interi]{.text-red}
+## Esercizio sul calcolo del capitale ad interesse composto per tempi non interi
 
 Ho ottenuto $$1156,25 \text{ €}$$ da un capitale impiegato per $$8$$ anni, $$6$$ mesi e $$15$$ giorni al $$2,55\%$$ annuo.
 Calcolare tale capitale.

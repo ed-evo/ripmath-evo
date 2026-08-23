@@ -1,4 +1,4 @@
-# [Teoremi]{.text-red}
+# Teoremi
 
 > Quando si calcolano le probabilità di eventi quasi sempre è impossibile riferirsi a fatti sperimentali: ad esempio se devo calcolare la probabilità di fluttuazione di certe nuove azioni finanziarie non posso calcolarne la probabilità mediante fatti già accaduti (le azioni sono nuove) ma solamente con criteri che coinvolgano la conoscenza del possibile mercato presente e futuro.
 >

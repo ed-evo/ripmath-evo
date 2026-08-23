@@ -1,4 +1,4 @@
-# [Caso del discriminante uguale a zero]{.text-red}
+# Caso del discriminante uguale a zero
 
 Facciamo un esempio
 $$\textcolor{red}{x^2 - 6x + 9 = 0}$$

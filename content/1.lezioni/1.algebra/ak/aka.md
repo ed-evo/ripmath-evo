@@ -1,4 +1,4 @@
-# [Definizione di radicale]{.text-red}
+# Definizione di radicale
 
 Perché i radicali:
 In matematica ogni volta che facciamo un'operazione dobbiamo anche vedere se è possibile tornare indietro, cioè fare l'operazione alla rovescia (ricordati che una salita vista dall'altra parte è una discesa), quindi possiamo definire un radicale (grosso modo) come l'operazione inversa dell'elevamento a potenza.

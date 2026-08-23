@@ -1,4 +1,4 @@
-# [Perpendicolarità fra una retta e un piano]{.text-red}
+# Perpendicolarità fra una retta e un piano
 
 Resta ora da vedere come definire la perpendicolarità fra retta e piano;
 

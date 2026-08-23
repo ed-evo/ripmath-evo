@@ -1,4 +1,4 @@
-# [definizione]{.text-red}
+# definizione
 
 Definiamo **proposizione** una qualunque affermazione cui possa essere associato un valore di verità ($$v$$) oppure di falsità ($$f$$)
 

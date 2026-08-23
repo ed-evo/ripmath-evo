@@ -1,4 +1,4 @@
-# [reciproche delle funzioni trigonometriche]{.text-red}
+# reciproche delle funzioni trigonometriche
 
 > **Attenzione:** a non confondere le reciproche delle funzioni trigonometriche con le funzioni inverse: sono due cose completamente diverse; se hai bisogno di approfondire.
 

@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Il primo era già stato calcolato come integrale immediato
 

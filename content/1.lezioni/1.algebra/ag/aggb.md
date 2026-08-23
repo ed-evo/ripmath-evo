@@ -1,4 +1,4 @@
-# [Disuguaglianze fra valori assoluti]{.text-red}
+# Disuguaglianze fra valori assoluti
 
 Dimostriamo adesso alcune disuguaglianze che utilizzano i valori assoluti e che troveremo sia negli esercizi che in vari ambiti matematici
 

@@ -1,4 +1,4 @@
-# [Distribuzione uniforme]{.text-red}
+# Distribuzione uniforme
 
 > Più che un'effettiva probabilità si tratta di una probabilità "didattica" o meglio di un tipo di probabilità che ci permette di capire meglio tutto l'impianto
 

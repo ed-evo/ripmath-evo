@@ -1,4 +1,4 @@
-# [REGOLA DI NEWTON]{.text-red}
+# REGOLA DI NEWTON
 
 Se ora volessimo calcolare $$\textcolor{red}{(a+b)^8}$$ =
 potremmo sempre calcolarlo in ordine facendo tutte le potenze precedenti, ma pensa che noia se dovessi calcolare ad esempio $$\textcolor{red}{(a+b)^{20}}$$ =

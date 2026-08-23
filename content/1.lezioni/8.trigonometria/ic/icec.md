@@ -1,4 +1,4 @@
-# [$$\tan x > p$$]{.text-red}
+# $$\tan x > p$$
 
 Anche qui risolviamo su un esempio pratico. Vediamo come risolvere la disequazione
 

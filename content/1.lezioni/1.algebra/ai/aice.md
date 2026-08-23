@@ -1,4 +1,4 @@
-# [Sistemi simmetrici]{.text-red}
+# Sistemi simmetrici
 
 Diremo che un sistema è simmetrico se quando scambiamo fra loro le $$x$$ e le $$y$$ il sistema non cambia.
 

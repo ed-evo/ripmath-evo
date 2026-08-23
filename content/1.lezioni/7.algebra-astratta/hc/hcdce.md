@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)]{.text-red}
+# Insieme dei resti modulo $$p$$ (o relazione di congruenza modulo $$p$$)
 
 Per ogni insieme di resti $$r_p$$ considereremo sia la struttura con operazione additiva ($$r_p$$, $$\oplus$$) che la struttura con operazione moltiplicativa ($$r_p$$, $$\otimes$$).
 

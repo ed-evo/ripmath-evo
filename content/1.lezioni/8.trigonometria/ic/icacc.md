@@ -1,4 +1,4 @@
-# [Formula di bisezione per la tangente]{.text-red}
+# Formula di bisezione per la tangente
 
 Per trovare la formula per la tangente basta ricordare la seconda [relazione fondamentale](../ib/ibcb.html)
 

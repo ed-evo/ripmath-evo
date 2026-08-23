@@ -1,4 +1,4 @@
-# [Omologia]{.text-red}
+# Omologia
 
 È l'omologia $$ab+àb'$$
 

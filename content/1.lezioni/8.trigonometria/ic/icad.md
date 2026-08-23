@@ -1,4 +1,4 @@
-# [Formule parametriche]{.text-red}
+# Formule parametriche
 
 Queste formule saranno tra quelle più usate: serviranno soprattutto per risolvere equazioni trigonometriche di primo grado.
 

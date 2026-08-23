@@ -1,4 +1,4 @@
-# [Discontinuità di terza specie (o eliminabile)]{.text-red}
+# Discontinuità di terza specie (o eliminabile)
 
 È il caso in cui la funzione in un punto:
 

@@ -1,4 +1,4 @@
-# [Spazio delle probabilità ed eventi]{.text-red}
+# Spazio delle probabilità ed eventi
 
 Chiameremo **prova** una singola esecuzione di un dato esperimento.
 

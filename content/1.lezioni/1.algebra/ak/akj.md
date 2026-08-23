@@ -1,4 +1,4 @@
-# [Disequazioni irrazionali a indice dispari]{.text-red}
+# Disequazioni irrazionali a indice dispari
 
 Quando l'indice del radicale è dispari posso tranquillamente elevare a potenza in modo da far sparire i radicali, senza nessun problema.
 

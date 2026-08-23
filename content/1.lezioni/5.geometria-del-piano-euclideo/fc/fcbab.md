@@ -1,4 +1,4 @@
-# [Somma di segmenti]{.text-red}
+# Somma di segmenti
 
 Intuitivamente, per sommare due segmenti basterà metterli uno di seguito all'altro; però potrei metterli come vedi a destra oppure come vedi a sinistra. Quelli della figura di destra li chiameremo consecutivi.
 

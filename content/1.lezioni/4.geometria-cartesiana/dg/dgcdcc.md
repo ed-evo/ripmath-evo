@@ -1,4 +1,4 @@
-# [Intersezioni fra una parabola ed un'ellisse]{.text-red}
+# Intersezioni fra una parabola ed un'ellisse
 
 Essendo le equazioni della parabola e dell'ellisse entrambe di secondo grado, se facciamo il sistema per trovare i punti comuni otterremo come equazione risolvente un'equazione di quarto grado;
 

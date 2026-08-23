@@ -1,4 +1,4 @@
-# [Portar fuori radice]{.text-red}
+# Portar fuori radice
 
 È un'operazione tipica dei radicali: posso farla quando l'indice del radicando è superiore all'indice della radice.
 

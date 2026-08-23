@@ -1,4 +1,4 @@
-# [Implicazione diretta]{.text-red}
+# Implicazione diretta
 
 È l'implicazione diretta $$a + b'$$
 

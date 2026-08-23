@@ -1,4 +1,4 @@
-# [Implicazione materiale]{.text-red}
+# Implicazione materiale
 
 > Con l'implicazione materiale arriviamo a dei concetti non più corrispondenti al discorso ordinario.
 > Infatti l'implicazione materiale è solo da considerare (per ora) come tabella cui corrispondono certi valori di verità e non come discorso di causa-effetto;

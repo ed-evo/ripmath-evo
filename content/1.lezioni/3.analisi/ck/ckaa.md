@@ -1,4 +1,4 @@
-# [Il problema delle aree]{.text-red}
+# Il problema delle aree
 
 Il problema delle aree è uno dei [tre grandi problemi](ckaa1.html) che ci sono stati tramandati dagli antichi: si tratta del problema della quadratura del cerchio o meglio della rettificazione della circonferenza: trovare il lato di un quadrato che abbia la stessa area di un cerchio dato.
 

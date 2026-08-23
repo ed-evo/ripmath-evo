@@ -1,4 +1,4 @@
-# [Area del triangolo noti perimetro e raggio del cerchio inscritto]{.text-red}
+# Area del triangolo noti perimetro e raggio del cerchio inscritto
 
 Considero un triangolo ed il suo cerchio inscritto:
 conosco il valore del perimetro del triangolo $$2p$$

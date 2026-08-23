@@ -1,4 +1,4 @@
-# [Espressioni booleane]{.text-red}
+# Espressioni booleane
 
 - Introduzione
 - Prodotti fondamentali

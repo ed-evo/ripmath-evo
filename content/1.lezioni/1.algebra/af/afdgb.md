@@ -1,4 +1,4 @@
-# [Equazioni reciproche di quarto grado]{.text-red}
+# Equazioni reciproche di quarto grado
 
 Abbiamo due tipi diversi:
 

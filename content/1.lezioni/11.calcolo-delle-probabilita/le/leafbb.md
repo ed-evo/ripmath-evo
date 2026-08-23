@@ -1,4 +1,4 @@
-# [Costanza dell'attesa di un evento]{.text-red}
+# Costanza dell'attesa di un evento
 
 È qui doveroso fare un discorso rivolto ai cosiddetti "sistemisti", cioè ai giocatori che cercano di vedere i "ritardi" di uscite di numeri per poter scommettere sulla loro prossima uscita:
 

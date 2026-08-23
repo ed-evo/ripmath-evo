@@ -1,4 +1,4 @@
-# [Come fare]{.text-red}
+# Come fare
 
 La geometria è caratterizzata dal concetto di punto.
 L'algebra inizia dal concetto di numero.

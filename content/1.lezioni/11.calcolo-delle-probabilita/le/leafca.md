@@ -1,4 +1,4 @@
-# [Perché la distribuzione di Poisson]{.text-red}
+# Perché la distribuzione di Poisson
 
 Se consideriamo le probabilità di un evento che capita molto raramente, utilizzando la distribuzione binomiale (di Bernoulli), dovremo fare un numero enorme di calcoli considerando la probabilità dell'evento e la probabilità contraria; la distribuzione di Poisson ci permette invece di calcolare tale probabilità con un'ottima approssimazione senza dover fare eccessivi calcoli.
 

@@ -1,4 +1,4 @@
-# [Applicazione alle costruzioni geometriche]{.text-red}
+# Applicazione alle costruzioni geometriche
 
 Utilizzando il teorema di Talete possiamo fare alcune notevoli costruzioni geometriche e precisamente:
 

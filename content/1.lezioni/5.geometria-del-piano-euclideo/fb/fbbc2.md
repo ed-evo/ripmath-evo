@@ -1,4 +1,4 @@
-# [Proprietà simmetrica]{.text-red}
+# Proprietà simmetrica
 
 La proprietà simmetrica dice che posso leggere un'uguaglianza sia da destra a sinistra che da sinistra a destra.
 

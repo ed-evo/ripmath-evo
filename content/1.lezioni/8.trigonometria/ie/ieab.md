@@ -1,4 +1,4 @@
-# [Area del parallelogramma]{.text-red}
+# Area del parallelogramma
 ## Conoscendone due lati adiacenti e l'angolo compreso
 
 Consideriamo un parallelogramma qualunque $$ABC$$ e supponiamo di conoscerne due lati e l'angolo compreso: in queste condizioni posso ricavare una formula che mi permette di avere l'area del parallelogramma stesso.

@@ -1,4 +1,4 @@
-# [Area della superficie sferica]{.text-red}
+# Area della superficie sferica
 
 Per trovare la formula per la misura dell'area della superficie sferica occorre sviluppare un ragionamento piuttosto complicato:
 

@@ -1,4 +1,4 @@
-# [Problemi risolubili mediante un sistema]{.text-red}
+# Problemi risolubili mediante un sistema
 
 - [Problemi numerici](ahcba.html)
 - [ [Problemi tipo "Settimana enigmistica"]{.text-red} ](ahcbb.html)

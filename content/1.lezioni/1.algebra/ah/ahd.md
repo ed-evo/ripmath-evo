@@ -1,4 +1,4 @@
-# [Problemi di secondo grado]{.text-red}
+# Problemi di secondo grado
 
 Sono problemi la cui soluzione dipenderà da un'equazione di secondo grado; le soluzioni potranno essere entrambe accettabili, oppure ne sarà accettabile solo una od anche nessuna.
 

@@ -1,4 +1,4 @@
-# [esercizi sulle rette tangenti ad una parabola condotte da un punto esterno]{.text-red}
+# esercizi sulle rette tangenti ad una parabola condotte da un punto esterno
 
 > Quando farai analisi matematica vedrai un metodo diverso molto più semplice, ma, per ora, devi applicare il metodo del determinante
 

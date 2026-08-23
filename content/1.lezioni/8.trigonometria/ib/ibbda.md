@@ -1,4 +1,4 @@
-# [Cotangente di un angolo]{.text-red}
+# Cotangente di un angolo
 
 Anche se la cotangente è la reciproca della tangente ne parliamo per prima perché è di gran lunga la più usata delle funzioni reciproche (chiamarle inverse è un uso ma è anche un'imprecisione):
 

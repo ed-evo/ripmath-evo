@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 La trigonometria è una disciplina matematica piuttosto sottovalutata ai nostri giorni:
 

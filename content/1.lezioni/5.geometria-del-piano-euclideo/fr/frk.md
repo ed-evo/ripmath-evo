@@ -1,4 +1,4 @@
-# [Alcuni teoremi e relazioni metriche]{.text-red}
+# Alcuni teoremi e relazioni metriche
 
 Ora, come conclusione sulla circonferenza, studiamo alcuni problemi ed alcune relazioni metriche che saranno molto utili nella soluzione di vari problemi.
 

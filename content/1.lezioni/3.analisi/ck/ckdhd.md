@@ -1,4 +1,4 @@
-# [Integrazione delle frazioni elementari]{.text-red}
+# Integrazione delle frazioni elementari
 
 Dobbiamo vedere ora come si integrano i 4 tipi fondamentali di frazioni elementari; per ciascuno di essi c'è la dimostrazione (se ti serve):
 

@@ -1,4 +1,4 @@
-# [Tabella di equivalenza fra geometria ed algebra]{.text-red}
+# Tabella di equivalenza fra geometria ed algebra
 
 ## Calcolare la lunghezza di un segmento
 Distanza fra due punti:

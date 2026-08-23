@@ -1,4 +1,4 @@
-## [tangente ad una curva]{.text-red}
+## tangente ad una curva
 
 Considero la retta $$PP'$$ e, tenendo fisso $$P$$, sposto $$P'$$ sulla curva:
 

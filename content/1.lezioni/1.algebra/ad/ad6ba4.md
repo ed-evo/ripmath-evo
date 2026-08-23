@@ -1,4 +1,4 @@
-# [Scomposizione di Ruffini con binomi di grado superiore ad uno]{.text-red}
+# Scomposizione di Ruffini con binomi di grado superiore ad uno
 
 La faremo quando i termini componenti hanno i gradi multipli secondo un numero intero: ad esempio $$9, 6, 3, 0$$ oppure $$4, 2, 0$$. Vediamo su un esempio come procedere.
 

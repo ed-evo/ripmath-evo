@@ -1,4 +1,4 @@
-# [Superficie di rotazione di un segmento parallelo all'asse]{.text-red}
+# Superficie di rotazione di un segmento parallelo all'asse
 
 $$M$$ è il punto medio di $$AB$$
 $$O$$ è il punto di intersezione dell'asse del segmento $$AB$$ con l'asse di rotazione $$CD$$

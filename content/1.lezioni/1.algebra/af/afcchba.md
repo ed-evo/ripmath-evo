@@ -1,4 +1,4 @@
-# [discussione di equazioni di primo grado metodo diretto]{.text-red}
+# discussione di equazioni di primo grado metodo diretto
 
 Basta semplicemente confrontare la radice dell'equazione con il numero od i numeri dati.
 Vediamolo su un semplice esempio.

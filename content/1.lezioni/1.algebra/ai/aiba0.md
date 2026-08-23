@@ -1,4 +1,4 @@
-# [Sistema ridotto a forma normale]{.text-red}
+# Sistema ridotto a forma normale
 
 Se ho un sistema tipo il seguente
 

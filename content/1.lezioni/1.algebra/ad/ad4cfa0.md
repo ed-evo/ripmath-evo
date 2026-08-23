@@ -1,4 +1,4 @@
-# [CALCOLIAMO]{.text-red}
+# CALCOLIAMO
 
 ---
 

@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Risolvere l'equazione
 $$\textcolor{red}{|2x - 4| + x = -8}$$

@@ -1,4 +1,4 @@
-# [Sviluppo in serie di alcune funzioni razionali]{.text-red}
+# Sviluppo in serie di alcune funzioni razionali
 
 Le serie di alcune funzioni razionali erano note già prima del calcolo differenziale; le propongo qui perché oltre che ottimo esercizio mentale, forniscono un meccanismo utile per trattare alcune funzioni razionali.
 

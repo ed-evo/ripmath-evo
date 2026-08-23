@@ -1,4 +1,4 @@
-# [RACCOGLIMENTO A FATTOR COMUNE TOTALE]{.text-red}
+# RACCOGLIMENTO A FATTOR COMUNE TOTALE
 
 È l'operazione contraria della moltiplicazione di un monomio per un polinomio: cioè se ad esempio eseguiamo la seguente moltiplicazione
 

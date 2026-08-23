@@ -1,4 +1,4 @@
-# [PRODOTTO FRA POLINOMI]{.text-red}
+# PRODOTTO FRA POLINOMI
 
 Osserva questo schema:
 

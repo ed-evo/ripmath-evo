@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Primo termine $$-2$$
 

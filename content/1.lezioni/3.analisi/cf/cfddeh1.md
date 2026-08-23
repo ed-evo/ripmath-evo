@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{red}{y = 2 \arctan e^{2x}}

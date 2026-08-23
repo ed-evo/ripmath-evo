@@ -1,4 +1,4 @@
-# [Equiscomponibilità fra parallelogramma e triangolo]{.text-red}
+# Equiscomponibilità fra parallelogramma e triangolo
 
 Vale il teorema:
 

@@ -1,4 +1,4 @@
-# [Distribuzione esponenziale]{.text-red}
+# Distribuzione esponenziale
 
 > Anche questa è interessante soprattutto per i calcoli che ci introducono poi alla distribuzione più "gettonata" (legge di Gauss)
 

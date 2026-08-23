@@ -1,4 +1,4 @@
-# [Quarta figura]{.text-red}
+# Quarta figura
 
 > Mentre gli altri $$3$$ sono dovuti ad Aristotele, quest'ultimo è dovuto a Galeno, medico e scienziato del secondo secolo dopo Cristo
 

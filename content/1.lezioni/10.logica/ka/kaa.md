@@ -1,4 +1,4 @@
-# [Nomenclatura]{.text-red}
+# Nomenclatura
 
 Per indicare una **proposizione** useremo le lettere: $$p, q, r, s, \dots$$
 

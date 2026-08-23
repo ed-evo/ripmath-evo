@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Calcolare l'area della regione di piano compresa fra la parabola $$\textcolor{blue}{y = x^2 - 4}$$ e la retta $$\textcolor{blue}{y = 5}$$.
 

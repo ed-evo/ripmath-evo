@@ -1,4 +1,4 @@
-# [Piramide retta]{.text-red}
+# Piramide retta
 
 > Per poter avere esercizi abbastanza semplici, senza dover fare un calcolo per ogni faccia della piramide abbiamo bisogno di pensare a piramidi che abbiano le facce uguali, o almeno con le stesse altezze; diventa quindi essenziale pensare a piramidi che abbiano delle particolari caratteristiche.
 >

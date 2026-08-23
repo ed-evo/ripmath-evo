@@ -1,4 +1,4 @@
-# [Definizione di probabilità soggettiva]{.text-red}
+# Definizione di probabilità soggettiva
 
 Secondo la teoria soggettiva: **la probabilità è la misura del grado di fiducia che un individuo coerente assegna al verificarsi di un dato evento in base alle sue conoscenze**.
 

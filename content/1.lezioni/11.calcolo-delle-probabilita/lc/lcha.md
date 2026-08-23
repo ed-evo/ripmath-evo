@@ -1,4 +1,4 @@
-# [Proprietà additiva]{.text-red}
+# Proprietà additiva
 
 Studiamo meglio la proprietà che è legata al terzo postulato.
 

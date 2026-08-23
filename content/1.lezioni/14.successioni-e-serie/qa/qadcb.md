@@ -1,4 +1,4 @@
-# [Successione oscillante divergente]{.text-red}
+# Successione oscillante divergente
 
 Per avere una successione oscillante divergente dovremo considerare una successione con i termini nell'insieme $$\mathbb{Z}$$
 $$

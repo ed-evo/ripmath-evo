@@ -1,4 +1,4 @@
-# [Funzione esponenziale]{.text-red}
+# Funzione esponenziale
 
 Se consideriamo la funzione logaritmo
 

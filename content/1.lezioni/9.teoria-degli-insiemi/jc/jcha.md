@@ -1,4 +1,4 @@
-## [Relazione d'ordine stretto]{.text-red}
+## Relazione d'ordine stretto
 
 Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine stretto** se si ha:
 

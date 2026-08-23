@@ -1,4 +1,4 @@
-# [Come si usa la tabella di riepilogo per le scomposizioni]{.text-red}
+# Come si usa la tabella di riepilogo per le scomposizioni
 
 Premetto che, secondo me, questa tabella è una delle pochissime cose che in matematica bisognerebbe "studiare a memoria", perché ci permette di poter affrontare quasi tutte le possibili scomposizioni di un polinomio fino a sei termini.
 

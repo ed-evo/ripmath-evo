@@ -1,4 +1,4 @@
-# [Teorema di base]{.text-red}
+# Teorema di base
 
 > **Dato un qualunque triangolo rettangolo, l'altezza relativa all'ipotenusa divide il triangolo in due triangoli simili sia tra loro che con il triangolo dato**
 

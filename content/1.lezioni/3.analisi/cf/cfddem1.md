@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{blue}{y = \left( \frac{1 + x^n}{1 - x^n} \right)^m}

@@ -1,4 +1,4 @@
-# [Volume della sfera]{.text-red}
+# Volume della sfera
 
 Vediamo come trovare il volume della sfera:
 

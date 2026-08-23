@@ -1,4 +1,4 @@
-# [Gergo matematico]{.text-red}
+# Gergo matematico
 
 Sembra impossibile, ma, per quanto la matematica sia una scienza esatta, ogni docente ha una preferenza per certi termini piuttosto che per altri ed esistono termini diversi per indicare la stessa cosa: guarda ad esempio le definizioni di ["applicazione"](../../j/jd/jd0.html).
 

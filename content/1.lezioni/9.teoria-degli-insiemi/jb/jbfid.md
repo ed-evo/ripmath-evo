@@ -1,4 +1,4 @@
-# [Prodotto cartesiano di un insieme su sé stesso]{.text-red}
+# Prodotto cartesiano di un insieme su sé stesso
 
 Particolarmente interessante è il caso in cui il prodotto cartesiano coinvolge solo un insieme (prodotto cartesiano di un insieme su sé stesso)
 

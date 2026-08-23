@@ -1,4 +1,4 @@
-## [Scompongo i denominatori]{.text-red}
+## Scompongo i denominatori
 
 $$
 \textcolor{red}{\left( \frac{4}{x^2 - 1} + \frac{1}{x + 1} + \frac{1}{x - 1} \right) : \left( x - \frac{2}{x + 1} \right)}

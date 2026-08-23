@@ -1,4 +1,4 @@
-# [Altre successioni]{.text-red}
+# Altre successioni
 
 > Possiamo considerare altre successioni che tendono a $$\pi$$, $$\sqrt{2}$$, $$\sqrt{3}$$, ma non conviene anche perché risulteranno formule molto complicate;
 >

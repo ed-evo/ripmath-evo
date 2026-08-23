@@ -1,4 +1,4 @@
-# [Distribuzione geometrica]{.text-red}
+# Distribuzione geometrica
 
 Chiamando $$\textcolor{red}{p}$$ la probabilità che l'evento si verifichi, $$\textcolor{red}{q}$$ la probabilità che l'evento non si verifichi, avremo la variabile aleatoria $$\textcolor{red}{Z}$$ (si chiama $$\textcolor{red}{Z}$$ per consuetudine).
 

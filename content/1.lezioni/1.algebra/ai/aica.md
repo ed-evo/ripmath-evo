@@ -1,4 +1,4 @@
-# [Grado di un sistema]{.text-red}
+# Grado di un sistema
 
 Il grado di un sistema si calcola moltiplicando i gradi delle equazioni componenti; ad esempio
 

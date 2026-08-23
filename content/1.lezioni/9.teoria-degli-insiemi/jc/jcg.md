@@ -1,4 +1,4 @@
-# [Relazione di equivalenza]{.text-red}
+# Relazione di equivalenza
 
 Più che le relazioni elementari, viste sinora, sono importanti le relazioni "composte", cioè le relazioni formate da più relazioni elementari.
 

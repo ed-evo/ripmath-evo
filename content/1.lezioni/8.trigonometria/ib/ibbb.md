@@ -1,4 +1,4 @@
-# [Funzione coseno]{.text-red}
+# Funzione coseno
 
 La funzione coseno corrisponde alla coordinata $$x$$ del punto sulla circonferenza in geometria cartesiana
 

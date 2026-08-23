@@ -1,4 +1,4 @@
-# [Potenza fra numeri reali con esponente intero]{.text-red}
+# Potenza fra numeri reali con esponente intero
 
 Qui è molto semplice: se l'esponente è positivo posso definire la potenza come il prodotto della base tante volte quante è l'esponente
 

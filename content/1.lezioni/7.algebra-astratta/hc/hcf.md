@@ -1,4 +1,4 @@
-# [Corpo]{.text-red}
+# Corpo
 
 Continuiamo a evidenziare le proprietà che ci permettono di definire i vari tipi di numeri e cerchiamo di esplicitare quali di esse sono significative, nel senso che si possano applicare ad alcuni tipi di oggetti oppure no.
 

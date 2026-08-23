@@ -1,4 +1,4 @@
-# [Geometria del piano]{.text-red}
+# Geometria del piano
 
 Sviluppiamo ora la geometria euclidea (cioè la geometria che si sviluppa dai postulati di Euclide) nel piano considerando come piano lo schermo del computer (quindi devi immaginare che lo schermo non abbia bordi ma si estenda all'infinito)
 

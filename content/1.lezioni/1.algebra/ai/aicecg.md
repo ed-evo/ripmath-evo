@@ -1,4 +1,4 @@
-# [Soluzione generale di un sistema simmetrico]{.text-red}
+# Soluzione generale di un sistema simmetrico
 
 Per risolverlo in modo automatico trasformiamo tutti i termini in gruppi del tipo $$x+y$$ ed $$xy$$, magari utilizzando anche le formule di Waring; una volta fatto ciò consideriamo due nuove variabili:
 

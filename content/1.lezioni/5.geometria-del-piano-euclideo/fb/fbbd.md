@@ -1,4 +1,4 @@
-# [Postulati dell'ordine]{.text-red}
+# Postulati dell'ordine
 
 > Danno il concetto di ordine sulla retta e nel piano:
 > 

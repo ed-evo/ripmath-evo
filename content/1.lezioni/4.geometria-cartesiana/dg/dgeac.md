@@ -1,4 +1,4 @@
-# [esercizi vari sulla retta tangente ad una parabola in un suo punto]{.text-red}
+# esercizi vari sulla retta tangente ad una parabola in un suo punto
 
 ## Esercizio 1
 Data la parabola

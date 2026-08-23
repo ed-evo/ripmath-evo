@@ -1,4 +1,4 @@
-# [Definizioni di fuso sferico e spicchio sferico]{.text-red}
+# Definizioni di fuso sferico e spicchio sferico
 
 Chiamiamo **fuso sferico** la parte di superficie sferica compresa fra due semicerchi aventi lo stesso diametro $$AB$$.
 

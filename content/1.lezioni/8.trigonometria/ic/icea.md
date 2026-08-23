@@ -1,4 +1,4 @@
-# [$$\text{sen } x > h$$]{.text-red}
+# $$\text{sen } x > h$$
 
 vediamo come risolvere la disequazione
 

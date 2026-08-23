@@ -1,4 +1,4 @@
-# [Coordinate del fuoco]{.text-red}
+# Coordinate del fuoco
 
 Siccome nella parabola $$\textcolor{blue}{y = ax^2}$$
 il fuoco è nel punto

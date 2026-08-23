@@ -1,4 +1,4 @@
-# [Positività e negatività]{.text-red}
+# Positività e negatività
 
 Serve per individuare in quali parti del piano passerà il grafico della funzione
 

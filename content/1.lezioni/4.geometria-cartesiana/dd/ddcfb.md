@@ -1,4 +1,4 @@
-# [Equazioni delle tangenti condotte da un punto esterno ad una circonferenza]{.text-red}
+# Equazioni delle tangenti condotte da un punto esterno ad una circonferenza
 
 Abbiamo visto che quando una retta è tangente ad una circonferenza ha con essa $$2$$ punti coincidenti in comune, cioè facendo il sistema fra la retta e la circonferenza il discriminante del sistema è uguale a zero.
 

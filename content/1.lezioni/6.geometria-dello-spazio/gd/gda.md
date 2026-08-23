@@ -1,4 +1,4 @@
-# [Relazioni fra rette nello spazio]{.text-red}
+# Relazioni fra rette nello spazio
 
 Due rette nello spazio possono essere:
 

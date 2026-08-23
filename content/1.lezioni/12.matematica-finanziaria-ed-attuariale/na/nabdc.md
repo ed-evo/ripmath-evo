@@ -1,4 +1,4 @@
-# [Passaggio dal logaritmo al numero]{.text-red}
+# Passaggio dal logaritmo al numero
 
 Dopo aver trasformato i numeri in logaritmi ed aver fatto i calcoli dobbiamo tornare a scrivere il numero risultante nella sua normale forma decimale, quindi, come si dice, dovremo fare l'**antilogaritmo**.
 Anche qui vediamo 2 esempi diversi: uno con i logaritmi a $$5$$ decimali ed uno con i logaritmi a $$7$$ decimali.

@@ -1,4 +1,4 @@
-# [Semplificazione di frazioni]{.text-red}
+# Semplificazione di frazioni
 
 In pratica se hai delle frazioni puoi utilizzare le equazioni di secondo grado per scomporre in fattori e poi semplificare numeratore e denominatore.
 

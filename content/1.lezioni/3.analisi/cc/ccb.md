@@ -1,6 +1,6 @@
 > **Attenzione:** i link rossi non sono attivi
 
-# [Funzioni matematiche]{.text-red}
+# Funzioni matematiche
 
 Sono quelle funzioni tali che le operazioni che permettono di passare dal valore della $$x$$ al valore della $$y$$ sono di tipo matematico.
 

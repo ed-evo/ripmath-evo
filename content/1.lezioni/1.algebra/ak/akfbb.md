@@ -1,4 +1,4 @@
-# [Una radice quadrata ed un termine al denominatore]{.text-red}
+# Una radice quadrata ed un termine al denominatore
 
 Nel caso in cui abbiamo al denominatore un termine ed una radice si procede esattamente allo stesso modo del caso precedente
 

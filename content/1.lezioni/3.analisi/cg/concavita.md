@@ -1,4 +1,4 @@
-# [CONCAVITÀ]{.text-red}
+# CONCAVITÀ
 
 Diremo che una curva presenta una concavità verso il basso (evidenziata dalla freccia blu) quando, tracciando una qualunque tangente la curva si trova sotto la tangente.
 

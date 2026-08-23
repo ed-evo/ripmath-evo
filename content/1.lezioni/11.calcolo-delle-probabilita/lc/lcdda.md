@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \textcolor{red}{p = \frac{C_{4,2}}{C_{40,2}}}

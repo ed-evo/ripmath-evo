@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Date le seguenti equazioni, indicare se rappresentano circonferenze e, in caso positivo, trovarne il centro e il raggio.
 

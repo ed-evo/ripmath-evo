@@ -1,4 +1,4 @@
-# [Baricentro]{.text-red}
+# Baricentro
 
 Definiamo **baricentro** di un triangolo il punto di incontro delle sue mediane.
 

@@ -1,4 +1,4 @@
-# [Bisettrici di un triangolo]{.text-red}
+# Bisettrici di un triangolo
 
 Per calcolare il valore della bisettrice $$AD$$ dell'angolo $$\alpha$$ [calcoliamo le aree]{.text-blue} dei due triangoli $$ADB$$ e $$ADC$$ in cui il triangolo $$ABC$$ viene diviso dalla bisettrice.
 

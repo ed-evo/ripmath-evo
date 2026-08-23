@@ -1,4 +1,4 @@
-# [Criterio generale di convergenza]{.text-red}
+# Criterio generale di convergenza
 
 Talvolta, soprattutto quando si vuol vedere la convergenza della serie stessa, diventa utile considerare le ridotte dei resti di una serie dette anche **ridotte parziali**; ad esempio la ridotta parziale $$r_{k,h}$$ del resto **k-esimo** della serie sopra considerata sarà:
 

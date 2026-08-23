@@ -1,4 +1,4 @@
-# [Proporzionalità fra aree]{.text-red}
+# Proporzionalità fra aree
 
 Vale il teorema:
 **In poligoni simili le aree stanno tra loro come i quadrati dei rispettivi lati**

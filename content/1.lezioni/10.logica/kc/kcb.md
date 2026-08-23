@@ -1,4 +1,4 @@
-# [Quantificatori]{.text-red}
+# Quantificatori
 
 Introduciamo ora il concetto di quantificatore per poter trattare logicamente anche frasi quali:
 

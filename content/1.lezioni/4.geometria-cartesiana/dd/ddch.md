@@ -1,4 +1,4 @@
-# [Intersezioni fra due circonferenze]{.text-red}
+# Intersezioni fra due circonferenze
 
 Osservando due circonferenze nel piano puoi vedere che, se si intersecano, hanno $$2$$ punti in comune.
 

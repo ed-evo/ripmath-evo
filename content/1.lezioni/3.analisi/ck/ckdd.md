@@ -1,4 +1,4 @@
-# [Alcune regole operative]{.text-red}
+# Alcune regole operative
 
 Vediamo ora un paio di regole utilizzate per il calcolo degli integrali indefiniti (regole di linearità).
 

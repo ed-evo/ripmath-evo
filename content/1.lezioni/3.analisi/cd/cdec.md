@@ -1,4 +1,4 @@
-# [Teorema della maggiorante e della minorante (Teorema dei "carabinieri")]{.text-red}
+# Teorema della maggiorante e della minorante (Teorema dei "carabinieri")
 
 Il nome esatto sarebbe quello sopra, ma anche in alcuni testi scolastici ho visto chiamare questo teorema col secondo nome, che rende bene l'idea del teorema stesso:
 

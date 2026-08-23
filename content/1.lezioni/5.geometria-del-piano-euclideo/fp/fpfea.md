@@ -1,4 +1,4 @@
-# [considerazioni preliminari sugli esercizi di similitudine fra triangoli]{.text-red}
+# considerazioni preliminari sugli esercizi di similitudine fra triangoli
 
 Una delle difficoltà che si incontrano quando si risolve un problema sui triangoli simili è il mettere correttamente in proporzione i lati omologhi: non sempre è facile da una figura, spesso fatta frettolosamente e con poca corrispondenza ai dati, vedere quale è la proporzione esatta da considerare.
 

@@ -1,4 +1,4 @@
-# [Proiezione di un segmento su una retta]{.text-red}
+# Proiezione di un segmento su una retta
 
 Esaminiamo il caso in cui il segmento ha un estremo sulla retta: negli altri casi possiamo sempre pensare di spostare il segmento con un movimento rigido.
 

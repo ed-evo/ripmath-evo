@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trasformare in binario il seguente numero decimale:
 $$159_{10} =$$

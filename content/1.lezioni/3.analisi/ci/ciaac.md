@@ -1,4 +1,4 @@
-# [Grafico dell'iperbole equilatera riferita ai propri assi]{.text-red}
+# Grafico dell'iperbole equilatera riferita ai propri assi
 
 L'equazione dell'iperbole è
 $$

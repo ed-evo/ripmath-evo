@@ -1,4 +1,4 @@
-# [Esercizi sugli asintoti]{.text-red}
+# Esercizi sugli asintoti
 
 Vediamo ora alcuni esercizi in ordine di difficoltà:
 

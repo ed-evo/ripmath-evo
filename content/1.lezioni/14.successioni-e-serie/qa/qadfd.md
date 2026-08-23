@@ -1,4 +1,4 @@
-# [Sia base che esponente variabili]{.text-red}
+# Sia base che esponente variabili
 
 Anche questa è una successione molto interessante
 

@@ -1,4 +1,4 @@
-# [Equazioni ai moduli]{.text-red}
+# Equazioni ai moduli
 
 Conviene qui ampliare un pochino nei particolari il concetto di modulo
 

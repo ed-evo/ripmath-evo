@@ -1,4 +1,4 @@
-# [Postulati dell'uguaglianza]{.text-red}
+# Postulati dell'uguaglianza
 
 Oltre quelli già validi per il piano (che ti consiglio di [ripassare](../../f/fb/fbbc.html)) vale:
 

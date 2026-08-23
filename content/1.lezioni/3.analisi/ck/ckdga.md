@@ -1,4 +1,4 @@
-# [Integrazione per ricorrenza]{.text-red}
+# Integrazione per ricorrenza
 
 Gli integrali per ricorrenza sono abbastanza "strani": devi integrare finché lo stesso integrale non compare dall'altra parte ma con segno cambiato: uguagliando il primo e l'ultimo termine puoi ricavarne il valore; Vediamo il metodo su di un esempio
 

@@ -1,4 +1,4 @@
-# [Metodo di confronto]{.text-red}
+# Metodo di confronto
 
 Risolviamo il sistema generico
 $$

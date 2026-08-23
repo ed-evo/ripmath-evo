@@ -1,5 +1,5 @@
-# [DIVISIONE FRA POLINOMI]{.text-red}
-## [METODO DI RUFFINI]{.text-red}
+# DIVISIONE FRA POLINOMI
+## METODO DI RUFFINI
 
 In Matematica occorre sempre cercare di fare prima e meglio, cioè la matematica è la scienza del massimo rendimento con il minimo sforzo.
 

@@ -1,4 +1,4 @@
-# [I vettori in fisica]{.text-red}
+# I vettori in fisica
 
 Se pensiamo alla fisica noi abbiamo trovato spesso il concetto di vettore e delle sue componenti.
 In fisica un vettore è un ente caratterizzato da un modulo (lunghezza del segmento), un verso (la freccia) ed un punto di applicazione (se consideriamo il punto di applicazione diremo che il vettore è applicato).

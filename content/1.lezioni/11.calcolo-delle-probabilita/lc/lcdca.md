@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 [$$p = \frac{C_{12,3}}{C_{20,3}}$$]{.text-red}
 

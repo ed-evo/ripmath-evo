@@ -1,4 +1,4 @@
-# [Esercizi teorici sulla similitudine fra triangoli]{.text-red}
+# Esercizi teorici sulla similitudine fra triangoli
 
 > Sono esercizi in cui devi "dimostrare" che i triangoli sono simili, quasi sempre utilizzando il primo criterio di similitudine, e quindi scrivere la proporzione; negli esami, di solito, capitano all'inizio di un problema più complesso
 

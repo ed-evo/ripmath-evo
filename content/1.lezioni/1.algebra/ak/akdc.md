@@ -1,4 +1,4 @@
-# [Prodotto fra radicali]{.text-red}
+# Prodotto fra radicali
 
 Dobbiamo distinguere due casi:
 

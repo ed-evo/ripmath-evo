@@ -1,4 +1,4 @@
-# [Utilizzo della geometria per risolvere algebricamente il problema]{.text-red}
+# Utilizzo della geometria per risolvere algebricamente il problema
 
 Esiste una stretta equivalenza fra la soluzione algebrica e geometrica del problema e poiché di solito la soluzione geometrica è più facile ed intuitiva si può utilizzare questa per poter impostare l'equivalente soluzione algebrica.
 

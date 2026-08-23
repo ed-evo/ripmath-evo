@@ -1,4 +1,4 @@
-# [Come si disegna la funzione $$y = \cos x$$]{.text-red}
+# Come si disegna la funzione $$y = \cos x$$
 
 Dobbiamo immaginare di "srotolare" una circonferenza sull'asse delle $$x$$.
 

@@ -1,4 +1,4 @@
-# [Lato del decagono regolare]{.text-red}
+# Lato del decagono regolare
 
 Mostriamo ora che il lato del decagono regolare è la sezione aurea del raggio del cerchio circoscritto.
 

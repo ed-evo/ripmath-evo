@@ -1,4 +1,4 @@
-# [Passaggio dal numero al logaritmo]{.text-red}
+# Passaggio dal numero al logaritmo
 
 Vediamo alcuni esempi diversi
 - Il numero è compreso fra $$1$$ e $$10.000$$

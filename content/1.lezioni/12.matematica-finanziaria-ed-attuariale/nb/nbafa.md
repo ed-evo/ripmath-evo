@@ -1,4 +1,4 @@
-# [Esercizi sul calcolo del montante ad interesse composto]{.text-red}
+# Esercizi sul calcolo del montante ad interesse composto
 
 ## tempo intero
 

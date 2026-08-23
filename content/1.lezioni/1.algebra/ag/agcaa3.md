@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$
 \textcolor{blue}{x^2 + 2x - 3 \le 0}

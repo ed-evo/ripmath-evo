@@ -1,4 +1,4 @@
-# [Area del triangolo]{.text-red}
+# Area del triangolo
 
 Anche qui è sufficiente fare riferimento al teorema [sull'equiscomponibilità fra parallelogramma e triangolo](../fm/fmbb.html):
 
@@ -26,7 +26,7 @@ Conoscendo il perimetro del triangolo ed il raggio del cerchio inscritto, [per q
 
 ***
 
-# [Area del rombo]{.text-red}
+# Area del rombo
 
 Come conseguenza notevole troviamo l'area del rombo considerandola come l'area di due triangoli.
 

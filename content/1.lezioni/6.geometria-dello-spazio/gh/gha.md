@@ -1,4 +1,4 @@
-# [Angoloidi]{.text-red}
+# Angoloidi
 
 Dobbiamo ora passare a studiare i solidi, cioè degli oggetti che racchiudono uno spazio nel loro interno e formati da più facce (poliedri dal greco: più facce); cominciamo con il definire una figura geometrica, l'angoloide, che sarà quella che permetterà alle varie facce del solido di "convergere" in un vertice.
 

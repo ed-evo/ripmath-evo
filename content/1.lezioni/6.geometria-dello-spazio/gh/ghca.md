@@ -1,4 +1,4 @@
-# [In un triedro ogni faccia è minore della somma delle altre due]{.text-red}
+# In un triedro ogni faccia è minore della somma delle altre due
 
 Dimostriamo il teorema:
 **In un triedro ogni faccia è minore della somma delle altre due**

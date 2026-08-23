@@ -1,4 +1,4 @@
-# [Applicazioni alla Geometria]{.text-red}
+# Applicazioni alla Geometria
 
 Vediamone alcune perché sono tante che è impossibile catalogarle tutte
 

@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 L'operazione di rovesciare due bicchieri consecutivi è associativa perché ad esempio hai fatto le operazioni
 

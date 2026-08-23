@@ -1,4 +1,4 @@
-# [Gli enti fondamentali]{.text-red}
+# Gli enti fondamentali
 
 Dobbiamo fissare gli oggetti che saranno i protagonisti della nostra rappresentazione geometrica:
 

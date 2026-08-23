@@ -1,4 +1,4 @@
-## [Scompongo ove possibile]{.text-red}
+## Scompongo ove possibile
 
 $$
 \textcolor{red}{\frac{2x + 4}{(x - 1) \cdot (x + 1)} \cdot \frac{x + 1}{x^2 + x - 2}}

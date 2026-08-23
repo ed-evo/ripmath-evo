@@ -1,4 +1,4 @@
-# [Serie a segno alterno]{.text-red}
+# Serie a segno alterno
 
 Vediamo ora cosa possiamo dire per le serie a termini di segno alterno
 

@@ -1,4 +1,4 @@
-# [Ricordi di un noioso professore]{.text-red}
+# Ricordi di un noioso professore
 
 Eravamo circa alla metà degli anni $$70$$ ed insegnavo matematica applicata ad un Istituto Tecnico Commerciale a Cagli.
 

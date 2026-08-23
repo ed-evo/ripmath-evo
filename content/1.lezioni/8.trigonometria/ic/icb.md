@@ -1,4 +1,4 @@
-# [Identità trigonometriche]{.text-red}
+# Identità trigonometriche
 
 Sono due espressioni di cui bisogna dimostrare l'uguaglianza:
 

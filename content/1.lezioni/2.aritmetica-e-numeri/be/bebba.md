@@ -1,4 +1,4 @@
-# [Somma fra numeri complessi]{.text-red}
+# Somma fra numeri complessi
 
 Per la somma ci rifaremo sempre alle regole studiate nei [monomi](../../a/ac/ac3.html) considerando $$i$$ come parte letterale:
 

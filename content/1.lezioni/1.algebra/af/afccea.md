@@ -1,4 +1,4 @@
-# [Tabella riassuntiva della regola di Cartesio]{.text-red}
+# Tabella riassuntiva della regola di Cartesio
 
 Considerando i vari segni possibili per i coefficienti possiamo aver i seguenti casi: (ho considerato $$x_1$$ come valore assoluto minore e $$x_2$$ come valore assoluto maggiore, cioè senza considerarne i segni)
 

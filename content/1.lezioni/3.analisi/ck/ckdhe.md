@@ -1,4 +1,4 @@
-# [Alcuni esercizi]{.text-red}
+# Alcuni esercizi
 
 Il primo esercizio è quello che abbiamo già risolto a pezzi,
 

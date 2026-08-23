@@ -1,4 +1,4 @@
-# [Calcolo delle proposizioni: metodo classico]{.text-red}
+# Calcolo delle proposizioni: metodo classico
 
 Vediamo ora di procedere al calcolo delle proposizioni utilizzando il metodo più usato nei bienni: passeremo in rassegna i vari elementi uno per uno.
 

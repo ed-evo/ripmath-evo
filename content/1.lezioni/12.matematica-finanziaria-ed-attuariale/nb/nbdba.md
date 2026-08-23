@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 > Per farlo velocemente con la calcolatrice basta che esegui la divisione del capitale di $$146,41$$ euro per $$1,10$$ per ogni anno: ottieni così il valore attuale, anno per anno
 >

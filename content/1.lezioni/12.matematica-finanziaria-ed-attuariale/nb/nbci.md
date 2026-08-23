@@ -1,4 +1,4 @@
-# [Tasso di interesse e tasso di sconto]{.text-red}
+# Tasso di interesse e tasso di sconto
 
 A questo punto soffermiamoci un poco sul significato di $$i$$ che finora abbiamo indicato genericamente come tasso sia per l'interesse che per lo sconto.
 

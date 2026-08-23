@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 > **Esempio:** trovare l'equazione della retta passante per il punto $$\textcolor{red}{A(2, 5)}$$ e parallela alla retta $$\textcolor{red}{y = -3}$$.
 >

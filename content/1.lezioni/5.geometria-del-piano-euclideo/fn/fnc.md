@@ -1,4 +1,4 @@
-# [Grandezze incommensurabili]{.text-red}
+# Grandezze incommensurabili
 
 Mostriamo come prima cosa che esistono segmenti incommensurabili, cioè per cui non è possibile trovare nessuna sottomultipla comune: lo vedremo sul lato e la diagonale del quadrato.
 

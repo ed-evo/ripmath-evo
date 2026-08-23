@@ -1,4 +1,4 @@
-# [Teorema della minorante e della maggiorante]{.text-red}
+# Teorema della minorante e della maggiorante
 
 Il seguente teorema è l'equivalente del teorema "dei carabinieri" che viene studiato in analisi matematica.
 

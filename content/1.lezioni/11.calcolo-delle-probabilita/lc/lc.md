@@ -1,4 +1,4 @@
-# [Teoria della probabilità]{.text-red}
+# Teoria della probabilità
 
 Ora possiamo iniziare la teoria della probabilità: grosso modo possiamo distinguere tre teorie diverse: la probabilità classica, la teoria frequentista (o probabilità statistica) e la probabilità soggettiva; vedremo di superare i loro limiti considerando poi la definizione assiomatica di probabilità che comprende le altre definizioni come casi particolari.
 

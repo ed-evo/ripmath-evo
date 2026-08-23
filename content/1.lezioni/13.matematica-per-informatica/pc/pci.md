@@ -1,4 +1,4 @@
-# [Un esempio]{.text-red}
+# Un esempio
 
 ---
 

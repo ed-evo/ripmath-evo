@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Sviluppare in serie la funzione
 

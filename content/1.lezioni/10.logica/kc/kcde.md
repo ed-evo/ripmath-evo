@@ -1,4 +1,4 @@
-# [conclusione]{.text-red}
+# conclusione
 
 In definitiva ogni sillogismo è composto di $$3$$ giudizi ed i giudizi sono di $$4$$ tipi diversi.
 

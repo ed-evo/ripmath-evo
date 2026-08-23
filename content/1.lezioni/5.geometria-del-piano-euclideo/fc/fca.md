@@ -1,4 +1,4 @@
-# [Convenzioni iniziali]{.text-red}
+# Convenzioni iniziali
 
 - Indicheremo i punti con le lettere maiuscole dell'alfabeto latino: $$\textcolor{red}{A}, \textcolor{red}{B}, \textcolor{red}{C}, \textcolor{red}{D}, \dots$$
 - Indicheremo le rette con le lettere minuscole dell'alfabeto latino: $$\textcolor{red}{a}, \textcolor{red}{b}, \textcolor{red}{c}, \textcolor{red}{d}, \dots$$

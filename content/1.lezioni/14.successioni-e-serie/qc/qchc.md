@@ -1,4 +1,4 @@
-# [Prodotto di successioni]{.text-red}
+# Prodotto di successioni
 
 Date la successione $$a$$
 $$

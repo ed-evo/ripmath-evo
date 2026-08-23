@@ -1,4 +1,4 @@
-# [Definizione di proporzione]{.text-red}
+# Definizione di proporzione
 
 > **Definizione:** Una proporzione è l'uguaglianza fra due rapporti:
 > 

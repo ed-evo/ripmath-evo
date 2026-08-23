@@ -1,4 +1,4 @@
-# [Conclusioni]{.text-red}
+# Conclusioni
 
 Anche se l'argomento richiederebbe ben altri approfondimenti, terminiamo qui il discorso teorico sull'algebra binaria di Boole, lasciando agli informatici uno studio più rigoroso ed ampio.
 

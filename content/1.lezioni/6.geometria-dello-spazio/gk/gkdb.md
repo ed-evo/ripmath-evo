@@ -1,4 +1,4 @@
-# [Area della superficie del tronco di cono]{.text-red}
+# Area della superficie del tronco di cono
 
 Per calcolare la superficie del tronco di cono prolunghiamone la superficie fino a ricostruire il cono $$VAA'$$ e poi calcoliamone la superficie laterale come differenza fra le superfici laterali dei coni $$VAA'$$ e $$VDD'$$:
 

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Calcolare l'area della regione di piano compresa fra la curva $$y=1/x^2$$ e l'asse delle $$x$$ da $$1$$ a più infinito.
 

@@ -1,4 +1,4 @@
-# [Triangolo rettangolo inscritto in una semicirconferenza]{.text-red}
+# Triangolo rettangolo inscritto in una semicirconferenza
 
 > È detto anche teorema di "Dante", non perché l'abbia fatto Dante Alighieri, ma perché nel paradiso vi fa riferimento dicendo "come se fosse possibile inscrivere in una semicirconferenza un triangolo che non sia rettangolo"
 

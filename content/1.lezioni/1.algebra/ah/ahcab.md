@@ -1,4 +1,4 @@
-# [Problemi di primo grado tipo "settimana enigmistica"]{.text-red}
+# Problemi di primo grado tipo "settimana enigmistica"
 
 Sono problemi anche divertenti che è possibile risolvere anche mentalmente ma con una certa difficoltà, mentre utilizzando le equazioni la soluzione diventa più semplice
 

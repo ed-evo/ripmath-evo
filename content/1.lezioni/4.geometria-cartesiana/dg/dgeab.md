@@ -1,4 +1,4 @@
-# [esercizi sulla retta tangente ad una parabola in un suo punto]{.text-red}
+# esercizi sulla retta tangente ad una parabola in un suo punto
 
 Anche qui è applicabile il metodo (molto più semplice) che vedrai in analisi matematica il prossimo anno (regola di De L'Hospital). Comunque, per risolvere ora questi esercizi faremo riferimento al fatto che la tangente è la posizione limite di una secante quando i due punti di intersezione tendono ad avvicinarsi fra loro indefinitamente, cioè il discriminante del sistema retta-parabola sarà nullo (soluzioni coincidenti).
 

@@ -1,4 +1,4 @@
-# [Campo di esistenza di una funzione]{.text-red}
+# Campo di esistenza di una funzione
 
 attenzione: i link rossi non sono ancora attivi
 

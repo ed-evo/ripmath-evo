@@ -1,4 +1,4 @@
-# [Definizione di funzione continua]{.text-red}
+# Definizione di funzione continua
 
 Intuitivamente possiamo dire che una funzione si dice continua quando possiamo disegnarla senza staccare la penna dal foglio (o il gessetto dalla lavagna) ma penso sia il caso di darne una definizione matematica precisa utilizzando il concetto di limite:
 

@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Calcolare i valori di $$x$$ per cui si ha:
 [$$-x^2 + 4x - 4 \ge 0$$]{.text-red}

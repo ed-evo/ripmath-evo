@@ -1,4 +1,4 @@
-# [Distanza terra luna]{.text-red}
+# Distanza terra luna
 
 > Ormai l'argomento è non più d'attualità: se vuoi misurare la distanza terra-luna oggi basta usare un raggio laser e misurare il tempo che impiega per essere riflesso verso l'osservatore: ottieni una misura con una precisione sbalorditiva. Quando gli astronauti sono sbarcati sulla luna hanno lasciato uno specchio appositamente per questo. Comunque storicamente questi calcoli hanno avuto la loro importanza e quindi conviene conoscerli: qui misuriamo la distanza fra i centri della terra e della luna.
 

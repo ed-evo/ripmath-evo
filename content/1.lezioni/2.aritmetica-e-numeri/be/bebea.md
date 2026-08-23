@@ -1,4 +1,4 @@
-# [Funzione esponenziale con esponente immaginario]{.text-red}
+# Funzione esponenziale con esponente immaginario
 
 Partiamo dallo [sviluppo in serie della funzione esponenziale](../../c/cj/cjga.html):
 

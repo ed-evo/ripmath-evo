@@ -1,4 +1,4 @@
-# [Valore di uno dei parametri]{.text-red}
+# Valore di uno dei parametri
 
 È il caso più semplice: basta scrivere
 $$parametro = valore$$

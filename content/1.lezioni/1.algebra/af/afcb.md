@@ -1,4 +1,4 @@
-# [Equazione spuria]{.text-red}
+# Equazione spuria
 
 È l'equazione di secondo grado del tipo:
 

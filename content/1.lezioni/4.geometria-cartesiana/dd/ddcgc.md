@@ -1,4 +1,4 @@
-# [Equazione della circonferenza passante per un punto e tangente a due rette assegnate]{.text-red}
+# Equazione della circonferenza passante per un punto e tangente a due rette assegnate
 
 Trovare l'equazione della circonferenza passante per il punto [$$A(1,0)$${.text-blue}] e tangente alle rette [$$y = 0$${.text-blue}] e [$$y = -x$${.text-blue}].
 

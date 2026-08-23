@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 [in ogni rombo le diagonali sono perpendicolari]{.text-red-darken-1}
 e viceversa

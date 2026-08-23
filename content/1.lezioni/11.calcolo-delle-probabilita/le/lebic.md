@@ -1,4 +1,4 @@
-# [Distribuzione gaussiana]{.text-red}
+# Distribuzione gaussiana
 
 > È di gran lunga la più importante, anche perché si ritrova quasi ovunque, dalla distribuzione delle particelle alla teoria degli errori.
 

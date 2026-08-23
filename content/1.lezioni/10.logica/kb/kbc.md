@@ -1,4 +1,4 @@
-# [Disgiunzione inclusiva]{.text-red}
+# Disgiunzione inclusiva
 
 Anche la disgiunzione inclusiva (**o, od anche**) è un'operazione **binaria** perché si applica su due proposizioni ed è definita come l'operazione che applicata a $$p$$ e $$q$$ restituisce i seguenti valori di verità. È utilizzato, oltre al termine **vel**, il simbolo $$\vee$$ (vel).
 

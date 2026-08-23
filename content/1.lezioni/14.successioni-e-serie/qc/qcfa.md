@@ -1,4 +1,4 @@
-# [Come comportarsi con il modulo nei limiti per verificare il limite stesso]{.text-red}
+# Come comportarsi con il modulo nei limiti per verificare il limite stesso
 
 se vuoi ripassare la [definizione di modulo](../../a/af/afbhb.html)
 

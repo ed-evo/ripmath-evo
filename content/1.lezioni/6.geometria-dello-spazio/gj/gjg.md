@@ -1,4 +1,4 @@
-# [Equiestensione prisma-piramide]{.text-red}
+# Equiestensione prisma-piramide
 
 ### Teorema:
 

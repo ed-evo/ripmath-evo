@@ -1,4 +1,4 @@
-# [Equazione della circonferenza passante per tre punti assegnati]{.text-red}
+# Equazione della circonferenza passante per tre punti assegnati
 
 Per tre punti non allineati passa una ed una sola circonferenza.
 Date le coordinate di tre punti vogliamo risalire all'equazione della circonferenza.

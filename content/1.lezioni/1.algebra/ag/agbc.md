@@ -1,4 +1,4 @@
-# [Disequazione di primo grado a più incognite (cenno)]{.text-red}
+# Disequazione di primo grado a più incognite (cenno)
 
 Con 3 incognite potremo ancora rifarci ad una rappresentazione geometrica:
 Un'espressione tipo

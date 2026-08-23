@@ -1,4 +1,4 @@
-# [$$\tan(\alpha + \beta)$$]{.text-red}
+# $$\tan(\alpha + \beta)$$
 
 Applico la seconda relazione fondamentale
 

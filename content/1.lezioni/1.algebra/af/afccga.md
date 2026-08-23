@@ -1,4 +1,4 @@
-# [esercizi sulle equazioni di secondo grado pure]{.text-red}
+# esercizi sulle equazioni di secondo grado pure
 
 Vediamo alcuni esercizi graduati per difficoltà
 

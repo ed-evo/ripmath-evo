@@ -1,4 +1,4 @@
-# [Alcune proprietà dei numeri primi]{.text-red}
+# Alcune proprietà dei numeri primi
 
 Vediamo qui alcune proprietà dei numeri primi: naturalmente considereremo solamente quelle che ci saranno utili per la scomposizione in fattori.
 

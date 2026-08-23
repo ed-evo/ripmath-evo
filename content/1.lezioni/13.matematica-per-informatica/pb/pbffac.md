@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Trasforma i seguenti numeri decimali in binari, esegui le operazioni e poi riporta il risultato in forma decimale:
 

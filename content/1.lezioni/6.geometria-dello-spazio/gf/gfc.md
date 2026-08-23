@@ -1,4 +1,4 @@
-# [Parallelismo fra piani]{.text-red}
+# Parallelismo fra piani
 
 Due piani nello spazio sono paralleli se non hanno nessun punto in comune e quindi, per la relazione fra piani nello spazio, nessuna retta in comune.
 

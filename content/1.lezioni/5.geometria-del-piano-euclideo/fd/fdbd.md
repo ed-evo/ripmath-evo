@@ -1,4 +1,4 @@
-# [In ogni triangolo la somma di due lati è maggiore del terzo lato]{.text-red}
+# In ogni triangolo la somma di due lati è maggiore del terzo lato
 
 In pratica vuol dire che se vuoi chiudere un triangolo i lato devono essere compresi entro certi limiti.
 

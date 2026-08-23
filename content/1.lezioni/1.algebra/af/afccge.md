@@ -1,4 +1,4 @@
-# [Trovare due numeri di cui conosciamo la somma ed il prodotto]{.text-red}
+# Trovare due numeri di cui conosciamo la somma ed il prodotto
 
 Possiamo dire che sono gli esercizi inversi della pagina precedente: chiamiamo i due numeri $$x_1$$ e $$x_2$$ e consideriamoli come radici di un'equazione di secondo grado. Conosci la somma ed il prodotto delle radici: devi trovare le radici.
 

@@ -1,4 +1,4 @@
-# [sinonimi]{.text-red}
+# sinonimi
 
 È chiamato anche
 

@@ -1,4 +1,4 @@
-# [Logaritmi decimali]{.text-red}
+# Logaritmi decimali
 
 - [Cos'è un logaritmo decimale](naba.html)
 - [Perché i logaritmi](nabb.html)

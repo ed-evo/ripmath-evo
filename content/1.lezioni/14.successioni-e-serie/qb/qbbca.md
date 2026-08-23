@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Ho la ragione $$q = 2$$
 

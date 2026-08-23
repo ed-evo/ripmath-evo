@@ -1,4 +1,4 @@
-# [Tabella di riepilogo con $$a < 0$$]{.text-red}
+# Tabella di riepilogo con $$a < 0$$
 
 Cliccando sui riquadri delle soluzioni potrai vedere un esempio per ogni tipo; comunque per la soluzione dell'equazione associata si cambia sempre di segno prima di applicare la formula risolutiva.
 

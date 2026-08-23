@@ -1,4 +1,4 @@
-# [Somma di n termini di una progressione geometrica]{.text-red}
+# Somma di n termini di una progressione geometrica
 
 La somma di $$n$$ termini di una progressione geometrica è alla base del calcolo di una rata, quindi fondamentale in matematica finanziaria ed attuariale.
 

@@ -1,4 +1,4 @@
-# [Relazioni fra continuità e derivabilità]{.text-red}
+# Relazioni fra continuità e derivabilità
 
 C'è da dire subito che una funzione continua non è sempre derivabile, infatti se ho un punto con un angolo (punto angoloso) non ho la derivata perché la derivata destra è diversa dalla derivata sinistra; inoltre posso pensare curve che non hanno nessun punto derivabile: la curva di Peano, la curva di von Koch.
 

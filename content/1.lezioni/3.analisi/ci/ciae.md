@@ -1,4 +1,4 @@
-# [grafici di funzioni inverse]{.text-red}
+# grafici di funzioni inverse
 
 Una funzione si dice inversa di un'altra se si può ottenere la seconda funzione scambiando fra loro la $$x$$ e la $$y$$ e ricavando poi la $$y$$ nella prima funzione.
 

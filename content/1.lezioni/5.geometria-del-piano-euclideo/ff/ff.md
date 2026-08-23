@@ -1,4 +1,4 @@
-# [Parallelismo]{.text-red}
+# Parallelismo
 
 - introduzione
 - definizione di rette parallele

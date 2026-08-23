@@ -1,4 +1,4 @@
-# [Equazioni abbassabili di grado]{.text-red}
+# Equazioni abbassabili di grado
 
 Considero il polinomio associato all'equazione e lo scompongo in fattori, ad esempio con Ruffini, poi pongo il polinomio scomposto uguale a zero ed utilizzando la legge di annullamento del prodotto risolvo le equazioni componenti.
 

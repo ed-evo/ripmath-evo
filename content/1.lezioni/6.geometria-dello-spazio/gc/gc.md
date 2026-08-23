@@ -1,4 +1,4 @@
-# [Postulati dello spazio]{.text-red}
+# Postulati dello spazio
 
 Dobbiamo ora vedere quali postulati aggiungere ai postulati del piano in modo da avere un sistema di postulati da cui costruire e studiare le proprietà dello spazio: al solito divideremo i postulati come nel piano:
 

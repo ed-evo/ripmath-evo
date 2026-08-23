@@ -1,4 +1,4 @@
-# [Dimostrazione teorica]{.text-red}
+# Dimostrazione teorica
 
 Quello che abbiamo fatto come esercizio facciamolo in modo teorico:
 Considero le due circonferenze:

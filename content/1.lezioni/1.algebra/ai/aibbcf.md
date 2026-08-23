@@ -1,4 +1,4 @@
-# [Teorema di Rouchè-Capelli]{.text-red}
+# Teorema di Rouchè-Capelli
 
 Siamo ora in grado di enunciare un teorema che rappresenta il sunto di tutti i ragionamenti precedenti:
 

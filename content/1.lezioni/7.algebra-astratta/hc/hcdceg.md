@@ -1,4 +1,4 @@
-# [Insieme dei resti modulo 8 (o relazione di congruenza modulo 8)]{.text-red}
+# Insieme dei resti modulo 8 (o relazione di congruenza modulo 8)
 
 > Per vedere i calcoli ferma il mouse sul numero della tabella che ti interessa.
 

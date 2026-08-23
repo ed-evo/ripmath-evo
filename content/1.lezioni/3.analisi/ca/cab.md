@@ -1,4 +1,4 @@
-# [I paradossi]{.text-red}
+# I paradossi
 
 Della poca praticità del concetto di punto si erano già accorti gli antichi, ad esempio Zenone enunciò alcuni paradossi irresolubili con la matematica tradizionale: il più celebre è quello di Achille (il guerriero più veloce dell'antichità tanto da meritarsi il soprannome di Piè Veloce) e della tartaruga.
 
@@ -16,4 +16,4 @@ Per farti capire che lo spazio fisico non è infinitamente divisibile prova a pe
 
 Non essendo lo spazio fisico infinitamente divisibile non sarà possibile usarvi il concetto di punto, ma un concetto più efficace anche se più grossolano:
 
-## [L'intervallo]{.text-red}
+## L'intervallo

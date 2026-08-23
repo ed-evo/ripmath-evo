@@ -1,4 +1,4 @@
-# [A proiezione maggiore corrisponde lato obliquo maggiore]{.text-red}
+# A proiezione maggiore corrisponde lato obliquo maggiore
 
 > Fornisco qui un breve cenno di dimostrazione, ma tu, per esercizio, potresti farne la dimostrazione completa con ipotesi, tesi... ed anche del teorema inverso.
 

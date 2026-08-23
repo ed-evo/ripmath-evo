@@ -1,4 +1,4 @@
-# [Probabilità statistica (o frequentista)]{.text-red}
+# Probabilità statistica (o frequentista)
 
 - Definizione di frequenza
 - Differenze fra frequenza e probabilità

@@ -1,4 +1,4 @@
-# [Teorema di Rolle]{.text-red}
+# Teorema di Rolle
 
 Questo teorema afferma che se una funzione è continua in un intervallo chiuso e limitato e derivabile all'interno dell'intervallo stesso e se inoltre agli estremi dell'intervallo assume lo stesso valore allora esiste almeno un punto dell'intervallo in cui la derivata della funzione vale $$0$$.
 

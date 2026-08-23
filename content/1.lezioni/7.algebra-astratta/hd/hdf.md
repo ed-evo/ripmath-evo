@@ -1,4 +1,4 @@
-# [Epimorfismo]{.text-red}
+# Epimorfismo
 
 Diciamo che si ha un epimorfismo se abbiamo un morfismo e l'applicazione $$f$$ è suriettiva: cioè la seconda struttura viene tutta coperta.
 

@@ -1,4 +1,4 @@
-# [Scindibilità delle operazioni]{.text-red}
+# Scindibilità delle operazioni
 
 Da quanto visto nelle pagine precedenti avremo che:
 

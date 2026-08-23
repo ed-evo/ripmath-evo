@@ -1,4 +1,4 @@
-# [Indipendenza diretta]{.text-red}
+# Indipendenza diretta
 
 È l'indipendenza diretta $$b$$
 

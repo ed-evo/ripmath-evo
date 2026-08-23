@@ -1,4 +1,4 @@
-# [Passaggio dal sistema binario al sistema decimale]{.text-red}
+# Passaggio dal sistema binario al sistema decimale
 
 Per passare dal sistema binario al sistema decimale utilizzeremo la forma polinomiale dei numeri binari: cioè ogni numero binario può essere pensato in forma decimale come un polinomio a base $$2$$, cioè ad esempio:
 

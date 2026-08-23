@@ -1,4 +1,4 @@
-# [Equivalenza Algebra-Geometria]{.text-red}
+# Equivalenza Algebra-Geometria
 
 > Se noi consideriamo come base dei numeri oppure dei punti la matematica dovrà essere la stessa: in effetti la geometria cartesiana è la disciplina ponte fra la Geometria (basata sul concetto di punto) e l'Algebra (basata sul concetto di numero).
 >

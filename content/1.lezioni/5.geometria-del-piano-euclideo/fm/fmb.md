@@ -1,4 +1,4 @@
-# [Equiscomponibilità]{.text-red}
+# Equiscomponibilità
 
 Per procedere abbiamo bisogno di un concetto più semplice di equiestensione.
 

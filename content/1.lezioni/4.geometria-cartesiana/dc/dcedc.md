@@ -1,4 +1,4 @@
-# [Approfondimento sui fasci di rette]{.text-red}
+# Approfondimento sui fasci di rette
 
 Si può definire un fascio di rette come la combinazione lineare di due rette qualunque del fascio (inserire link).
 cioè se ad esempio considero le due rette in forma implicita:

@@ -1,4 +1,4 @@
-# [Disegnare l'iperbole]{.text-red}
+# Disegnare l'iperbole
 
 Vediamo un paio di esempi:
 

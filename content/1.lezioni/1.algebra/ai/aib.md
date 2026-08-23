@@ -1,4 +1,4 @@
-# [Sistemi di primo grado]{.text-red}
+# Sistemi di primo grado
 
 Le equazioni che li compongono sono tutte di primo grado
 

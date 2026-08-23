@@ -1,4 +1,4 @@
-# [Poligoni regolari inscritti in una circonferenza]{.text-red}
+# Poligoni regolari inscritti in una circonferenza
 
 Enuncio alcune proprietà senza dimostrazione.
 

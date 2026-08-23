@@ -1,4 +1,4 @@
-# [Generalità sui poliedri]{.text-red}
+# Generalità sui poliedri
 
 - Angoloidi
 - Triedri

@@ -1,4 +1,4 @@
-# [Disposizioni semplici]{.text-red}
+# Disposizioni semplici
 
 Le disposizioni semplici su $$n$$ oggetti sono i numeri delle coppie ordinate $$\textcolor{red}{D_{n;2}}$$, terne ordinate $$\textcolor{red}{D_{n;3}}$$, quaterne ordinate $$\textcolor{red}{D_{n;4}}$$, ..., k-uple ordinate $$\textcolor{red}{D_{n;k}}$$ che posso formare con $$n$$ oggetti;
 

@@ -1,4 +1,4 @@
-# [Somma di numeri reali]{.text-red}
+# Somma di numeri reali
 
 Diamo ora alcune definizioni sulle operazioni con numeri reali (io quando insegnavo preferivo saltarle)
 

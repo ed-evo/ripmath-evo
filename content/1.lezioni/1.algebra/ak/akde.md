@@ -1,4 +1,4 @@
-# [elevamento a potenza di radicali]{.text-red}
+# elevamento a potenza di radicali
 
 Per elevare a potenza una radice basta elevare a potenza il radicando
 

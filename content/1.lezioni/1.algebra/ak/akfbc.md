@@ -1,4 +1,4 @@
-# [Due radici cubiche al denominatore]{.text-red}
+# Due radici cubiche al denominatore
 
 Vediamo su un esempio
 

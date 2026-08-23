@@ -1,4 +1,4 @@
-# [Grafico della funzione logaritmica]{.text-red}
+# Grafico della funzione logaritmica
 
 Dobbiamo distinguere due casi:
 

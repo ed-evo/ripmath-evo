@@ -1,4 +1,4 @@
-# [punto di flesso]{.text-red}
+# punto di flesso
 
 Un punto di flesso è un punto dove la tangente attraversa la funzione.
 

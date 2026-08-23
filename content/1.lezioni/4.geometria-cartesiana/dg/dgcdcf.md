@@ -1,4 +1,4 @@
-# [Intersezioni fra una parabola ed un'altra parabola con asse orizzontale]{.text-red}
+# Intersezioni fra una parabola ed un'altra parabola con asse orizzontale
 
 > Veramente la parabola con asse orizzontale sarà il prossimo argomento, ma per i nostri ragionamenti basta pensarne l'equazione e la rappresentazione grafica.
 >

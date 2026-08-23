@@ -1,4 +1,4 @@
-# [Definizione di poligoni simili]{.text-red}
+# Definizione di poligoni simili
 
 **Definizione:**
 **Due poligoni sono simili se hanno tutti gli angoli uguali ed i lati corrispondenti in proporzione**

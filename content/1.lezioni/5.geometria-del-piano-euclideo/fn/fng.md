@@ -1,4 +1,4 @@
-# [Numeri reali]{.text-red}
+# Numeri reali
 
 Definiamo **Numero Reale** l'elemento separatore di due classi contigue di numeri razionali.
 

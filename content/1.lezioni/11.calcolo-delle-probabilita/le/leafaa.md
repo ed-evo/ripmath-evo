@@ -1,4 +1,4 @@
-# [Il problema delle prove ripetute]{.text-red}
+# Il problema delle prove ripetute
 
 Uno dei problemi che capitano frequentemente nel calcolo di probabilità è quello di calcolare la probabilità che un dato evento capiti $$k$$ volte su $$n$$ prove effettuate.
 

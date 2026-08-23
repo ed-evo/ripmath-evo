@@ -1,4 +1,4 @@
-# [Come si disegna la retta]{.text-red}
+# Come si disegna la retta
 
 Per disegnare una retta basterà tracciare due punti per cui la retta passa.
 

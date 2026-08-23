@@ -1,4 +1,4 @@
-# [Sottrazione fra numeri naturali]{.text-red}
+# Sottrazione fra numeri naturali
 
 Useremo indifferentemente i termini differenza e sottrazione, anche se differenza indica il risultato mentre sottrazione indica l'operazione.
 

@@ -1,4 +1,4 @@
-# [Prodotti fondamentali]{.text-red}
+# Prodotti fondamentali
 
 Consideriamo un insieme di variabili $$x$$, $$y$$, $$z$$, $$t$$, ....
 

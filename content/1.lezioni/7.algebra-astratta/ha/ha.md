@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Abbiamo visto come dai numeri $$\text{Naturali}$$ siamo passati ai numeri $$\text{Interi}$$ poi ai numeri $$\text{razionali}$$ e quindi ai numeri $$\text{reali}$$ e $$\text{complessi}$$ costruendo strutture via via più complicate.
 

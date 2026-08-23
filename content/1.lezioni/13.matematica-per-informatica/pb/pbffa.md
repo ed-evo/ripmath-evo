@@ -1,4 +1,4 @@
-# [Somma fra numeri binari]{.text-red}
+# Somma fra numeri binari
 
 Ti ripeto che, come abbiamo già detto, la tabella per eseguire le operazioni di somma (come la tavola pitagorica per la somma) è la seguente:
 

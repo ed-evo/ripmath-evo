@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 1. Trovare le equazioni delle rette tangenti alla circonferenza
 $$

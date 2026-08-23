@@ -1,4 +1,4 @@
-## [Un esempio da illusionista: i tre bicchieri]{.text-red}
+## Un esempio da illusionista: i tre bicchieri
 
 Per farti capire l'importanza delle strutture ti faccio un semplice esempio, un gioco di prestigio, da fare ad un amico una volta sola, altrimenti si capisce il trucco: Prendi $$3$$ bicchieri (possibilmente a calice: fa più scena) e ponili nel seguente modo:
 

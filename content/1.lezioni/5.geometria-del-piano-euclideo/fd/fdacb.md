@@ -1,4 +1,4 @@
-# [Teorema inverso: Se un triangolo ha due angoli congruenti allora ha anche due lati congruenti]{.text-red}
+# Teorema inverso: Se un triangolo ha due angoli congruenti allora ha anche due lati congruenti
 
 [Se un triangolo ha due angoli congruenti allora ha congruenti anche i lati opposti agli angoli congruenti]{.text-blue}
 

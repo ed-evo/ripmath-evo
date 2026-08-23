@@ -1,4 +1,4 @@
-# [Approfondimento sulla proporzionalità]{.text-red}
+# Approfondimento sulla proporzionalità
 
 Sappiamo già dalla geometria piana che nei poligoni simili le aree stanno fra loro come i quadrati dei lati, delle altezze, delle apoteme corrispondenti.
 

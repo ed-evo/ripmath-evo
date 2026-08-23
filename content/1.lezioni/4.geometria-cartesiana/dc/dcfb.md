@@ -1,4 +1,4 @@
-# [Dividere il problema in sottoproblemi elementari]{.text-red}
+# Dividere il problema in sottoproblemi elementari
 
 In geometria cartesiana la suddivisione del problema in sottoproblemi risolvibili con una sola formula è molto più evidente che in altre discipline: risolviamo passaggio per passaggio il problema dato.
 

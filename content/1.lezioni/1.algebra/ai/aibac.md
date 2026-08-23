@@ -1,4 +1,4 @@
-# [Significato geometrico di un sistema]{.text-red}
+# Significato geometrico di un sistema
 
 È possibile dare una visualizzazione geometrica di un sistema possibile, impossibile o indeterminato.
 È però necessario conoscere almeno i rudimenti della geometria cartesiana del piano:

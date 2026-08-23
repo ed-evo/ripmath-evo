@@ -1,4 +1,4 @@
-# [Applicazioni ai poligoni regolari]{.text-red}
+# Applicazioni ai poligoni regolari
 
 Possiamo dire per i poligoni regolari:
 

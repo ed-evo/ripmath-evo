@@ -1,4 +1,4 @@
-# [Seconda formula di Werner]{.text-red}
+# Seconda formula di Werner
 
 Partiamo dalle due formule di addizione e sottrazione per il seno e sottraiamo in verticale.
 

@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 Per risolverlo calcoliamo i valori (magari con la calcolatrice):
 

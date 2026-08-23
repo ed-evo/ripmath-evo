@@ -1,4 +1,4 @@
-# [Differenza fra numeri complessi]{.text-red}
+# Differenza fra numeri complessi
 
 Per la differenza basterà procedere nel solito modo: cambieremo di segno i termini dopo l'uguale e procederemo a fare la somma algebrica della parte reale con la parte reale e della parte immaginaria con la parte immaginaria.
 

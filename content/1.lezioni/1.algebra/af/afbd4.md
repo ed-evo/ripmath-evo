@@ -1,4 +1,4 @@
-# [Risolvere l'equazione:]{.text-red}
+# Risolvere l'equazione:
 
 $$
 \textcolor{red}{(x - 1)^2 + 2x + 3(x - 1) = (x + 2)^2}
@@ -40,7 +40,7 @@ $$
 
 è la soluzione.
 
-### [Verifica:]{.text-red}
+### Verifica:
 
 Sostituisco a $$x$$ il valore $$-6$$ nell'equazione di partenza:
 

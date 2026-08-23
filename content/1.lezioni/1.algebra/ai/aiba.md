@@ -1,4 +1,4 @@
-# [Sistemi di primo grado di due equazioni a due incognite]{.text-red}
+# Sistemi di primo grado di due equazioni a due incognite
 
 Risolvere un sistema significa trovare la coppia di valori $$x$$ e $$y$$ che, sostituita alle incognite, rende le equazioni delle identità
 

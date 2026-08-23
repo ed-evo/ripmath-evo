@@ -1,4 +1,4 @@
-# [Contare]{.text-red}
+# Contare
 
 Fin dall'antichità l'uomo si deve essere posto il problema di "contare", cioè di sapere quanto di qualcosa fosse disponibile, magari per motivi di sopravvivenza; sembra che già, in un osso di lupo, datato $$30.000$$ anni fa, qualcuno abbia segnato delle tacche in modo regolare raggruppandole in gruppi di $$5$$.
 

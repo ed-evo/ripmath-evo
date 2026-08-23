@@ -1,4 +1,4 @@
-# [Equazione della parabola con vertice nell'origine ed asse verticale]{.text-red}
+# Equazione della parabola con vertice nell'origine ed asse verticale
 
 Applichiamo la definizione considerando il Fuoco sull'asse $$y$$ e la direttrice come retta orizzontale da banda opposta dell'origine rispetto al fuoco ed avente dall'origine la stessa distanza del fuoco
 

@@ -1,4 +1,4 @@
-# [Grafico della funzione esponenziale]{.text-red}
+# Grafico della funzione esponenziale
 
 Vediamo adesso il grafico della funzione $$\textcolor{blue}{y = a^x}$$
 

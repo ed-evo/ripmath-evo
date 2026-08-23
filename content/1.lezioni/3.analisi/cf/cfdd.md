@@ -1,4 +1,4 @@
-# [Operazioni sulle derivate]{.text-red}
+# Operazioni sulle derivate
 
 Vediamo ora alcune regole da sapere per poter eseguire la derivata di una funzione: sono fondamentali e bisogna saperle molto bene.
 

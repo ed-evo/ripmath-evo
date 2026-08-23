@@ -1,4 +1,4 @@
-# [Il circuito interruttore]{.text-red}
+# Il circuito interruttore
 
 Consideriamo un filo metallico con una lamina mobile tenuta attaccata al filo stesso mediante una molla, allora nel filo passa una corrente.
 

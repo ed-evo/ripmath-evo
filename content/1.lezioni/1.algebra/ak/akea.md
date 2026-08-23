@@ -1,4 +1,4 @@
-# [Formula risolutiva per i radicali doppi]{.text-red}
+# Formula risolutiva per i radicali doppi
 
 Di seguito ti viene data la formula risolutiva, senza dimostrazione: se vuoi dimostrarla basta elevare al quadrato a destra ed a sinistra dell'uguale finché i due termini non diventano uguali; a me sembra una fatica inutile, ma se ti serve [questa è la dimostrazione](akeaa.html).
 

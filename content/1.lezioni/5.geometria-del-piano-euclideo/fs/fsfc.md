@@ -1,4 +1,4 @@
-# [Costruzione del pentagono regolare]{.text-red}
+# Costruzione del pentagono regolare
 
 È ora possibile costruire il pentagono regolare:
 

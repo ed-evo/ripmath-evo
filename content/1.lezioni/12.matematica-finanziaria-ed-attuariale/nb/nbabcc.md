@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 Vediamo assieme i calcoli per trovare la formula $$i = \frac{I}{Ct}$$
 

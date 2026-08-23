@@ -1,4 +1,4 @@
-# [Disposizioni con ripetizione]{.text-red}
+# Disposizioni con ripetizione
 
 Le disposizioni con ripetizione su $$n$$ oggetti sono i numeri delle coppie ordinate $$\textcolor{red}{D'_{n;2}}$$, terne ordinate $$\textcolor{red}{D'_{n;3}}$$, quaterne ordinate $$\textcolor{red}{D'_{n;4}}$$, ..., $$k$$-uple ordinate $$\textcolor{red}{D_{n;k}}$$ che posso formare con $$n$$ oggetti, considerando che tali oggetti possono anche essere ripetuti:
 

@@ -1,4 +1,4 @@
-# [Equazioni]{.text-red}
+# Equazioni
 
 Si chiama equazione di primo grado un'uguaglianza che può diventare vera sostituendo alla lettera (incognita) un valore particolare detto soluzione.
 

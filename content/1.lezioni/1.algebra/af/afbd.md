@@ -1,4 +1,4 @@
-# [Soluzione di un'equazione di primo grado ad una incognita]{.text-red}
+# Soluzione di un'equazione di primo grado ad una incognita
 
 Lavoriamo su un esempio: ho l'equazione
 $$\textcolor{red}{2x - 4 = 8}$$
@@ -34,7 +34,7 @@ $$\textcolor{red}{x = 6}$$ è la soluzione
 
 È possibile vedere se hai risolto giustamente un'equazione: infatti per definizione un'equazione è un'uguaglianza verificata se al posto di $$\textcolor{red}{x}$$ metto la soluzione quindi posso fare la verifica sostituendo nell'equazione di partenza il valore $$\textcolor{red}{6}$$ al posto di $$\textcolor{red}{x}$$.
 
-## [Verifica]{.text-red}
+## Verifica
 
 $$
 \textcolor{red}{2x - 4 = 8}

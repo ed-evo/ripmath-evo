@@ -1,4 +1,4 @@
-# [Volume del settore sferico]{.text-red}
+# Volume del settore sferico
 
 > **Volume settore sferico**
 >

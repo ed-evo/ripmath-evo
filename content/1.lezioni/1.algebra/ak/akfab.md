@@ -1,4 +1,4 @@
-# [Razionalizzazione con una radice di indice superiore a due al denominatore]{.text-red}
+# Razionalizzazione con una radice di indice superiore a due al denominatore
 
 Facciamo un esempio pratico per vedere la regola generale.
 

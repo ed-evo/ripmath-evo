@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 Ti viene ora fornita una serie di esercizi sul calcolo della derivata: prova a farli da solo poi, cliccandovi sopra, vai a vedere la soluzione e dalla soluzione, se vuoi, potrai anche vedere come l'esercizio viene svolto.
 

@@ -1,4 +1,4 @@
-# [INTRODUZIONE AL RACCOGLIMENTO A FATTOR COMUNE PARZIALE]{.text-red}
+# INTRODUZIONE AL RACCOGLIMENTO A FATTOR COMUNE PARZIALE
 
 Prima di procedere ad eseguire il raccoglimento parziale dobbiamo fare alcuni esercizi. Precisamente dobbiamo provare ad eseguire il raccoglimento totale nel caso che nel polinomio vi siano delle parentesi.
 

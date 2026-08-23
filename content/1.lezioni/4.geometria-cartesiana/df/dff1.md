@@ -1,4 +1,4 @@
-# [Problemi sull'iperbole con equazione canonica]{.text-red}
+# Problemi sull'iperbole con equazione canonica
 
 Se osserviamo l'equazione dell'iperbole:
 

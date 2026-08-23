@@ -1,4 +1,4 @@
-# [Intersezioni fra una parabola ed un'altra parabola con asse verticale]{.text-red}
+# Intersezioni fra una parabola ed un'altra parabola con asse verticale
 
 È il caso più utilizzato anche perché il sistema fra le due curve ha l'equazione risolvente di secondo grado, non solo ma se le soluzioni sono reali abbiamo una zona comune alle due parabole che verrà spesso usata in analisi per problemi sugli integrali definiti
 

@@ -1,4 +1,4 @@
-# [Successione divergente]{.text-red}
+# Successione divergente
 
 Diremo che la successione
 

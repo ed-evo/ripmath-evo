@@ -1,4 +1,4 @@
-# [Funzioni proposizionali]{.text-red}
+# Funzioni proposizionali
 
 Se considero espressioni del tipo
 $$

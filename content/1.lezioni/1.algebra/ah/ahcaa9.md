@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 ## Problema:
 [La somma del numeratore e del denominatore di una frazione è $$8$$, aggiungendo $$15$$ ad entrambi si ottiene una frazione equivalente a $$10/9$$. Qual è la frazione di partenza?]{.text-blue}

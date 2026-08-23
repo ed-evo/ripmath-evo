@@ -1,4 +1,4 @@
-# [Area della superficie di rotazione di un segmento]{.text-red}
+# Area della superficie di rotazione di un segmento
 
 Mostriamo che vale sempre il teorema:
 

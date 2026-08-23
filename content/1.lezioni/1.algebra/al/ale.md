@@ -1,4 +1,4 @@
-# [Valori fondamentali (per gli esercizi)]{.text-red}
+# Valori fondamentali (per gli esercizi)
 
 Veramente ora c'entrano poco, ma siccome sono valori che incontreremo molto spesso è bene caratterizzarli subito:
 

@@ -1,4 +1,4 @@
-## [come si legge l'insieme]{.text-red}
+## come si legge l'insieme
 
 $$
 \textcolor{red}{A = \{ x \in \mathbb{N} : x < 5 \}}

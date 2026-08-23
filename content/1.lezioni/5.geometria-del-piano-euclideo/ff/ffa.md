@@ -1,4 +1,4 @@
-# [Introduzione al parallelismo]{.text-red}
+# Introduzione al parallelismo
 
 Ora abbiamo terminato lo studio dei triangoli e cominciamo a pensare a figure con più di $$3$$ lati: la proprietà che più ci colpisce è che ci sono dei segmenti che non hanno punti in comune fra loro; viene da pensare, immaginando ad esempio un quadrato, se le rette che portano tali segmenti possono o no avere punti in comune. Questo ci porta a definire una particolare relazione fra le rette: il parallelismo.
 

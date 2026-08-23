@@ -1,4 +1,4 @@
-# [successione dei numeri dispari]{.text-red}
+# successione dei numeri dispari
 
 > **Importante!**
 > Per scrivere correttamente un numero dispari generico conviene prima scrivere un numero pari $$2n$$ e poi aumentarlo di $$1$$ scrivendo $$2n+1$$ (cioè usiamo il fatto che il successivo di qualunque numero pari è dispari)

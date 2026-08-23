@@ -1,4 +1,4 @@
-# [Problemi di secondo grado di tipo geometrico]{.text-red}
+# Problemi di secondo grado di tipo geometrico
 
 Nei problemi di tipo geometrico vedremo che abbiamo due possibilità:
 

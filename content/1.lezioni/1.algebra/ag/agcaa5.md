@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$\textcolor{blue}{x^4 - 5x^2 + 4 \ge 0}$$
 

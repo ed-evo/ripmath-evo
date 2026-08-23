@@ -1,4 +1,4 @@
-# [Grafico della funzione]{.text-red}
+# Grafico della funzione
 
 Si tratta ora di impostare un grafico in cui mettere tutti i dati trovati sviluppando i vari punti e quindi unirli con una linea.
 

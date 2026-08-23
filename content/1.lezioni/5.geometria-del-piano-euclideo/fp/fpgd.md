@@ -1,4 +1,4 @@
-# [Teorema di Pitagora]{.text-red}
+# Teorema di Pitagora
 
 > **In ogni triangolo rettangolo la misura dell'area del quadrato costruito sull'ipotenusa è uguale alla somma delle misure delle aree dei quadrati costruiti sui cateti**
 

@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 [Se hai bisogno di un ripasso](../../d/dc/dcecf.html)
 

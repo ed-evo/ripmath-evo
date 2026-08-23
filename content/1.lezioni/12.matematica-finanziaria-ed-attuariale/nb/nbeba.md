@@ -1,4 +1,4 @@
-# [Ricerca dell'importo ad epoca fissa]{.text-red}
+# Ricerca dell'importo ad epoca fissa
 
 Ho un credito di $$5000\text{ €}$$ da riscuotere fra $$2\text{ anni}$$ ed un credito di $$8000\text{ €}$$ da riscuotere fra $$8\text{ anni}$$: cedo tali crediti ad una banca che mi anticipa $$7000\text{ €}$$ e mi pagherà il saldo fra $$6\text{ anni}$$ al tasso del $$1,25\%$$. Quanto riscuoterò dalla banca fra $$6\text{ anni}$$?
 

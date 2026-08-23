@@ -1,4 +1,4 @@
-# [Interpolazione diretta]{.text-red}
+# Interpolazione diretta
 
 Si parla di interpolazione diretta quando ai numeri crescenti corrispondono dei dati crescenti (cioè se crescono i numeri della prima colonna della tabella allora crescono anche i numeri della seconda).
 

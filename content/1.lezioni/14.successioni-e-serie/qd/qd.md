@@ -1,4 +1,4 @@
-# [serie]{.text-red}
+# serie
 
 Vediamo un tipo di successioni particolarmente importanti: le serie
 

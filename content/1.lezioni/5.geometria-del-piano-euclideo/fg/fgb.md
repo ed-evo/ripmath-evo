@@ -1,4 +1,4 @@
-# [Poligono]{.text-red}
+# Poligono
 
 > **Definizione:** [Chiameremo poligono la parte di piano limitata da una poligonale]{.text-red}
 

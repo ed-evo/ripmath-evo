@@ -1,4 +1,4 @@
-# [Equazioni differenziali del primo ordine lineari non omogenee]{.text-red}
+# Equazioni differenziali del primo ordine lineari non omogenee
 
 > Come prima stesura mi limito a fornire la formula risolutiva ed un esempio di soluzione
 

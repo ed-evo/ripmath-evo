@@ -1,4 +1,4 @@
-# [Equazioni irrazionali con indice dispari]{.text-red}
+# Equazioni irrazionali con indice dispari
 
 Se ho una radice con esponente dispari posso isolare la radice e quindi elevare a potenza prima e dopo l'uguale
 

@@ -1,4 +1,4 @@
-# [Determinante di una matrice quadrata]{.text-red}
+# Determinante di una matrice quadrata
 
 Mentre una matrice è una tabella, il determinante di una matrice quadrata è un numero: vedremo come è possibile determinare il valore di tale numero.
 Mentre la matrice viene indicata con la doppia barra, il determinante viene indicato con una barra singola.

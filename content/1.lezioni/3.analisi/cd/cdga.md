@@ -1,4 +1,4 @@
-# [Limite in forma indeterminata del tipo 0/0]{.text-red}
+# Limite in forma indeterminata del tipo 0/0
 
 > **Avvertenza:** Purtroppo il Web non è predisposto per scrivere le frazioni, allora, poiché non voglio far pesare troppo queste pagine costruendo le frazioni mediante immagini e poiché l'utilizzo di fogli di stile sarebbe per me piuttosto gravoso, premetto che per le frazioni useremo la seguente convenzione:
 >

@@ -1,4 +1,4 @@
-# [Equazioni risolubili con artifici]{.text-red}
+# Equazioni risolubili con artifici
 (opportune sostituzioni)
 
 ***

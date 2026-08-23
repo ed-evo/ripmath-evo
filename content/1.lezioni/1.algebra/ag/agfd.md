@@ -1,4 +1,4 @@
-# [Esercizio su disequazione di quarto grado]{.text-red}
+# Esercizio su disequazione di quarto grado
 
 Risolviamo la disequazione:
 

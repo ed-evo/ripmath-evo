@@ -1,4 +1,4 @@
-# [Tipi di rendite]{.text-red}
+# Tipi di rendite
 
 Le rendite che considereremo saranno:
 

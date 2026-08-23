@@ -1,4 +1,4 @@
-# [punto di Massimo relativo]{.text-red}
+# punto di Massimo relativo
 
 Parleremo di massimo relativo quando considereremo il massimo in un intervallo.
 Parleremo di massimo assoluto se considereremo il valore più alto della funzione in tutto il dominio.

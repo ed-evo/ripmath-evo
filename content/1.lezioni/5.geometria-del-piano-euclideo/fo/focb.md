@@ -1,4 +1,4 @@
-# [Proprietà dell'invertire]{.text-red}
+# Proprietà dell'invertire
 
 La proprietà dell'invertire dice che
 

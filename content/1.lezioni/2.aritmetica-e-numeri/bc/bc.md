@@ -1,4 +1,4 @@
-# [Insieme $$\mathbb{Q}$$ dei numeri Razionali]{.text-red}
+# Insieme $$\mathbb{Q}$$ dei numeri Razionali
 
 - [Ampliamento dell'insieme $$\mathbb{Z}$$](bca.html)
 - [Insieme dei numeri razionali $$\mathbb{Q}$$](bcb.html)

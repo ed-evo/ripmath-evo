@@ -1,4 +1,4 @@
-# [Soluzione matematica del problema]{.text-red}
+# Soluzione matematica del problema
 
 Faccio la somma delle varie aree dei rettangoli interni. Indico l'altezza di ogni rettangolo con $$\textcolor{red}{f(x_k)}$$;
 

@@ -1,4 +1,4 @@
-# [Campo di eventi]{.text-red}
+# Campo di eventi
 ## (sigma-algebra o campo di Borel)
 
 Se vuoi approfondire sulla [definizione di sigma-algebra](lcbba.html)

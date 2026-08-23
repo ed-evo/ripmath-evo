@@ -1,4 +1,4 @@
-# [Altre porte logiche]{.text-red}
+# Altre porte logiche
 
 - [Introduzione](pdea.html)
 - [Porta nand](pdeb.html)

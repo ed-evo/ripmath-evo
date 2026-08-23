@@ -1,4 +1,4 @@
-# [Definizione di un teorema]{.text-red}
+# Definizione di un teorema
 
 > Definiamo il **teorema** come un enunciato che si presenta nella forma seguente:
 >

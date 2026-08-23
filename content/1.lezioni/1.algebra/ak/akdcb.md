@@ -1,4 +1,4 @@
-# [Prodotto fra radicali con indice diverso]{.text-red}
+# Prodotto fra radicali con indice diverso
 
 Per eseguire il prodotto fra radicali con indice diverso cerchiamo di ricondurci al prodotto fra radicali dello stesso indice, perché era molto facile; quindi dovremo trasformare i radicali in modo da farli diventare con lo stesso indice poi faremo come prima.
 

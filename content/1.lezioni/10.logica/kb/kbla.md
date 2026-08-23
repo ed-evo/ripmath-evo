@@ -1,4 +1,4 @@
-# [Operatori logici come disposizioni con ripetizione]{.text-red}
+# Operatori logici come disposizioni con ripetizione
 
 Prima di procedere diamo uno sguardo d'insieme ai possibili operatori logici che derivano da due proposizioni: notiamo che si tratta di [disposizioni con ripetizione](../../l/lb/lbbb.html) di $$2$$ oggetti ($$v$$ e $$f$$) presi $$4$$ a $$4$$, cioè con $$2$$ proposizioni avremo per gli operatori logici $$16$$ possibilità ($$D'_{2,4} = 2^4 = 16$$).
 

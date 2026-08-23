@@ -1,4 +1,4 @@
-# [Moltiplicazione]{.text-red}
+# Moltiplicazione
 
 - Per moltiplicare un numero intero per $$10$$, $$100$$, $$1000$$,... basta aggiungere alla sua destra $$1$$, $$2$$, $$3$$,... zeri
   $$

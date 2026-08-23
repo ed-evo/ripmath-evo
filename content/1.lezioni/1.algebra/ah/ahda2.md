@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 ## Problema
 [Determinare due numeri sapendo che la loro differenza vale $$1$$ e che la somma dei loro quadrati vale $$41$$.]{.text-blue}

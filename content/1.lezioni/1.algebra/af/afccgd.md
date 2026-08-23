@@ -1,4 +1,4 @@
-# [Trovare le equazioni di cui conosciamo il valore delle radici]{.text-red}
+# Trovare le equazioni di cui conosciamo il valore delle radici
 
 Ti vengono forniti dei valori: devi trovare le equazioni di cui quei valori sono radici
 Come esercizi sono molto semplici quindi ci limiteremo a quattro casi diversi

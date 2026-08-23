@@ -1,4 +1,4 @@
-# [Poligonale]{.text-red}
+# Poligonale
 
 Consideriamo dei punti nel piano e congiungiamoli con dei segmenti due a due consecutivi: otteniamo una spezzata.
 

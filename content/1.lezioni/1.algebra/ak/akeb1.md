@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trasformare, se possibile, l'espressione:
 

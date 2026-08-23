@@ -1,4 +1,4 @@
-# [Rappresentazione grafica del montante ad interesse semplice]{.text-red}
+# Rappresentazione grafica del montante ad interesse semplice
 
 Consideriamo la formula del montante ad interesse semplice:
 

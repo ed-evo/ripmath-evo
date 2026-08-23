@@ -1,4 +1,4 @@
-# [I numeri naturali]{.text-red}
+# I numeri naturali
 
 > È possibile, mediante la teoria degli insiemi, generare l'insieme dei numeri naturali come [insieme quoziente](../../j/jc/jcga.html) dell'insieme di tutti gli insiemi possibili con la relazione di equivalenza "essere in corrispondenza biunivoca"; siccome è un concetto piuttosto difficile ti consiglio di consultarlo solo se effettivamente ti serve
 

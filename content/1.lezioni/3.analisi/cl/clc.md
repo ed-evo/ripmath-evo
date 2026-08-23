@@ -1,4 +1,4 @@
-# [Equazioni differenziali ordinarie del primo ordine]{.text-red}
+# Equazioni differenziali ordinarie del primo ordine
 
 Abbiamo già detto che le equazioni differenziali ordinarie di primo ordine sono quelle con le incognite $$\textcolor{red}{x, y(x), y'(x)}$$
 $$\textcolor{blue}{F(x, y(x), y'(x)) = 0}$$

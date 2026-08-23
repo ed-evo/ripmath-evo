@@ -1,4 +1,4 @@
-# [Definizioni sul cerchio]{.text-red}
+# Definizioni sul cerchio
 
 > Ancora alcune definizioni, piuttosto noiose ma che potrebbero tornare utili
 

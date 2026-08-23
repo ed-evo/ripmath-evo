@@ -1,4 +1,4 @@
-# [Introduzione alla probabilità soggettiva]{.text-red}
+# Introduzione alla probabilità soggettiva
 
 > Alla probabilità soggettiva è legato uno dei più bei ricordi della mia carriera di insegnante.
 

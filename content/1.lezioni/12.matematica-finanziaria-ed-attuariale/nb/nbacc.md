@@ -1,4 +1,4 @@
-# [Formule inverse]{.text-red}
+# Formule inverse
 
 Data la formula per la capitalizzazione composta per un numero intero di anni
 

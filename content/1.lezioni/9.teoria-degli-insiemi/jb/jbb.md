@@ -1,4 +1,4 @@
-# [Rappresentazione di un insieme]{.text-red}
+# Rappresentazione di un insieme
 
 Possiamo utilizzare vari modi per rappresentare un insieme:
 

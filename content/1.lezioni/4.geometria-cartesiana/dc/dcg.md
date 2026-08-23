@@ -1,4 +1,4 @@
-# [trasformazione delle coordinate]{.text-red}
+# trasformazione delle coordinate
 
 Talvolta serve cambiare il sistema di riferimento per vari problemi, quali ad esempio trasformare un'ellisse con equazione generica in ellisse con equazione canonica, oppure considerare una circonferenza qualunque come circonferenza con centro l'origine. Per cambiare il sistema di riferimento abbiamo le seguenti possibilità:
 

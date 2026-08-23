@@ -1,4 +1,4 @@
-# [Successioni generate da somme]{.text-red}
+# Successioni generate da somme
 
 - somma della successione naturale con una costante
 - successione dei numeri pari

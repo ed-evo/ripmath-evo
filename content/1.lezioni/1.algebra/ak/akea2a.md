@@ -1,4 +1,4 @@
-## [Calcoli]{.text-red}
+## Calcoli
 
 $$
 \textcolor{blue}{\sqrt{\frac{3 + \sqrt{3^2 - 8}}{2}} + \sqrt{\frac{3 - \sqrt{3^2 - 8}}{2}}}

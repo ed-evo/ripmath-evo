@@ -1,4 +1,4 @@
-# [Matrici: concetti di base]{.text-red}
+# Matrici: concetti di base
 
 Una matrice $$m \times n$$ ($$m$$ righe per $$n$$ colonne) è una tabella come la seguente:
 

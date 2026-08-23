@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Mostrare la presenza della struttura ad anello per l'insieme composto da due elementi $$A = \{p, d\}$$ con $$p$$ indicante i numeri pari e $$d$$ indicante i numeri dispari con le operazioni di addizione ($$+$$) e moltiplicazione ($$\cdot$$)
 

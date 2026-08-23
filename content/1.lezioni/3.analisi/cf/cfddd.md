@@ -1,4 +1,4 @@
-# [Derivata di una funzione di funzione]{.text-red}
+# Derivata di una funzione di funzione
 
 Questa è forse l'operazione più importante per saper calcolare esattamente la derivata: per fare la derivata di una funzione di funzione prima faccio la derivata della funzione esterna senza toccare quella interna e poi moltiplico per la derivata di quella interna.
 

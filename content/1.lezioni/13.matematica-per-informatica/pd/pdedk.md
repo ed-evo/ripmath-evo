@@ -1,4 +1,4 @@
-# [Contro-indipendenza inversa]{.text-red}
+# Contro-indipendenza inversa
 
 È la contro-indipendenza inversa $$à$$
 

@@ -1,4 +1,4 @@
-# [Concetto di predicato]{.text-red}
+# Concetto di predicato
 
 Vediamo una proposizione semplice
 **$$3$$ è un numero primo**

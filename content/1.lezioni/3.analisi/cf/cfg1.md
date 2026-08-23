@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Abbiamo la funzione:
 

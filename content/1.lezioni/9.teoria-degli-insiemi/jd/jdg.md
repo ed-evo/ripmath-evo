@@ -1,4 +1,4 @@
-# [Insieme infinito]{.text-red}
+# Insieme infinito
 
 Ora, con la corrispondenza biunivoca fra insiemi possiamo riuscire a definire l'**insieme infinito**
 

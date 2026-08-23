@@ -1,4 +1,4 @@
-# [Crescenza e decrescenza della funzione]{.text-red}
+# Crescenza e decrescenza della funzione
 
 Fatta la derivata della funzione la si pone maggiore di zero: nell'intervallo dove la diseguaglianza è verificata avremo che la funzione è crescente, mentre dove non è verificata la funzione sarà decrescente.
 

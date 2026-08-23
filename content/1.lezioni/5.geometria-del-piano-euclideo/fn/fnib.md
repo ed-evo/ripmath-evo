@@ -1,4 +1,4 @@
-# [Area del parallelogramma]{.text-red}
+# Area del parallelogramma
 
 Per determinare l'area del parallelogramma basta fare riferimento all'osservazione fatta in fondo alla pagina dell'equiscomponibilità fra parallelogrammi:
 

@@ -1,4 +1,4 @@
-# [Alcuni utili criteri di scomposizione]{.text-red}
+# Alcuni utili criteri di scomposizione
 
 Spesso quando si scompone durante un compito in classe il tempo è prezioso, quindi diventano molto utili alcuni criteri che, se anche non si riferiscono a numeri primi, ci permettono di risparmiare tempo: vediamoli qui di seguito:
 

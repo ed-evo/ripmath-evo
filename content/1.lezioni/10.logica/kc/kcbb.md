@@ -1,4 +1,4 @@
-# [Quantificatore esistenziale $$\exists$$]{.text-red}
+# Quantificatore esistenziale $$\exists$$
 
 Anche qui partiamo dalla frase classica:
 **Tutti gli uomini sono mortali**

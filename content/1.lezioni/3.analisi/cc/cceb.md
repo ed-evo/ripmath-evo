@@ -1,4 +1,4 @@
-# [Importante proprietà delle funzioni inverse]{.text-red}
+# Importante proprietà delle funzioni inverse
 
 Facendo la composizione di una funzione con la sua inversa si ottiene **sempre** la funzione identica $$y = x$$
 

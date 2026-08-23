@@ -1,4 +1,4 @@
-# [Perché l'intorno di infinito (senza segno) è fatto da due strisce, una verso l'alto ed una verso il basso]{.text-red}
+# Perché l'intorno di infinito (senza segno) è fatto da due strisce, una verso l'alto ed una verso il basso
 
 La cosa deriva da due fatti:
 

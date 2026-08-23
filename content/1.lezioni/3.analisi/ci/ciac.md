@@ -1,4 +1,4 @@
-# [Funzione dispari]{.text-red}
+# Funzione dispari
 
 Una funzione si dice dispari se cambiando di segno la $$x$$ anche la funzione cambia di segno in formula:
 

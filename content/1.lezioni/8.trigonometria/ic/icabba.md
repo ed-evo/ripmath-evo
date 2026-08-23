@@ -1,4 +1,4 @@
-# [Formule equivalenti per la duplicazione del coseno]{.text-red}
+# Formule equivalenti per la duplicazione del coseno
 
 Dalla formula finale è possibile, riferendosi alla [prima relazione fondamentale](../ib/ibca.html), ricavare un paio di formule che ci saranno utili in futuro: cioè trovare la formula di duplicazione del coseno espressa tutta in seno oppure espressa tutto in coseno dell'angolo.
 Partiamo dalla formula ottenuta

@@ -1,4 +1,4 @@
-# [Aritmetica come esempio di sistema formale]{.text-red}
+# Aritmetica come esempio di sistema formale
 
 Costruiamo un sistema formale per l'aritmetica, cioè un sistema di oggetti e assiomi da cui si possa ricavare tutta l'aritmetica: aggiungiamo ai postulati di Peano alcuni assiomi che ci permettano di fare le operazioni.
 Chiameremo questa teoria formale **Aritmetica** e per indicarla utilizzeremo il simbolo $$A$$.

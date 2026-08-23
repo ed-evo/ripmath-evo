@@ -1,4 +1,4 @@
-# [Costruzione del tronco di cono]{.text-red}
+# Costruzione del tronco di cono
 
 Considero il trapezio $$ABCD$$ e considero l'asse passante per l'altezza $$BC$$ come asse di rotazione.
 

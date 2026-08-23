@@ -1,5 +1,5 @@
-# [Altezza di una torre.]{.text-red}
-## [Piede della torre accessibile ma non sul piano dell'osservatore]{.text-red}
+# Altezza di una torre.
+## Piede della torre accessibile ma non sul piano dell'osservatore
 
 Distinguiamo due casi:
 - la base della torre è più alta del piano dell'osservatore

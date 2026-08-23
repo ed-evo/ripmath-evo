@@ -1,6 +1,6 @@
 > [attenzione: i link rossi non sono attivi]{.text-pink}
 
-# [I POLINOMI]{.text-red}
+# I POLINOMI
 
 ---
 

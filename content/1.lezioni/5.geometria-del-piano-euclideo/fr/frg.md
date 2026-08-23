@@ -1,4 +1,4 @@
-# [Area del cerchio]{.text-red}
+# Area del cerchio
 
 Facciamo ora per l'area del cerchio l'equivalente di quanto fatto per la lunghezza della circonferenza.
 

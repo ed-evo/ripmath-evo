@@ -1,4 +1,4 @@
-# [Una prima determinazione della lunghezza della circonferenza]{.text-red}
+# Una prima determinazione della lunghezza della circonferenza
 
 Cerchiamo, intuitivamente di capire quanto "grosso modo" può misurare la circonferenza di raggio dato $$r$$.
 

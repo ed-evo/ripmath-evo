@@ -1,4 +1,4 @@
-# [Trapezio]{.text-red}
+# Trapezio
 
 Per studiare i quadrilateri cerchiamo di distinguerli introducendo delle proprietà: la più semplice è pensare che il quadrilatero abbia due lati paralleli.
 

@@ -1,4 +1,4 @@
-# [Volume dello spicchio sferico]{.text-red}
+# Volume dello spicchio sferico
 
 Anche per calcolare il volume dello spicchio sferico ci riferiamo al ragionamento fatto in geometria piana per calcolare l'area di un [settore circolare](../../f/fr/frj.html).
 

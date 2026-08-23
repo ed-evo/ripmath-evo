@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 > **Definiamo Successione** un insieme di numeri ordinato e numerabile
 

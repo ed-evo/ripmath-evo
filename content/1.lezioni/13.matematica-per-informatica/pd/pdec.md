@@ -1,4 +1,4 @@
-# [Nor]{.text-red}
+# Nor
 
 Consideriamo la composizione di una porta OR con una porta NOT; la sua uscita è il contrario della porta OR, cioè indicando con $$1$$ il passaggio di corrente e con $$0$$ il non passaggio avremo:
 

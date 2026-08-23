@@ -1,4 +1,4 @@
-# [La base della torre è più bassa del piano dell'osservatore]{.text-red}
+# La base della torre è più bassa del piano dell'osservatore
 
 Anche qui devo avere la possibilità di calcolare una distanza $$AD$$ che sia allineata con la base della torre.
 

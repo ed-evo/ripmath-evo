@@ -1,4 +1,4 @@
-# [Secondo quadrante: $$90^\circ + \alpha$$]{.text-red}
+# Secondo quadrante: $$90^\circ + \alpha$$
 
 Se il punto $$P$$ corrisponde all'angolo $$90^\circ + \alpha$$ allora il punto $$Q$$ corrisponderà all'angolo $$\alpha$$.
 

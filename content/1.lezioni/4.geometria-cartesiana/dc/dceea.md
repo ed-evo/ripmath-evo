@@ -1,4 +1,4 @@
-# [Casi particolari]{.text-red}
+# Casi particolari
 
 Possiamo considerare particolari i casi in cui i due punti sono allineati orizzontalmente o verticalmente: in tal caso senza applicare la formula scriviamo l'equazione della retta come $$\textcolor{red}{y = \text{numero}}$$ oppure $$\textcolor{red}{x = \text{numero}}$$ essendo numero il valore della coordinata uguale dei due punti.
 

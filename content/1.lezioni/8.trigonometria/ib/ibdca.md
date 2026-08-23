@@ -1,4 +1,4 @@
-# [Terzo quadrante: $$180^\circ + \alpha$$]{.text-red}
+# Terzo quadrante: $$180^\circ + \alpha$$
 
 Se il punto $$P$$ corrisponde all'angolo $$180^\circ + \alpha$$ allora il punto $$Q$$ corrisponderà all'angolo $$\alpha$$.
 

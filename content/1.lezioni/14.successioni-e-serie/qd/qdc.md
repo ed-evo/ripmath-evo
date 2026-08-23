@@ -1,4 +1,4 @@
-# [Serie geometrica]{.text-red}
+# Serie geometrica
 
 Come esempio particolarmente importante di serie consideriamo la **serie geometrica**
 

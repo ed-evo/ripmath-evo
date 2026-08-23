@@ -1,4 +1,4 @@
-# [Esercizi sulle disequazioni di primo grado]{.text-red}
+# Esercizi sulle disequazioni di primo grado
 
 1) $$\textcolor{blue}{x + 2 - 2x < 4x - 3 - 6x}$$ [soluzione](agbac1.html)
 

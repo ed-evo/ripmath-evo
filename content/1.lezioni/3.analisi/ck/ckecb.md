@@ -1,4 +1,4 @@
-# [Esempi di calcolo di aree]{.text-red}
+# Esempi di calcolo di aree
 
 Vediamo alcuni esercizi sul calcolo di aree
 

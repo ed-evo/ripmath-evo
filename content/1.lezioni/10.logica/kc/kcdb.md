@@ -1,4 +1,4 @@
-# [Seconda figura]{.text-red}
+# Seconda figura
 
 $$
 \text{Premessa maggiore} + \text{Premessa minore} = \text{Conclusione}

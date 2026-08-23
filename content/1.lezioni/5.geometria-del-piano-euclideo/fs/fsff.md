@@ -1,4 +1,4 @@
-# [Cenni sul problema della ciclotomia]{.text-red}
+# Cenni sul problema della ciclotomia
 
 > Certo che è una parolona difficile! Ma vuol semplicemente dire divisione della circonferenza (dal greco ciclos cerchio e tome tagliare)
 

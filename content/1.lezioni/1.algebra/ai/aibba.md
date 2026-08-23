@@ -1,4 +1,4 @@
-## [Sistema di $$3$$ equazioni a tre incognite: metodo di sostituzione]{.text-red}
+## Sistema di $$3$$ equazioni a tre incognite: metodo di sostituzione
 
 Si tratta di adattare il metodo di sostituzione già visto per il sistema di due equazioni a due incognite.
 Sceglieremo un'equazione per ricavare una incognita e sostituiremo il suo valore nelle altre due equazioni; in questo modo avremo due equazioni in due incognite e procederemo come già visto.

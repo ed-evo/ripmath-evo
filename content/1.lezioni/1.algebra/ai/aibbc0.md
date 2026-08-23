@@ -1,4 +1,4 @@
-# [informazioni valide]{.text-red}
+# informazioni valide
 
 Facciamo un esempio: consideriamo i valori
 $$\textcolor{red}{x = 1}$$ $$\textcolor{red}{y = 2}$$ $$\textcolor{red}{z = 3}$$

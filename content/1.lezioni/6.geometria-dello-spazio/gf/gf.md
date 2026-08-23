@@ -1,4 +1,4 @@
-# [Parallelismo nello spazio]{.text-red}
+# Parallelismo nello spazio
 
 Estendiamo nello spazio il concetto di parallelismo già visto nel piano:
 

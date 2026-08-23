@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \textcolor{blue}{x^4 - 10x^2 + 9 = 0}

@@ -1,4 +1,4 @@
-# [Il paradosso del mentitore]{.text-red}
+# Il paradosso del mentitore
 
 Se faccio l'affermazione:
 

@@ -1,4 +1,4 @@
-# [calcolo del capitale con anno sia commerciale che civile]{.text-red}
+# calcolo del capitale con anno sia commerciale che civile
 
 Ho impiegato un capitale per $$130$$ giorni al tasso $$i=1,6\%$$ ed ho ricevuto un interesse di $$110$$ euro; a quanto ammonta il capitale?
 

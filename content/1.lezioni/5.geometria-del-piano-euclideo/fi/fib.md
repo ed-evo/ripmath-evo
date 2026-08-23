@@ -1,4 +1,4 @@
-# [Bisettrice di un angolo]{.text-red}
+# Bisettrice di un angolo
 
 Come **figura geometrica:**
 [la bisettrice di un angolo è la retta che divide l'angolo in $$2$$ parti congruenti;]{.text-red-darken-1}

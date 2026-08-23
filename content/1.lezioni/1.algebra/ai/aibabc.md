@@ -1,4 +1,4 @@
-# [Sistema indeterminato]{.text-red}
+# Sistema indeterminato
 
 Il sistema è indeterminato se le sue equazioni dicono entrambe la stessa cosa.
 

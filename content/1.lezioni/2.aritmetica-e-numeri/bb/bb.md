@@ -1,4 +1,4 @@
-# [Insieme $$Z$$ dei numeri interi]{.text-red}
+# Insieme $$Z$$ dei numeri interi
 
 - Generalità sui numeri interi
 - L'insieme $$Z$$

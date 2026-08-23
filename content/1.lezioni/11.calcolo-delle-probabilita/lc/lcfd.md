@@ -1,4 +1,4 @@
-# [Limiti della probabilità soggettiva]{.text-red}
+# Limiti della probabilità soggettiva
 
 Purtroppo la probabilità soggettiva ha due grossi handicap che ne limitano l'efficacia:
 

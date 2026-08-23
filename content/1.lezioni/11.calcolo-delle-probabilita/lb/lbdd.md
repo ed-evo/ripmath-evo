@@ -1,4 +1,4 @@
-# [Legge delle classi complementari]{.text-red}
+# Legge delle classi complementari
 
 > Vediamo ora alcune proprietà dei coefficienti binomiali; talvolta queste proprietà vengono date come domanda all'esame di maturità per il liceo scientifico: forse per vedere se lo studente è capace di calcoli.
 > Se frequenti il quinto liceo scientifico ti consiglio di studiare molto bene questa pagina e le due successive.

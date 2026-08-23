@@ -1,4 +1,4 @@
-# [Se in un determinante due righe (due colonne) sono proporzionali il determinante vale zero]{.text-red}
+# Se in un determinante due righe (due colonne) sono proporzionali il determinante vale zero
 
 > **Dimostrazione:**
 > 

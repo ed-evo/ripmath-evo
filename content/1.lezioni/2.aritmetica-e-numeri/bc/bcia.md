@@ -1,4 +1,4 @@
-# [Scomposizione di un numero in fattori primi]{.text-red}
+# Scomposizione di un numero in fattori primi
 
 In matematica i numeri primi sono importantissimi, sia storicamente che come materia di studio attuale: ancora oggi si cercano proprietà e caratteristiche sulla generazione di tali numeri, ad esempio su di essi si basa la sicurezza informatica dei codici criptati che vengono usati giornalmente da banche, stati, organizzazioni varie.
 

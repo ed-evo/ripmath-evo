@@ -1,4 +1,4 @@
-# [Un'osservazione sui tre teoremi precedenti]{.text-red}
+# Un'osservazione sui tre teoremi precedenti
 
 I tre teoremi precedenti in pratica sono lo stesso teorema:
 

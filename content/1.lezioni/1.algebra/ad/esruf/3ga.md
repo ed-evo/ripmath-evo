@@ -1,4 +1,4 @@
-# [divisione passaggio per passaggio]{.text-red}
+# divisione passaggio per passaggio
 
 Devo dividere $$\textcolor{blue}{2x^3 + x^2 + x - 1}$$ per $$\textcolor{blue}{(x - 1/2)}$$.
 

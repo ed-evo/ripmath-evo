@@ -1,4 +1,4 @@
-# [Ragionare sull'esercizio]{.text-red}
+# Ragionare sull'esercizio
 
 > È il metodo che chiedo di seguire ai miei alunni:
 > Se il radicale si può scomporre nella somma di due radicali semplici significa che il termine dentro radice si può estrarre, cioè è un quadrato; il problema è come riconoscere il quadrato; vediamolo negli esempi risolti precedentemente, partendo dai quadrati più riconoscibili.

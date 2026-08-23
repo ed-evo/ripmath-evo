@@ -1,4 +1,4 @@
-# [Calcolo dell'interesse, tempo in giorni anno civile]{.text-red}
+# Calcolo dell'interesse, tempo in giorni anno civile
 
 Ho versato in banca la somma di euro $$15000$$, per $$215$$ giorni al tasso $$i = 1,75\%$$. Quale interesse mi sarà corrisposto dalla banca?
 

@@ -1,4 +1,4 @@
-# [Prisma]{.text-red}
+# Prisma
 
 Ora per avere il prisma basta prendere la parte di prisma indefinito compreso fra due poligoni sezioni del prisma indefinito con due piani paralleli
 

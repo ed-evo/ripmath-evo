@@ -1,4 +1,4 @@
-# [Disgiunzione inversa]{.text-red}
+# Disgiunzione inversa
 
 È la disgiunzione inversa o incompatibilità $$(ab)'$$
 

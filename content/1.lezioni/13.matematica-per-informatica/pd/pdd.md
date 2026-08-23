@@ -1,4 +1,4 @@
-# [Prodotto logico]{.text-red}
+# Prodotto logico
 
 Il prodotto in un'algebra di Boole può essere pensato come una coppia di interruttori in serie, cioè tali che la corrente percorrerà il primo e, successivamente il secondo cammino prima di proseguire nel circuito.
 

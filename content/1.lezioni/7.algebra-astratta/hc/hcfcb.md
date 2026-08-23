@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura per l'insieme $$\mathbb{R}$$ dei numeri reali con le operazioni di addizione ($$+$$) e moltiplicazione ($$\cdot$$)
 

@@ -1,4 +1,4 @@
-# [Relazione di equivalenza ed insieme quoziente]{.text-red}
+# Relazione di equivalenza ed insieme quoziente
 
 Ora procediamo su un esempio numerico per il divisore $$5$$: poi potremo generalizzare a tutti i naturali maggiori di $$1$$.
 

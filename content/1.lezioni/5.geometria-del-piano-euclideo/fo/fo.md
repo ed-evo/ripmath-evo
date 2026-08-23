@@ -1,4 +1,4 @@
-# [Proporzionalità]{.text-red}
+# Proporzionalità
 
 Prima di passare alla similitudine tra figure, cioè all'uguaglianza della forma, vediamo di parlare di proporzioni, cioè di uguaglianze di rapporti
 

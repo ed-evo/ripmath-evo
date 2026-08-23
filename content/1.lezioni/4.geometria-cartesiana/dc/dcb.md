@@ -1,4 +1,4 @@
-## [Convenzioni]{.text-red}
+## Convenzioni
 
 Indicheremo i punti del piano con le lettere maiuscole dell'alfabeto latino:
 

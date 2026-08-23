@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \textcolor{blue}{(\frac{x}{a} - \frac{y}{b})(\frac{x}{a} + \frac{y}{b}) = 0}

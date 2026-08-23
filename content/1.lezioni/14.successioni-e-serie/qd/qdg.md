@@ -1,4 +1,4 @@
-# [Criteri di convergenza e divergenza]{.text-red}
+# Criteri di convergenza e divergenza
 
 - serie a segno costante
 - serie a segno alterno

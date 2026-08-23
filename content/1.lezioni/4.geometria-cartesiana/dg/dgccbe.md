@@ -1,4 +1,4 @@
-# [Condizione utilizzando l'equazione della direttrice]{.text-red}
+# Condizione utilizzando l'equazione della direttrice
 
 Se abbiamo l'equazione della direttrice $$\textcolor{blue}{y = k}$$ (con $$k$$ valore noto) della generica parabola $$\textcolor{blue}{y = ax^2 + bx + c}$$, sapendo che tale parabola ha direttrice
 

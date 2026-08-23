@@ -1,4 +1,4 @@
-# [Somma di limiti di successioni convergenti]{.text-red}
+# Somma di limiti di successioni convergenti
 
 Se le successioni
 $$a_1, a_2, a_3, a_4, \dots, a_n, \dots$$

@@ -1,4 +1,4 @@
-# [Angolo di 45 gradi ($$\pi/4$$)]{.text-red}
+# Angolo di 45 gradi ($$\pi/4$$)
 
 Consideriamo l'angolo di $$45^\circ$$: considero il triangolo delle proiezioni OPH, esso ha un angolo di $$45^\circ$$ ed un angolo di $$90^\circ$$, quindi il terzo angolo vale $$45^\circ$$; il triangolo è isoscele e seno e coseno, corrispondendo ai lati uguali, devono avere lo stesso valore
 

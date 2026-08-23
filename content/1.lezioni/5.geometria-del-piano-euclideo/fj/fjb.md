@@ -1,4 +1,4 @@
-# [Proprietà delle corde]{.text-red}
+# Proprietà delle corde
 
 Vediamo alcuni teoremi che ci danno le proprietà delle corde sulla circonferenza:
 

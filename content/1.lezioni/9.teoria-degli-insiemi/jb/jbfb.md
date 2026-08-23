@@ -1,4 +1,4 @@
-# [Intersezione fra insiemi]{.text-red}
+# Intersezione fra insiemi
 
 L'intersezione fra due insiemi è l'operazione che associa ai due insiemi l'insieme i cui elementi appartengono contemporaneamente al primo **e** al secondo insieme.
 

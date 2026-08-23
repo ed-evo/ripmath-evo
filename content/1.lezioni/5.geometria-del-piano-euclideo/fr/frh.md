@@ -1,4 +1,4 @@
-# [Arco di circonferenza]{.text-red}
+# Arco di circonferenza
 
 Possiamo ora calcolare la lunghezza dell'arco di circonferenza conoscendone l'angolo al centro (e viceversa).
 

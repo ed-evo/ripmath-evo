@@ -1,4 +1,4 @@
-# [Resto di una serie]{.text-red}
+# Resto di una serie
 
 > Siccome la serie è una successione i cui termini tendono ad una somma infinita, diventa importante considerare, se considero un termine abbastanza avanzato della successione, cosa resta per arrivare al limite della successione e lo chiameremo **resto** della serie stessa, ma ora diamo la definizione matematica.
 

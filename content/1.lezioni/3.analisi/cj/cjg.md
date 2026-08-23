@@ -1,4 +1,4 @@
-# [Alcuni esempi di sviluppo in serie di potenze di alcune funzioni elementari]{.text-red}
+# Alcuni esempi di sviluppo in serie di potenze di alcune funzioni elementari
 
 Vediamo ora come sviluppare in serie di potenze alcune funzioni:
 

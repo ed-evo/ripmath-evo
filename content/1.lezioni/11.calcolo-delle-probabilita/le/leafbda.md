@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Veramente dovremmo fare il conto:
 

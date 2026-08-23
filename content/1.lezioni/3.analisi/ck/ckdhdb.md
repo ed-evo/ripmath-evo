@@ -1,4 +1,4 @@
-# [secondo tipo]{.text-red}
+# secondo tipo
 
 Devo risolvere
 $$

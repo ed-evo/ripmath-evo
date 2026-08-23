@@ -1,4 +1,4 @@
-# [Punto che divide un segmento in un rapporto assegnato]{.text-red}
+# Punto che divide un segmento in un rapporto assegnato
 
 Conoscendo le coordinate di due punti nel piano è possibile determinare le coordinate di un loro punto intermedio che divida il segmento secondo un rapporto assegnato $$\frac{m}{n}$$
 

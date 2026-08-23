@@ -1,4 +1,4 @@
-# [Fascio di circonferenze senza punti comuni e non concentriche]{.text-red}
+# Fascio di circonferenze senza punti comuni e non concentriche
 
 In questo caso le due circonferenze di base non hanno punti comuni fra loro.
 

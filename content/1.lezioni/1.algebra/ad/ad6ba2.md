@@ -1,4 +1,4 @@
-# [Caso del polinomio scomponibile con termini frazionari]{.text-red}
+# Caso del polinomio scomponibile con termini frazionari
 
 Quando cerchiamo i possibili divisori può succedere che troviamo dei valori frazionari, ad esempio proviamo a scomporre:
 

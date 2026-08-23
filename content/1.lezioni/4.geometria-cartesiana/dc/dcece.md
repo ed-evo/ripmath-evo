@@ -1,4 +1,4 @@
-# [la retta come funzione]{.text-red}
+# la retta come funzione
 
 Possiamo considerare la retta come una funzione di primo grado
 

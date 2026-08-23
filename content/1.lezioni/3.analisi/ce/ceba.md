@@ -1,4 +1,4 @@
-# [Discontinuità di prima specie]{.text-red}
+# Discontinuità di prima specie
 
 Una discontinuità si dice di prima specie se esistono finiti i limiti destro e sinistro ma i due limiti sono diversi.
 

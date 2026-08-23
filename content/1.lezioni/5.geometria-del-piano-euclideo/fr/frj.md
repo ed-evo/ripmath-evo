@@ -1,4 +1,4 @@
-# [Area del settore circolare]{.text-red}
+# Area del settore circolare
 
 Possiamo ora calcolare l'area di un settore circolare conoscendone l'angolo al centro (e viceversa).
 

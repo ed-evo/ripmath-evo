@@ -1,4 +1,4 @@
-# [Definizione di convergenza assoluta]{.text-red}
+# Definizione di convergenza assoluta
 
 **Definizione**
 La serie numerica

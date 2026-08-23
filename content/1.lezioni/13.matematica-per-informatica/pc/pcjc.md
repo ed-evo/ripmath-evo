@@ -1,4 +1,4 @@
-# [Forma normale disgiuntiva]{.text-red}
+# Forma normale disgiuntiva
 
 ---
 

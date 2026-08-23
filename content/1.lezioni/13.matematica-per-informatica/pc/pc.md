@@ -1,4 +1,4 @@
-# [Cenni sull'algebra binaria di Boole]{.text-red}
+# Cenni sull'algebra binaria di Boole
 
 Prima affrontiamo l'argomento da un punto di vista strettamente "matematico" poi lo applicheremo all'informatica
 

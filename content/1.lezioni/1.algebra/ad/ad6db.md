@@ -1,4 +1,4 @@
-# [Somma di potenze dispari]{.text-red}
+# Somma di potenze dispari
 
 Cercheremo la regola per scomporre tutte quelle potenze del tipo [$$x^n + a^n$$]{.text-red} per [$$n$$]{.text-red} dispari, cioè ad esempio:
 

@@ -1,4 +1,4 @@
-# [Endomorfismo]{.text-red}
+# Endomorfismo
 
 L'endomorfismo è un caso particolare di morfismo: si ha quando le strutture agiscono sullo stesso dominio: cioè gli insiemi su cui si opera sono identici (morfismo di $$A$$ su sé stesso).
 

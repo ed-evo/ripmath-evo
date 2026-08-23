@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 P_{\text{totale}} = \frac{1}{90} + \frac{1}{89} + \frac{1}{88} + \frac{1}{87} + \frac{1}{86}

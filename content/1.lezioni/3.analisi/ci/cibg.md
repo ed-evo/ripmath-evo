@@ -1,4 +1,4 @@
-# [Calcolo della derivata prima]{.text-red}
+# Calcolo della derivata prima
 
 Si calcola la derivata prima per poter poi individuare la crescenza e la decrescenza della funzione ed anche i massimi ed i minimi.
 

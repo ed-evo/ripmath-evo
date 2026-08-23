@@ -1,4 +1,4 @@
-# [studio di funzione]{.text-red}
+# studio di funzione
 
 Lo studio di funzione è un po' il punto di convergenza di tutto il programma di analisi nelle scuole superiori, infatti per poterlo fare vanno applicati tutti i concetti fin qui studiati. Inoltre per parecchi ordini di scuola è l'argomento che si sa presente sicuramente nell'esame di stato.
 

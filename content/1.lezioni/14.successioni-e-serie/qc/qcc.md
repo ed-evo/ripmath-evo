@@ -1,4 +1,4 @@
-# [Limite di una successione numerica reale]{.text-red}
+# Limite di una successione numerica reale
 
 In questa pagina consideriamo il concetto di limite relativamente alle successioni di numeri reali, concetto analogo a quello che viene considerato in analisi matematica per le funzioni.
 

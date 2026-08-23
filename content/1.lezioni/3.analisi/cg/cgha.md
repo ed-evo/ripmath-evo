@@ -1,4 +1,4 @@
-# [Esercizi su massimi minimi e flessi]{.text-red}
+# Esercizi su massimi minimi e flessi
 
 Determinare i punti di massimo, minimo e flesso per le seguenti funzioni in tutto l'intervallo di definizione:
 

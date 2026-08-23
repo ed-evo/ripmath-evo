@@ -1,4 +1,4 @@
-# [Costruzione del settore sferico]{.text-red}
+# Costruzione del settore sferico
 
 Considero il settore circolare $$ABO$$ e considero l'asse passante per il centro $$O$$ della circonferenza come asse di rotazione.
 

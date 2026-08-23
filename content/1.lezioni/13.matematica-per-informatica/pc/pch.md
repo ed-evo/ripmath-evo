@@ -1,4 +1,4 @@
-# [Ordinamento]{.text-red}
+# Ordinamento
 
 È fondamentale in informatica considerare l'ordine in cui vengono date le informazioni: ho già detto che, semplificando, è come un lungo nastro di dati che scorre davanti ad un lettore, di conseguenza i dati dovranno essere ordinati per poter essere utilizzati.
 

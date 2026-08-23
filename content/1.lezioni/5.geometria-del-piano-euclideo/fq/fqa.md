@@ -1,4 +1,4 @@
-# [Triangolo rettangolo isoscele]{.text-red}
+# Triangolo rettangolo isoscele
 
 Il triangolo rettangolo isoscele è il triangolo rettangolo con due cateti uguali, quindi:
 

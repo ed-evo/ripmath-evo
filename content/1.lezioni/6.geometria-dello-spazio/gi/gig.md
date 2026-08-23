@@ -1,4 +1,4 @@
-# [Volume del parallelepipedo retto]{.text-red}
+# Volume del parallelepipedo retto
 
 Estendiamo ora le formule trovate per il parallelepipedo rettangolo al parallelepipedo retto.
 

@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 Ho la disequazione
 $$\textcolor{red}{x^2 - 3x + 2 \ge 0}$$

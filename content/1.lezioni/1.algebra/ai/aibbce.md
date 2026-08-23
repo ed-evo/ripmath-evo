@@ -1,4 +1,4 @@
-# [Rango di una matrice]{.text-red}
+# Rango di una matrice
 
 Dobbiamo introdurre il fatto che se prendiamo dei determinanti di un certo ordine estraendoli da una matrice essi potranno essere tutti nulli oppure potrà esistere qualche determinante diverso da zero.
 Partiamo dalla matrice incompleta e completa della pagina precedente:

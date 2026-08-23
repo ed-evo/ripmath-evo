@@ -1,4 +1,4 @@
-# [Disequazioni logaritmiche con base minore di $$1$$]{.text-red}
+# Disequazioni logaritmiche con base minore di $$1$$
 
 Se la base è minore di $$1$$ il grafico della funzione è quello riportato qui a fianco.
 Per risolvere cercheremo sempre di arrivare a una delle due forme:

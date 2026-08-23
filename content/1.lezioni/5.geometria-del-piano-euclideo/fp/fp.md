@@ -1,4 +1,4 @@
-# [Similitudine]{.text-red}
+# Similitudine
 
 Partendo dai criteri fissati nella pagina precedente passiamo a definire la proporzione fra segmenti e successivamente definiamo la similitudine prima fra triangoli e poi fra figure in generale e vediamone anche alcune interessanti applicazioni.
 

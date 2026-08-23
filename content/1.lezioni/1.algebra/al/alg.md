@@ -1,4 +1,4 @@
-# [Proprietà dei logaritmi]{.text-red}
+# Proprietà dei logaritmi
 
 Siccome il logaritmo è l'esponente della potenza per esso saranno valide le regole viste per il calcolo delle potenze, naturalmente adattate al nostro logaritmo
 

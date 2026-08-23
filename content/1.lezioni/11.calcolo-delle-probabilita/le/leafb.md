@@ -1,4 +1,4 @@
-# [La variabile geometrica]{.text-red}
+# La variabile geometrica
 
 Analizziamo ora la **distribuzione geometrica**, che si ha quando dobbiamo considerare le probabilità del primo accadere di un evento.
 

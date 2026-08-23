@@ -1,4 +1,4 @@
-# [Potenza intera di numeri razionali]{.text-red}
+# Potenza intera di numeri razionali
 
 Per eseguire la potenza di una frazione basta considerare che la potenza è un prodotto
 

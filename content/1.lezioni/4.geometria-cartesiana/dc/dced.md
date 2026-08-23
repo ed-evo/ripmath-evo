@@ -1,4 +1,4 @@
-# [Fasci di rette]{.text-red}
+# Fasci di rette
 
 > Un fascio di rette è l'insieme di tutte le rette che passano per un punto
 >

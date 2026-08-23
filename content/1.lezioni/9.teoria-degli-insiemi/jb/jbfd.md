@@ -1,4 +1,4 @@
-# [Differenza]{.text-red}
+# Differenza
 
 Si definisce **differenza** fra due insiemi l'insieme degli elementi del primo insieme che non appartengono al secondo insieme;
 

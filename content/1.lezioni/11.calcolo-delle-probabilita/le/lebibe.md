@@ -1,4 +1,4 @@
-# [studio intuitivo della funzione data]{.text-red}
+# studio intuitivo della funzione data
 
 Studiamo la funzione
 

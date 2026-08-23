@@ -1,4 +1,4 @@
-# [Unione fra insiemi]{.text-red}
+# Unione fra insiemi
 
 L'unione fra due insiemi è l'operazione che associa ai due insiemi l'insieme i cui elementi appartengono al primo **oppure** al secondo insieme.
 

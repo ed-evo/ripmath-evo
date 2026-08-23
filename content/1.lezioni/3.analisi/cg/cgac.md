@@ -1,4 +1,4 @@
-# [legame fra la crescenza/decrescenza e derivata prima]{.text-red}
+# legame fra la crescenza/decrescenza e derivata prima
 
 Poiché la derivata corrisponde al coefficiente angolare della tangente, se la derivata è positiva significa che la tangente tende verso l'alto quindi la curva dovrà essere crescente:
 

@@ -1,4 +1,4 @@
-# [Ciclometria]{.text-red}
+# Ciclometria
 
 - Introduzione
 - Poligoni regolari inscritti in una circonferenza

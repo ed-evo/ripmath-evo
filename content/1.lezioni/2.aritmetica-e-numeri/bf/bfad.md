@@ -1,4 +1,4 @@
-# [Forma ipotetica deduttiva]{.text-red}
+# Forma ipotetica deduttiva
 
 Una volta stabiliti i postulati occorre studiare le relazioni esistenti fra gli stessi: mediante ragionamenti logici otteniamo dei fatti che saranno lo sviluppo della teoria matematica relativa.
 

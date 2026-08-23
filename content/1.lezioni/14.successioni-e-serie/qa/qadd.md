@@ -1,4 +1,4 @@
-# [Successioni generate da prodotti]{.text-red}
+# Successioni generate da prodotti
 
 Vediamo altri tipi di prodotti che possono generare successioni
 

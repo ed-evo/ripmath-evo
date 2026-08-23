@@ -1,4 +1,4 @@
-# [Equivalenza anticlessidra-sfera]{.text-red}
+# Equivalenza anticlessidra-sfera
 
 Mostriamo ora che vale sempre il teorema:
 

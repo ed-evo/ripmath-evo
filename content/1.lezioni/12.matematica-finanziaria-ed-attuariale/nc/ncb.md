@@ -1,4 +1,4 @@
-# [Fonti di una rendita]{.text-red}
+# Fonti di una rendita
 
 Indichiamo brevemente quali possono essere considerate delle fonti di rendite:
 

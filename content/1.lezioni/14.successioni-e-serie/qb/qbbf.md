@@ -1,4 +1,4 @@
-# [Somma dei termini di una progressione geometrica]{.text-red}
+# Somma dei termini di una progressione geometrica
 
 Vediamo come è possibile sommare tutti i termini di una progressione geometrica nel caso in cui la ragione sia inferiore ad $$1$$ (se la ragione è superiore ad $$1$$ la progressione diverge).
 

@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un rettangolo di perimetro cm. 56 la base supera di 4 il doppio dell'altezza: determinarne l'area]{.text-blue}
 

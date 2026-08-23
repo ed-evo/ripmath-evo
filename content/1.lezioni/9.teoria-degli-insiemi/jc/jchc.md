@@ -1,4 +1,4 @@
-# [Relazione d'ordine lineare]{.text-red}
+# Relazione d'ordine lineare
 
 Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine lineare** se è contemporaneamente:
 

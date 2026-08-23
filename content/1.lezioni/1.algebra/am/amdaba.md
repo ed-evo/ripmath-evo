@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 $$\textcolor{blue}{y^2 - 6y + 5 = 0}$$
 

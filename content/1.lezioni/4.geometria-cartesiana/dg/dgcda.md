@@ -1,4 +1,4 @@
-# [Rappresentare graficamente una parabola di data equazione]{.text-red}
+# Rappresentare graficamente una parabola di data equazione
 *(come si disegna la parabola)*
 
 Per disegnare una parabola conviene:

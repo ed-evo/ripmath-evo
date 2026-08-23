@@ -1,4 +1,4 @@
-# [Proprietà moltiplicativa]{.text-red}
+# Proprietà moltiplicativa
 
 Il concetto di probabilità condizionata nella trattazione assiomatica equivale al teorema della probabilità composta visto nella probabilità classica: infatti facendo il minimo comune multiplo nella formula della probabilità condizionata ottengo il teorema della probabilità composta.
 

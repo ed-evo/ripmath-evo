@@ -1,4 +1,4 @@
-# [Formula di bisezione per il seno]{.text-red}
+# Formula di bisezione per il seno
 
 Partiamo dalla formula:
 

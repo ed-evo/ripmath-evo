@@ -1,4 +1,4 @@
-# [Il triangolo di Tartaglia]{.text-red}
+# Il triangolo di Tartaglia
 
 Ora possiamo scrivere il [triangolo di Tartaglia](../../a/ad/ad4cfa.html)
 

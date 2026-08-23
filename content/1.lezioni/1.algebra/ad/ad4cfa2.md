@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{(a+b)^5}$$]{.text-red}
+# $$\textcolor{red}{(a+b)^5}$$
 
 Devo calcolare
 $$\textcolor{red}{(a+b)^5 =}$$

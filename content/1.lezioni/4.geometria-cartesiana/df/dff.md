@@ -1,4 +1,4 @@
-# [Problemi sull'iperbole]{.text-red}
+# Problemi sull'iperbole
 
 Distinguiamo i problemi a seconda del tipo di iperbole presa in considerazione
 

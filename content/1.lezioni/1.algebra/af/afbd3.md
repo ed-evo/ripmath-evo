@@ -1,4 +1,4 @@
-# [Risolvere l'equazione:]{.text-red}
+# Risolvere l'equazione:
 
 $$
 \textcolor{red}{(x + 2)(x - 1) + 2x = 5 - x(4 - x)}
@@ -44,7 +44,7 @@ $$x = 1$$ è la soluzione.
 
 ***
 
-### [Verifica:]{.text-red}
+### Verifica:
 
 Sostituisco a $$x$$ il valore $$1$$ nell'equazione di partenza:
 

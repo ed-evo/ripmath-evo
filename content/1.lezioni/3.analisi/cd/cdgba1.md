@@ -1,4 +1,4 @@
-# [Raccogliere $$\textcolor{red}{x^2}$$]{.text-red}
+# Raccogliere $$\textcolor{red}{x^2}$$
 
 Nel polinomio
 

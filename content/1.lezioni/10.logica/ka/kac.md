@@ -1,4 +1,4 @@
-# [Principi della logica]{.text-red}
+# Principi della logica
 
 Avremo i seguenti principi:
 

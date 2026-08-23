@@ -1,4 +1,4 @@
-# [Metodo di sostituzione]{.text-red}
+# Metodo di sostituzione
 
 Se hai bisogno di una spiegazione [più approfondita](aibaaa0.html)
 

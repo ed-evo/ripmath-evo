@@ -1,4 +1,4 @@
-# [esercizio per determinare l'equazione della direttrice]{.text-red}
+# esercizio per determinare l'equazione della direttrice
 
 Determinare l'equazione della direttrice della parabola di equazione
 

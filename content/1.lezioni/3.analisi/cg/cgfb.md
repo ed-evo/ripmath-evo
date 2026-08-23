@@ -1,4 +1,4 @@
-# [Esercizio sui flessi]{.text-red}
+# Esercizio sui flessi
 
 Calcoliamo i punti di flesso per la seguente funzione (curva a campana di Gauss):
 

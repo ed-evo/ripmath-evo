@@ -1,4 +1,4 @@
-# [Perché le equazioni]{.text-red}
+# Perché le equazioni
 
 L'uomo ha sempre costruito macchine per poter far fare ad esse il lavoro che lui avrebbe preferito non fare, ma il lavoro non è solo fisico, esiste anche il lavoro mentale e le equazioni sono proprio una macchina che ci permette di fare un certo tipo di lavoro mentale senza troppo sforzo; diceva una Professoressa di Matematica di mio figlio: "Le equazioni sono state fatte per chi non sa fare i conti."
 

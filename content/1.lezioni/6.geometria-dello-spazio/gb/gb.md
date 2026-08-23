@@ -1,4 +1,4 @@
-# [Nomenclatura]{.text-red}
+# Nomenclatura
 
 Prima di procedere mettiamoci d'accordo su quali simboli usare e come rappresentare nello spazio i vari enti geometrici.
 Naturalmente manterremo per gli enti già considerati la stessa notazione già adottata nel piano, ma un ripasso fa sempre bene....

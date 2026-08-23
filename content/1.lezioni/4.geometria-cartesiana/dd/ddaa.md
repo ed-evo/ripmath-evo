@@ -1,4 +1,4 @@
-# [Circonferenza]{.text-red}
+# Circonferenza
 
 È l'intersezione fra un cono matematico ed un piano parallelo alla circonferenza di base e non passante per il vertice
 

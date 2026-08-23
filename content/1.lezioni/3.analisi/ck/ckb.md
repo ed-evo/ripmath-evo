@@ -1,4 +1,4 @@
-## [Approccio geometrico]{.text-red}
+## Approccio geometrico
 
 Vogliamo trovare l'area del trapezoide.
 

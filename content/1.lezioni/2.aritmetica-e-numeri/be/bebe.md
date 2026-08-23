@@ -1,4 +1,4 @@
-# [Forma esponenziale dei numeri complessi]{.text-red}
+# Forma esponenziale dei numeri complessi
 
 Vediamo ora un interessante modo di rappresentare i numeri complessi che avrà molte applicazioni nella matematica "universitaria", soprattutto per quanto riguarderà le serie trigonometriche e le funzioni iperboliche. Noi però salteremo tali argomenti perché non facenti parte del programma delle scuole medie superiori.
 

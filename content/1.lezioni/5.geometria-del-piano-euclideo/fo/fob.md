@@ -1,4 +1,4 @@
-# [Nomenclatura]{.text-red}
+# Nomenclatura
 
 È importante: devi sapere come chiamare esattamente i termini di una proporzione:
 Consideriamo come esempio la proporzione:

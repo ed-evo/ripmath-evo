@@ -1,4 +1,4 @@
-# [Retta qualunque nel piano]{.text-red}
+# Retta qualunque nel piano
 
 Per trovare l'equazione della retta qualunque nel piano basterà prendere l'equazione della retta passante per l'origine
 

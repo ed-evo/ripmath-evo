@@ -1,4 +1,4 @@
-## [definizione]{.text-red}
+## definizione
 
 Abbiamo già visto come, da più pagamenti o crediti in epoche diverse è possibile passare ad un valore unico; vediamo ora di considerare il problema in modo più generale.
 

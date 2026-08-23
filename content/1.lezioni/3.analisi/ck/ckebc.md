@@ -1,4 +1,4 @@
-## [Soluzione del problema]{.text-red}
+## Soluzione del problema
 
 Siccome parlare di aree negative è in matematica [quasi una bestemmia](ckebca.html) dovremo vedere come rendere sempre positivi i valori delle aree:
 

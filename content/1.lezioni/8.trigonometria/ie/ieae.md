@@ -1,4 +1,4 @@
-# [Raggio del cerchio circoscritto al triangolo]{.text-red}
+# Raggio del cerchio circoscritto al triangolo
 
 Questo è molto più semplice: basta far riferimento al teorema dei seni: infatti abbiamo
 

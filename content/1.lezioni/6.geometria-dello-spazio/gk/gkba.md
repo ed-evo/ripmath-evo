@@ -1,4 +1,4 @@
-# [Definizione di cilindro]{.text-red}
+# Definizione di cilindro
 
 **Definiamo cilindro la parte di spazio percorsa da un rettangolo quando compie una rotazione completa attorno ad un suo lato**
 

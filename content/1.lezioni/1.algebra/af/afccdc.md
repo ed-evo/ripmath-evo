@@ -1,4 +1,4 @@
-## [Equazione di secondo grado con riferimento alla somma e prodotto dei coefficienti]{.text-red}
+## Equazione di secondo grado con riferimento alla somma e prodotto dei coefficienti
 
 Alla luce di quanto visto nelle pagine precedenti possiamo scrivere l'equazione di secondo grado anche come
 

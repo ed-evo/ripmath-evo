@@ -1,4 +1,4 @@
-# [introduzione]{.text-red}
+# introduzione
 
 Si tratta ora di prendere i concetti già visti nel piano ed estenderli allo spazio: inizieremo dai postulati per poi riconsiderare la perpendicolarità ed il parallelismo; costruiremo quindi i solidi nello spazio e mediante l'equivalenza passeremo a misurare sia le superfici che i volumi dei principali oggetti considerati.
 

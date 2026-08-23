@@ -1,4 +1,4 @@
-# [Due termini al denominatore]{.text-red}
+# Due termini al denominatore
 
 Tratteremo i seguenti casi
 

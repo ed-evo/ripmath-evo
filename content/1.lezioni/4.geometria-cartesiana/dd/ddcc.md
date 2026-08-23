@@ -1,4 +1,4 @@
-# [Relazioni fra coefficienti, centro e raggio]{.text-red}
+# Relazioni fra coefficienti, centro e raggio
 
 Nell'equazione generale della circonferenza
 

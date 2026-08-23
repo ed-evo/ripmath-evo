@@ -1,4 +1,4 @@
-# [Successione dei numeri interi negativi]{.text-red}
+# Successione dei numeri interi negativi
 
 Moltiplicando per $$-1$$ ogni termine della successione naturale
 $$

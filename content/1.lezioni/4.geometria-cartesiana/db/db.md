@@ -1,4 +1,4 @@
-# [Sistema di coordinate ascisse sulla retta]{.text-red}
+# Sistema di coordinate ascisse sulla retta
 
 - [introduzione](dba.html)
 - [sistema di coordinate](dbb.html)

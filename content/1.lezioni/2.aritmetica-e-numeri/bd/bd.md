@@ -1,4 +1,4 @@
-# [Insieme $$\textcolor{red}{\mathbb{R}}$$ dei numeri Reali]{.text-red}
+# Insieme $$\textcolor{red}{\mathbb{R}}$$ dei numeri Reali
 
 Prima segui tutto il ragionamento che ci porta a definire i numeri reali collegandoti a geometria a [Teoria della misura](../../f/fn/fn.html).
 

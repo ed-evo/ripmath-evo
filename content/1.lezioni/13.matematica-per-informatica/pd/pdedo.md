@@ -1,4 +1,4 @@
-# [Congiunzione inversa]{.text-red}
+# Congiunzione inversa
 
 È la congiunzione inversa $$(a+b)'$$
 

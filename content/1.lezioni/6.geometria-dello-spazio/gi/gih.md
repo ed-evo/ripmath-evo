@@ -1,4 +1,4 @@
-# [Volume del prisma retto]{.text-red}
+# Volume del prisma retto
 
 Vediamo quindi quali sono le formule per trovare il volume del prisma retto.
 

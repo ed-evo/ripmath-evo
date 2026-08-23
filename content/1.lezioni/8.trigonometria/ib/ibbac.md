@@ -1,4 +1,4 @@
-# [Come si disegna la funzione $$y = \operatorname{sen} x$$]{.text-red}
+# Come si disegna la funzione $$y = \operatorname{sen} x$$
 
 Dobbiamo immaginare di "srotolare" una circonferenza sull'asse delle $$x$$.
 

@@ -1,4 +1,4 @@
-# [tipi di successioni a limite finito]{.text-red}
+# tipi di successioni a limite finito
 
 > Per capirci meglio nei grafici delle successioni introduciamo il concetto di asintoto orizzontale come retta orizzontale cui si avvicinano sempre più i termini della successione senza mai toccarla;
 > Per ogni esempio abbiamo varie possibilità: il limite $$a$$ può essere positivo, negativo o nullo: l'asintoto orizzontale $$y = a$$ sarà sopra, sotto oppure coinciderà con l'asse delle $$x$$: per avere ogni possibilità basterà alzare od abbassare la figura rispetto all'orizzontale.

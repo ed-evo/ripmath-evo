@@ -1,4 +1,4 @@
-# [Quadrato inscritto in una circonferenza]{.text-red}
+# Quadrato inscritto in una circonferenza
 ### o circonferenza circoscritta ad un quadrato
 
 È possibile risolvere completamente il quadrato conoscendo il valore del raggio del cerchio circoscritto al quadrato stesso.

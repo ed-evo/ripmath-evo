@@ -1,4 +1,4 @@
-# [La congiungente il centro col punto medio di una corda è perpendicolare alla corda]{.text-red}
+# La congiungente il centro col punto medio di una corda è perpendicolare alla corda
 
 > **Ipotesi:** $$AH = HB$$
 > **Tesi:** $$OH \perp AB$$

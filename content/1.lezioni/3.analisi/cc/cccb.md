@@ -1,4 +1,4 @@
-# [Campo di esistenza per funzioni irrazionali]{.text-red}
+# Campo di esistenza per funzioni irrazionali
 
 Si definisce funzione irrazionale una funzione in cui la $$x$$ compaia sotto il segno di radice
 

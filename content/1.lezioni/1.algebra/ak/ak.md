@@ -1,4 +1,4 @@
-# [Introduzione ai radicali]{.text-red}
+# Introduzione ai radicali
 
 Chiedo scusa a qualcuno se il fatto di scrivere pagine non in fila può dare qualche fastidio, però senza fare i radicali non è possibile affrontare lo studio delle equazioni di secondo grado, quindi nello sviluppo devo seguire un certo ordine logico che non corrisponde a quello seguito nella classificazione degli argomenti.
 

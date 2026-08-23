@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Risolvere:
 $$\textcolor{red}{x + 2 + \sqrt{x + 2} = 0}$$

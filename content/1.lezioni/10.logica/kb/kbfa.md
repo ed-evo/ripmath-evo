@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Dimostriamo che vale l'implicazione materiale si può definire mediante gli operatori fondamentali
 

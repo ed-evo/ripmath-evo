@@ -1,4 +1,4 @@
-# [Criterio del confronto]{.text-red}
+# Criterio del confronto
 
 Consideriamo la serie
 

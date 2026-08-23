@@ -1,4 +1,4 @@
-# [Valore medio]{.text-red}
+# Valore medio
 
 Passiamo ora a definire per la variabile aleatoria continua il concetto di valore medio.
 

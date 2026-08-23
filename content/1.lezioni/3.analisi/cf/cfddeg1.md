@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{red}{y = 4\sin x^3 \cdot \sin^3 x}

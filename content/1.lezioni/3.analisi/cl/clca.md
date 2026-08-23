@@ -1,4 +1,4 @@
-# [Equazioni differenziali ordinarie del primo ordine a variabili separabili]{.text-red}
+# Equazioni differenziali ordinarie del primo ordine a variabili separabili
 
 Diremo che un'equazione differenziale è a variabili separabili se possiamo separare le $$x$$ e le $$y$$ mettendo tutti i termini con le $$x$$ prima dell'uguale e quelli con le $$y$$ dopo l'uguale (o viceversa).
 

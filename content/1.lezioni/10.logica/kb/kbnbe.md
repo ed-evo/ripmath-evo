@@ -1,4 +1,4 @@
-# [Legge delle inverse]{.text-red}
+# Legge delle inverse
 
 La **legge delle inverse** dice che:
 

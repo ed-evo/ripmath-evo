@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Consideriamo ora l'integrale solo dal punto di vista algebrico, cioè come integrale indefinito.
 Quindi consideriamo l'integrale come operazione inversa della derivata.

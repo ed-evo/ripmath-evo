@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 > Anche se è meno "professionale" io preferisco risolvere i problemi sugli angoli complessi usando i gradi invece dei radianti: mi sembrano più immediati, mentre sento i radianti più tecnici ed impersonali
 

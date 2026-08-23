@@ -1,4 +1,4 @@
-# [Distribuzione di Poisson]{.text-red}
+# Distribuzione di Poisson
 
 Analizziamo ora la **distribuzione di Poisson**, che si ha quando dobbiamo considerare le probabilità di eventi che accadono molto raramente.
 

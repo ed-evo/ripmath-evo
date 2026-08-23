@@ -1,4 +1,4 @@
-# [Sistema di numerazione binario]{.text-red}
+# Sistema di numerazione binario
 
 - introduzione
 - la "tabellina" della somma nei numeri binari

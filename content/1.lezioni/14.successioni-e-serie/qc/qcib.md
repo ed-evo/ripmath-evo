@@ -1,4 +1,4 @@
-# [Differenza di limiti di successioni convergenti]{.text-red}
+# Differenza di limiti di successioni convergenti
 
 Se le successioni
 

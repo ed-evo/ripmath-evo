@@ -1,4 +1,4 @@
-# [dimostrazione]{.text-red}
+# dimostrazione
 
 Devo dimostrare la legge dei confini:
 

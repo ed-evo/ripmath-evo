@@ -1,4 +1,4 @@
-# [Sistemi trigonometrici]{.text-red}
+# Sistemi trigonometrici
 
 I sistemi trigonometrici sono piuttosto complicati:
 è possibile che con $$2$$ equazioni ci siano $$4$$ funzioni: $$\sin x$$, $$\cos x$$, $$\sin y$$, $$\cos y$$, oppure che vi siano solo $$2$$ funzioni;

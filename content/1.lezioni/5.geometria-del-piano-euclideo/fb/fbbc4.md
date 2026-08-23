@@ -1,4 +1,4 @@
-# [Implicazione]{.text-red}
+# Implicazione
 
 Il simbolo
 

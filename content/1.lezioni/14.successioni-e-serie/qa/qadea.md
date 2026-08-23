@@ -1,4 +1,4 @@
-# [Divisione per una costante]{.text-red}
+# Divisione per una costante
 
 Dividendo qualunque successione per una costante avremo sempre una successione dello stesso tipo di quella di partenza.
 

@@ -1,4 +1,4 @@
-# [Grafico della funzione seno]{.text-red}
+# Grafico della funzione seno
 
 Per disegnare la funzione $$\textcolor{red}{y = \sin x}$$ occorre sull'asse delle $$x$$ usare i multipli ed i sottomultipli di $$\pi$$, ricordando che $$\pi = 3,14$$ unità del piano.
 

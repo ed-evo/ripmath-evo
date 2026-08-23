@@ -1,4 +1,4 @@
-# [In ogni triangolo un lato è maggiore della differenza degli altri due lati]{.text-red}
+# In ogni triangolo un lato è maggiore della differenza degli altri due lati
 
 Anche qui vuol dire che se vuoi chiudere un triangolo i lati devono essere compresi entro certi limiti.
 

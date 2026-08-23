@@ -1,4 +1,4 @@
-# [insieme universo]{.text-red}
+# insieme universo
 
 Introduciamo ora il concetto di **insieme universo**
 

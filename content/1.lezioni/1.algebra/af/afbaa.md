@@ -1,4 +1,4 @@
-# [Identità]{.text-red}
+# Identità
 
 Un'identità è una uguaglianza in cui compaiono delle lettere e deve succedere che per qualunque valore noi possiamo mettere al posto delle lettere l'uguaglianza deve restare valida:
 

@@ -1,4 +1,4 @@
-# [Teoremi sui limiti]{.text-red}
+# Teoremi sui limiti
 
 Ora abbiamo un nuovo oggetto base per la matematica, il concetto di limite che sostituirà il concetto di punto, è quindi necessario riscrivere tutta la matematica da questo punto di vista, ma per partire in modo adeguato dobbiamo fissare bene le proprietà dei limiti, cioè individuare dei teoremi che ci serviranno come base per ricostruire l'intera matematica dal nuovo punto di vista.
 

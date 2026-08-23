@@ -1,4 +1,4 @@
-# [Misura del raggio della Terra (Eratostene)]{.text-red}
+# Misura del raggio della Terra (Eratostene)
 
 Eratostene osservò che il giorno 21 giugno (solstizio di estate) a Siene il sole riusciva a specchiarsi nei pozzi, cioè i raggi del sole arrivavano perpendicolari senza che le cose verticali facessero ombra.
 

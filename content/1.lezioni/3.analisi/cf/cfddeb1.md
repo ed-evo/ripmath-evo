@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{red}{y = x^2 e^x + xe^x}

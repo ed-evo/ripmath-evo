@@ -1,4 +1,4 @@
-# [Funzione periodica]{.text-red}
+# Funzione periodica
 
 Una funzione si dice periodica se dopo un certo intervallo (periodo) si ripete. In formula:
 

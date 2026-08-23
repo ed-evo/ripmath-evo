@@ -1,4 +1,4 @@
-# [Elemento neutro]{.text-red}
+# Elemento neutro
 
 Dato un insieme di enti $$A$$ e su di esso un'operazione $$\oplus$$ diremo che $$n$$ appartenente ad $$A$$ è l'**elemento neutro** rispetto all'operazione se per qualunque elemento $$a$$ di $$A$$ vale
 

@@ -1,4 +1,4 @@
-# [Trovare il segmento quarto proporzionale dopo tre segmenti dati]{.text-red}
+# Trovare il segmento quarto proporzionale dopo tre segmenti dati
 
 Consideriamo i tre segmenti $$AB$$, $$CD$$ ed $$EF$$
 voglio trovare il segmento $$GH$$ tale che valga la proporzione:

@@ -1,4 +1,4 @@
-# [Somma o differenza di potenze pari o dispari]{.text-red}
+# Somma o differenza di potenze pari o dispari
 
 Sono scomposizioni di polinomi di due termini: possiamo suddividerle nei seguenti quattro gruppi:
 

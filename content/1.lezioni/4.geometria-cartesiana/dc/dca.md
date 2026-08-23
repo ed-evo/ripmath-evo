@@ -1,4 +1,4 @@
-# [Il sistema di coordinate cartesiane ortogonali nel piano]{.text-red}
+# Il sistema di coordinate cartesiane ortogonali nel piano
 
 > In pratica dobbiamo riprendere il sistema come fatto sulla retta e lo applichiamo su due rette perpendicolari.
 

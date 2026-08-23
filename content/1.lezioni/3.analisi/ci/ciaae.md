@@ -1,4 +1,4 @@
-# [Grafico della funzione esponenziale]{.text-red}
+# Grafico della funzione esponenziale
 
 La funzione
 $$\textcolor{red}{y = e^x}$$

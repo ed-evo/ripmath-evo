@@ -1,4 +1,4 @@
-# [Piano di Klein]{.text-red}
+# Piano di Klein
 
 Per parlare di queste geometrie occorre andare a modificare il nostro concetto di piano:
 Il piano è uno dei concetti primitivi, e non viene definito proprio perché ognuno di noi dovrebbe averne il concetto preesistente nella sua mente; tu come l'immagini un piano?

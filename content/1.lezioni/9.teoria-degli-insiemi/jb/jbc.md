@@ -1,4 +1,4 @@
-# [Uguaglianza fra insiemi]{.text-red}
+# Uguaglianza fra insiemi
 
 Diremo che due insiemi sono uguali se hanno gli stessi elementi (l'ordine non conta)
 

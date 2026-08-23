@@ -1,4 +1,4 @@
-# [Formula di Newton]{.text-red}
+# Formula di Newton
 
 Avevamo già usato la [regola di Newton](../../a/ad/ad4cfb.html) ma solo come metodo pratico, ora ne vediamo la giustificazione teorica.
 

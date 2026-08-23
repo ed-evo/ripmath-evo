@@ -1,4 +1,4 @@
-# [Volume del cono]{.text-red}
+# Volume del cono
 
 Vediamo come trovare il volume del cono:
 

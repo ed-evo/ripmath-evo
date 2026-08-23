@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del montante ad interesse composto per tempi interi eccedenti i valori delle tavole e tassi non sulle tavole]{.text-red}
+# Esercizio sul calcolo del montante ad interesse composto per tempi interi eccedenti i valori delle tavole e tassi non sulle tavole
 
 Si impiega il capitale di $$\text{€ } 2600$$ per $$125$$ anni ad interesse composto al $$2,90\%$$.
 Calcolarne il montante.

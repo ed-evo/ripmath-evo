@@ -1,4 +1,4 @@
-# [Valore di una coordinata del centro]{.text-red}
+# Valore di una coordinata del centro
 
 Per imporre la condizione del valore di una coordinata del centro basta ricordare le relazioni fra le coordinate del centro e i coefficienti [$$\textcolor{red}{a}$$]{.text-red} e [$$\textcolor{red}{b}$$]{.text-red} della circonferenza:
 

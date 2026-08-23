@@ -1,4 +1,4 @@
-# [Razionalizzazione con una radice di indice superiore a due al denominatore (caso generale)]{.text-red}
+# Razionalizzazione con una radice di indice superiore a due al denominatore (caso generale)
 
 Razionalizzare
 

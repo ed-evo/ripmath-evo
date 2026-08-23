@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 $$\textcolor{blue}{x^4 - 3x^2 - 4 = 0}$$
 

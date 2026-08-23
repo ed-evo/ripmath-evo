@@ -1,4 +1,4 @@
-## [Proprio per essere pignoli:]{.text-red}
+## Proprio per essere pignoli:
 
 - **Applicazione** indica il passaggio da $$A$$ a $$B$$ termine a termine: per ogni elemento di $$A$$ parti dal termine $$a$$ ed arrivi al termine corrispondente $$b$$.
 Viene utilizzato preferibilmente in insiemi finiti.

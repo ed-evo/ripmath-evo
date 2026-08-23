@@ -1,4 +1,4 @@
-# [Formula di duplicazione per la tangente]{.text-red}
+# Formula di duplicazione per la tangente
 
 Partiamo dalla formula
 

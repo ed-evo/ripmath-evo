@@ -1,4 +1,4 @@
-# [Logaritmi a base maggiore di uno]{.text-red}
+# Logaritmi a base maggiore di uno
 
 Cerchiamo di fissare il problema con degli esempi numerici: consideriamo dei logaritmi a base $$3$$
 

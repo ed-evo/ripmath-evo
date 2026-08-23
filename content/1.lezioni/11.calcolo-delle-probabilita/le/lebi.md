@@ -1,4 +1,4 @@
-# [Distribuzioni di probabilità continue]{.text-red}
+# Distribuzioni di probabilità continue
 
 Per concludere facciamo qualche cenno sulle principali distribuzioni di probabilità per una variabile aleatoria continua
 

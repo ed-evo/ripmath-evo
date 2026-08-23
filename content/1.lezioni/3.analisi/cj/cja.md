@@ -1,4 +1,4 @@
-# [Serie di funzioni]{.text-red}
+# Serie di funzioni
 
 Una serie di funzioni è una serie i cui termini sono funzioni
 

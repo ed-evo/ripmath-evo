@@ -1,4 +1,4 @@
-# [Insiemi di grandezze proporzionali e criterio generale di proporzionalità]{.text-red}
+# Insiemi di grandezze proporzionali e criterio generale di proporzionalità
 
 Vediamo in questa pagina di fissare dei criteri che ci dicano quando due insiemi sono in proporzione.
 

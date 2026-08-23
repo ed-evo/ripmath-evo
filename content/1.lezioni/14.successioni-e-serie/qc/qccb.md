@@ -1,4 +1,4 @@
-# [Limite infinito di una successione]{.text-red}
+# Limite infinito di una successione
 
 Diremo che una successione
 $$a_1, a_2, a_3, \dots, a_k, \dots$$

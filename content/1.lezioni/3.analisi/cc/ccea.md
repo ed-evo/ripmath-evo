@@ -1,4 +1,4 @@
-# [Esempi di funzioni inverse]{.text-red}
+# Esempi di funzioni inverse
 
 Vediamo ora alcuni esempi di calcolo di funzioni inverse: dopo aver controllato che la funzione sia univoca e suriettiva basta scambiare fra loro le $$x$$ e le $$y$$ e poi esplicitare la $$y$$: più avanti dovrai vedere che la funzione sia continua e monotona, ma, per ora, accontentiamoci di esercizi elementari, senza troppe condizioni.
 

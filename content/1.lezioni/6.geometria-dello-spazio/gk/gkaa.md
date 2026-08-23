@@ -1,5 +1,5 @@
-# [Come si disegna un solido di rotazione]{.text-red}
-## [Asse di rotazione non passante per l'interno del poligono]{.text-red}
+# Come si disegna un solido di rotazione
+## Asse di rotazione non passante per l'interno del poligono
 
 Per disegnare un solido di rotazione, avendo un poligono e un asse di rotazione devi seguire questi punti:
 

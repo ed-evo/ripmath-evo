@@ -1,4 +1,4 @@
-# [Proporzionalità fra altezze]{.text-red}
+# Proporzionalità fra altezze
 
 Vale il teorema:
 

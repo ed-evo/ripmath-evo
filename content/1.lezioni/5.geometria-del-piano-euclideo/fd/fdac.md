@@ -1,4 +1,4 @@
-# [Applicazione dei criteri al triangolo isoscele]{.text-red}
+# Applicazione dei criteri al triangolo isoscele
 
 [Un triangolo si dice isoscele se ha due lati congruenti]{.text-blue}
 

@@ -1,4 +1,4 @@
-# [Area della superficie del fuso sferico]{.text-red}
+# Area della superficie del fuso sferico
 
 Per calcolare l'area della superficie del fuso sferico ci riferiamo allo stesso ragionamento fatto in geometria piana per calcolare l'area di un settore circolare.
 

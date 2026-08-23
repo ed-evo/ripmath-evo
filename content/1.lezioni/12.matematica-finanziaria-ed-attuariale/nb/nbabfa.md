@@ -1,4 +1,4 @@
-# [Calcolo dell'interesse, tempo in mesi]{.text-red}
+# Calcolo dell'interesse, tempo in mesi
 
 Ho versato in banca la somma di euro $$20000$$, per $$5$$ mesi al tasso $$i = 1,5\%$$. Quale interesse mi sarà corrisposto dalla banca?
 

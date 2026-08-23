@@ -1,4 +1,4 @@
-# [Il concetto di convessità]{.text-red}
+# Il concetto di convessità
 
 La nozione di angolo ci permette di introdurre un nuovo concetto: il concetto di convessità.
 Se consideriamo un angolo e consideriamo il prolungamento dei suoi lati (in viola) abbiamo due possibilità:

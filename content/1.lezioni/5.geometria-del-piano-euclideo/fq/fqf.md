@@ -1,4 +1,4 @@
-# [Quadrato circoscritto ad una circonferenza]{.text-red}
+# Quadrato circoscritto ad una circonferenza
 ## o circonferenza inscritta in un quadrato
 
 In questo caso il diametro del cerchio corrisponde al lato del quadrato, quindi:

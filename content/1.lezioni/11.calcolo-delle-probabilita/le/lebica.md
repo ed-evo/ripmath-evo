@@ -1,4 +1,4 @@
-# [Distribuzione di Gauss come limite (intuitivo) della variabile binomiale]{.text-red}
+# Distribuzione di Gauss come limite (intuitivo) della variabile binomiale
 
 > Riprendiamo un esempio già accennato:
 

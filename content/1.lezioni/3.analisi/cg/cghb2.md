@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare due numeri la cui somma è $$10$$ tale che la somma dei loro quadrati sia minima
 

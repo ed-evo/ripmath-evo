@@ -1,4 +1,4 @@
-# [TEOREMA DEL RESTO DI RUFFINI]{.text-red}
+# TEOREMA DEL RESTO DI RUFFINI
 
 Quando è possibile eseguire la divisione con il metodo di Ruffini è anche possibile riuscire a trovare il resto senza fare la divisione.
 Vediamo prima perché si può fare così poi, come conseguenza, vedremo il come.

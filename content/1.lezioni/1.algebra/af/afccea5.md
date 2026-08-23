@@ -1,4 +1,4 @@
-# [Dimostrazione]{.text-red}
+# Dimostrazione
 
 Devo dimostrare che da:
 - $$\textcolor{red}{a}$$ negativo

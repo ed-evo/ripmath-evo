@@ -1,4 +1,4 @@
-# [Quoziente fra numeri reali]{.text-red}
+# Quoziente fra numeri reali
 
 Per il quoziente ci limitiamo a definire l'operazione come operazione inversa del prodotto su numeri reali.
 

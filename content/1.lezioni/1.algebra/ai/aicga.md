@@ -1,4 +1,4 @@
-# [Sostituire un valore od un gruppo di valori con variabili ausiliarie]{.text-red}
+# Sostituire un valore od un gruppo di valori con variabili ausiliarie
 
 > Devi controllare se un termine o un gruppo di termini compare più volte e sostituirlo con altre variabili in modo da rendere il sistema più semplice.
 

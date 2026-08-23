@@ -1,4 +1,4 @@
-# [Necessità di ampliare l'insieme $$N$$]{.text-red}
+# Necessità di ampliare l'insieme $$N$$
 
 Per poter fare sempre la sottrazione mi devo poter spostare a sinistra quanto voglio.
 

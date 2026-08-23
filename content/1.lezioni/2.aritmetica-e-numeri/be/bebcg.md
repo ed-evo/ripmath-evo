@@ -1,4 +1,4 @@
-# [Radici n-esime dell'unità]{.text-red}
+# Radici n-esime dell'unità
 
 Particolarmente interessante è il caso della soluzione in campo complesso dell'equazione
 

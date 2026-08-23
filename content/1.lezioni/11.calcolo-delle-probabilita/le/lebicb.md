@@ -1,4 +1,4 @@
-# [Variabile casuale con distribuzione gaussiana]{.text-red}
+# Variabile casuale con distribuzione gaussiana
 
 È la variabile casuale continua la cui funzione densità è
 

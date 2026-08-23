@@ -1,4 +1,4 @@
-# [Significato geometrico della derivata]{.text-red}
+# Significato geometrico della derivata
 
 Per capire il significato geometrico della derivata bisogna saper bene come trovare la tangente ad una curva in un suo punto:
 

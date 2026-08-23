@@ -1,4 +1,4 @@
-# [Sostituzione di più pagamenti]{.text-red}
+# Sostituzione di più pagamenti
 
 Come applicazione vediamo ora il caso di sostituzione di più pagamenti in altre scadenze.
 

@@ -1,4 +1,4 @@
-# [Sistema di disequazioni di secondo grado]{.text-red}
+# Sistema di disequazioni di secondo grado
 
 Se hai un sistema di disequazioni devi semplicemente risolvere ogni disequazione e porre i risultati su un grafico: le soluzioni del sistema sono i valori validi contemporaneamente per tutte le disequazioni.
 Vediamo come procedere su un semplice esempio

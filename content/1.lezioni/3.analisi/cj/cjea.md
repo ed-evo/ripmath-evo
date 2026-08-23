@@ -1,4 +1,4 @@
-# [infinitesimi]{.text-red}
+# infinitesimi
 
 > metti la pagina a tutto schermo altrimenti le formule si vedono male
 

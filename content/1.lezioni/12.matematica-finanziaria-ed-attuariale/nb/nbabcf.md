@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Esempio: Ho impiegato una certa somma per $$100$$ giorni ed ho ricevuto un interesse di $$60$$ euro; sapendo che il tasso di interesse utilizzato è del $$2\%$$ a quanto ammonta il capitale impiegato?
 

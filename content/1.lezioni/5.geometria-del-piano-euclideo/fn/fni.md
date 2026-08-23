@@ -1,4 +1,4 @@
-# [Applicazioni della teoria della misura]{.text-red}
+# Applicazioni della teoria della misura
 
 Ora possiamo passare a trattare le figure piane come superfici da misurare; per indicare un'area, ad esempio del quadrilatero $$ABCD$$, scriveremo
 

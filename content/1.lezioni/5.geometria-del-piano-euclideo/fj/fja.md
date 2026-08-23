@@ -1,4 +1,4 @@
-# [Convenzioni e definizioni]{.text-red}
+# Convenzioni e definizioni
 
 ## Convenzioni
 

@@ -1,4 +1,4 @@
-# [Legge di composizione interna]{.text-red}
+# Legge di composizione interna
 
 Dato un insieme di enti $$A$$ diremo che un'operazione $$\text{T}$$ è di [**composizione interna**](../../b/ba/bac.html) se presi comunque due elementi di $$A$$ quali $$a$$, $$b$$, esiste l'elemento $$c$$ appartenente ad $$A$$ tale che vale
 

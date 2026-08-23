@@ -1,4 +1,4 @@
-# [Leggiamo con calma il testo cercando di capire bene tutti i termini]{.text-red}
+# Leggiamo con calma il testo cercando di capire bene tutti i termini
 
 [Sui lati dell'angolo $$A$$ si prendano due segmenti $$AB$$ ed $$AC$$ congruenti e, consecutivamente, altri due segmenti congruenti $$BD$$ e $$CE$$. Si unisca $$B$$ con $$E$$ e $$C$$ con $$D$$. Sia $$F$$ il punto di intersezione: dimostrare che la retta $$AF$$ è la bisettrice dell'angolo $$A$$]{.text-blue}
 

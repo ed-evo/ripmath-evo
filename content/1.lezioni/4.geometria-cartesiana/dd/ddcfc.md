@@ -1,4 +1,4 @@
-# [Equazioni della tangente condotta da un punto sulla circonferenza]{.text-red}
+# Equazioni della tangente condotta da un punto sulla circonferenza
 
 Se il punto da cui inviare le tangenti si trova sulla circonferenza troveremo solo un'equazione, infatti le tangenti sono due coincidenti: Prova a pensare ad un punto esterno da cui mandi due tangenti ed [immagina di avvicinarlo](tg01.html) fino ad arrivare alla circonferenza.
 

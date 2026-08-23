@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$
 \textcolor{red}{y = 4x^2 \cdot \cos(4x^3 + 6x + 2)}

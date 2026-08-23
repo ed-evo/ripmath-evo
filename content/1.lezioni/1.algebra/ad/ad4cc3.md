@@ -1,3 +1,3 @@
-# [Esercizi sul quadrato del trinomio]{.text-red}
+# Esercizi sul quadrato del trinomio
 
 Pagina in costruzione

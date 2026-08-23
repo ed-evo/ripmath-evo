@@ -1,4 +1,4 @@
-# [Equazioni differenziali del primo ordine lineari omogenee]{.text-red}
+# Equazioni differenziali del primo ordine lineari omogenee
 
 La nostra equazione è del tipo:
 

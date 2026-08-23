@@ -1,4 +1,4 @@
-# [Applicazione iniettiva]{.text-red}
+# Applicazione iniettiva
 
 Diremo che un'applicazione
 

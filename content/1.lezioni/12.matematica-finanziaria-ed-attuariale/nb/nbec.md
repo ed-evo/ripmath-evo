@@ -1,4 +1,4 @@
-# [Tasso medio per più impieghi]{.text-red}
+# Tasso medio per più impieghi
 
 Supponiamo di avere più capitali impiegati con interesse diverso, il problema che ci poniamo è come trovare il tasso per sostituire a tali capitali la loro somma riferendoci ad una scadenza comune.
 

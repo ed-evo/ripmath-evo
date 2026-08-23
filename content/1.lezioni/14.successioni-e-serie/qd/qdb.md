@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 Chiamiamo **ridotta** di una successione la somma dei termini della successione sino ad un termine definito.
 

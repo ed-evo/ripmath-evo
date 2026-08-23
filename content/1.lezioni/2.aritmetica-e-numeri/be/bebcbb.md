@@ -1,4 +1,4 @@
-# [Trasformare un numero complesso dalla forma trigonometrica alla forma normale]{.text-red}
+# Trasformare un numero complesso dalla forma trigonometrica alla forma normale
 
 Anche per trasformare il numero dalla forma trigonometrica alla forma normale devo tener presenti le due formule precedenti:
 

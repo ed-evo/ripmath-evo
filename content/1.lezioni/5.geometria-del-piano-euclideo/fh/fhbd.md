@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 [In un parallelogramma le diagonali si tagliano a metà]{.text-red-darken-1}
 e viceversa

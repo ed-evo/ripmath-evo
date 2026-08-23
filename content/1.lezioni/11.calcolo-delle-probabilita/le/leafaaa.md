@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Per calcolare il numero delle possibilità considera che i gruppi che si formano sono le [combinazioni semplici](../lb/lbca.html) di $$5$$ oggetti presi $$3$$ a $$3$$
 

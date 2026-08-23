@@ -1,4 +1,4 @@
-# [discussione con metodo grafico]{.text-red}
+# discussione con metodo grafico
 
 Qui devi essere abbastanza "esperto" di geometria cartesiana: il problema si può scomporre di solito nell'intersezione o fra una retta ed una parabola, oppure fra due parabole, od anche, soprattutto nei problemi trigonometrici nell'intersezione fra una retta ed una circonferenza: una delle due, possibilmente la retta, varierà al variare del parametro $$k$$, intersecando l'altra curva in uno, nessuno o due punti. Queste intersezioni nelle parti di figura comprese nei limiti, forniranno le soluzioni.
 

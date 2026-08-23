@@ -1,4 +1,4 @@
-# [FUNZIONI]{.text-red}
+# FUNZIONI
 
 Il concetto di funzione è, si può dire, il concetto più importante per la matematica: infatti la matematica è cercare le cause, le implicazioni, le conseguenze e l'utilità di una funzione è appunto di mostrare il legame che esiste fra cose diverse.
 

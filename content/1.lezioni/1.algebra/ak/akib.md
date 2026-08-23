@@ -1,4 +1,4 @@
-# [Disequazione elementare del tipo $$F(x) < \sqrt{G(x)}$$]{.text-red}
+# Disequazione elementare del tipo $$F(x) < \sqrt{G(x)}$$
 
 Dobbiamo risolvere:
 

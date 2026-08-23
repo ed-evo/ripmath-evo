@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{\sin(\alpha - \beta)}$$]{.text-red}
+# $$\textcolor{red}{\sin(\alpha - \beta)}$$
 
 Per determinare la formula per $$\sin(\alpha - \beta)$$ ci rifacciamo a una formula che già conosciamo: $$\sin(\alpha + \beta)$$
 

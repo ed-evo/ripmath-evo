@@ -1,4 +1,4 @@
-# [Ellisse]{.text-red}
+# Ellisse
 
 Vediamo ora di studiare l'ellisse: come prima approssimazione studieremo l'ellisse come conica a centro, cioè riferita ai propri assi
 

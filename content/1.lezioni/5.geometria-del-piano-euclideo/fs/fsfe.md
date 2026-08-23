@@ -1,4 +1,4 @@
-# [Lato del pentadecagono regolare]{.text-red}
+# Lato del pentadecagono regolare
 
 Calcoliamo ora la misura del lato del poligono regolare di $$15$$ lati (pentadecagono regolare).
 

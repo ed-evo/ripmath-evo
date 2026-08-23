@@ -1,4 +1,4 @@
-# [Perpendicolarità: esistenza e unicità]{.text-red}
+# Perpendicolarità: esistenza e unicità
 
 Diamo il seguente Teorema senza dimostrazione:
 

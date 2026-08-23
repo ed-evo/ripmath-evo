@@ -1,4 +1,4 @@
-# [Esercizi sulla derivata di un quoziente di funzioni]{.text-red}
+# Esercizi sulla derivata di un quoziente di funzioni
 
 Calcolare la derivata della funzione
 $$ \textcolor{blue}{y = \tan x} $$

@@ -1,4 +1,4 @@
-# [Definizioni sulla circonferenza]{.text-red}
+# Definizioni sulla circonferenza
 
 **corda** è il segmento congiungente due punti sulla circonferenza
 $$AB$$, $$CD$$, $$EF$$ sono corde

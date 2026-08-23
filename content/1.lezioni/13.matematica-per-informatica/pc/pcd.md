@@ -1,4 +1,4 @@
-# [Algebra binaria di Boole]{.text-red}
+# Algebra binaria di Boole
 
 Consideriamo un insieme $$B$$ in cui siano definite un'operazione unaria indicata con $$'$$ e due operazioni binarie indicate con $$\otimes$$ e $$\oplus$$ che agiscano su due oggetti distinti $$0$$ e $$1$$.
 

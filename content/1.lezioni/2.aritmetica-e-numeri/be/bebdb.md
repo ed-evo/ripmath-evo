@@ -1,4 +1,4 @@
-# [Trasformazione da coordinate cartesiane ortogonali a coordinate polari]{.text-red}
+# Trasformazione da coordinate cartesiane ortogonali a coordinate polari
 
 Vediamo subito come è possibile trasformare le coordinate cartesiane ortogonali in coordinate polari per trovare le corrispondenti coordinate polari.
 

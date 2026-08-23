@@ -1,4 +1,4 @@
-# [Disuguaglianze fra elementi di un triangolo]{.text-red}
+# Disuguaglianze fra elementi di un triangolo
 
 Abbiamo visto l'uguaglianza fra triangoli, il passo successivo sarà quello di vedere le disuguaglianze esistenti fra elementi di un triangolo; le disuguaglianze dipenderanno tutte dal primo teorema, il teorema dell'angolo esterno che è uno dei teoremi effettivamente fondamentali in geometria euclidea (e quindi da studiare in modo particolare)
 

@@ -1,4 +1,4 @@
-# [Due radici quadrate al denominatore]{.text-red}
+# Due radici quadrate al denominatore
 
 Vogliamo razionalizzare
 

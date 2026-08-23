@@ -1,4 +1,4 @@
-# [Parallelepipedo]{.text-red}
+# Parallelepipedo
 
 Particolare importanza fra i vari prismi avranno i prismi con base un parallelogramma. Chiameremo un tale prisma **Parallelepipedo**.
 

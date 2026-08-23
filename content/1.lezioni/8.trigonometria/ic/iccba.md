@@ -1,4 +1,4 @@
-# [Equazioni in seno e coseno di primo grado lineari omogenee]{.text-red}
+# Equazioni in seno e coseno di primo grado lineari omogenee
 
 **Lineare** significa che i termini dell'equazione, diversi dal termine noto, sono tutti di primo grado
 **Omogenea** significa che il termine noto vale $$0$$

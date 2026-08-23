@@ -1,4 +1,4 @@
-# [Se nella circonferenza mancano i termini $$ax$$ e $$by$$]{.text-red}
+# Se nella circonferenza mancano i termini $$ax$$ e $$by$$
 
 In tal caso [$$a = 0$$]{.text-blue} e [$$b = 0$$]{.text-blue} e l'equazione della circonferenza diventa:
 

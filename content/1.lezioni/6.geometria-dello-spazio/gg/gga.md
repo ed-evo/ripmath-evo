@@ -1,4 +1,4 @@
-# [Definizione]{.text-red}
+# Definizione
 
 Vediamo come possiamo caratterizzare due piani nello spazio che siano fra loro perpendicolari:
 

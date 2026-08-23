@@ -1,4 +1,4 @@
-# [Ricerca delle soluzioni reali nelle equazioni binomie]{.text-red}
+# Ricerca delle soluzioni reali nelle equazioni binomie
 
 Se cerchiamo solo le soluzioni reali non ci si fanno troppi problemi: si isola la $$x$$ e si fa la radice a destra ed a sinistra dell'uguale.
 

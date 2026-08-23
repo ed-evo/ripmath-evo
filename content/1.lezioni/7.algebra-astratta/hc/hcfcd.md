@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Mostrare, se esiste, la presenza della struttura di corpo per l'insieme $$H(2)$$ delle matrici $$2 \times 2$$ con le operazioni di addizione $$\oplus$$ e moltiplicazione riga per colonna $$\otimes$$.
 

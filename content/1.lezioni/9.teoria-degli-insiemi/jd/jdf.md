@@ -1,4 +1,4 @@
-# [Corrispondenza biunivoca]{.text-red}
+# Corrispondenza biunivoca
 
 Diremo che un'applicazione 
 $$\textcolor{red}{f : A \to B}$$ 

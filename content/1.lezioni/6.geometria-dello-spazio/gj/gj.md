@@ -1,4 +1,4 @@
-# [Piramidi]{.text-red}
+# Piramidi
 
 Consideriamo ora i solidi a punta: le piramidi
 

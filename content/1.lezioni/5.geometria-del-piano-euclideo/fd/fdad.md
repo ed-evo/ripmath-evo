@@ -1,4 +1,4 @@
-# [Terzo criterio di congruenza fra triangoli]{.text-red}
+# Terzo criterio di congruenza fra triangoli
 
 ## [Due triangoli sono congruenti se hanno tutti e tre i lati congruenti]{.text-blue}
 

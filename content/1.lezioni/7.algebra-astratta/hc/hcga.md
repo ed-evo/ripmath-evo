@@ -1,4 +1,4 @@
-# [Caratteristiche vettoriali di un numero complesso]{.text-red}
+# Caratteristiche vettoriali di un numero complesso
 
 Consideriamo un numero complesso, cioè $$a+ib$$ formato da una parte reale più una parte immaginaria e consideriamolo come segmento nel piano complesso.
 

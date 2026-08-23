@@ -1,4 +1,4 @@
-# [Fascio di circonferenze secanti]{.text-red}
+# Fascio di circonferenze secanti
 
 È il caso classico: in questo caso le due circonferenze di base hanno due punti comuni fra loro.
 

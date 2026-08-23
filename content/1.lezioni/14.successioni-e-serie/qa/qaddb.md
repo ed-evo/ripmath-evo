@@ -1,4 +1,4 @@
-# [Prodotto per una costante]{.text-red}
+# Prodotto per una costante
 
 Moltiplicando qualunque successione per una costante avremo sempre una successione dello stesso tipo di quella di partenza.
 

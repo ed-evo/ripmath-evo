@@ -1,4 +1,4 @@
-# [Alcuni tipi di successioni]{.text-red}
+# Alcuni tipi di successioni
 
 In queste pagine consideriamo alcuni esempi di successioni più comuni e semplici, più a livello di semplice curiosità che di studio.
 

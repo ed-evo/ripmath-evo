@@ -1,4 +1,4 @@
-# [Disequazioni esponenziali]{.text-red}
+# Disequazioni esponenziali
 
 Sono disequazioni in cui la $$x$$, od una sua espressione, compare come potenza
 

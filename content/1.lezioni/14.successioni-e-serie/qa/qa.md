@@ -1,4 +1,4 @@
-# [Successioni]{.text-red}
+# Successioni
 
 - Introduzione
 - Definizione

@@ -1,4 +1,4 @@
-# [il modulo della differenza fra due moduli è maggiore od uguale alla differenza fra i moduli stessi]{.text-red}
+# il modulo della differenza fra due moduli è maggiore od uguale alla differenza fra i moduli stessi
 
 Se $$p$$ e $$q$$ sono numeri reali, vale sempre la disuguaglianza
 

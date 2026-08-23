@@ -1,4 +1,4 @@
-# [Logaritmi a base compresa fra zero ed uno]{.text-red}
+# Logaritmi a base compresa fra zero ed uno
 
 Anche qui cerchiamo di fissare il problema con degli esempi numerici: consideriamo dei logaritmi a base $$1/3$$.
 

@@ -1,4 +1,4 @@
-# [Determinazione dei punti comuni a due circonferenze]{.text-red}
+# Determinazione dei punti comuni a due circonferenze
 
 Vediamo ora di applicare il metodo direttamente su un esempio:
 Trovare i punti comuni alle circonferenze

@@ -1,4 +1,4 @@
-# [Poligoni regolari]{.text-red}
+# Poligoni regolari
 
 > Apriamo una parentesi per approfondire il concetto di poligono regolare
 

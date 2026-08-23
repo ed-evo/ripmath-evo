@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Date le seguenti equazioni trovare di quale tipo di conica si tratta
 

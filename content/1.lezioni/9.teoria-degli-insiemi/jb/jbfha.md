@@ -1,4 +1,4 @@
-# [dimostrazione]{.text-red}
+# dimostrazione
 
 ## Prima legge di De Morgan
 

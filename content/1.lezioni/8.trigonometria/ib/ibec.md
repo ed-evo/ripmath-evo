@@ -1,4 +1,4 @@
-# [Angolo di 60 gradi ($$\frac{\pi}{3}$$)]{.text-red}
+# Angolo di 60 gradi ($$\frac{\pi}{3}$$)
 
 Consideriamo l'angolo di $$60^\circ$$ ed il triangolo delle proiezioni $$OPH$$: se lo ribalto attorno all'altezza $$OH$$ ottengo un triangolo equilatero
 

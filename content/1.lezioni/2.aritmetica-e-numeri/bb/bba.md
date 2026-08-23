@@ -1,4 +1,4 @@
-# [Generalità sui numeri interi]{.text-red}
+# Generalità sui numeri interi
 
 Il sistema più semplice per avere dei numeri a sinistra dello zero consiste nel duplicare i numeri come se fossero visualizzati da uno specchio
 

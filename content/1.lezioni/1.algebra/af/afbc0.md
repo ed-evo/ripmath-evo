@@ -1,4 +1,4 @@
-# [In matematica non si può mai dividere per zero]{.text-red}
+# In matematica non si può mai dividere per zero
 
 Infatti, essendo la divisione il contrario della moltiplicazione, se io avessi ad esempio
 

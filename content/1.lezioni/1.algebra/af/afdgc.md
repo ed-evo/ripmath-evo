@@ -1,4 +1,4 @@
-# [Equazioni reciproche di quinto grado]{.text-red}
+# Equazioni reciproche di quinto grado
 
 Facciamo solo un cenno sul metodo di soluzione. Possono essere di due tipi:
 

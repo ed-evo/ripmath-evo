@@ -1,4 +1,4 @@
-# [Funzione densità di probabilità]{.text-red}
+# Funzione densità di probabilità
 
 Se ora passiamo al limite per $$\Delta x \to 0$$ avremo la definizione di derivata:
 

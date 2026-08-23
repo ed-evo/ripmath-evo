@@ -1,4 +1,4 @@
-# [Valori di $$\cos \alpha$$]{.text-red}
+# Valori di $$\cos \alpha$$
 
 Dobbiamo immaginare che il raggio $$OP$$ parta dall'orizzontale $$OA$$ e che il punto $$P$$ percorra la circonferenza. Leggiamo il valore del segmento $$OH$$ sull'asse orizzontale.
 

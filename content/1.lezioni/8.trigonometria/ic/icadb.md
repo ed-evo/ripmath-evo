@@ -1,4 +1,4 @@
-# [Formula parametrica per il coseno]{.text-red}
+# Formula parametrica per il coseno
 
 Partiamo dalla formula di duplicazione per il coseno
 $$

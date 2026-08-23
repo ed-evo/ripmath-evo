@@ -1,4 +1,4 @@
-# [Sistemi simmetrici]{.text-red}
+# Sistemi simmetrici
 
 Ogni sistema simmetrico si può trasformare nell'insieme di uno o più sistemi simmetrici elementari
 

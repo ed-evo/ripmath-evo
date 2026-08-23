@@ -1,4 +1,4 @@
-# [Esercizio sul minimo]{.text-red}
+# Esercizio sul minimo
 
 Considero la funzione
 $$

@@ -1,4 +1,4 @@
-# [Limiti della probabilità statistica]{.text-red}
+# Limiti della probabilità statistica
 
 Per poter avere un numero affidabile da dare alla probabilità statistica occorre che la frequenza sia calcolata su un numero elevato di casi, questo fatto esclude dalla possibilità di utilizzare la probabilità statistica per quei casi in cui il numero di prove ripetute è basso o in cui le condizioni sono variate.
 

@@ -1,4 +1,4 @@
-# [Applicazioni con uso delle tavole]{.text-red}
+# Applicazioni con uso delle tavole
 
 Come ho già detto, se possibile, sarebbe preferibile l'uso della calcolatrice per avere maggior velocità e precisione, ma, se proprio la vostra scuola vuole l'uso delle tavole, vediamo in queste pagine come comportarci
 

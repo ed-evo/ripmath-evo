@@ -1,4 +1,4 @@
-# [Il piano complesso]{.text-red}
+# Il piano complesso
 
 Considero il numero complesso $$\textcolor{red}{a + ib}$$
 

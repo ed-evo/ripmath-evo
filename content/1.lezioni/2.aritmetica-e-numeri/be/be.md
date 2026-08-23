@@ -1,4 +1,4 @@
-# [Numeri Immaginari e Complessi]{.text-red}
+# Numeri Immaginari e Complessi
 
 Finora abbiamo detto che la radice quadrata di un numero negativo è impossibile da fare perché non esiste nessun numero reale che elevato al quadrato dia un risultato negativo.
 

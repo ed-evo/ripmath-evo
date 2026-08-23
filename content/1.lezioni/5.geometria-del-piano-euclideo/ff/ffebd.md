@@ -1,4 +1,4 @@
-# [Geometria di Riemann]{.text-red}
+# Geometria di Riemann
 
 > È una delle più strane, ma più vicina delle altre alla geometria del mondo reale
 

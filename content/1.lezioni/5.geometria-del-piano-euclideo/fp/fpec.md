@@ -1,4 +1,4 @@
-# [Proprietà della bisettrice dell'angolo esterno di un triangolo]{.text-red}
+# Proprietà della bisettrice dell'angolo esterno di un triangolo
 
 Intanto dobbiamo dire che il teorema è valido solamente se la bisettrice dell'angolo esterno incontra il prolungamento del lato del triangolo opposto al vertice da cui si traccia la bisettrice; essendo valida questa condizione possiamo procedere.
 

@@ -1,4 +1,4 @@
-# [dimostrazione]{.text-red}
+# dimostrazione
 
 Purtroppo in algebra astratta non possiamo avere l'intuizione che abbiamo nella matematica più convenzionale, quale analisi o geometria del piano, inoltre le operazioni che consideriamo le chiamiamo somma e prodotto solamente per convenienza, ma possono essere molto diverse dalla somma e dal prodotto che conosciamo; ogni costruzione di algebra astratta obbedisce solamente ai postulati iniziali e, variando un postulato, possiamo ottenere risultati molto diversi ed inaspettati.
 

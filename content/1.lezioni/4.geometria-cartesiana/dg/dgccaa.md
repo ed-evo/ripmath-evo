@@ -1,4 +1,4 @@
-# [Coordinate del vertice]{.text-red}
+# Coordinate del vertice
 
 siccome nella parabola $$\textcolor{blue}{y = ax^2}$$
 il vertice è nel punto $$\textcolor{blue}{O = (X, Y) = (0, 0)}$$

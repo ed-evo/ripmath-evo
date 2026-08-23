@@ -1,4 +1,4 @@
-# [Riduzione di più crediti ad una scadenza intermedia]{.text-red}
+# Riduzione di più crediti ad una scadenza intermedia
 
 In questo caso ci riferiamo ad una scadenza compresa fra le varie scadenze delle somme considerate
 Dobbiamo determinare l'importo: vediamo come procedere su un esempio

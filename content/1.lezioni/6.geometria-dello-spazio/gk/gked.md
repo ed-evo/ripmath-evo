@@ -1,4 +1,4 @@
-# [Parti della superficie sferica e della sfera]{.text-red}
+# Parti della superficie sferica e della sfera
 
 Passiamo a considerare parti della superficie sferica e della sfera: per le varie parti daremo, ove abbastanza semplice, la formula per la superficie e per il volume, ma, se troppo complicata, senza farne la dimostrazione.
 

@@ -1,4 +1,4 @@
-# [Piramide indefinita]{.text-red}
+# Piramide indefinita
 
 Consideriamo un poligono qualunque sul piano $$\alpha$$ e consideriamo un punto $$V$$ fuori del piano $$\alpha$$.
 

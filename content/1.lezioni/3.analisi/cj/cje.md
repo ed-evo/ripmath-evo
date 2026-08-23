@@ -1,4 +1,4 @@
-# [Formula di Taylor]{.text-red}
+# Formula di Taylor
 
 Abbiamo trovato la formula (fino alla derivata quarta)
 

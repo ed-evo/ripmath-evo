@@ -1,4 +1,4 @@
-# [Esercizi sulle disequazioni trigonometriche]{.text-red}
+# Esercizi sulle disequazioni trigonometriche
 
 Vediamo assieme, con alcuni esercizi, come risolvere alcuni tipi di equazioni trigonometriche. Come prima cosa, devi saper risolvere le [equazioni goniometriche](iccc.html): useremo le stesse regole.
 

@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$\textcolor{blue}{x^2 - x - 6 < 0}$$
 

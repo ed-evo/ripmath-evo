@@ -1,4 +1,4 @@
-# [Equazioni trigonometriche]{.text-red}
+# Equazioni trigonometriche
 
 Sono equazioni in cui l'incognita è l'angolo.
 

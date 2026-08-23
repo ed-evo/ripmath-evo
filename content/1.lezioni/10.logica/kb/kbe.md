@@ -1,4 +1,4 @@
-# [Disgiunzione esclusiva]{.text-red}
+# Disgiunzione esclusiva
 
 Anche la disgiunzione esclusiva (**o l'uno, oppure l'altro ma non tutti e due**) è un'operazione **binaria** perché si applica su due proposizioni ed è definita come l'operazione che applicata a $$p$$ e $$q$$ restituisce i seguenti valori di verità (si usa il simbolo $$aut$$):
 

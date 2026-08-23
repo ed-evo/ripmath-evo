@@ -1,4 +1,4 @@
-# [esempio]{.text-red}
+# esempio
 
 Anche qui sarebbe sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $$2 \times 2$$ con termini generici; come ho detto lo sviluppo richiede molta pazienza: limitiamoci ad un esempio che coinvolga la prima parte della proprietà (solo la prima riga).
 

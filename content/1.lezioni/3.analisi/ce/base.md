@@ -1,3 +1,3 @@
-# [I paradossi]{.text-red}
+# I paradossi
 
 testo

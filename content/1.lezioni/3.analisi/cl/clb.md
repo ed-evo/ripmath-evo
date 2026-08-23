@@ -1,4 +1,4 @@
-# [Definizione di equazione differenziale ordinaria]{.text-red}
+# Definizione di equazione differenziale ordinaria
 
 Si definisce equazione differenziale ordinaria di ordine $$n$$ un'equazione che abbia come incognita una funzione $$y(x)$$ e che leghi fra loro la variabile $$x$$, la funzione $$y(x)$$ e le prime $$n$$ derivate della funzione $$y$$.
 

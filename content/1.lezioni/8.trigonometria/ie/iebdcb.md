@@ -1,4 +1,4 @@
-# [La base della torre è più alta del piano dell'osservatore]{.text-red}
+# La base della torre è più alta del piano dell'osservatore
 
 > Veramente io non ho mai visto costruire una torre per metterla in una depressione, ma consideriamo solo come un esempio di tipo matematico
 

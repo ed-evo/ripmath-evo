@@ -1,4 +1,4 @@
-# [Relazioni fra elementi di un triangolo rettangolo dipendenti dalla cotangente]{.text-red}
+# Relazioni fra elementi di un triangolo rettangolo dipendenti dalla cotangente
 
 Considero il triangolo rettangolo inscritto in un quarto di circonferenza come nella figura a fianco.
 Dalla relazione

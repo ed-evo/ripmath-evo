@@ -1,4 +1,4 @@
-# [Nand]{.text-red}
+# Nand
 
 Consideriamo la composizione di una porta and con una porta not, la sua uscita è il contrario della porta and cioè indicando con $$1$$ il passaggio di corrente e con $$0$$ il non passaggio avremo
 

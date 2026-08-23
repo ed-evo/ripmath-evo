@@ -1,4 +1,4 @@
-# [Calcolo geometrico]{.text-red}
+# Calcolo geometrico
 
 > Vediamo ora di calcolare in modo geometrico la sezione aurea del segmento $$\overline{AB}$$
 > Ci si potrebbe chiedere perché calcolare il valore della sezione aurea in modo geometrico quando l'abbiamo trovata tanto facilmente in modo algebrico: intanto il metodo algebrico è storicamente molto successivo rispetto al metodo geometrico; inoltre in matematica noi non studiamo tanto il valore delle cose quanto il ragionamento (modello matematico) con cui tali valori vengono trovati, quindi è importante sempre vedere i vari possibili tipi di ragionamento anche se poi ci porteranno evidentemente allo stesso risultato.

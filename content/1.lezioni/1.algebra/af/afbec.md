@@ -1,4 +1,4 @@
-# [Equazione indeterminata]{.text-red}
+# Equazione indeterminata
 
 è l'equazione che afferma un fatto vero ma che va bene per infiniti numeri (qualche testo la chiama anche identità)
 

@@ -1,4 +1,4 @@
-# [Volume del cono]{.text-red}
+# Volume del cono
 
 Anche per calcolare il volume del cono faremo semplicemente riferimento al principio di Cavalieri.
 

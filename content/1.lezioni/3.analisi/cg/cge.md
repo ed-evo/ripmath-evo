@@ -1,8 +1,8 @@
-# [Determinazione dei punti estremanti]{.text-red}
+# Determinazione dei punti estremanti
 
 > La parola estremante è bruttissima ma è il termine tecnico: viene definito punto estremante un punto in cui possiamo avere un valore di massimo o di minimo o ove la derivata prima valga $$0$$, qualcuno vi comprende anche i punti dove il flesso è obliquo, ma io preferisco trattare questo caso a parte.
 
-## [Ricerca dei punti di massimo, minimo e flesso orizzontale]{.text-red}
+## Ricerca dei punti di massimo, minimo e flesso orizzontale
 
 Noi sappiamo che nei punti di massimo, di minimo e di flesso orizzontale la tangente è orizzontale cioè la derivata prima vale $$0$$.
 

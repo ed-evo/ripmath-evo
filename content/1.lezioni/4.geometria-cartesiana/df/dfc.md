@@ -1,4 +1,4 @@
-# [Proprietà dell'iperbole]{.text-red}
+# Proprietà dell'iperbole
 
 L'iperbole nella forma canonica è una curva a centro simmetrica rispetto all'origine, tutta compresa fra le rette ([asintoti](dfca.html)):
 

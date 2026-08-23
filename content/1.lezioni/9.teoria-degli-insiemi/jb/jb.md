@@ -1,4 +1,4 @@
-# [Teoria degli insiemi]{.text-red}
+# Teoria degli insiemi
 
 Teoria degli insiemi dovrebbe essere la base di tutte le matematiche: è la disciplina che va studiata prima di tutte le altre che dovrebbero avvantaggiarsi del suo linguaggio e dei suoi concetti.
 

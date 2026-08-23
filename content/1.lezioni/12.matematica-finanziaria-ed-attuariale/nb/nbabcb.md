@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Esempio:
 Ho impiegato un capitale di $$5000$$ euro al tasso del $$3\%$$ ed ho ricevuto un interesse di $$50$$ euro; per quanto tempo è stato impiegato il capitale?

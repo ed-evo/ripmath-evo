@@ -1,4 +1,4 @@
-# [Importanza della codifica di Gödel]{.text-red}
+# Importanza della codifica di Gödel
 
 Abbiamo visto che l'espressione
 $$\textcolor{red}{x + 6 = 2(x+2)}$$

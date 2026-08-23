@@ -1,4 +1,4 @@
-# [Primo criterio di congruenza fra triangoli]{.text-red}
+# Primo criterio di congruenza fra triangoli
 
 [Due triangoli sono congruenti se hanno congruenti due lati e l'angolo compreso]{.text-blue}
 

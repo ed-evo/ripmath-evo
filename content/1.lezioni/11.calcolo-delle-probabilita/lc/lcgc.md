@@ -1,4 +1,4 @@
-# [Conseguenze]{.text-red}
+# Conseguenze
 
 Dai postulati deriva che:
 

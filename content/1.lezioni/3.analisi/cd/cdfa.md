@@ -1,4 +1,4 @@
-# [Primo limite notevole]{.text-red}
+# Primo limite notevole
 
 Dobbiamo calcolare il valore del limite:
 

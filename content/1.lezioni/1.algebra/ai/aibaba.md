@@ -1,4 +1,4 @@
-# [Sistema possibile]{.text-red}
+# Sistema possibile
 
 Il sistema è possibile se le sue equazioni sono compatibili nel senso che non si contraddicono né si ripetono.
 

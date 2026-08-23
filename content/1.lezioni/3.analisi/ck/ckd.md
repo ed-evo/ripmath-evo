@@ -1,4 +1,4 @@
-# [Calcolo degli integrali indefiniti]{.text-red}
+# Calcolo degli integrali indefiniti
 
 - [Introduzione](ckda.html)
 - [Tabella dei principali integrali](ckdb.html)

@@ -1,4 +1,4 @@
-# [Deduzione logica]{.text-red}
+# Deduzione logica
 
 La **deduzione logica** (da non confondere assolutamente con l'implicazione materiale) è il ragionamento che è base della dimostrazione di ogni teorema. Non è un connettivo logico e pertanto non ha una tavola di verità.
 

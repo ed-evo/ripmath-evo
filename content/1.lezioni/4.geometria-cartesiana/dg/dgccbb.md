@@ -1,4 +1,4 @@
-# [Condizione di tangenza ad una retta]{.text-red}
+# Condizione di tangenza ad una retta
 
 Per scrivere la condizione di tangenza della parabola
 $$\textcolor{blue}{y = ax^2 + bx + c}$$

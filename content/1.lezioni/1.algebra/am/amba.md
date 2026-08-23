@@ -1,4 +1,4 @@
-# [Grafico della funzione esponenziale quando la base è maggiore di 1]{.text-red}
+# Grafico della funzione esponenziale quando la base è maggiore di 1
 
 Costruiamo il grafico considerando la base $$2$$: infatti quando la base è maggiore di $$1$$ tutte le curve ottenute con qualunque base hanno le stesse caratteristiche.
 

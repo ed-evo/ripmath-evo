@@ -1,4 +1,4 @@
-# [Combinazioni semplici]{.text-red}
+# Combinazioni semplici
 
 Partiamo da un esempio pratico: troviamo tutte le terne **non ordinate** che posso formare con i $$4$$ oggetti (disposizioni semplici di $$4$$ oggetti presi $$3$$ a $$3$$):
 

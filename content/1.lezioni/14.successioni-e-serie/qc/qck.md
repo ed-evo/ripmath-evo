@@ -1,4 +1,4 @@
-# [Successioni monotone]{.text-red}
+# Successioni monotone
 
 Premettiamo i concetti:
 

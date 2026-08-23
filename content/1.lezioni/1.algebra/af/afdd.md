@@ -1,4 +1,4 @@
-# [Equazioni binomie]{.text-red}
+# Equazioni binomie
 
 Si chiamerà binomia un'equazione che ha due termini, uno con $$x^n$$ ed un termine noto.
 

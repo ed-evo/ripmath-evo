@@ -1,4 +1,4 @@
-# [Definizione di modulo]{.text-red}
+# Definizione di modulo
 
 Dobbiamo definire che un qualcosa è sempre positivo, quindi se è positivo va bene mentre se è negativo dovrò cambiargli il segno per farlo diventare positivo.
 

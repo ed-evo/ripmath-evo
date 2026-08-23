@@ -1,4 +1,4 @@
-# [Disequazione con numeratore e denominatore semplificabili]{.text-red}
+# Disequazione con numeratore e denominatore semplificabili
 
 Risolviamo la disequazione:
 

@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un triangolo un angolo è doppio del secondo ed il terzo è il triplo del secondo. Determinare i tre angoli]{.text-blue}
 

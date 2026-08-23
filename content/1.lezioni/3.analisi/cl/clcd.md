@@ -1,4 +1,4 @@
-# [Equazione di Bernoulli]{.text-red}
+# Equazione di Bernoulli
 
 È un'equazione che si può ridurre a un'equazione lineare.
 

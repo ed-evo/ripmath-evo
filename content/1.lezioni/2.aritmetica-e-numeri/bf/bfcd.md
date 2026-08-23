@@ -1,4 +1,4 @@
-# [Teorema di Gödel]{.text-red}
+# Teorema di Gödel
 
 Diremo che un sistema è **completo** se conosciamo ogni sua formula.
 
@@ -6,7 +6,7 @@ Diremo che un sistema è **coerente** se posso dimostrare tutte le sue formule, 
 
 Il teorema di Gödel dice che:
 
-## [Dato un qualunque sistema formale esso o è coerente oppure è completo]{.text-red}
+## Dato un qualunque sistema formale esso o è coerente oppure è completo
 
 Cioè un sistema formale non può essere coerente e completo allo stesso tempo: se conosco tutte le formule del sistema allora ci sarà una formula per cui non posso dire se è vera oppure falsa; viceversa, se per ogni formula che conosco so se è vera oppure è falsa, significa che ci sono altre formule nel sistema che ancora non ho individuato.
 

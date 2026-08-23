@@ -1,4 +1,4 @@
-# [Goniometria]{.text-red}
+# Goniometria
 
 Scienza della misura degli angoli: deriva da un teorema che è quasi dimenticato in geometria: gli angoli al centro e gli archi corrispondenti sono in proporzionalità diretta.
 

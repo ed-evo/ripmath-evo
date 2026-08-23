@@ -1,4 +1,4 @@
-# [Equazioni di primo grado]{.text-red}
+# Equazioni di primo grado
 
 - Uguaglianze, identità ed equazioni
 - Primo principio di equivalenza

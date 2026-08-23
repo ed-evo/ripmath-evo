@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [Il perimetro di un triangolo isoscele è m. $$58$$ e il lato supera di $$4$$ il doppio della base. Determinare la misura dei lati e della base]{.text-blue}
 

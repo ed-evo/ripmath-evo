@@ -1,4 +1,4 @@
-# [Giudizio particolare affermativo]{.text-red}
+# Giudizio particolare affermativo
 
 > Si chiama particolare perché usiamo il quantificatore esistenziale, lo chiamiamo affermativo perché è in una frase affermativa.
 

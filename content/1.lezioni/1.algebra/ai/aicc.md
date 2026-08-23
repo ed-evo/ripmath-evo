@@ -1,4 +1,4 @@
-# [Sistemi di secondo grado a più incognite]{.text-red}
+# Sistemi di secondo grado a più incognite
 
 Per risolverli devi sostituire le incognite una alla volta sino ad avere un'equazione in una sola incognita e quindi risolvere l'equazione.
 Vediamo un esercizio con $$3$$ incognite.

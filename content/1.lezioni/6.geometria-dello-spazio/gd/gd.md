@@ -1,4 +1,4 @@
-# [Prime relazioni fra enti geometrici nello spazio]{.text-red}
+# Prime relazioni fra enti geometrici nello spazio
 
 Vediamo ora alcune relazioni fra gli enti geometrici proprie dello spazio
 

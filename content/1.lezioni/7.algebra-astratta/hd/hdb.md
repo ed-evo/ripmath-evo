@@ -1,4 +1,4 @@
-# [Definizione di morfismo]{.text-red}
+# Definizione di morfismo
 
 Per dare la definizione matematica partiamo dall'esempio della pagina precedente:
 

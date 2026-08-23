@@ -1,4 +1,4 @@
-# [Applicazioni pratiche della variabile gaussiana]{.text-red}
+# Applicazioni pratiche della variabile gaussiana
 
 Partiamo da un semplice esempio: supponiamo che io debba trovare la misura della lunghezza di una parete di una stanza con la precisione di un millimetro; mi procuro un doppio decimetro e comincio a misurare: trovo che le misure che ottengo mi danno risultati fra loro leggermente diversi.
 

@@ -1,4 +1,4 @@
-# [Proporzionalità fra perimetri]{.text-red}
+# Proporzionalità fra perimetri
 
 Vale il teorema:
 

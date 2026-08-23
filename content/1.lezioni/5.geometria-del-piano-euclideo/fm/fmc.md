@@ -1,4 +1,4 @@
-# [Applicazioni dell'equivalenza]{.text-red}
+# Applicazioni dell'equivalenza
 
 Vediamo ora alcune importanti applicazioni dell'equivalenza
 

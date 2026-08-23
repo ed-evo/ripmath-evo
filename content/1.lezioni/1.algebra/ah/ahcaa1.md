@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Risolviamo insieme alcuni esercizi: io farò tutti i passaggi però, quando si diventa più esperti, di solito si abbrevia.
 

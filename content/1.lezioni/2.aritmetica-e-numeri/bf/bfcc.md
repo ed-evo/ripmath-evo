@@ -1,3 +1,3 @@
-# [Crisi dei fondamenti]{.text-red}
+# Crisi dei fondamenti
 
 Russell evidenziò che quando si ha autoreferenzialità, cioè che dall'interno di una teoria si parla della teoria stessa, si ottengono risultati contradditt

@@ -1,4 +1,4 @@
-# [Progressioni aritmetiche]{.text-red}
+# Progressioni aritmetiche
 
 - definizione
 - ricerca di un termine qualunque

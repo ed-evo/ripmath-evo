@@ -1,4 +1,4 @@
-# [Altezza di una torre]{.text-red}
+# Altezza di una torre
 
 Distinguiamo $$4$$ casi diversi
 

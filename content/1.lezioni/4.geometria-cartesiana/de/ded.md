@@ -1,4 +1,4 @@
-## [Problemi sull'ellisse]{.text-red}
+## Problemi sull'ellisse
 
 Se osserviamo l'equazione dell'ellisse:
 

@@ -1,4 +1,4 @@
-# [I sillogismi aristotelici]{.text-red}
+# I sillogismi aristotelici
 
 Il **sillogismo aristotelico** è un ragionamento in base al quale da due giudizi detti premesse si ottiene un altro giudizio detto conclusione.
 Ognuna delle tre proposizioni componenti un sillogismo è uno dei giudizi che abbiamo già visto; le tre proposizioni sono sempre distribuite secondo il seguente schema di ragionamento:

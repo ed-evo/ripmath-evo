@@ -1,4 +1,4 @@
-# [Relazioni fra elementi di un triangolo rettangolo dipendenti dal coseno]{.text-red}
+# Relazioni fra elementi di un triangolo rettangolo dipendenti dal coseno
 
 Considero il triangolo rettangolo inscritto in un quarto di circonferenza. Dalla definizione di coseno abbiamo:
 

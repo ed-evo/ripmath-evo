@@ -1,4 +1,4 @@
-# [Le coniche come intersezione fra un piano ed un cono matematico]{.text-red}
+# Le coniche come intersezione fra un piano ed un cono matematico
 
 > Definiamo un cono matematico come l'insieme di tutte le rette che congiungono i punti di una circonferenza con un punto non giacente nel piano della circonferenza stessa.
 >

@@ -1,4 +1,4 @@
-# [Sistema di $$3$$ equazioni a tre incognite: metodo di Cramer]{.text-red}
+# Sistema di $$3$$ equazioni a tre incognite: metodo di Cramer
 
 Anche qui si tratta di adattare il metodo di Cramer già visto per il sistema di $$2$$ equazioni a $$2$$ incognite.
 

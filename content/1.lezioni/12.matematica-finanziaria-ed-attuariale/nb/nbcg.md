@@ -1,4 +1,4 @@
-# [Valutazione di somme future]{.text-red}
+# Valutazione di somme future
 
 Il problema di trovare il capitale corrispondente al montante si può presentare anche quando dobbiamo valutare (magari per metterle a bilancio) il valore attuale di somme che dovremo riscuotere (o pagare) in futuro.
 

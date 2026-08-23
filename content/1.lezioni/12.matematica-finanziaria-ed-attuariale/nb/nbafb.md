@@ -1,4 +1,4 @@
-# [Esercizi sul calcolo del capitale nel regime ad interesse composto]{.text-red}
+# Esercizi sul calcolo del capitale nel regime ad interesse composto
 
 Qui facciamo alcuni esercizi a scopo solamente didattico: l'argomento, più che alla capitalizzazione composta è pertinente allo sconto e valore attuale dove verrà trattato più ampiamente.
 

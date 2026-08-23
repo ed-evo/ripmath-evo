@@ -1,4 +1,4 @@
-# [Similitudine fra triangoli]{.text-red}
+# Similitudine fra triangoli
 
 Intuitivamente possiamo dire che la similitudine è una corrispondenza fra figure che conserva la forma ma non l'estensione: pensa al cinematografo ed allo schermo: ponendo lo schermo a differenti distanze otterremo figure simili ma di dimensioni diverse; nella similitudine si conserveranno uguali gli angoli delle varie figure in corrispondenza, e quindi, per il teorema di Talete, avremo che le varie misure di grandezze corrispondenti saranno in proporzione.
 

@@ -1,1 +1,1 @@
-# [Soluzione]{.text-red}
+# Soluzione

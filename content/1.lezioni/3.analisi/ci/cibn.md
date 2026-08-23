@@ -1,4 +1,4 @@
-# [Qualche esempio di studio del grafico di una funzione]{.text-red}
+# Qualche esempio di studio del grafico di una funzione
 
 Vediamo ora alcuni esercizi sullo studio di una funzione
 

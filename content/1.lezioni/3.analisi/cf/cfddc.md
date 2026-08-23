@@ -1,4 +1,4 @@
-# [Derivata del quoziente di due funzioni]{.text-red}
+# Derivata del quoziente di due funzioni
 
 > Una cosa importante da tenere presente è che la derivata si può fare solo in quei punti ove la funzione al denominatore è diversa da zero
 

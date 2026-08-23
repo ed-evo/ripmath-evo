@@ -1,4 +1,4 @@
-# [Disequazioni di grado superiore]{.text-red}
+# Disequazioni di grado superiore
 
 Ora possiamo affrontare lo studio di disequazioni di grado $$3, 4, 5, \dots$$
 Per poter procedere al meglio però devi saper fare bene le [scomposizioni](../../ad/ad6g.html) in generale e la [scomposizione di Ruffini](../../ad/ad6b.html) in particolare.

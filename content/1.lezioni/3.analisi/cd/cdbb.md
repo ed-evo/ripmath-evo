@@ -1,4 +1,4 @@
-# [Limite finito di una successione (limite di una successione convergente)]{.text-red}
+# Limite finito di una successione (limite di una successione convergente)
 
 Facciamo per semplicità un esempio numerico e consideriamo la successione:
 

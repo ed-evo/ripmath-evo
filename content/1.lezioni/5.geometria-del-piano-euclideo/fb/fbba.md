@@ -1,4 +1,4 @@
-# [Postulati dell'esistenza]{.text-red}
+# Postulati dell'esistenza
 
 Definiscono l'esistenza degli enti geometrici
 

@@ -1,4 +1,4 @@
-# [Esercizi numerici sulla similitudine fra triangoli]{.text-red}
+# Esercizi numerici sulla similitudine fra triangoli
 
 > In questi esercizi devi trovare il valore numerico della misura di segmenti.
 > Di solito si cerca sempre di considerare due triangoli simili tali che del primo di conoscano due lati e del secondo si conosca un lato corrispondente ad uno del primo, in modo da impostare la proporzione per trovare il valore del secondo lato.

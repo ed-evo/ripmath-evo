@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Basta calcolare il determinante sopra perché quello al denominatore l'abbiamo già calcolato e vale $$-14$$.
 

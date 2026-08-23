@@ -1,4 +1,4 @@
-# [Parabola che non tocca l'asse delle x]{.text-red}
+# Parabola che non tocca l'asse delle x
 
 È equivalente al caso ove il delta $$\Delta$$ del polinomio è minore di zero (nessuna soluzione = nessun punto di intersezione).
 Distinguiamo i due casi:

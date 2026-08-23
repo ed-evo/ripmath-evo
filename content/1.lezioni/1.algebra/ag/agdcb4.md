@@ -1,4 +1,4 @@
-## [Esercizio]{.text-red}
+## Esercizio
 
 Calcolare i valori di $$x$$ per cui si ha:
 $$\textcolor{red}{-x^2 + 6x - 9 < 0}$$

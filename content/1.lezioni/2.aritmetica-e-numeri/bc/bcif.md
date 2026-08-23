@@ -1,4 +1,4 @@
-# [Espressioni con numeri razionali]{.text-red}
+# Espressioni con numeri razionali
 
 Rimandando la pubblicazione di un congruo numero di esercizi alla seconda stesura del sito enunciamo qui alcune regole generali per risolvere le espressioni
 

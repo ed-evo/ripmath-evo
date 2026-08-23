@@ -1,4 +1,4 @@
-# [Ricerca di un termine qualunque della progressione geometrica]{.text-red}
+# Ricerca di un termine qualunque della progressione geometrica
 
 Siccome il quoziente fra ogni termine e l'antecedente è costante, conoscendo il primo termine e la ragione possiamo trovare un termine qualunque della progressione.
 

@@ -1,4 +1,4 @@
-# [Prodotto cartesiano fra due insiemi]{.text-red}
+# Prodotto cartesiano fra due insiemi
 
 Definiamo prodotto cartesiano [$$AxB$$]{.text-red} di due insiemi [$$A$$]{.text-red} e [$$B$$]{.text-red} l'insieme di tutte le coppie ordinate che hanno come primo elemento un elemento di [$$A$$]{.text-red} e come secondo elemento un elemento di [$$B$$]{.text-red}.
 

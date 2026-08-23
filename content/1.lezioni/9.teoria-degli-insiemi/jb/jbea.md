@@ -1,5 +1,5 @@
-# [Approfondimento sul numero degli elementi della potenza di un insieme]{.text-red}
-## [e sua relazione con il triangolo di Tartaglia]{.text-red}
+# Approfondimento sul numero degli elementi della potenza di un insieme
+## e sua relazione con il triangolo di Tartaglia
 
 Non solo gli elementi della potenza di un insieme sono pari a $$2^n$$ ma corrispondono anche alla riga del triangolo di Tartaglia corrispondente al numero degli elementi: infatti consideriamo ad esempio la riga del triangolo di Tartaglia della potenza $$4$$, essa vale
 

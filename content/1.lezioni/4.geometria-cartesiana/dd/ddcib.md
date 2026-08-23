@@ -1,4 +1,4 @@
-# [Asse radicale di un fascio di circonferenze]{.text-red}
+# Asse radicale di un fascio di circonferenze
 
 Consideriamo il fascio di circonferenze
 

@@ -1,4 +1,4 @@
-# [Insieme $$N$$ dei numeri naturali]{.text-red}
+# Insieme $$N$$ dei numeri naturali
 
 - Generalità sui numeri naturali
 - I numeri naturali

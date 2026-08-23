@@ -1,4 +1,4 @@
-# [Sezione aurea di un segmento]{.text-red}
+# Sezione aurea di un segmento
 
 - [Introduzione](fsa.html)
 - [Definizione](fsb.html)

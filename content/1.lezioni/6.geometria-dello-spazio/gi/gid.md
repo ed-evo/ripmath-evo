@@ -1,4 +1,4 @@
-# [Superficie laterale e totale]{.text-red}
+# Superficie laterale e totale
 
 Cominciamo a parlare di superficie dei solidi: intenderemo intuitivamente come superficie di un solido quello che dovresti dipingere per colorare il solido stesso.
 

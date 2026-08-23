@@ -1,4 +1,4 @@
-# [Rappresentazione grafica nelle disequazioni]{.text-red}
+# Rappresentazione grafica nelle disequazioni
 
 La rappresentazione grafica delle equazioni è fondamentale nella risoluzione di problemi della scelta (programmazione lineare negli Istituti tecnici commerciali ed in generale per matematica finanziaria).
 Si basa sulla geometria cartesiana e sulla rappresentazione di una retta nel piano cartesiano.

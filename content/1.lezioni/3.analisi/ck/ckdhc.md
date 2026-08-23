@@ -1,4 +1,4 @@
-# [Scomposizione di una frazione polinomiale nella somma di più frazioni elementari]{.text-red}
+# Scomposizione di una frazione polinomiale nella somma di più frazioni elementari
 
 Questa parte riguarda solamente i polinomi, ma viene studiata ora perché serve principalmente per l'integrazione.
 

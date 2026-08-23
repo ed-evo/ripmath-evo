@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{\cos x = m}$$]{.text-red}
+# $$\textcolor{red}{\cos x = m}$$
 
 Anche qui cerchiamo di capire come risolverla con un esempio numerico.
 Bisogna dire anche qui che il termine dopo l'uguale può avere solamente i valori da $$-1$$ a $$+1$$ perché il cerchio trigonometrico ha raggio $$1$$.

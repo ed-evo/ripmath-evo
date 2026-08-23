@@ -1,4 +1,4 @@
-# [Forma implicita della retta]{.text-red}
+# Forma implicita della retta
 
 La retta può comparire anche nella forma
 

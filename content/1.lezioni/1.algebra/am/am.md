@@ -1,4 +1,4 @@
-# [Esponenziali]{.text-red}
+# Esponenziali
 
 - [Funzione esponenziale](ama.html)
 - [Grafico della funzione esponenziale](amb.html)

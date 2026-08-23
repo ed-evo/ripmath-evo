@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Risolvere:
 
@@ -79,4 +79,4 @@ Ora devo verificare se le soluzioni vanno bene nell'equazione di partenza o sono
   $$
   Avendo radici di numeri negativi la soluzione $$x = -3$$ non è accettabile.
 
-## [Soluzione $$x = -2$$]{.text-red}
+## Soluzione $$x = -2$$

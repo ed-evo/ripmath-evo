@@ -1,4 +1,4 @@
-# [Cenni di algebra delle matrici]{.text-red}
+# Cenni di algebra delle matrici
 
 Vediamo ora alcuni semplici cenni di algebra delle matrici: mentre per la somma possiamo ampliare il concetto di somma numerica, per la moltiplicazione abbiamo bisogno di una nuova definizione di prodotto, il prodotto righe per colonne fra matrici.
 

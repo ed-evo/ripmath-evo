@@ -1,4 +1,4 @@
-# [Teorema di Carnot]{.text-red}
+# Teorema di Carnot
 [o teorema di Pitagora generalizzato](idfa.html)
 
 ---

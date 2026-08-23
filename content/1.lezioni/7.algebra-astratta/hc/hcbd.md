@@ -1,4 +1,4 @@
-# [struttura algebrica]{.text-red}
+# struttura algebrica
 
 Su ogni insieme non vuoto $$A$$ si possono definire una o più leggi di composizione interna;
 

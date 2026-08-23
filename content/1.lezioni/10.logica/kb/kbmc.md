@@ -1,4 +1,4 @@
-# [Modus tollens]{.text-red}
+# Modus tollens
 
 Premetto due esempi di modus tollens:
 

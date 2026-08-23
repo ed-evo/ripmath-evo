@@ -1,4 +1,4 @@
-# [Capitalizzazione frazionata]{.text-red}
+# Capitalizzazione frazionata
 
 - [Cos'è la capitalizzazione frazionata](nbba.html)
 - [Tasso nominale](nbbb.html)

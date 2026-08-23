@@ -1,4 +1,4 @@
-# [Teorema della probabilità composta]{.text-red}
+# Teorema della probabilità composta
 
 Consideriamo un evento composto da più eventi tali che siano indipendenti, nel senso che l'accadere del primo non influenzi l'accadere del secondo: allora possiamo dire che:
 

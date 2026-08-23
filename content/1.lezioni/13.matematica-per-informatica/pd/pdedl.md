@@ -1,4 +1,4 @@
-# [Prodotto]{.text-red}
+# Prodotto
 
 È il prodotto $$ab$$
 

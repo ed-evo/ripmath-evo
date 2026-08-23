@@ -1,4 +1,4 @@
-# [Codice ASCII esteso]{.text-red}
+# Codice ASCII esteso
 ### brevi cenni
 
 Attorno agli anni $$70$$ i vari costruttori di computer inventarono dei codici per poter avere i caratteri dell'alfabeto sul computer, ad esempio IBM utilizzò il codice (EBCDIC Extended Binary-Codec Decimal Interchanged Code), che essendo utilizzato solamente su macchine IBM non ebbe una diffusione universale.

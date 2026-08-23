@@ -1,4 +1,4 @@
-# [Parallasse secondo]{.text-red}
+# Parallasse secondo
 
 Ora possiamo usare la distanza Terra-Sole trovata per costruire un'unità di misura astronomica: il Parsec (o parallasse secondo).
 

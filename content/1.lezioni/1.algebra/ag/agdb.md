@@ -1,5 +1,5 @@
-# [Determinazione del segno di un polinomio di secondo grado]{.text-red}
-## [Metodo geometrico]{.text-red}
+# Determinazione del segno di un polinomio di secondo grado
+## Metodo geometrico
 
 Posso considerare l'equazione di secondo grado
 

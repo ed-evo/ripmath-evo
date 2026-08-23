@@ -1,4 +1,4 @@
-# [Funzione integrale]{.text-red}
+# Funzione integrale
 
 Dobbiamo definire una funzione il cui valore completo sia uguale al valore dell'integrale definito sull'intervallo $$a, b$$.
 

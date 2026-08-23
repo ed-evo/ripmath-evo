@@ -1,4 +1,4 @@
-# [Integrazione per parti]{.text-red}
+# Integrazione per parti
 
 La formula per l'integrazione per parti deriva dalla formula per la [derivata di un prodotto](../cf/cfddb.html):
 ([Dimostrazione](ckdgd.html))

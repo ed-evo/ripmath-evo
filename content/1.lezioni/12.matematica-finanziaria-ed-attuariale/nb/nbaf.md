@@ -1,4 +1,4 @@
-# [Alcuni esempi]{.text-red}
+# Alcuni esempi
 
 Vediamo, prima di procedere, alcuni esercizi sui vari modi e casi di calcolo possibili, relativi alla capitalizzazione composta, dividendoli per argomento.
 

@@ -1,4 +1,4 @@
-# [Teorema dell'angolo esterno]{.text-red}
+# Teorema dell'angolo esterno
 
 **Enunciato:**
 [In ogni triangolo un angolo esterno è maggiore di ogni angolo interno non adiacente]{.text-blue}

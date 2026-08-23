@@ -1,4 +1,4 @@
-# [Necessità di ampliare l'insieme $$\mathbb{Z}$$]{.text-red}
+# Necessità di ampliare l'insieme $$\mathbb{Z}$$
 
 Ora, per eseguire sempre la divisione abbiamo due strade:
 

@@ -1,4 +1,4 @@
-# [Matrice unitaria]{.text-red}
+# Matrice unitaria
 
 Definiamo matrice unitaria la matrice che ha tutti gli elementi nulli tranne quelli che si trovano sulla diagonale principale e che valgono tutti $$1$$.
 

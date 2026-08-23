@@ -1,4 +1,4 @@
-# [Calcoli prima formula]{.text-red}
+# Calcoli prima formula
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \frac{\sqrt{1 + \frac{b^2 + c^2 - a^2}{2bc}}}{2}}

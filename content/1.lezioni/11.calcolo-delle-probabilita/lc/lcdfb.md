@@ -1,4 +1,4 @@
-# [Esercizi con uso della probabilità composta]{.text-red}
+# Esercizi con uso della probabilità composta
 
 ### Esercizio 1
 

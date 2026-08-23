@@ -1,4 +1,4 @@
-# [Delta del polinomio maggiore di zero]{.text-red}
+# Delta del polinomio maggiore di zero
 
 Voglio trovare il segno del polinomio di secondo grado 
 $$\textcolor{red}{ax^2 + bx + c}$$

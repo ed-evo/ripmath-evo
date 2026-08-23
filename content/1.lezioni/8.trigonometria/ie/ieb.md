@@ -1,4 +1,4 @@
-# [Applicazioni alla topografia ed alla geodesia]{.text-red}
+# Applicazioni alla topografia ed alla geodesia
 
 Premetto che, come al solito, è essenziale rifarsi ai teoremi di congruenza fra triangoli, cioè devi conoscere molto bene i criteri di congruenza sia fra i triangoli qualunque:
 

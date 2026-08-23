@@ -1,4 +1,4 @@
-## [Integrali immediati]{.text-red}
+## Integrali immediati
 
 Sono i più facili, in pratica devi vedere se l'integrale che consideri appartiene a qualche integrale della tabella.
 Fai attenzione però che se l'argomento non è la $$x$$ ma una funzione allora dovrà essere presente anche la derivata della funzione.

@@ -1,4 +1,4 @@
-## [Area del trapezio]{.text-red}
+## Area del trapezio
 
 Facciamo riferimento al teorema [sull'equiscomponibilità fra trapezio e triangolo](../fm/fmbd.html):
 

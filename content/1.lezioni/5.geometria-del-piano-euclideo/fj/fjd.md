@@ -1,4 +1,4 @@
-# [Relazione fra archi e corde]{.text-red}
+# Relazione fra archi e corde
 
 > Vediamo ora un teorema che di solito passa quasi sotto silenzio, ma che per la sua importanza andrebbe invece ben evidenziato: i suoi risultati permettono di costruire la goniometria permettendoci di misurare gli archi in gradi e gli angoli in centimetri (radianti).
 

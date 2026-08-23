@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Facciamo un esercizio con segni diversi
 

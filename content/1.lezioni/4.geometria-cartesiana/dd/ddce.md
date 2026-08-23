@@ -1,4 +1,4 @@
-# [Circonferenze in posizioni particolari]{.text-red}
+# Circonferenze in posizioni particolari
 
 Se consideriamo l'equazione generale della circonferenza:
 

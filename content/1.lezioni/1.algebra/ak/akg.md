@@ -1,4 +1,4 @@
-# [Radicali in forma esponenziale]{.text-red}
+# Radicali in forma esponenziale
 
 Svolgendo le operazioni sui radicali abbiamo trovato alcune coincidenze fra le frazioni ed i radicali: ad esempio per moltiplicare fra loro due radicali di indice diverso occorre farne il minimo comune multiplo come per la somma fra frazioni.
 

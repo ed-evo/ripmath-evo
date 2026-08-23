@@ -1,4 +1,4 @@
-# [Matrici e determinanti]{.text-red}
+# Matrici e determinanti
 
 In questo capitolo formalizziamo meglio quanto abbiamo già visto nel capitolo sui sistemi di $$3$$ equazioni in $$3$$ incognite: partendo dalle matrici passeremo alle matrici quadrate, parleremo dei loro determinanti e vedremo le regole che ci permetteranno di calcolarli al meglio. Considereremo poi alcuni semplici cenni di algebra delle matrici.
 

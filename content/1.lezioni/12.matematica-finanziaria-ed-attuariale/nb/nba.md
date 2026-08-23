@@ -1,4 +1,4 @@
-# [Interesse]{.text-red}
+# Interesse
 
 - Nomenclatura
 - Interesse semplice

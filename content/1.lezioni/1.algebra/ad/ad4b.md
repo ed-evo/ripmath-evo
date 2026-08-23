@@ -1,4 +1,4 @@
-# [PRODOTTO FRA DUE POLINOMI]{.text-red}
+# PRODOTTO FRA DUE POLINOMI
 
 Anche per fare il prodotto fra $$2$$ polinomi occorre tener presente il concetto di [parentesi](parentes.html): tutti i termini interni hanno lo stesso diritto rispetto all'operazione esterna; quindi basterà moltiplicare tutti i monomi del primo polinomio per ogni termine del secondo polinomio.
 

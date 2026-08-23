@@ -1,4 +1,4 @@
-# [Tabella di riepilogo]{.text-red}
+# Tabella di riepilogo
 
 > $$\textcolor{red}{a = c \sin \alpha} \quad \textcolor{red}{b = c \sin \beta}$$
 > In ogni triangolo rettangolo un cateto è uguale al prodotto dell'ipotenusa per il seno dell'angolo opposto al cateto considerato.

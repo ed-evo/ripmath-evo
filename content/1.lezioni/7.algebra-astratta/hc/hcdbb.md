@@ -1,4 +1,4 @@
-# [Unicità dell'elemento simmetrico]{.text-red}
+# Unicità dell'elemento simmetrico
 
 **Proprietà:**
 *In ogni gruppo $$(A, \ast)$$ per ogni elemento $$a$$ esiste un solo elemento simmetrico.*

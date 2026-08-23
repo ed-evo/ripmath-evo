@@ -1,4 +1,4 @@
-# [Tabella di riepilogo sulle formule di Werner]{.text-red}
+# Tabella di riepilogo sulle formule di Werner
 
 $$
 \textcolor{red}{\sin \alpha \cos \beta = \frac{\sin(\alpha + \beta) + \sin(\alpha - \beta)}{2}}

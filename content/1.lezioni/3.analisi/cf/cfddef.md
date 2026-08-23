@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 $$
 \textcolor{red}{y' = 9x^2 e^{x^2} + 6x^4 e^{x^2}}

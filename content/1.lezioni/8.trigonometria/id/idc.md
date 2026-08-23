@@ -1,4 +1,4 @@
-# [Relazioni fra elementi di un triangolo rettangolo]{.text-red}
+# Relazioni fra elementi di un triangolo rettangolo
 
 Sul triangolo rettangolo possiamo definire diversi tipi di relazioni:
 

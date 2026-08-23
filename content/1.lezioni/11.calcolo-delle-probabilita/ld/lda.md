@@ -1,4 +1,4 @@
-# [Giochi di sorte]{.text-red}
+# Giochi di sorte
 
 Parliamo ora dei giochi di sorte, cioè di giochi in cui la vincita dipende solamente da un evento casuale che può verificarsi (caso di vincita), oppure può non verificarsi (caso di perdita); alla vincita od alla perdita al gioco è legata l'acquisizione o la perdita di una determinata somma.
 

@@ -1,4 +1,4 @@
-# [Calcolo del tasso di interesse sia con anno commerciale che con anno civile]{.text-red}
+# Calcolo del tasso di interesse sia con anno commerciale che con anno civile
 
 Ho impiegato un capitale di $$20000$$ euro per $$110$$ giorni ed ho ricevuto un interesse di $$130$$ euro; a che tasso di interesse è stato impiegato il capitale?
 

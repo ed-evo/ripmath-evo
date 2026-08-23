@@ -1,4 +1,4 @@
-# [Algebra trigonometrica]{.text-red}
+# Algebra trigonometrica
 
 > Goniometrica sarebbe più esatto, però trigonometrica è più usato, usa la terminologia che ti suggerisce il tuo insegnante
 

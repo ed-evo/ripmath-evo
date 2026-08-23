@@ -1,4 +1,4 @@
-# [Triangolo equilatero inscritto in una circonferenza]{.text-red}
+# Triangolo equilatero inscritto in una circonferenza
 [o circonferenza circoscritta ad un triangolo equilatero]{.text-grey-darken-1}
 
 Anche in questo caso è possibile risolvere completamente il triangolo conoscendo solamente il valore del raggio del cerchio circoscritto.

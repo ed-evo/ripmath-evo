@@ -1,4 +1,4 @@
-# [Equazioni di grado superiore al secondo]{.text-red}
+# Equazioni di grado superiore al secondo
 
 > Sono equazioni in cui la $$x$$ compare a potenza $$3$$, $$4$$, $$5$$, ecc...
 >

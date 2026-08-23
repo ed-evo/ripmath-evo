@@ -1,4 +1,4 @@
-# [Definizione di integrale]{.text-red}
+# Definizione di integrale
 
 Ora definiamo come integrale l'area del trapezoide: la sommatoria si trasforma in una $$\textcolor{red}{S}$$ medioevale, l'intervallo generico $$\textcolor{red}{x_k - x_{k-1}}$$ diventa l'infinitesimo $$\textcolor{red}{dx}$$
 

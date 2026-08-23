@@ -1,4 +1,4 @@
-## [Esercizio per determinare le coordinate del vertice]{.text-red}
+## Esercizio per determinare le coordinate del vertice
 
 Determinare le coordinate del vertice della parabola di equazione
 $$\textcolor{red}{x = y^2 - 4y + 3}$$

@@ -1,4 +1,4 @@
-# [I triangoli]{.text-red}
+# I triangoli
 
 Ora passiamo a costruire qualcosa di più "corposo", prendendo una parte di piano e precisamente la parte di piano comune a tre angoli aventi due a due un lato in comune, oppure, se preferisci, la parte di piano limitata da $$3$$ segmenti due a due consecutivi.
 

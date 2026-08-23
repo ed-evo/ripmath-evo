@@ -1,4 +1,4 @@
-# [Teoremi sul calcolo delle probabilità]{.text-red}
+# Teoremi sul calcolo delle probabilità
 
 Vediamo ora un paio di teoremi che ci permetteranno di calcolare in modo semplice le probabilità di eventi composti da più eventi elementari
 

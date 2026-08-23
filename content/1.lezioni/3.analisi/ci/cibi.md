@@ -1,4 +1,4 @@
-# [Determinazione dei massimi e minimi]{.text-red}
+# Determinazione dei massimi e minimi
 
 > Se si utilizza il metodo dello studio della derivata prima ora si possono determinare i massimi e i minimi della funzione.
 >

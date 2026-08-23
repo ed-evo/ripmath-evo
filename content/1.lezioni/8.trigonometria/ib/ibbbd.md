@@ -1,4 +1,4 @@
-# [Caratteristiche della funzione $$y = \cos x$$]{.text-red}
+# Caratteristiche della funzione $$y = \cos x$$
 
 Vediamo nei particolari le caratteristiche della cosinusoide:
 

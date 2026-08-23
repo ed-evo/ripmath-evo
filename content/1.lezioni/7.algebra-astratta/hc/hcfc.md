@@ -1,4 +1,4 @@
-# [Esempi di struttura di corpo e campo]{.text-red}
+# Esempi di struttura di corpo e campo
 
 Consideriamo i seguenti esempi e mostriamo per ciascuno la presenza della struttura di corpo e/o di campo, oppure mostriamo che tale struttura non esiste: per ognuno dovremo mostrare:
 

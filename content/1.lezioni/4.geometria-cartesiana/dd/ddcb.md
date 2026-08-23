@@ -1,4 +1,4 @@
-# [Equazione generale della circonferenza]{.text-red}
+# Equazione generale della circonferenza
 
 Vediamo ora come si giunge all'equazione generale della circonferenza. Per capirla meglio facciamolo contemporaneamente sia in teoria che su un esempio pratico (l'equazione della pagina precedente).
 

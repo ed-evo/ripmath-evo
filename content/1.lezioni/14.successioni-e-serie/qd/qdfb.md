@@ -1,4 +1,4 @@
-# [Proprietà associativa di una serie numerica]{.text-red}
+# Proprietà associativa di una serie numerica
 
 Considero la serie convergente a $$s$$
 

@@ -1,4 +1,4 @@
-# [Relazione antisimmetrica]{.text-red}
+# Relazione antisimmetrica
 
 qui non diamo la definizione mediante prodotto cartesiano perché piuttosto complicata
 

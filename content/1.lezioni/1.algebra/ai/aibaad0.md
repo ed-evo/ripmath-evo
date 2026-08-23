@@ -1,4 +1,4 @@
-# [Calcolo del determinante]{.text-red}
+# Calcolo del determinante
 
 dato il determinante
 

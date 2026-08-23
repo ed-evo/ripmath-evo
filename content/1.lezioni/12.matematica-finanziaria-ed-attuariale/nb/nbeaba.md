@@ -1,4 +1,4 @@
-# [Scadenza comune]{.text-red}
+# Scadenza comune
 
 Troviamo la data **scadenza comune** in cui devo pagare una somma fissata per estinguere più debiti.
 Vediamo il metodo su un esercizio.

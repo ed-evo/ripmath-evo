@@ -1,4 +1,4 @@
-# [Equazioni reciproche di quarto grado]{.text-red}
+# Equazioni reciproche di quarto grado
 ## di prima specie
 
 È del tipo:

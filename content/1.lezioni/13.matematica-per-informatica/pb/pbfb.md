@@ -1,4 +1,4 @@
-# [La "tabellina" della somma nei numeri binari]{.text-red}
+# La "tabellina" della somma nei numeri binari
 
 Il sistema binario si basa su raggruppamenti di $$2$$ oggetti, quindi potremo utilizzare solamente due cifre, $$0$$ ed $$1$$. La tabella per eseguire le operazioni di somma (come la tavola pitagorica per la somma) è la seguente:
 

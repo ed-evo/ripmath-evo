@@ -1,4 +1,4 @@
-# [Tabella di riepilogo per le formule di addizione e sottrazione per seno e coseno]{.text-red}
+# Tabella di riepilogo per le formule di addizione e sottrazione per seno e coseno
 
 $$
 \textcolor{red}{\cos(\alpha + \beta) = \cos \alpha \cos \beta - \operatorname{sen} \alpha \operatorname{sen} \beta}

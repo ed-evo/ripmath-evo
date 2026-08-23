@@ -1,4 +1,4 @@
-# [ESERCIZI SUL PRODOTTO FRA POLINOMI]{.text-red}
+# ESERCIZI SUL PRODOTTO FRA POLINOMI
 
 $$
 (5a^3+4a^2-6ab^2+7b^3)(2a^3-3a^2b+4ab^2+b^3)=

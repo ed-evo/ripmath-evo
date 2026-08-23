@@ -1,4 +1,4 @@
-# [Successione oscillante convergente]{.text-red}
+# Successione oscillante convergente
 
 Per fare questo caso consideriamo la [successione armonica](qadeb.html) che definiremo però successivamente, quando faremo l'operazione di divisione
 

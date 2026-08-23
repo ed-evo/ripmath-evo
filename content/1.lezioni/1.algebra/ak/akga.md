@@ -1,4 +1,4 @@
-# [Applicazioni]{.text-red}
+# Applicazioni
 
 Siccome i radicali si possono pensare in forma esponenziale (come potenze), allora potremo nei calcoli usare le [regole](../aa/aa.html) viste per le potenze; tali regole sono valide solamente nel caso di prodotti, quozienti e potenze, ma conviene usarle perché i calcoli vengono molto facilitati.
 

@@ -1,4 +1,4 @@
-# [misura]{.text-red}
+# misura
 
 Si definisce **misura** su una sigma algebra $$\textcolor{red}{X}$$ di sottoinsiemi di $$X$$ una qualunque funzione $$m$$ a valori reali tale che:
 

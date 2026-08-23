@@ -1,4 +1,4 @@
-# [Problemi vari sulla determinazione dell'equazione di una circonferenza]{.text-red}
+# Problemi vari sulla determinazione dell'equazione di una circonferenza
 
 L'equazione generica di una circonferenza
 

@@ -1,4 +1,4 @@
-# [Quoziente di numeri complessi in forma trigonometrica: dimostrazione]{.text-red}
+# Quoziente di numeri complessi in forma trigonometrica: dimostrazione
 
 Considero i numeri complessi
 

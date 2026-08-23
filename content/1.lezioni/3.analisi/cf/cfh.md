@@ -1,4 +1,4 @@
-# [Differenziale di una funzione]{.text-red}
+# Differenziale di una funzione
 
 In parole molto povere il differenziale di una funzione non è altro che l'incremento $$\textcolor{red}{TB}$$ fatto sulla tangente invece che sulla curva; si ha
 

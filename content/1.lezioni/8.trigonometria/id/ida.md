@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 L'uso della trigonometria segue uno schema di pensiero molto semplice (che però non ho trovato in evidenza in nessun libro):
 

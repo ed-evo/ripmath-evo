@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 Questo problema è già stato [risolto](ahcaa9.html) con una sola incognita.
 

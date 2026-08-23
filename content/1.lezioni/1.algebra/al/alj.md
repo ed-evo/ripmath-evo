@@ -1,4 +1,4 @@
-# [Equazioni logaritmiche]{.text-red}
+# Equazioni logaritmiche
 
 Sono equazioni in cui la $$x$$ compare nell'argomento del logaritmo;
 

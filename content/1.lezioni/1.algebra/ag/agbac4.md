@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$
 \textcolor{blue}{\frac{x + 2}{2} - 2x \ge \frac{4x + 3}{3}}

@@ -1,4 +1,4 @@
-# [Conoscendo il termine di posto h e la ragione trovare il termine di posto k]{.text-red}
+# Conoscendo il termine di posto h e la ragione trovare il termine di posto k
 
 In pratica è l'inverso di quello che abbiamo fatto nella pagina precedente:
 Vediamo, anche qui, sullo stesso esempio della pagina precedente, come procedere. 

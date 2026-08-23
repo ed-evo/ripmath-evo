@@ -1,4 +1,4 @@
-# [Proprietà degli integrali definiti]{.text-red}
+# Proprietà degli integrali definiti
 
 Vediamo ora le proprietà tipiche degli integrali definiti
 

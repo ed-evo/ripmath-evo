@@ -1,4 +1,4 @@
-# [Problemi]{.text-red}
+# Problemi
 
 - Generalità sui problemi
 - Vocabolario

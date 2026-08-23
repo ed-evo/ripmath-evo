@@ -1,4 +1,4 @@
-# [Isomorfismo]{.text-red}
+# Isomorfismo
 
 Veniamo adesso all'applicazione che prende una struttura e la trasforma in una struttura equivalente, quindi ci servirà per individuare sottostrutture simili in strutture diverse, tipo la struttura dei numeri reali all'interno della struttura dei numeri complessi, oppure la struttura di $$\mathbb{Z}$$ all'interno di $$\mathbb{Q}$$ e così via di seguito: naturalmente questo lo sapevamo già, ma potremo applicare il metodo anche ad altri insiemi di enti per trovare relazioni che non conosciamo. In pratica corrisponderà a trovare la corrispondenza biunivoca fra strutture o fra parti di strutture.
 

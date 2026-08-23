@@ -1,4 +1,4 @@
-# [Equazioni in seno e coseno di secondo grado lineari omogenee]{.text-red}
+# Equazioni in seno e coseno di secondo grado lineari omogenee
 
 Per risolvere un'equazione di questo genere è sufficiente dividere tutti i termini dell'equazione per $$\cos^2 x$$, supponendo che $$\cos x$$ sia diverso da zero: in tal modo si ottiene un'equazione di secondo grado in $$\tan x$$ che si risolve normalmente.
 

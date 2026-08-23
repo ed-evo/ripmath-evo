@@ -1,4 +1,4 @@
-# [Importante corollario al teorema di Talete]{.text-red}
+# Importante corollario al teorema di Talete
 
 Corollario: **Se una retta divide due lati di un triangolo in parti ordinatamente proporzionali allora essa è parallela al terzo lato**
 

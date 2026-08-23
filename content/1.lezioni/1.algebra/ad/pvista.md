@@ -1,4 +1,4 @@
-# [PUNTI DI VISTA]{.text-red}
+# PUNTI DI VISTA
 
 Spesso in matematica si hanno due modi completamente diversi di osservare un fenomeno:
 

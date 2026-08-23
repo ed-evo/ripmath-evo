@@ -1,4 +1,4 @@
-# [Esempi di funzioni composte]{.text-red}
+# Esempi di funzioni composte
 
 > Nell'ipotesi che il codominio della prima funzione coincida col dominio della seconda; allora, come abbiamo già detto, per calcolare la funzione composta basta sostituire al posto della $$x$$ nella prima funzione l'espressione della seconda funzione.
 >

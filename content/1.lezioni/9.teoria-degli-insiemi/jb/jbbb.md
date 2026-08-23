@@ -1,4 +1,4 @@
-# [Rappresentazione mediante grafici]{.text-red}
+# Rappresentazione mediante grafici
 ## (grafici di Eulero-Venn)
 
 Possiamo racchiudere gli oggetti che ci interessano entro una linea chiusa continua e non intrecciata come dalla figura qui a fianco che rappresenta sempre l'insieme $$A$$ composto dai primi quattro numeri naturali $$1$$, $$2$$, $$3$$, $$4$$.

@@ -1,4 +1,4 @@
-# [Esercizi equazioni con valori assoluti]{.text-red}
+# Esercizi equazioni con valori assoluti
 
 > **Nota:** quando ho una disequazione ai moduli è come se avessi due, tre... equazioni che vanno risolte separatamente; togliendo i moduli troverò tali equazioni e troverò anche in che intervalli devo considerarle valide per trovare delle soluzioni accettabili: vediamo in questa pagina alcuni semplici esercizi sul come fare
 

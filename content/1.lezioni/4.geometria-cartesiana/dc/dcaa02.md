@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 Per risolverlo trasformiamo le frazioni:
 

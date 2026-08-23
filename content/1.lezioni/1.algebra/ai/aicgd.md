@@ -1,4 +1,4 @@
-# [Sommare o sottrarre termine a termine]{.text-red}
+# Sommare o sottrarre termine a termine
 
 Può essere molto utile se abbiamo gruppi di termini uguali (oppure opposti) nelle due equazioni, basterà sottrarre (sommare) per eliminarli ed ottenere un'equazione più semplice da mettere a sistema.
 Questo metodo viene normalmente utilizzato in geometria analitica per [trovare le coordinate dei punti comuni a due circonferenze](../../d/dd/ddcha.html).

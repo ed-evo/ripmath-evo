@@ -1,4 +1,4 @@
-# [Equazioni trinomie]{.text-red}
+# Equazioni trinomie
 
 Si chiamerà trinomia un'equazione che ha tre termini, il primo $$x^{2n}$$ con la potenza della $$x$$ doppia del secondo $$x^n$$ ed un termine noto.
 

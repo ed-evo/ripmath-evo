@@ -1,4 +1,4 @@
-## [Tracciamo una grande figura seguendo le indicazioni e segnando sulla figura stessa tutti gli elementi che sappiamo congruenti]{.text-red}
+## Tracciamo una grande figura seguendo le indicazioni e segnando sulla figura stessa tutti gli elementi che sappiamo congruenti
 
 [Sui lati dell'angolo $$A$$ si prendano due segmenti $$AB$$ ed $$AC$$ congruenti e, consecutivamente, altri due segmenti congruenti $$BD$$ e $$CE$$. Si unisca $$B$$ con $$E$$ e $$C$$ con $$D$$. Sia $$F$$ il punto di intersezione: dimostrare che la retta $$AF$$ è la bisettrice dell'angolo $$A$$.]{.text-blue}
 

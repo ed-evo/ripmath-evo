@@ -1,4 +1,4 @@
-# [m.c.m. fra polinomi]{.text-red}
+# m.c.m. fra polinomi
 
 Per calcolare il minimo comune multiplo devo prendere tutti i fattori comuni e non comuni con l'esponente più alto, quindi prima dovrò scomporre i polinomi.
 

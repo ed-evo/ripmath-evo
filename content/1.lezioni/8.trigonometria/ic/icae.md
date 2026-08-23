@@ -1,4 +1,4 @@
-# [Formule di prostaferesi]{.text-red}
+# Formule di prostaferesi
 
 Sono formule che permettono di trasformare una somma di seno e coseno di due angoli in un prodotto: da qui discende la loro utilità che si esplica soprattutto nella soluzione di equazioni trigonometriche.
 

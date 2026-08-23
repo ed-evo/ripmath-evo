@@ -1,4 +1,4 @@
-# [Utilizzo di espressioni particolari (tipo formule di Waring)]{.text-red}
+# Utilizzo di espressioni particolari (tipo formule di Waring)
 
 Talvolta è possibile utilizzando espressioni particolari riuscire a semplificare le equazioni componenti del sistema e quindi risolverlo più facilmente.
 Vediamone un esempio utilizzando le formule di Waring.

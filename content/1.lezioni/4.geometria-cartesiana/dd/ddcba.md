@@ -1,4 +1,4 @@
-# [Esempio]{.text-red}
+# Esempio
 
 > Se ad esempio ho
 >

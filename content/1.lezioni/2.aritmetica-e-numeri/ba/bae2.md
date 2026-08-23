@@ -1,4 +1,4 @@
-# [Legge di annullamento del prodotto]{.text-red}
+# Legge di annullamento del prodotto
 
 > Un prodotto è zero se e solo se uno dei fattori del prodotto vale zero
 

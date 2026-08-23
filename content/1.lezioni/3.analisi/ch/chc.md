@@ -1,4 +1,4 @@
-# [Asintoto orizzontale]{.text-red}
+# Asintoto orizzontale
 
 Si ha un asintoto orizzontale quando, al crescere della $$x$$ la $$y$$ si avvicina ad un valore ben determinato.
 In pratica c'è l'asintoto se

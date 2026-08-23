@@ -1,4 +1,4 @@
-# [Area del poligono circoscritto]{.text-red}
+# Area del poligono circoscritto
 
 Facciamo riferimento al teorema sull'equiscomponibilità fra poligono circoscritto e triangolo:
 

@@ -1,4 +1,4 @@
-# [Esercizi con uso della probabilità totale]{.text-red}
+# Esercizi con uso della probabilità totale
 
 ### esercizio 1
 

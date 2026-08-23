@@ -1,4 +1,4 @@
-# [Lato del pentagono regolare]{.text-red}
+# Lato del pentagono regolare
 
 Calcoliamo ora la misura del lato del pentagono regolare
 

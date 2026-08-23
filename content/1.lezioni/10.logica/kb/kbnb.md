@@ -1,4 +1,4 @@
-# [Proposizioni di un teorema]{.text-red}
+# Proposizioni di un teorema
 
 Ad ogni teorema, supposto vero,
 

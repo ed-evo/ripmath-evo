@@ -1,4 +1,4 @@
-# [Equazioni in seno e coseno di primo grado lineari non omogenee]{.text-red}
+# Equazioni in seno e coseno di primo grado lineari non omogenee
 
 Stavolta non possiamo dividere per $$\cos x$$ perché c'è un termine noto: per risolvere un'equazione di questo genere si usano le formule parametriche.
 

@@ -1,4 +1,4 @@
-# [Definizione di campo]{.text-red}
+# Definizione di campo
 
 Abbiamo detto che nel concetto di corpo non abbiamo la commutatività per la seconda operazione (vedremo sugli esempi che il corpo delle matrici quadrate non è commutativo), siccome però l'insieme $$\mathbf{Q}$$, che ci guida nell'enucleare le strutture, è commutativo ci conviene introdurre la commutatività e quindi individuare una nuova struttura il $$\text{campo}$$ il cui rappresentante tipico sarà appunto l'insieme $$\mathbf{Q}$$, che per questo sarà anche chiamato $$\text{campo dei numeri razionali}$$.
 

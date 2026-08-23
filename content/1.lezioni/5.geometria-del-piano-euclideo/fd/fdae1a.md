@@ -1,4 +1,4 @@
-# [Tracciamo una grande figura seguendo le indicazioni e segnando sulla figura stessa tutti gli elementi che sappiamo congruenti]{.text-red}
+# Tracciamo una grande figura seguendo le indicazioni e segnando sulla figura stessa tutti gli elementi che sappiamo congruenti
 
 [Dato il triangolo $$ABC$$ si prolunghino i lati $$AB$$ ed $$AC$$ oltre $$A$$ di due segmenti $$AD=AB$$ ed $$AE=AC$$. Dimostrare che sono congruenti i segmenti $$BC$$ e $$DE$$.]{.text-blue}
 

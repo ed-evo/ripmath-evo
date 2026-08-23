@@ -1,4 +1,4 @@
-# [Sistema di numerazione a base 16]{.text-red}
+# Sistema di numerazione a base 16
 
 Importantissimo in informatica, il sistema a base $$16$$ (esadecimale) ha bisogno di $$16$$ cifre diverse per poter rappresentare i numeri da $$1$$ a $$15$$; al sedici andremo "a capo" per formare la "sedicina".
 

@@ -1,4 +1,4 @@
-# [Operazioni su archi ed angoli]{.text-red}
+# Operazioni su archi ed angoli
 
 Sono operazioni definite da varie formule in relazione fra loro: le prime, un po' più laboriose da dimostrare sono le formule di addizione. Da esse vengono ricavate tutte le altre secondo lo schema esposto qui sotto.
 

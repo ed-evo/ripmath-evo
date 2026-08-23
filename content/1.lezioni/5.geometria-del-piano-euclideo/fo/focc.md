@@ -1,4 +1,4 @@
-# [Proprietà del permutare]{.text-red}
+# Proprietà del permutare
 
 La proprietà del permutare dice che
 

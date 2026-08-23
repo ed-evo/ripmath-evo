@@ -1,4 +1,4 @@
-# [Delta del polinomio minore di zero]{.text-red}
+# Delta del polinomio minore di zero
 
 Se il [discriminante](../af/afccc.html) dell'equazione è minore di zero allora non ho nessuna soluzione quindi non posso fare riferimento ad $$\textcolor{red}{x_1}$$ ed $$\textcolor{red}{x_2}$$.
 

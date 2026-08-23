@@ -1,4 +1,4 @@
-# [Distanza di due punti sulla retta]{.text-red}
+# Distanza di due punti sulla retta
 
 È l'unica cosa che possiamo fare sulla retta.
 

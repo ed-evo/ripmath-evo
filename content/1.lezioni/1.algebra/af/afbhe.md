@@ -1,4 +1,4 @@
-# [Equazioni con più moduli]{.text-red}
+# Equazioni con più moduli
 
 Se abbiamo più moduli si avranno in genere più intervalli da considerare e quindi più equazioni: vediamo un esempio con tre moduli.
 

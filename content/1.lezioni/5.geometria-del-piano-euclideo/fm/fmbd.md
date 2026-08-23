@@ -1,4 +1,4 @@
-# [Equiscomponibilità fra triangolo e trapezio]{.text-red}
+# Equiscomponibilità fra triangolo e trapezio
 
 **Un trapezio è equivalente a un triangolo avente come base la somma delle basi e come altezza la stessa altezza**
 

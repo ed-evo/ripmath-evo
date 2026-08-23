@@ -1,4 +1,4 @@
-# [Determinazione degli asintoti]{.text-red}
+# Determinazione degli asintoti
 
 > Determinare gli asintoti serve per veder come la funzione si comporta all'infinito.
 > 

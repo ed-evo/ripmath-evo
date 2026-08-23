@@ -1,4 +1,4 @@
-# [Somma di successioni]{.text-red}
+# Somma di successioni
 
 Siano date la successione $$a$$
 $$

@@ -1,1 +1,1 @@
-# [Esempi di studio intuitivo del grafico di una funzione]{.text-red}
+# Esempi di studio intuitivo del grafico di una funzione

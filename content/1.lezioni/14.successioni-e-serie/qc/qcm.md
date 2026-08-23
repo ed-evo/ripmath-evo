@@ -1,4 +1,4 @@
-# [La successione geometrica]{.text-red}
+# La successione geometrica
 
 In questa pagina studiamo una successione molto importante: la successione geometrica che abbiamo già utilizzato varie volte.
 

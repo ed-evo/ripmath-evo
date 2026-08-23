@@ -1,4 +1,4 @@
-# [Un esempio]{.text-red}
+# Un esempio
 
 Come esempio di applicazione di alcuni dei concetti finora sviluppati mostriamo che la successione
 

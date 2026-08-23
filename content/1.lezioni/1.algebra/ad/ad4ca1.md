@@ -1,4 +1,4 @@
-# [Regola della somma di $$2$$ monomi per la loro differenza]{.text-red}
+# Regola della somma di $$2$$ monomi per la loro differenza
 
 $$
 \textcolor{red}{(a+b) \cdot (a-b) = a^2 - b^2}

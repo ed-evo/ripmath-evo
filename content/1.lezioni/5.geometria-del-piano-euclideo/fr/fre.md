@@ -1,4 +1,4 @@
-# [Determinazione della lunghezza della circonferenza]{.text-red}
+# Determinazione della lunghezza della circonferenza
 
 Ora individuiamo, in modo matematico, il valore della lunghezza della circonferenza.
 

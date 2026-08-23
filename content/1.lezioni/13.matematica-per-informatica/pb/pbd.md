@@ -1,4 +1,4 @@
-# [Sistemi di numerazione nell'antichità]{.text-red}
+# Sistemi di numerazione nell'antichità
 
 Facciamo un po' di storia: partiamo dall'osso di lupo di $$30.000$$ anni fa di cui abbiamo parlato in cui vi sono delle tacche raggruppate a gruppi di $$5$$ che fanno pensare ad un primo sistema di calcolo a base $$5$$.
 

@@ -1,4 +1,4 @@
-# [Problemi sulla parabola con asse verticale]{.text-red}
+# Problemi sulla parabola con asse verticale
 
 Vediamo ora di studiare alcuni tipi di problemi sulla parabola
 

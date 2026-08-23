@@ -1,4 +1,4 @@
-# [Somma]{.text-red}
+# Somma
 
 È la [somma](../../p/pc/pce.html) definita nell'algebra di Boole $$a+b$$
 

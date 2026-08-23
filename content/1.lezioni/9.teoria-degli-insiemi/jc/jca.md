@@ -1,4 +1,4 @@
-# [Definizione di relazione]{.text-red}
+# Definizione di relazione
 
 Possiamo definire la relazione fra due insiemi $$A$$ e $$B$$ in due modi diversi, uno riferito agli insiemi e l'altro agli elementi dei due insiemi:
 

@@ -1,4 +1,4 @@
-# [Applicazione alla somma fra numeri razionali (m.c.m.)]{.text-red}
+# Applicazione alla somma fra numeri razionali (m.c.m.)
 
 Per poter fare la somma fra numeri razionali, se le frazioni hanno denominatori complicati, devo prima scomporre i denominatori in fattori primi per potere poi calcolare il minimo comun denominatore per le frazioni equivalenti;
 Vediamo qui direttamente un esempio su come procedere:

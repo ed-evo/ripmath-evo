@@ -1,4 +1,4 @@
-# [Somma di angoli]{.text-red}
+# Somma di angoli
 
 Intuitivamente, per sommare $$2$$ angoli basterà metterli uno di seguito all'altro; angoli messi in tal modo li chiameremo consecutivi (analogamente alla definizione di consecutivi data ai segmenti).
 

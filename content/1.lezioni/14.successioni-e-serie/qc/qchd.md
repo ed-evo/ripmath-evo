@@ -1,4 +1,4 @@
-# [Quoziente di successioni]{.text-red}
+# Quoziente di successioni
 
 Date la successione $$a$$
 $$a_1, a_2, a_3, a_4, \dots, a_n, \dots$$

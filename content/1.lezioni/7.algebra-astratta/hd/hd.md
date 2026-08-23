@@ -1,4 +1,4 @@
-# [Morfismi]{.text-red}
+# Morfismi
 
 Spesso, anche fra parti molto diverse della matematica, si notano delle somiglianze, delle operazioni che si comportano nello stesso modo, delle strutture equivalenti; vediamo in questo capitolo di formalizzare tali fatti con la nozione di **morfismo**.
 

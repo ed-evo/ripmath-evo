@@ -1,4 +1,4 @@
-# [ANEDDOTO]{.text-red}
+# ANEDDOTO
 
 Era l'anno $$1966$$ e io ed il mio compagno prima di classe poi di università Riccardo frequentavamo il corso di Geometria tenuto dal Prof. Villa, un professore vecchio tipo grande matematico.
 Riccardo non era proprio quello che si può definire uno studente modello e non era troppo preparato, ma per ragioni di borsa di studio doveva sostenere un esame.

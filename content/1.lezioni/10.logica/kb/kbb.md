@@ -1,4 +1,4 @@
-# [Congiunzione logica]{.text-red}
+# Congiunzione logica
 
 La congiunzione logica (**e**) è un'operazione **binaria** perché si applica su due proposizioni ed è definita come l'operazione che applicata a $$p$$ e $$q$$ restituisce i seguenti valori di verità.
 Oltre al termine **et** è utilizzato il simbolo $$\land$$ (et).

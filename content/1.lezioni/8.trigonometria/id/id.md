@@ -1,4 +1,4 @@
-# [Trigonometria]{.text-red}
+# Trigonometria
 
 Quello che abbiamo fatto fin ora è la goniometria, anche se nell'uso normale viene chiamata trigonometria; ora iniziamo la "vera" trigonometria, cioè la scienza che studia i triangoli
 

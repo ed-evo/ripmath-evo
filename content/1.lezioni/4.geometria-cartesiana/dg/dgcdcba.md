@@ -1,4 +1,4 @@
-# [Punto doppio]{.text-red}
+# Punto doppio
 
 Consideriamo $$2$$ curve, una rossa e una blu, che si intersechino in $$2$$ punti $$A$$ e $$B$$.
 

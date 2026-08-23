@@ -1,4 +1,4 @@
-# [Prodotto fra numeri razionali]{.text-red}
+# Prodotto fra numeri razionali
 
 Cerchiamo di fare il prodotto nel modo più semplice possibile: ad esempio se devo fare
 

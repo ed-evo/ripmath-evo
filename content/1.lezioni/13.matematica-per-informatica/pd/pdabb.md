@@ -1,4 +1,4 @@
-# [bobina elettrica (solenoide)]{.text-red}
+# bobina elettrica (solenoide)
 
 Consideriamo una spira, cioè un filo circolare (solenoide): se il filo è collegato a una pila la corrente genera un campo magnetico che ha maggior concentrazione sull'asse del cerchio, cioè posso considerare la spira come una piccola calamita.
 

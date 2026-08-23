@@ -1,4 +1,4 @@
-## [Caso del polinomio non completo]{.text-red}
+## Caso del polinomio non completo
 
 Succede abbastanza spesso che il polinomio non sia completo, cioè che manchino dei termini ad esempio proviamo a scomporre:
 

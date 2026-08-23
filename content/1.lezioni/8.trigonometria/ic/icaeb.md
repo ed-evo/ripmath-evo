@@ -1,4 +1,4 @@
-# [Seconda formula di prostaferesi]{.text-red}
+# Seconda formula di prostaferesi
 
 Partiamo dalle due formule di addizione e sottrazione per il seno e sottraiamo in verticale (i due termini uguali $$\textcolor{blue}{\sin \alpha \cos \beta}$$ avendo lo stesso segno si annullano e spariscono).
 

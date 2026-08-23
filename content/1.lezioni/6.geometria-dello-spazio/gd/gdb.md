@@ -1,4 +1,4 @@
-# [Relazione fra piani nello spazio; un primo teorema]{.text-red}
+# Relazione fra piani nello spazio; un primo teorema
 
 Intanto diciamo che:
 Se un piano contiene due punti allora contiene tutti i punti della retta passante per i due punti.

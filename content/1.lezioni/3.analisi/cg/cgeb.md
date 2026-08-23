@@ -1,4 +1,4 @@
-# [metodo delle derivate successive]{.text-red}
+# metodo delle derivate successive
 
 Il metodo delle derivate successive dice semplicemente questo: se la derivata prima in un punto vale zero basta calcolarvi la derivata seconda:
 

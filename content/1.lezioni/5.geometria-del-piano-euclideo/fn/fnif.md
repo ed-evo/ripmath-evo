@@ -1,4 +1,4 @@
-# [Area di un poligono qualunque]{.text-red}
+# Area di un poligono qualunque
 
 > Se il poligono non è circoscrittibile, per calcolarne l'area conviene dividerlo in triangoli e quindi trovare l'area dei singoli triangoli.
 >

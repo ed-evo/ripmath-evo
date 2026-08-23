@@ -1,4 +1,4 @@
-# [Area positiva e negativa]{.text-red}
+# Area positiva e negativa
 
 Come è possibile che un'area quale quella che vediamo qui a fianco valga zero?
 

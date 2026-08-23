@@ -1,4 +1,4 @@
-# [Calcolare i giorni]{.text-red}
+# Calcolare i giorni
 
 ## Calcolare i giorni dal 3 marzo al 27 luglio
 

@@ -1,4 +1,4 @@
-# [Byte]{.text-red}
+# Byte
 
 Si definisce [**Byte**]{.text-red} un "pacchetto" di $$8$$ bit.
 

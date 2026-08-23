@@ -1,4 +1,4 @@
-# [Dimostrazione]{.text-red}
+# Dimostrazione
 
 > Mostriamo che se due proporzioni diverse hanno lo stesso rapporto di proporzionalità allora posso sommarle termine a termine.
 >

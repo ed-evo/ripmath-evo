@@ -1,4 +1,4 @@
-# [Costruzione del cono]{.text-red}
+# Costruzione del cono
 
 Considero il triangolo $$ABC$$ e considero l'asse passante per il cateto $$BC$$ come asse di rotazione.
 

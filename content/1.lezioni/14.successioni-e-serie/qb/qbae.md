@@ -1,4 +1,4 @@
-# [Somma di n termini di una progressione aritmetica]{.text-red}
+# Somma di n termini di una progressione aritmetica
 
 > Prima di procedere al calcolo vi racconto un aneddoto che spero vi farà meglio capire l'aspetto del problema:
 >

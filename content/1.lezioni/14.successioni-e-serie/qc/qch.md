@@ -1,4 +1,4 @@
-# [Operazioni sulle successioni]{.text-red}
+# Operazioni sulle successioni
 
 Data la successione
 $$

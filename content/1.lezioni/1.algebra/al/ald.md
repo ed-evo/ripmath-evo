@@ -1,4 +1,4 @@
-# [Un po' di nomenclatura]{.text-red}
+# Un po' di nomenclatura
 
 Consideriamo la scrittura
 $$\textcolor{blue}{c = \log_a b}$$

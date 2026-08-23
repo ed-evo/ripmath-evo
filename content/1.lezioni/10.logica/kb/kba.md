@@ -1,4 +1,4 @@
-# [Negazione]{.text-red}
+# Negazione
 
 La negazione è un'operazione **unaria** perché si applica su una sola proposizione ed è definita come l'operazione che applicata a $$p$$ restituisce il valore di verità contrario di $$p$$.
 

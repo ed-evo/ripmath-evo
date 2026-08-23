@@ -1,4 +1,4 @@
-# [Funzione di densità]{.text-red}
+# Funzione di densità
 
 - [Introduzione](lebda.html)
 - [Densità media](lebdb.html)

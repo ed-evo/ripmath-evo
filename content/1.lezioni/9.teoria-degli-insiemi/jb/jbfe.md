@@ -1,4 +1,4 @@
-# [Complementare di un insieme]{.text-red}
+# Complementare di un insieme
 
 Riprendiamo l'esempio di differenza complementare della pagina precedente con l'insieme $$B$$ contenuto in $$A$$ $$\textcolor{red}{B \subseteq A}$$:
 

@@ -1,4 +1,4 @@
-# [Distanza Terra-Sole]{.text-red}
+# Distanza Terra-Sole
 
 Data la grande distanza Terra-Sole non possiamo prendere come base il raggio terrestre per fare lo stesso ragionamento fatto nella pagina precedente perché l'angolo da misurare sarebbe troppo esiguo: possiamo però prendere come base la distanza Terra-Luna. Date le grandi distanze possiamo considerare la Terra, la Luna ed il Sole come puntiformi; la figura naturalmente non corrisponde alla realtà: dovrei disegnare un triangolo sottilissimo e lunghissimo.
 

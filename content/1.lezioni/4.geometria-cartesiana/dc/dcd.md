@@ -1,4 +1,4 @@
-# [Punto medio di un segmento]{.text-red}
+# Punto medio di un segmento
 
 Conoscendo le coordinate di due punti nel piano è possibile determinare le coordinate del loro punto intermedio (punto medio del segmento).
 

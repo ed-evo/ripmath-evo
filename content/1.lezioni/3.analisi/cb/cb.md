@@ -1,4 +1,4 @@
-# [INTERVALLI ED INTORNI]{.text-red}
+# INTERVALLI ED INTORNI
 
 Il concetto di intervallo e di intorno è essenziale per l'Analisi Matematica.
 

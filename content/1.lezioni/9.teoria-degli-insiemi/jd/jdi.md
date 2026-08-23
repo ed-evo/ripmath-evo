@@ -1,4 +1,4 @@
-# [Applicazione inversa]{.text-red}
+# Applicazione inversa
 
 Quando considero un'applicazione da $$A$$ a $$B$$ trasformando gli elementi di $$A$$ in elementi di $$B$$ viene spontaneo cercare se è possibile trovare l'applicazione inversa che va da $$B$$ ad $$A$$ e ritrasforma gli elementi di $$B$$ negli elementi di $$A$$ di partenza.
 

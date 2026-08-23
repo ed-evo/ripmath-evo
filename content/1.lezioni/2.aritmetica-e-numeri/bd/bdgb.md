@@ -1,4 +1,4 @@
-# [Potenza fra numeri reali con esponente razionale]{.text-red}
+# Potenza fra numeri reali con esponente razionale
 
 Se l'esponente è razionale allora ricordiamo che un numero razionale è il rapporto fra due numeri interi; inoltre, in presenza di radicali faremo riferimento alle formule:
 

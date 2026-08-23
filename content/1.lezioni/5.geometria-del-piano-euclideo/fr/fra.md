@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 In questo capitolo cercheremo di risolvere il problema classico della misura del cerchio (ciclo = cerchio metròs = misura) ed anche la rettificazione della circonferenza, cioè "stendere" la circonferenza su una retta e trovare la relazione tra tale segmento ed il raggio.
 

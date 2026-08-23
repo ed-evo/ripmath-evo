@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 $$\textcolor{blue}{x^4 - 5x^2 + 4 = 0}$$
 

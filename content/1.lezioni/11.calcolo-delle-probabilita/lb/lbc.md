@@ -1,4 +1,4 @@
-# [Combinazioni]{.text-red}
+# Combinazioni
 
 Le combinazioni su $$n$$ oggetti sono tutte le coppie, terne, quaterne, ... $$k$$-uple **non ordinate** che puoi formare con quegli oggetti.
 

@@ -1,4 +1,4 @@
-# [Definizione di tronco di cono]{.text-red}
+# Definizione di tronco di cono
 
 Possiamo definire il tronco di cono in due modi diversi:
 

@@ -1,4 +1,4 @@
-# [Il segmento di perpendicolare è minore di ogni segmento obliquo]{.text-red}
+# Il segmento di perpendicolare è minore di ogni segmento obliquo
 
 > Fornisco qui un breve cenno di dimostrazione, ma tu, per esercizio, potresti farne la dimostrazione completa con ipotesi, tesi... ed anche del teorema inverso.
 

@@ -1,4 +1,4 @@
-# [Gruppo]{.text-red}
+# Gruppo
 
 Abbiamo qui una struttura un po' più complessa che ci è suggerita dall'insieme $$\mathbb{Z}$$ con l'operazione di addizione od anche dall'insieme $$\mathbb{Q}-\{0\}$$ (Insieme dei razionali escluso il numero $$0$$) con l'operazione di moltiplicazione.
 

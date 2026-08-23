@@ -1,4 +1,4 @@
-# [Disequazione di primo grado ad una incognita]{.text-red}
+# Disequazione di primo grado ad una incognita
 
 Una disequazione si dice di primo grado quando la $$\textcolor{red}{x}$$ vi compare a potenza $$1$$.
 

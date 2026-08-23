@@ -1,4 +1,4 @@
-# [Introduzione alla formula di Erone]{.text-red}
+# Introduzione alla formula di Erone
 
 La formula di Erone ci permette di trovare l'area di un triangolo conoscendone le misure dei tre lati (in pratica equivale al terzo criterio di congruenza).
 

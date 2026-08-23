@@ -1,4 +1,4 @@
-# [Relazioni fra le funzioni trigonometriche]{.text-red}
+# Relazioni fra le funzioni trigonometriche
 
 Vediamo ora se è possibile trovare delle relazioni fra seno, coseno e tangente che ci permettano di passare da una funzione all'altra, cioè di trasformare il seno in coseno, il coseno in tangente, eccetera...
 

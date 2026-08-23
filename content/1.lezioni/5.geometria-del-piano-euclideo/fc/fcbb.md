@@ -1,4 +1,4 @@
-# [Angoli]{.text-red}
+# Angoli
 
 Considero una retta $$r$$ su un piano: il piano viene diviso in due parti che chiamerò semipiani di origine la retta $$r$$.
 

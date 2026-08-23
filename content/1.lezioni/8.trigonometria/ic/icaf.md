@@ -1,4 +1,4 @@
-# [Formule di Werner]{.text-red}
+# Formule di Werner
 
 Sono le formule inverse delle formule di prostaferesi e permetteranno di trasformare un prodotto in una somma
 La loro utilità è piuttosto limitata

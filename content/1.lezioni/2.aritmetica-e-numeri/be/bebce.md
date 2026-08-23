@@ -1,4 +1,4 @@
-# [Potenza di numeri complessi in forma trigonometrica]{.text-red}
+# Potenza di numeri complessi in forma trigonometrica
 ### formula di Moivre
 
 Poiché la potenza non è altro che il prodotto ripetuto più volte dello stesso termine è semplice trovare la formula che regola l'elevamento a potenza di un numero complesso.

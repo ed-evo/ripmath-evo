@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura di spazio vettoriale sullo spazio funzionale $$F(x)$$ i cui elementi sono funzioni $$y=f(x)$$ (definite su tutto $$\mathbb{R}$$), in cui è definita la somma vettoriale come la nuova funzione $$y = f(x)+g(x)$$ ed il prodotto scalare come $$a \cdot f(x)$$ con $$a$$ appartenente a $$\mathbb{R}$$.
 

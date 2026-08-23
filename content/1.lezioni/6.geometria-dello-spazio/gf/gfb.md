@@ -1,4 +1,4 @@
-# [Parallelismo fra retta e piano nello spazio]{.text-red}
+# Parallelismo fra retta e piano nello spazio
 
 Parallelismo fra una retta ed un piano
 

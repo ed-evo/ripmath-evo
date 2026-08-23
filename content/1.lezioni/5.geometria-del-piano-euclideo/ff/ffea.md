@@ -1,4 +1,4 @@
-# [Un po' di storia]{.text-red}
+# Un po' di storia
 
 > Useremo i termini postulato ed assioma come sinonimi sebbene il postulato sia un enunciato definito come vero mentre l'assioma è considerato un fatto evidente.
 

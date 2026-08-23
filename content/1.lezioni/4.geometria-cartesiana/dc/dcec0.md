@@ -1,4 +1,4 @@
-# [Casi particolari]{.text-red}
+# Casi particolari
 
 Come caso particolare dobbiamo considerare le rette orizzontali e verticali:
 

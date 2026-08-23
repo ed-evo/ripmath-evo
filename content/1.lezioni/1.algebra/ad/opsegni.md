@@ -1,4 +1,4 @@
-# [Diverso modo di interpretare i segni]{.text-red}
+# Diverso modo di interpretare i segni
 
 > È curioso come il segno più o meno messo in mezzo a due enti matematici abbia significati diversi a seconda di [come lo si osservi](pvista.html):
 >

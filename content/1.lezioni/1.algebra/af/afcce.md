@@ -1,4 +1,4 @@
-# [Regola di Cartesio]{.text-red}
+# Regola di Cartesio
 
 La regola di Cartesio mette in evidenza le relazioni esistenti tra i segni dei coefficienti $$a$$, $$b$$, $$c$$ ed i segni delle radici $$x_1$$ e $$x_2$$.
 

@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 $$
 \textcolor{blue}{\sqrt{\frac{6 + \sqrt{6^2 - 20}}{2}} + \sqrt{\frac{6 - \sqrt{6^2 - 20}}{2}}} =

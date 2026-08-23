@@ -1,4 +1,4 @@
-# [Centralità dell'aritmetica nella Matematica]{.text-red}
+# Centralità dell'aritmetica nella Matematica
 
 Vedremo in queste pagine che ogni formula ed ogni oggetto in qualunque teoria matematica possono essere trasformati in modo da corrispondere ad un particolare numero naturale: cioè ogni teoria matematica, essendo composta da oggetti e formule, corrisponde (è isomorfa) ad una parte dell'insieme dei numeri naturali.
 

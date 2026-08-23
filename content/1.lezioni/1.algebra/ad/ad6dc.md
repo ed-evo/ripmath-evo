@@ -1,4 +1,4 @@
-# [Scomposizione di una differenza di potenze pari]{.text-red}
+# Scomposizione di una differenza di potenze pari
 
 > Ho visto in alcuni libri utilizzare una formula quale quelle per le potenze dispari, ma siccome io sono convinto che in matematica le cose più semplici siano le migliori per questa scomposizione consiglio sempre ai miei alunni di rifarsi alla differenza di quadrati: vediamo un esempio
 >

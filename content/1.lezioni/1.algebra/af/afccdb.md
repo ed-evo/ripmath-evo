@@ -1,4 +1,4 @@
-# [Prodotto delle radici nell'equazione di secondo grado]{.text-red}
+# Prodotto delle radici nell'equazione di secondo grado
 
 Considero le due radici dell'equazione di secondo grado:
 

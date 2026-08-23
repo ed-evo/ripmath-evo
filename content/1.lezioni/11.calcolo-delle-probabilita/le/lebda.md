@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 > In pratica considerare la funzione densità di probabilità equivale a considerare il dominio della variabile aleatoria come suddiviso in intervalli infinitesimi e quindi ad introdurre le derivate nel calcolo delle probabilità: vedremo che:
 > 

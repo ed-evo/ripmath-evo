@@ -1,4 +1,4 @@
-# [Tasso nominale]{.text-red}
+# Tasso nominale
 
 Quando consideriamo un tasso frazionato, per comodità, senza dover ogni volta dire semestrale, trimestrale, eccetera, si preferisce parlare di un tasso annuo che, suddiviso, ci dia il nostro tasso semestrale o trimestrale eccetera.
 

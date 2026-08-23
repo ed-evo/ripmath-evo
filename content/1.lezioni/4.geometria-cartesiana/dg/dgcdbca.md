@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Rappresentare graficamente la parabola di equazione
 

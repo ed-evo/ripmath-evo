@@ -1,4 +1,4 @@
-# [Radice n-esima di un numero complesso]{.text-red}
+# Radice n-esima di un numero complesso
 
 Per calcolare la radice n-esima di un numero complesso dovremo rifarci alla formula inversa dell'elevamento a potenza per quanto riguarda $$\rho$$ non c'è nessun problema invece i problemi sorgono per determinare l'angolo $$\Theta$$: infatti quando eleviamo a potenza un angolo noi eseguiamo una rotazione e quanto più è elevata la potenza ed è ampio l'angolo tanti più giri farà l'angolo risultante.
 

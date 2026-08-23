@@ -1,4 +1,4 @@
-# [Se nella circonferenza manca il termine $$\textcolor{red}{bx}$$]{.text-red}
+# Se nella circonferenza manca il termine $$\textcolor{red}{bx}$$
 
 In tal caso $$\textcolor{blue}{b = 0}$$ e l'equazione della circonferenza diventa:
 

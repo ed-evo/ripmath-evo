@@ -1,4 +1,4 @@
-# [Insieme $$Z$$ dei numeri interi]{.text-red}
+# Insieme $$Z$$ dei numeri interi
 
 Prima cosa da osservare è che l'insieme dei numeri interi $$Z$$ procede sia a destra che a sinistra, quindi i numeri vanno da $$-\infty$$ fino a $$+\infty$$.
 

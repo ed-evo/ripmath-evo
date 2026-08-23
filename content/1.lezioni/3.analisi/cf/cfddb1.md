@@ -1,4 +1,4 @@
-## [Dimostrazione]{.text-red}
+## Dimostrazione
 
 > Infatti chiamando $$\textcolor{red}{c}$$ la costante avremo:
 >

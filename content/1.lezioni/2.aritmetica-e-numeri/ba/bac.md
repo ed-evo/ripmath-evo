@@ -1,4 +1,4 @@
-# [Concetto di operazione interna ed esterna]{.text-red}
+# Concetto di operazione interna ed esterna
 
 Un'operazione su due oggetti è un qualche cosa che prende i due oggetti e li trasforma in un terzo oggetto.
 

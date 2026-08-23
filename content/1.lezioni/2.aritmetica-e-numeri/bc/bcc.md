@@ -1,4 +1,4 @@
-# [Equivalenza fra numeri razionali]{.text-red}
+# Equivalenza fra numeri razionali
 
 Abbiamo ora un insieme ove vi sono numeri che, anche se scritti in modo diverso, hanno lo stesso valore come ad esempio
 

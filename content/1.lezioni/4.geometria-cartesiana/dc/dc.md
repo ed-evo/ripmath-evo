@@ -1,4 +1,4 @@
-# [Il piano cartesiano]{.text-red}
+# Il piano cartesiano
 
 - [Il sistema di coordinate cartesiane nel piano](dca.html)
 - [Convenzioni](dcb.html)

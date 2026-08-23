@@ -1,4 +1,4 @@
-# [Calcolo di C]{.text-red}
+# Calcolo di C
 
 Partiamo dalla formula della capitalizzazione composta:
 

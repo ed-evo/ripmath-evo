@@ -1,4 +1,4 @@
-# [Un esempio per capire meglio]{.text-red}
+# Un esempio per capire meglio
 
 Non sono concetti semplici, quindi vediamo di sviluppare un esempio, il più semplice possibile che ci permetta di vedere in pratica come si costruisce la distribuzione cercata: consideriamo un evento tale che la probabilità e la sua probabilità contraria abbiano lo stesso valore, ad esempio l'uscita di testa nel lancio di una moneta.
 

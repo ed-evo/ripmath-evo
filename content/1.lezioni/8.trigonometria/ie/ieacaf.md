@@ -1,4 +1,4 @@
-# [calcolo]{.text-red}
+# calcolo
 
 Ho:
 

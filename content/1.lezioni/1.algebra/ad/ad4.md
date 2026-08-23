@@ -1,4 +1,4 @@
-# [PRODOTTO NEI POLINOMI]{.text-red}
+# PRODOTTO NEI POLINOMI
 
 Nei polinomi possiamo considerare vari tipi di prodotto:
 

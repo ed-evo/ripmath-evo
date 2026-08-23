@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Ti vengono forniti alcuni esercizi graduati per difficoltà, prova a risolverli da solo poi vai a vedere la soluzione e, se ne hai bisogno, lo svolgimento.
 

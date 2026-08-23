@@ -1,4 +1,4 @@
-# [Determinanti 3x3 estraibili dalla matrice completa]{.text-red}
+# Determinanti 3x3 estraibili dalla matrice completa
 
 Tolgo la riga in blu 
 

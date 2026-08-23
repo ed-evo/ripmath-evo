@@ -1,4 +1,4 @@
-# [Dipendenza ed indipendenza lineare]{.text-red}
+# Dipendenza ed indipendenza lineare
 
 Consideriamo alcune equazioni:
 

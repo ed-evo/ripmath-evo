@@ -1,4 +1,4 @@
-# [Calcolare l'integrale definito]{.text-red}
+# Calcolare l'integrale definito
 
 Per calcolare l'integrale definito useremo questa semplice regola:
 

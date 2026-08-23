@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [Calcolare il perimetro di un rettangolo sapendo che la base è tripla dell'altezza e che, se si diminuiscono entrambe di $$1$$ metro la superficie del rettangolo diminuisce di $$15\text{ m}^2$.]{.text-blue}
 

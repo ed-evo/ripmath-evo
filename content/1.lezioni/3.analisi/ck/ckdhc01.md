@@ -1,4 +1,4 @@
-# [scomposizione]{.text-red}
+# scomposizione
 
 Scompongo:
 

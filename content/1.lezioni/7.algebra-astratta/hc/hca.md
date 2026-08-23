@@ -1,4 +1,4 @@
-# [Metodo operativo e nomenclatura]{.text-red}
+# Metodo operativo e nomenclatura
 
 > Inizieremo percorrendo passo passo la strada già percorsa con i numeri Naturali, Interi, Razionali e Reali, partendo dalle strutture più semplici fino ad arrivare a strutture più complesse; infine vedremo che le strutture trovate non sono esclusive dei numeri ma si ritrovano anche nelle matrici, nei vettori ed in altri enti matematici.
 >

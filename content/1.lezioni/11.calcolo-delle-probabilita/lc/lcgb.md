@@ -1,4 +1,4 @@
-# [Assiomi della probabilità]{.text-red}
+# Assiomi della probabilità
 
 Consideriamo il caso che l'insieme $$S$$, di cui consideriamo i sottoinsiemi, sia finito: allora ad ogni evento $$A$$ è associato un numero $$P(A)$$ se valgono i seguenti assiomi
 

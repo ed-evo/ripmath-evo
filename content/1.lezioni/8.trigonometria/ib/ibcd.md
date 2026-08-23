@@ -1,4 +1,4 @@
-# [Estensione alle reciproche delle funzioni trigonometriche]{.text-red}
+# Estensione alle reciproche delle funzioni trigonometriche
 
 > **Attenzione:** queste sono le reciproche delle funzioni fondamentali (cioè $$1$$ fratto la funzione) quindi è diverso dal dire funzioni inverse delle fondamentali (che saranno arcoseno, arcocoseno ed arcotangente)
 

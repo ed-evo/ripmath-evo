@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione della parabola con asse verticale che passa per i punti $$\textcolor{red}{A = (0, -4)}$$, $$\textcolor{red}{B = (3, -1)}$$ ed ha come asse la retta $$\textcolor{red}{x = 2}$$.
 

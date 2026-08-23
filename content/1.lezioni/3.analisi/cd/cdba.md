@@ -1,4 +1,4 @@
-# [limite di una successione di numeri reali]{.text-red}
+# limite di una successione di numeri reali
 
 Possiamo applicare il concetto di limite ad una successione di numeri $$reali$$
 

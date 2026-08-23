@@ -1,4 +1,4 @@
-# [Capitalizzazione semplice]{.text-red}
+# Capitalizzazione semplice
 
 Utilizzando l'interesse semplice parleremo di **regime ad interesse semplice** oppure **capitalizzazione semplice** e, questo regime, di solito verrà usato per periodi brevi (operazioni a breve scadenza).
 

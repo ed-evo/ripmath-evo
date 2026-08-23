@@ -1,4 +1,4 @@
-# [Calcolare un'espressione parzialmente]{.text-red}
+# Calcolare un'espressione parzialmente
 
 A volte conviene calcolare il valore di tutto un gruppo per poter risolvere.
 Vediamone un esempio.

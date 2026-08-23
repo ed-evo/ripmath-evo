@@ -1,4 +1,4 @@
-# [Altezza di una montagna rispetto al piano orizzontale dell'osservatore]{.text-red}
+# Altezza di una montagna rispetto al piano orizzontale dell'osservatore
 
 Distinguiamo due casi:
 

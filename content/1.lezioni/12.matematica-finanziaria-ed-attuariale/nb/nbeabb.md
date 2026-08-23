@@ -1,4 +1,4 @@
-# [Scadenza media]{.text-red}
+# Scadenza media
 
 Troviamo ora la data **scadenza media** in cui devo pagare il totale delle somme dei debiti ad un tasso fisso: in tal caso la scadenza sarà sempre intermedia fra le varie scadenze considerate, da cui il nome.
 

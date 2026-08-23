@@ -1,4 +1,4 @@
-# [Applicazioni a disequazioni più complesse]{.text-red}
+# Applicazioni a disequazioni più complesse
 
 Quando abbiamo espressioni più complesse possiamo applicare i metodi visti ora: si tratterà di considerare sistemi con più disequazioni.
 Consideriamo per ora il caso di disequazioni composte da prodotti e frazioni di espressioni di primo e di secondo grado, più avanti considereremo equazioni di grado superiore.

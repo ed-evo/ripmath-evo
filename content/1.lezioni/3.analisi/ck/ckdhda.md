@@ -1,4 +1,4 @@
-## [primo tipo]{.text-red}
+## primo tipo
 
 Devo risolvere
 

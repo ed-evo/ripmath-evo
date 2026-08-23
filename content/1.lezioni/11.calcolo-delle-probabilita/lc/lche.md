@@ -1,4 +1,4 @@
-# [Probabilità totale]{.text-red}
+# Probabilità totale
 
 Siano gli eventi $$E_1$$ ed $$E_2$$ due eventi tra loro mutualmente incompatibili, nel senso che può succedere uno solo dei due, e sia $$E$$ un evento che può accadere solamente associato ad uno dei due precedenti; allora vale la relazione (teorema della probabilità totale):
 

@@ -1,4 +1,4 @@
-# [Equazioni fratte]{.text-red}
+# Equazioni fratte
 
 Un'equazione si dice fratta quando la $$x$$ compare sotto il segno di frazione.
 

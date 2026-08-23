@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 **Problema:**
 [Due numeri differiscono di $$5$$; dividendo la loro somma per $$6$$ si ottiene come quoziente $$4$$ e come resto $$1$$. Trovare i due numeri.]{.text-blue}

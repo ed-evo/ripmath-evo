@@ -1,4 +1,4 @@
-## [punto di minimo relativo]{.text-red}
+## punto di minimo relativo
 
 Parleremo di minimo relativo quando considereremo il minimo in un intervallo
 parleremo di minimo assoluto se considereremo il valore più basso della funzione in tutto il dominio

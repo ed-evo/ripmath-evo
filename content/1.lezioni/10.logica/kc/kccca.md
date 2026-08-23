@@ -1,4 +1,4 @@
-# [Giudizio particolare affermativo]{.text-red}
+# Giudizio particolare affermativo
 
 Mediante la teoria degli insiemi, è possibile mostrare la verità o meno del giudizio particolare affermativo:
 

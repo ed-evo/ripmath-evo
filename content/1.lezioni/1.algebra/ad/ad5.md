@@ -1,4 +1,4 @@
-# [DIVISIONE FRA $$2$$ POLINOMI]{.text-red}
+# DIVISIONE FRA $$2$$ POLINOMI
 
 Per la divisione fra due polinomi possono essere usati due metodi diversi: uno più veloce (il metodo di Ruffini, ma può essere usato solo in alcuni casi) e uno più complicato (il metodo canonico che può essere usato per tutti i polinomi ordinati).
 

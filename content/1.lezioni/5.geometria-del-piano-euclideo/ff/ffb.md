@@ -1,4 +1,4 @@
-# [Definizione di rette parallele]{.text-red}
+# Definizione di rette parallele
 
 [Due rette si dicono parallele se non hanno nessun punto in comune]{.text-blue}
 

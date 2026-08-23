@@ -1,4 +1,4 @@
-# [Calcolo di un integrale indefinito]{.text-red}
+# Calcolo di un integrale indefinito
 
 Vediamo ora come procedere per calcolare un integrale indefinito
 

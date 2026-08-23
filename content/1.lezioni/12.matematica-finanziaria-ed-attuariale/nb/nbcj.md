@@ -1,4 +1,4 @@
-# [Condizioni di equivalenza fra sconto commerciale e razionale]{.text-red}
+# Condizioni di equivalenza fra sconto commerciale e razionale
 
 A questo punto diventa automatico confrontare tra loro lo sconto commerciale e razionale rispetto ai rispettivi tassi; per trovare le condizioni per cui i due tassi di sconto sono equivalenti: basterà uguagliare tra loro i due sconti per un credito $$C$$ scadente al tempo $$t$$ ponendo:
 

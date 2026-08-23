@@ -1,4 +1,4 @@
-# [Quoziente di limiti di successioni convergenti]{.text-red}
+# Quoziente di limiti di successioni convergenti
 
 Se le successioni
 

@@ -1,4 +1,4 @@
-# [Applicazione dei criteri di congruenza fra triangoli ai problemi geometrici]{.text-red}
+# Applicazione dei criteri di congruenza fra triangoli ai problemi geometrici
 
 Ora che conosciamo i criteri che uso ne possiamo fare? Questa domanda ci porta al metodo di soluzione dei problemi in geometria: corrisponde un po' a quello che ho mostrato in algebra però con alcune differenze.
 

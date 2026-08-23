@@ -1,4 +1,4 @@
-# [Matrici del sistema]{.text-red}
+# Matrici del sistema
 
 Il concetto di matrice è prezioso, perché ci permette di trattare "oggetti matematici" le cui componenti non siano tra loro sommabili come ad esempio:
 - Le coordinate di un punto nello spazio ad $$n$$ dimensioni

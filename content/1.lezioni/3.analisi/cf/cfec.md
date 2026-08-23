@@ -1,4 +1,4 @@
-# [Teorema di Cauchy]{.text-red}
+# Teorema di Cauchy
 
 Se il teorema di Lagrange era una generalizzazione del teorema di Rolle ora il teorema di Cauchy è un ampliamento del teorema di Lagrange, le ipotesi saranno le stesse eccetto il fatto che vi è una seconda funzione che essendo ad un denominatore non dovrà mai avere valore zero nell'intervallo di validità del teorema.
 

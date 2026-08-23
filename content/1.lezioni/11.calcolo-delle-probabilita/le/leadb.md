@@ -1,4 +1,4 @@
-# [dimostrazione]{.text-red}
+# dimostrazione
 
 > Dimostriamo che il valore medio del prodotto di una variabile casuale per una costante è uguale alla costante per il valore medio della variabile casuale.
 >

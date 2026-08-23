@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 > Come argomento è "trasversale"; cioè, partendo dalle equazioni di secondo grado, può essere applicato a vari problemi di diversi rami della matematica e quindi richiede conoscenze di geometria analitica, di algebra, di trigonometria.
 >

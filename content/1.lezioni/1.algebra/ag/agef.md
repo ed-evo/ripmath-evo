@@ -1,4 +1,4 @@
-# [Sistemi di equazione e disequazioni]{.text-red}
+# Sistemi di equazione e disequazioni
 
 Non è che siano molto comuni: comunque quando si incontrano possono lasciare un po' perplessi:
 

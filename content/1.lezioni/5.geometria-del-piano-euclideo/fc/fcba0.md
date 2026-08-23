@@ -1,4 +1,4 @@
-# [semiretta]{.text-red}
+# semiretta
 
 Come per tutti gli enti geometrici per definire un nuovo ente basta dire come l'hai trovato
 

@@ -1,4 +1,4 @@
-# [Potenza di frazioni algebriche]{.text-red}
+# Potenza di frazioni algebriche
 
 Ripassiamo l'operazione di elevamento a potenza per frazioni numeriche e poi facciamo l'equivalente con i polinomi.
 

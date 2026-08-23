@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data l'equazione
 $$ \textcolor{blue}{kx^2 - kx + k + 2 = 0} $$

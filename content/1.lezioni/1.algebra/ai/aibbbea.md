@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 Calcoliamo il valore del determinante al numeratore (io faccio tutti i passaggi, tu puoi abbreviare)
 

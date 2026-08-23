@@ -1,4 +1,4 @@
-# [Probabilità condizionata (subordinata)]{.text-red}
+# Probabilità condizionata (subordinata)
 
 Finora abbiamo parlato di probabilità senza limitazioni, cioè di probabilità **incondizionata (o subordinata)**; però spesso si incontrano eventi che possono dipendere da altri eventi che si verificano precedentemente: tali eventi, naturalmente, possono influire oppure no sulla probabilità dell'evento successivo; in tal caso occorre introdurre il concetto di **probabilità condizionata**.
 

@@ -1,4 +1,4 @@
-# [Equazione della retta perpendicolare ad una retta data e passante per un punto assegnato]{.text-red}
+# Equazione della retta perpendicolare ad una retta data e passante per un punto assegnato
 
 Ho le coordinate di un punto [$$A = (x_1, y_1)$$]{.text-blue} e l'equazione di una retta (non passante per il punto) [$$y = m_1x + q$$]{.text-blue}.
 Voglio trovare l'equazione della retta passante per il punto e perpendicolare alla retta data.

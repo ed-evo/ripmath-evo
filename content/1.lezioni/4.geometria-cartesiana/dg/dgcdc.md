@@ -1,4 +1,4 @@
-# [Intersezioni fra la parabola ed una curva]{.text-red}
+# Intersezioni fra la parabola ed una curva
 
 > Per curva intendiamo non solo una conica ma anche una retta
 

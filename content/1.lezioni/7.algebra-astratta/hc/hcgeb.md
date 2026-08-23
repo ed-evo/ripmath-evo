@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura di spazio vettoriale per un generico corpo $$K$$ su se stesso
 

@@ -1,4 +1,4 @@
-# [Postulati dell'appartenenza]{.text-red}
+# Postulati dell'appartenenza
 
 Definiscono i legami fra gli enti geometrici
 

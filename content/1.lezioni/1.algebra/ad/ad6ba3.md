@@ -1,4 +1,4 @@
-# [Caso del polinomio a coefficienti letterali]{.text-red}
+# Caso del polinomio a coefficienti letterali
 
 Quando i coefficienti sono dei termini letterali si procede sempre nello stesso modo, ma con molta attenzione. Ad esempio, proviamo a scomporre:
 

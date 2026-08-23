@@ -1,4 +1,4 @@
-# [Operazioni sui limiti]{.text-red}
+# Operazioni sui limiti
 
 Le operazioni sui limiti ci serviranno per il calcolo degli stessi
 

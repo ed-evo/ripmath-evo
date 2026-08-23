@@ -1,4 +1,4 @@
-# [Estrazione di radice]{.text-red}
+# Estrazione di radice
 
 **Definiamo l'estrazione di radice come operazione inversa dell'elevamento a potenza**
 

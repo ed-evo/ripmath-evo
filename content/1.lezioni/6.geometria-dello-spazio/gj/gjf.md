@@ -1,4 +1,4 @@
-# [Principio di Cavalieri]{.text-red}
+# Principio di Cavalieri
 
 Ora dobbiamo passare a calcolare il volume di una piramide: per semplificare i calcoli premetto il principio di Cavalieri, che ci permetterà di ottenere le formule per il volume della piramide (e non solo) in modo abbastanza semplice ed intuitivo. Quando insegnavo alle magistrali preferivo sempre questo metodo a quello classico degli scaloidi (una specie di integrale spiegato ad alunni che, come programma, non avevano nemmeno le equazioni di secondo grado complete). Se a qualcuno il metodo dello scaloide interessa me lo scriva ed io lo inserisco in una nota in questa pagina.
 

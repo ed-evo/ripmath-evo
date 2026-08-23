@@ -1,4 +1,4 @@
-# [Integrazione per sostituzione]{.text-red}
+# Integrazione per sostituzione
 
 Si riconoscono perché c'è una funzione ed è presente anche la sua derivata a meno di fattori costanti. Per risolvere un integrale si pone la funzione uguale ad una variabile $$t$$ e si sostituisce in tutto l'argomento dell'integrale: si ottiene un nuovo integrale nella variabile $$t$$.
 Si integra il nuovo integrale così ottenuto poi, nel risultato, al posto di $$t$$ si rimette la funzione di partenza: vediamo in particolare il metodo su di un esempio.

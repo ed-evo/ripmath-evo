@@ -1,4 +1,4 @@
-# [Problemi di primo grado di tipo geometrico]{.text-red}
+# Problemi di primo grado di tipo geometrico
 
 Sono problemi che servono a trovare dati in geometria; questi non sono troppo divertenti però sono utili.
 

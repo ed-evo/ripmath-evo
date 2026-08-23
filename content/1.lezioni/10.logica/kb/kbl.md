@@ -1,4 +1,4 @@
-# [Tautologia e contraddizione]{.text-red}
+# Tautologia e contraddizione
 
 Date due proposizioni semplici $$p$$ e $$q$$ chiameremo **tautologia** la proposizione composta che è sempre vera.
 

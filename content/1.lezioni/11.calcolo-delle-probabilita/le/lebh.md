@@ -1,4 +1,4 @@
-# [Scarto quadratico medio]{.text-red}
+# Scarto quadratico medio
 
 Ora per ottenere lo scarto quadratico medio $$\sigma$$ basterà eseguire l'operazione di estrazione di radice della varianza
 

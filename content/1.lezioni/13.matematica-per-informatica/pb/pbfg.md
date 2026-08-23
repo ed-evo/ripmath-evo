@@ -1,4 +1,4 @@
-# [Numeri con la virgola nel sistema binario]{.text-red}
+# Numeri con la virgola nel sistema binario
 
 Anche nel sistema binario, come nel sistema decimale, è possibile, quando otteniamo un resto nell'operazione di divisione, procedere ancora trovando le cifre decimali del numero; vediamo qui un esempio di come si procede.
 

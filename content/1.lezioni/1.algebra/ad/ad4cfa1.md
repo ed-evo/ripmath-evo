@@ -1,4 +1,4 @@
-# [CALCOLO DEI TERMINI DEL TRIANGOLO DI TARTAGLIA]{.text-red}
+# CALCOLO DEI TERMINI DEL TRIANGOLO DI TARTAGLIA
 
 Considerando le potenze che hai già calcolato, hai i seguenti valori:
 

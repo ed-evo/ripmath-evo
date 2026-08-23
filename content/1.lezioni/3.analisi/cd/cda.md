@@ -1,4 +1,4 @@
-# [Limite finito di una funzione in un punto]{.text-red}
+# Limite finito di una funzione in un punto
 
 Il concetto espresso nella pagina precedente è abbastanza comprensibile, diventa più complicato l'esprimerlo in forma matematica.
 

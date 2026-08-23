@@ -1,4 +1,4 @@
-# [Nomenclatura]{.text-red}
+# Nomenclatura
 
 Come in tutte le branche della scienza che si occupino di un campo specifico esistono dei termini che sono propri della disciplina e che quindi è bene evidenziare subito, perché prima di elaborare la teoria bisogna che sia chiaro il significato dei vocaboli che useremo.
 

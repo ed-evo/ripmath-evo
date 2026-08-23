@@ -1,4 +1,4 @@
-# [Il modulo di una somma è minore o uguale alla somma dei moduli]{.text-red}
+# Il modulo di una somma è minore o uguale alla somma dei moduli
 
 Se $$p$$ e $$q$$ sono numeri reali, vale sempre la disuguaglianza
 

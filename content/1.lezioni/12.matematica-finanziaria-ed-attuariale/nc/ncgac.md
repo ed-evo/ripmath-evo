@@ -1,4 +1,4 @@
-# [Calcolo del valore attuale di rendita differita]{.text-red}
+# Calcolo del valore attuale di rendita differita
 
 Consideriamo la rata fissa dell'importo di $$1 \text{ €}$$; per qualunque altro importo basterà poi moltiplicare tale importo per il nostro risultato.
 

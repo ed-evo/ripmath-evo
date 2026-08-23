@@ -1,4 +1,4 @@
-# [Esercizi più complicati]{.text-red}
+# Esercizi più complicati
 
 Per risolvere questi esercizi devi riscrivere il problema mettendolo nella forma succede questo o succede quello, succede questo e succede quest'altro: se i fatti sono incompatibili al posto di **o** puoi mettere il **+** mentre al posto di **e** puoi mettere il $$\cdot$$ se gli eventi sono indipendenti.
 

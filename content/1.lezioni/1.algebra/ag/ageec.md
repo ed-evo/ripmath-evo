@@ -1,4 +1,4 @@
-# [Esercizio su disequazione più complessa con numeratore e denominatore semplificabili]{.text-red}
+# Esercizio su disequazione più complessa con numeratore e denominatore semplificabili
 
 risolviamo la disequazione:
 

@@ -1,4 +1,4 @@
-# [Sigma-algebra]{.text-red}
+# Sigma-algebra
 
 Consideriamo un insieme $$X$$ ed un insieme [$$X$${.text-red}] di suoi possibili sottoinsiemi:
 

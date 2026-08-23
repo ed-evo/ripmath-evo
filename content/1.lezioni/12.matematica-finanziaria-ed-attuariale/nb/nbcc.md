@@ -1,4 +1,4 @@
-# [Regimi di sconto]{.text-red}
+# Regimi di sconto
 
 Per stabilire il compenso per chi anticipa un pagamento (sconto) intanto bisogna stabilire un tasso (che chiameremo tasso di sconto).
 

@@ -1,4 +1,4 @@
-# [GRADO DI UN POLINOMIO]{.text-red}
+# GRADO DI UN POLINOMIO
 
 Consideriamo ad esempio il polinomio
 

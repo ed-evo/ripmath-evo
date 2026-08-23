@@ -1,4 +1,4 @@
-## [Forme indeterminate del tipo $$\infty / \infty$$ metodo polinomiale]{.text-red}
+## Forme indeterminate del tipo $$\infty / \infty$$ metodo polinomiale
 
 Proviamo subito su un esempio:
 

@@ -1,4 +1,4 @@
-# [Ogni elemento è semplificabile]{.text-red}
+# Ogni elemento è semplificabile
 
 **Proprietà:**
 

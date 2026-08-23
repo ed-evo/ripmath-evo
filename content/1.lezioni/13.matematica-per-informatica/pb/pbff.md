@@ -1,4 +1,4 @@
-# [operazioni sui numeri binari]{.text-red}
+# operazioni sui numeri binari
 
 Veramente, per informatica, sarebbe sufficiente fare solamente la somma: la differenza si può ridurre alla somma complementare, come vedremo, il prodotto è una somma ripetuta ed il quoziente è una differenza ripetuta. Quindi in informatica basterà costruire un solo circuito di base che sia capace di fare la somma fra due numeri binari elementari ($$0$$ ed $$1$$) e le altre operazioni si baseranno sempre sulla somma e quindi sullo stesso circuito;
 

@@ -1,4 +1,4 @@
-# [POLINOMIO COMPLETO]{.text-red}
+# POLINOMIO COMPLETO
 
 Il polinomio $$\textcolor{red}{a^3+a+1}$$ non sembra ordinato ma se lo scrivo:
 

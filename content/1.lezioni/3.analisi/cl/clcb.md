@@ -1,4 +1,4 @@
-# [Equazioni differenziali ordinarie del primo ordine omogenee]{.text-red}
+# Equazioni differenziali ordinarie del primo ordine omogenee
 
 Diremo che un'equazione differenziale è omogenea del primo ordine se è del tipo
 

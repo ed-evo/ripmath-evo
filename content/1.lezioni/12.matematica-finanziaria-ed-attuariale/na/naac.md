@@ -1,4 +1,4 @@
-# [Interpolazione inversa]{.text-red}
+# Interpolazione inversa
 
 Si parla di interpolazione inversa quando, conoscendo il risultato $$y_0$$ si vuole risalire al valore $$x_0$$ della prima tabella.
 

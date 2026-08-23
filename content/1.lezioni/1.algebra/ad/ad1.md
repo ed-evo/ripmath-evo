@@ -1,4 +1,4 @@
-# [PERCHÉ I POLINOMI]{.text-red}
+# PERCHÉ I POLINOMI
 
 Finora in classe sei partito dai numeri naturali
 

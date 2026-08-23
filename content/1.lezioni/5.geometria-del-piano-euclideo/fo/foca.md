@@ -1,4 +1,4 @@
-# [Proprietà fondamentale]{.text-red}
+# Proprietà fondamentale
 
 La proprietà fondamentale dice che
 

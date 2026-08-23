@@ -1,4 +1,4 @@
-# [Le frazioni algebriche]{.text-red}
+# Le frazioni algebriche
 
 ---
 

@@ -1,4 +1,4 @@
-# [Diagonale e lato del quadrato sono incommensurabili]{.text-red}
+# Diagonale e lato del quadrato sono incommensurabili
 
 Per parlare di questo teorema dobbiamo parlare di Pitagora e della setta dei pitagorici. I pitagorici erano una specie di multinazionale del quinto secolo avanti Cristo, con sede centrale a Crotone, ma con le mani in pasta nei governi delle varie città della Magna Grecia, dove riuscivano a indirizzare le politiche dei vari tiranni utilizzando la loro magia-religione basata sulla numerologia.
 

@@ -1,4 +1,4 @@
-# [Il ruolo dei postulati]{.text-red}
+# Il ruolo dei postulati
 
 Quindi si giunge alla conclusione che, a seconda di come prendo i postulati io posso costruire un edificio logico perfettamente coerente, ma non posso dire se esso sia vero o falso; allora ciò che è importante non sono gli oggetti su cui costruisco, ma le interrelazioni che esistono fra tali oggetti: la matematica deve studiare le relazioni più che le proprietà; diceva Hilbert: "Non importa su cosa si studia, prima studiamo poi definiremo gli oggetti dello studio"
 

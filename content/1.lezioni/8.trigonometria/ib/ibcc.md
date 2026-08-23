@@ -1,4 +1,4 @@
-# [Relazioni fra seno, coseno e tangente]{.text-red}
+# Relazioni fra seno, coseno e tangente
 
 Tramite le relazioni fondamentali è possibile trasformare una qualunque espressione in seno, coseno e tangente o tutta in seno, o tutta in coseno o tutta in tangente.
 

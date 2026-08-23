@@ -1,4 +1,4 @@
-# [Superficie di rotazione di un segmento esterno all'asse di rotazione]{.text-red}
+# Superficie di rotazione di un segmento esterno all'asse di rotazione
 
 $$M$$ è il punto medio di $$AB$$
 $$O$$ è il punto di intersezione dell'asse del segmento $$AB$$ con l'asse di rotazione $$CD$$

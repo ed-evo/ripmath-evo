@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura per l'insieme $$\mathbb{Q}$$ dei numeri razionali con le operazioni di addizione ($$ + $$) e moltiplicazione ($$ \cdot $$)
 

@@ -1,4 +1,4 @@
-# [Prodotto fra serie secondo Cauchy]{.text-red}
+# Prodotto fra serie secondo Cauchy
 
 Consideriamo le serie
 

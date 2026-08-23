@@ -1,4 +1,4 @@
-# [Successione infinitesima]{.text-red}
+# Successione infinitesima
 
 Diremo che la successione
 **$$a_1, a_2, a_3, \dots, a_n, \dots$$**

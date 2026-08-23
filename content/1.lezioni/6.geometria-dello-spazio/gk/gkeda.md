@@ -1,4 +1,4 @@
-# [Fuso sferico e spicchio sferico]{.text-red}
+# Fuso sferico e spicchio sferico
 
 - Definizioni
 - Area del fuso sferico

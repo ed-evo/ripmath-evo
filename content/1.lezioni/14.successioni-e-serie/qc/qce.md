@@ -1,4 +1,4 @@
-# [Successione convergente]{.text-red}
+# Successione convergente
 
 Diremo che la successione
 

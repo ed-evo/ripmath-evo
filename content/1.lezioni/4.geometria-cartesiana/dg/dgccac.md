@@ -1,4 +1,4 @@
-# [Equazione dell'asse]{.text-red}
+# Equazione dell'asse
 
 Siccome nella parabola $$\textcolor{blue}{y = ax^2}$$ l'asse ha equazione $$\textcolor{blue}{X = 0}$$, applicando la traslazione di coordinate
 

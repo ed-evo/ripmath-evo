@@ -1,4 +1,4 @@
-# [Numeri in forma polinomiale]{.text-red}
+# Numeri in forma polinomiale
 
 Anche i numeri sono compresi nei polinomi:
 consideriamo ad esempio il numero $$\textcolor{red}{4657}$$, esso si può pensare come $$4$$ migliaia più $$6$$ centinaia più $$5$$ decine più sette unità cioè:

@@ -1,4 +1,4 @@
-# [Valore medio di una variabile aleatoria]{.text-red}
+# Valore medio di una variabile aleatoria
 
 Talvolta i dati portati da una distribuzione di probabilità sono sovrabbondanti, nel senso che, per le applicazioni, può essere sufficiente conoscere qualche valore caratteristico, come in fisica, talvolta, per studiare il moto di un sistema è sufficiente studiarne il moto del baricentro: il valore medio (chiamato anche speranza matematica) è l'equivalente in teoria della probabilità del baricentro di un sistema in fisica.
 

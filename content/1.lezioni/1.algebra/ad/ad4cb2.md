@@ -1,3 +1,3 @@
-# [Esercizi sul quadrato del binomio]{.text-red}
+# Esercizi sul quadrato del binomio
 
 [Pagina in costruzione]{.text-red}

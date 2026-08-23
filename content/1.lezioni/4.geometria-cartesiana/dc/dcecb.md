@@ -1,4 +1,4 @@
-# [Forma esplicita della retta]{.text-red}
+# Forma esplicita della retta
 
 La forma
 

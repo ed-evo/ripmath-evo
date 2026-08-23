@@ -1,4 +1,4 @@
-# [esercizi sulle equazioni di secondo grado spurie]{.text-red}
+# esercizi sulle equazioni di secondo grado spurie
 
 Risolvere le seguenti equazioni:
 

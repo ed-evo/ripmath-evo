@@ -1,4 +1,4 @@
-# [Derivata di una somma o differenza di funzioni]{.text-red}
+# Derivata di una somma o differenza di funzioni
 
 È la regola più facile ed intuitiva: per fare la derivata di una somma (o differenza) di funzioni basta fare la derivata delle singole funzioni ed il segno non cambia.
 

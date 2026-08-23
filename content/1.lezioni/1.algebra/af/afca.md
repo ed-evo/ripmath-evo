@@ -1,4 +1,4 @@
-# [Equazione pura]{.text-red}
+# Equazione pura
 
 È l'equazione di secondo grado del tipo:
 

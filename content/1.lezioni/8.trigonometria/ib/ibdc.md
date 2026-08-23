@@ -1,4 +1,4 @@
-# [Terzo quadrante]{.text-red}
+# Terzo quadrante
 
 Quando l'angolo si trova nel terzo quadrante può essere pensato in due modi diversi: o come $$180^\circ + \alpha$$ o come $$270^\circ - \alpha$$.
 

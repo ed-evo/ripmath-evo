@@ -1,5 +1,5 @@
-# [Come si disegna un solido di rotazione]{.text-red}
-## [Asse di rotazione passante per l'interno del poligono]{.text-red}
+# Come si disegna un solido di rotazione
+## Asse di rotazione passante per l'interno del poligono
 
 > **Nota:** Intanto, se l'asse di rotazione è interno al poligono, non puoi fare una rotazione completa, ma solamente una rotazione di $$180^\circ$$, quindi, prima di fare la figura rileggi attentamente il testo del problema.
 >

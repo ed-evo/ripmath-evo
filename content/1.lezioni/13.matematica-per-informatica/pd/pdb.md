@@ -1,4 +1,4 @@
-# [Passaggio al complementare]{.text-red}
+# Passaggio al complementare
 
 Possiamo pensare l'attivazione di un interruttore come il passaggio al complementare nell'algebra di Boole: infatti se lo stato è $$1$$ aprendo l'interruttore passeremo allo stato $$0$$ e se lo stato è $$0$$ chiudendo l'interruttore passeremo allo stato $$1$$.
 

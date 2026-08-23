@@ -1,4 +1,4 @@
-# [Teorema dell'unicità del limite]{.text-red}
+# Teorema dell'unicità del limite
 
 Vale il teorema:
 

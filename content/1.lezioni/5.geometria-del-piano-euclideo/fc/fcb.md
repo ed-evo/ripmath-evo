@@ -1,4 +1,4 @@
-# [Segmenti ed angoli]{.text-red}
+# Segmenti ed angoli
 
 Dobbiamo costruire tutto quanto solamente con il nostro ragionamento partendo dagli enti fondamentali e dai postulati, utilizzando, se necessario, le regole operative (dimostrazioni).
 

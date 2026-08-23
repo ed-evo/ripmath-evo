@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \textcolor{red}{36 - 12x + x^2 = 2x^2 - 7x}

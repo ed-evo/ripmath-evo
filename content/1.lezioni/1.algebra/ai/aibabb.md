@@ -1,4 +1,4 @@
-# [Sistema impossibile]{.text-red}
+# Sistema impossibile
 
 Il sistema è impossibile se le sue equazioni si contraddicono fra di loro.
 

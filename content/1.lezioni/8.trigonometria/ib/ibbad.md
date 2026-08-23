@@ -1,4 +1,4 @@
-# [Caratteristiche della funzione $$y = \sin x$$]{.text-red}
+# Caratteristiche della funzione $$y = \sin x$$
 
 Vediamo nei particolari le caratteristiche della sinusoide:
 

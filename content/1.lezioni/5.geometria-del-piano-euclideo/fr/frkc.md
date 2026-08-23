@@ -1,4 +1,4 @@
-# [Teorema della secante e della tangente]{.text-red}
+# Teorema della secante e della tangente
 
 Se da un punto esterno traccio una secante ed una tangente ad una stessa circonferenza allora l'intera secante e la sua parte esterna formano gli estremi, mentre la tangente forma i medi di una proporzione continua.
 

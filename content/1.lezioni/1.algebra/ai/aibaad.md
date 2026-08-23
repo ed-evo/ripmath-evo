@@ -1,4 +1,4 @@
-# [Metodo di Cramer]{.text-red}
+# Metodo di Cramer
 
 Se hai bisogno della [dimostrazione](aibaad1.html) del metodo, altrimenti in questa pagina ti verrà spiegato solo il come fare
 

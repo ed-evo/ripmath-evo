@@ -1,4 +1,4 @@
-# [Gioco equo con probabilità certe]{.text-red}
+# Gioco equo con probabilità certe
 
 Nel gioco con probabilità certe è possibile usare in modo esatto gli strumenti matematici possibili per determinarne probabilità di vincita e di perdita, equità del gioco, eccetera.
 È anche possibile pensare di costruire dei giochi complessi in cui le speranze matematiche dei singoli giocatori siano esattamente equilibrate.

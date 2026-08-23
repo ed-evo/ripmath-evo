@@ -1,4 +1,4 @@
-# [Equazione possibile]{.text-red}
+# Equazione possibile
 
 È l'equazione vera che afferma cioè un fatto vero ed unico:
 

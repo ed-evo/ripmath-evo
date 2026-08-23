@@ -1,4 +1,4 @@
-# [Alcuni esempi]{.text-red}
+# Alcuni esempi
 
 Vediamo ora alcuni esercizi di ricapitolazione sugli argomenti fatti
 

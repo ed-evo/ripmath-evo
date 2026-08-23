@@ -1,4 +1,4 @@
-# [Cilindro]{.text-red}
+# Cilindro
 
 - Definizione
 - Area della superficie

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 > Questo veramente più che di massimo e di minimo sarebbe un problema di flesso ma penso che in mezzo agli altri stia bene anche lui
 

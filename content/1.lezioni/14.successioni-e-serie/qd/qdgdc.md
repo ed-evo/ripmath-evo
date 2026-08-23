@@ -1,4 +1,4 @@
-# [Criterio di Raabe]{.text-red}
+# Criterio di Raabe
 
 Consideriamo la serie
 

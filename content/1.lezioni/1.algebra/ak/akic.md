@@ -1,4 +1,4 @@
-# [Disequazioni più complesse]{.text-red}
+# Disequazioni più complesse
 
 Quando abbiamo disequazioni più complesse con tre o più radicali si procede nel modo seguente:
 

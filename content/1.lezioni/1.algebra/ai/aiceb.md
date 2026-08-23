@@ -1,4 +1,4 @@
-# [Formule di Waring]{.text-red}
+# Formule di Waring
 
 Ogni sistema simmetrico si può trasformare nell'insieme di uno o più sistemi simmetrici elementari.
 Le formule di Waring ci permettono di eseguire tali trasformazioni; vediamole:

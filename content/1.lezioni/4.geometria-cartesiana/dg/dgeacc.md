@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Considerate le rette parallele alla retta $$y = 2x - 5$$ determinare le condizioni per cui le intersezioni di tali rette con la parabola $$y = 3x^2$$ siano rappresentate con valori reali e distinti
 

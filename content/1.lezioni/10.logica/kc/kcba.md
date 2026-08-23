@@ -1,4 +1,4 @@
-# [Quantificatore universale]{.text-red} $$\textcolor{red}{\forall}$$
+# Quantificatore universale $$\textcolor{red}{\forall}$$
 
 Partiamo dalla frase classica:
 

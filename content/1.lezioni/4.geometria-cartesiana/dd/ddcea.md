@@ -1,4 +1,4 @@
-# [Se nella circonferenza manca il termine $$ax$$]{.text-red}
+# Se nella circonferenza manca il termine $$ax$$
 
 In tal caso [$$a = 0$$]{.text-blue} e l'equazione della circonferenza diventa
 

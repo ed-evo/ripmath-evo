@@ -1,4 +1,4 @@
-# [tabella di riepilogo]{.text-red}
+# tabella di riepilogo
 
 Puoi vedere la tabella di riepilogo per le disequazioni di secondo grado. Distinguiamo i due casi:
 

@@ -1,4 +1,4 @@
-# [Equazione della direttrice]{.text-red}
+# Equazione della direttrice
 
 Siccome nella parabola $$\textcolor{blue}{y = ax^2}$$ la direttrice ha equazione
 

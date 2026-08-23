@@ -1,4 +1,4 @@
-# [Retta per due punti]{.text-red}
+# Retta per due punti
 
 Avendo le coordinate di due punti [$$A = (x_1, y_1)$$]{.text-blue} [$$B = (x_2, y_2)$$]{.text-blue} voglio trovare l'equazione della retta passante per questi due punti.
 

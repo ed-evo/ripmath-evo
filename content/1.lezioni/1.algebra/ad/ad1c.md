@@ -1,4 +1,4 @@
-# [POLINOMIO ORDINATO]{.text-red}
+# POLINOMIO ORDINATO
 
 Considera i $$2$$ polinomi
 

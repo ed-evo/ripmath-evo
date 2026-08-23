@@ -1,4 +1,4 @@
-# [Cosecante di un angolo]{.text-red}
+# Cosecante di un angolo
 
 La cosecante è la reciproca del seno
 definiamo:

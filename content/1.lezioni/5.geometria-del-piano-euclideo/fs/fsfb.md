@@ -1,4 +1,4 @@
-# [Costruzione del decagono regolare]{.text-red}
+# Costruzione del decagono regolare
 
 Quindi, per costruire il decagono regolare sarà sufficiente calcolare la sezione aurea del raggio, poi, partendo da un punto qualunque della circonferenza, riportare (ad esempio con un compasso) tale segmento per $$10$$ volte.
 

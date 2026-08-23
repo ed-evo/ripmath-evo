@@ -1,4 +1,4 @@
-# [Equivalenza]{.text-red}
+# Equivalenza
 
 Dobbiamo ora procedere vedendo in cosa le figure possono essere uguali: abbiamo due possibilità: o figure con la stessa superficie (equivalenza o equiestensione) oppure figure con la stessa forma (similitudine).
 

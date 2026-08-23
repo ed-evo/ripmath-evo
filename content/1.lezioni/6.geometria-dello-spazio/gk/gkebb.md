@@ -1,4 +1,4 @@
-# [Area della superficie di rotazione di una poligonale regolare]{.text-red}
+# Area della superficie di rotazione di una poligonale regolare
 
 Chiamiamo **poligonale regolare** parte del perimetro di un poligono regolare.
 

@@ -1,4 +1,4 @@
-# [Problemi sui fasci di rette]{.text-red}
+# Problemi sui fasci di rette
 
 Di solito non si hanno grossi problemi: il problema più gettonato è il determinare il centro e le rette base del fascio avendo l'equazione del fascio stesso; facciamo un esempio:
 

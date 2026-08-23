@@ -1,4 +1,4 @@
-# [Partiamo dalla tesi e risaliamo fino ai dati]{.text-red}
+# Partiamo dalla tesi e risaliamo fino ai dati
 
 La tesi è che il triangolo $$ADE$$ è isoscele cioè $$AD = AE$$.
 

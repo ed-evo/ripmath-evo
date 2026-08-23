@@ -1,4 +1,4 @@
-# [Chiarimento]{.text-red}
+# Chiarimento
 
 > La corrente elettrica è un flusso di elettroni, particelle di carica negativa.
 > 

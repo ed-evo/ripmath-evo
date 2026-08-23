@@ -1,4 +1,4 @@
-# [Formule di Eulero]{.text-red}
+# Formule di Eulero
 
 Abbiamo trovato che vale
 

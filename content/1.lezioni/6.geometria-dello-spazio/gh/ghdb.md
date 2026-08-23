@@ -1,4 +1,4 @@
-# [Relazione fondamentale (Relazione di Eulero)]{.text-red}
+# Relazione fondamentale (Relazione di Eulero)
 
 Consideriamo un qualunque poliedro; indichiamo con:
 - $$s$$ il numero degli spigoli

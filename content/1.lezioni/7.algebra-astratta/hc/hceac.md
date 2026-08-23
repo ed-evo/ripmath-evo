@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Mostrare la presenza della struttura ad anello per l'insieme $$P(x)$$ dei polinomi in $$x$$ a coefficienti reali con le normali operazioni di addizione ($$+$$) e moltiplicazione ($\$\cdot\$$) fra polinomi.
 

@@ -1,4 +1,4 @@
-# [Esempi di calcolo delle probabilità]{.text-red}
+# Esempi di calcolo delle probabilità
 
 Vediamo ora alcuni semplici problemi di calcolo della probabilità utilizzando la probabilità classica.
 

@@ -1,4 +1,4 @@
-# [Formule di addizione e sottrazione per la tangente]{.text-red}
+# Formule di addizione e sottrazione per la tangente
 
 Estendiamo alla tangente le formule di addizione e sottrazione:
 

@@ -1,4 +1,4 @@
-# [Condizioni per le coordinate del vertice]{.text-red}
+# Condizioni per le coordinate del vertice
 
 Le coordinate del vertice mi forniscono due condizioni; è possibile però utilizzare due procedimenti diversi per arrivare alle equazioni delle condizioni:
 

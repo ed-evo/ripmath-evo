@@ -1,4 +1,4 @@
-# [Teoria della misura]{.text-red}
+# Teoria della misura
 
 > La teoria della misura introdurrà in geometria il concetto di misura, cioè di numero associato ad un ente geometrico, pertanto occorrerà d'ora in poi distinguere se parliamo, ad esempio, di un segmento oppure della misura del segmento stesso; indicheremo nel seguente modo:
 >

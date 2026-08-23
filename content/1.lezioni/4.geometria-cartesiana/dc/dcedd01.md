@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 > Io eseguo tutti i passaggi, tu puoi abbreviare
 

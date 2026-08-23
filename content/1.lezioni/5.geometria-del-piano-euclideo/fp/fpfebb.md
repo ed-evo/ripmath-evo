@@ -1,4 +1,4 @@
-# [correggere]{.text-red}
+# correggere
 
 ## Problema
 Dato il triangolo $$ABC$$ si consideri la mediana $$AD$$. Per il punto $$E$$, preso su $$BC$$ si tracci la parallela ad $$AD$$ che interseca le rette $$AC$$ ed $$AB$$ nei punti $$F$$ e $$G$$.

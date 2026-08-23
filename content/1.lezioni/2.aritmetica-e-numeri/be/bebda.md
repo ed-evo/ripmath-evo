@@ -1,4 +1,4 @@
-# [Sistema di coordinate polari]{.text-red}
+# Sistema di coordinate polari
 
 Il problema di un sistema di coordinate è sempre lo stesso: in che modo si può individuare esattamente la posizione di un punto nel piano? Abbiamo visto il sistema di coordinate cartesiane nel piano che mediante le proiezioni su due assi individua i punti del piano stesso. Vediamo ora un altro sistema di coordinate in cui un punto è individuato da un segmento e da un angolo.
 

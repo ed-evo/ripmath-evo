@@ -1,4 +1,4 @@
-# [M.C.D. fra polinomi]{.text-red}
+# M.C.D. fra polinomi
 
 Come per i monomi anche per i polinomi per calcolare il Massimo Comun Divisore devo trovare tutti i fattori comuni, quindi prima dovrò scomporre i polinomi poi cercare cosa hanno di uguale fra loro (ricorda che se non hanno niente di uguale il Massimo Comun Divisore vale $$1$$).
 

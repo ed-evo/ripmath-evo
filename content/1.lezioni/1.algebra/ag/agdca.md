@@ -1,4 +1,4 @@
-# [tabella di riepilogo con $$a > 0$$]{.text-red}
+# tabella di riepilogo con $$a > 0$$
 
 Per risolvere una disequazione di secondo grado devi considerare l'equazione associata ed applicare la formula risolutiva: devi poi controllare il termine entro radice se è:
 

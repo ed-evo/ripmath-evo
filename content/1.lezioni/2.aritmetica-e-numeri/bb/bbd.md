@@ -1,4 +1,4 @@
-# [Prodotto fra numeri interi]{.text-red}
+# Prodotto fra numeri interi
 
 Al solito userò indifferentemente la parola prodotto e la parola moltiplicazione anche se la prima indica il risultato e la seconda indica l'operazione.
 

@@ -1,4 +1,4 @@
-# [Calcoli con i Logaritmi]{.text-red}
+# Calcoli con i Logaritmi
 
 Dopo aver trasformato i numeri in Logaritmi ed averne applicato le proprietà ora ci troviamo a dover fare dei calcoli
 

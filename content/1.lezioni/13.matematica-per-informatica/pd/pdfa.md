@@ -1,4 +1,4 @@
-# [L'algebra dei circuiti è un'algebra di Boole]{.text-red}
+# L'algebra dei circuiti è un'algebra di Boole
 
 Mostriamo come esercizio in questa pagina che
 

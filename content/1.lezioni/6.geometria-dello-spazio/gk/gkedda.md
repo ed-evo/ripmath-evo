@@ -1,4 +1,4 @@
-# [Definizione di settore sferico]{.text-red}
+# Definizione di settore sferico
 
 Definiamo il settore sferico come solido di rotazione.
 

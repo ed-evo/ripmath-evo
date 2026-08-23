@@ -1,4 +1,4 @@
-# [Esercizio sul calcolo del tasso ad interesse composto per tempi interi]{.text-red}
+# Esercizio sul calcolo del tasso ad interesse composto per tempi interi
 
 Ho impiegato un capitale di $$€ 11500$$ per $$5$$ anni ad interesse composto ed ho ricevuto un montante di $$€ 12756,65$$; calcolate quale tasso è stato applicato.
 

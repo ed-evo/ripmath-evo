@@ -1,4 +1,4 @@
-# [Tabella di riepilogo]{.text-red}
+# Tabella di riepilogo
 
 ## [Rettangolo]{.text-blue-darken-4}
 $$\textcolor{red}{A_s(ABCD) = a \cdot b}$$

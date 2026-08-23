@@ -1,4 +1,4 @@
-# [Limite infinito per x tendente ad infinito]{.text-red}
+# Limite infinito per x tendente ad infinito
 
 Per dire che abbiamo limite infinito quando $$x$$ tende ad infinito dobbiamo dire che quando il bordo dell'intorno completo di infinito sulle $$y$$ si allontana verso il basso e verso l'alto allora anche il bordo del corrispondente intorno completo di infinito sull'asse $$x$$ si allontana a destra ed a sinistra.
 

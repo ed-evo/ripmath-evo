@@ -1,4 +1,4 @@
-# [Problemi geometrici]{.text-red}
+# Problemi geometrici
 
 Per i problemi di geometria devi leggere molto bene il testo; poi devi trovare tante relazioni (equazioni) quante sono le incognite che usi:
 

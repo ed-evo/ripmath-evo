@@ -1,4 +1,4 @@
-# [Applicazioni all'astronomia]{.text-red}
+# Applicazioni all'astronomia
 
 - Distanza terra luna
 - Distanza terra sole

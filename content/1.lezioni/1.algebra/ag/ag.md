@@ -1,4 +1,4 @@
-# [Disequazioni]{.text-red}
+# Disequazioni
 
 a. Definizione
 b. Disequazioni di primo grado

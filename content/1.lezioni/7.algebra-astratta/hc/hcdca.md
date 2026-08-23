@@ -1,4 +1,4 @@
-# [Cosa significa resto modulo p]{.text-red}
+# Cosa significa resto modulo p
 
 Consideriamo l'insieme $$\mathbb{N}$$ dei numeri naturali con l'operazione di divisione per un numero, ad esempio la divisione per $$5$$: allora per ogni numero naturale otterrò un quoziente e un resto: ad esempio
 

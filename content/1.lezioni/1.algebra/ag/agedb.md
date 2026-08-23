@@ -1,4 +1,4 @@
-# [Disequazione fratta minore od uguale a zero]{.text-red}
+# Disequazione fratta minore od uguale a zero
 
 risolviamo la disequazione:
 

@@ -1,4 +1,4 @@
-# [Grafico di una parabola]{.text-red}
+# Grafico di una parabola
 
 La parabola si può presentare nella forma:
 $$\textcolor{red}{y = ax^2}$$

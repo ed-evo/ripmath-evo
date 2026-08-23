@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 $$\textcolor{red}{y = 5\arctan(x^3 + 1)}$$
 

@@ -1,4 +1,4 @@
-# [Contro-implicazione diretta]{.text-red}
+# Contro-implicazione diretta
 
 È la contro-implicazione diretta $$ab'$$
 

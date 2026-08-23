@@ -1,4 +1,4 @@
-# [Equiscomponibilità fra figura circoscritta e triangolo]{.text-red}
+# Equiscomponibilità fra figura circoscritta e triangolo
 
 **Qualunque poligono circoscrittibile è equivalente ad un triangolo avente come base il perimetro della figura e come altezza il raggio della circonferenza inscritta nella figura**
 

@@ -1,4 +1,4 @@
-# [Soluzione algebrica]{.text-red}
+# Soluzione algebrica
 
 È possibile risolvere il problema della sezione aurea in modo algebrico: lo faremo in questa pagina:
 

@@ -1,4 +1,4 @@
-# [Volume del tronco di cono]{.text-red}
+# Volume del tronco di cono
 
 Anche per il tronco di cono possiamo usare il principio di Cavalieri.
 

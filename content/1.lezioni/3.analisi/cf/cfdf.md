@@ -1,4 +1,4 @@
-# [Velocità e accelerazione]{.text-red}
+# Velocità e accelerazione
 
 Questo veramente sarebbe un argomento di fisica, ma storicamente è stato questo che ha portato Newton a costruire il concetto di derivata di una funzione in un punto.
 

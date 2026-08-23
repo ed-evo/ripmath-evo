@@ -1,4 +1,4 @@
-# [Metodo di addizione]{.text-red}
+# Metodo di addizione
 
 Risolviamo il sistema generico
 

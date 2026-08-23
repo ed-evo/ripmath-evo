@@ -1,4 +1,4 @@
-# [Calcolo del montante calcolato dopo k anni dopo l'ultimo versamento]{.text-red}
+# Calcolo del montante calcolato dopo k anni dopo l'ultimo versamento
 
 Invece di calcolare il montante all'atto dell'ultimo versamento (rendita posticipata) oppure un anno dopo l'ultimo versamento (rendita anticipata) è possibile calcolare il valore di tale montante in un qualunque periodo di tempo successivo, ad esempio dopo $$k$$ anni: per fare ciò sarà sufficiente spostare in avanti nel tempo di $$k$$ anni il valore del montante calcolato all'atto dell'ultimo versamento, cioè, semplicemente:
 

@@ -1,4 +1,4 @@
-# [Disequazioni esponenziali a base minore di 1]{.text-red}
+# Disequazioni esponenziali a base minore di 1
 
 Se la base è minore di $$1$$ possiamo agire in due modi diversi:
 

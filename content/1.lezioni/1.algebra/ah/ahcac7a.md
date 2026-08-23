@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \textcolor{red}{\sqrt{2000} =}

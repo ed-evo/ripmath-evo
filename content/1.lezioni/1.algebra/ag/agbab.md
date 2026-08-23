@@ -1,4 +1,4 @@
-# [Cambiamento di segno e verso nelle disequazioni]{.text-red}
+# Cambiamento di segno e verso nelle disequazioni
 
 Consideriamo la retta reale: su di essa possiamo sempre fissare un verso per cui i numeri a destra sono sempre superiori ai numeri a sinistra. Consideriamo ora due numeri qualunque, ad esempio $$2$$ e $$5$$.
 

@@ -1,4 +1,4 @@
-# [Montante ad interesse semplice]{.text-red}
+# Montante ad interesse semplice
 
 Il **Montante $$M$$** è ciò che viene restituito alla fine del periodo di capitalizzazione a chi ha dato in uso il proprio denaro.
 

@@ -1,4 +1,4 @@
-# [Caratteri di una rendita]{.text-red}
+# Caratteri di una rendita
 
 Per definire una rendita si deve definirne l'importo e la scadenza di ogni rata
 

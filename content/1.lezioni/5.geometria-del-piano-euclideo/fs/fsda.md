@@ -1,4 +1,4 @@
-# [Data la sezione aurea trovarne il segmento generatore]{.text-red}
+# Data la sezione aurea trovarne il segmento generatore
 
 Per risolvere il problema basta considerare la figura costituita da un triangolo equilatero inscritto in un cerchio: consideriamo poi $$MN$$ la congiungente i punti medi di due lati che sarà anche metà del terzo lato.
 

@@ -1,4 +1,4 @@
-# [Proprietà di i]{.text-red}
+# Proprietà di i
 
 Il numero $$\textcolor{red}{i = \sqrt{-1}}$$ è l'unità immaginaria.
 Rispetto al prodotto è ciclica, cioè dopo un certo numero ($$4$$) di passaggi si ripete:

@@ -1,4 +1,4 @@
-# [Perpendicolarità fra piani]{.text-red}
+# Perpendicolarità fra piani
 
 Vediamo ora di definire nello spazio la nozione di perpendicolarità fra piani e di trarne le possibili proprietà e conseguenze.
 

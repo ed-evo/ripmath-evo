@@ -1,4 +1,4 @@
-# [Valori di sen $$\textcolor{red}{\alpha}$$]{.text-red}
+# Valori di sen $$\textcolor{red}{\alpha}$$
 
 Dobbiamo immaginare che il raggio $$\text{OP}$$ parta dall'asse orizzontale e che il punto $$\text{P}$$ percorra la circonferenza. Leggiamo il valore di $$\text{PH}$$ in verticale.
 

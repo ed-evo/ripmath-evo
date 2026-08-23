@@ -1,4 +1,4 @@
-# [Iperbole]{.text-red}
+# Iperbole
 
 Parliamo dell'iperbole: come prima approssimazione studieremo l'iperbole come conica a centro, cioè riferita ai propri assi
 

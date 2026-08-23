@@ -1,4 +1,4 @@
-# [Successioni generate da prodotti con fattori a segno alterno]{.text-red}
+# Successioni generate da prodotti con fattori a segno alterno
 
 Qui, considerando alternativamente il prodotto per $$+1$$ e per $$-1$$ possiamo avere delle successioni "oscillanti": vediamo un esempio per ogni tipo: convergente, divergente ed indeterminata.
 

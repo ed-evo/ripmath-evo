@@ -1,4 +1,4 @@
-# [Teorema diretto: Se un triangolo ha due lati congruenti allora ha anche due angoli congruenti]{.text-red}
+# Teorema diretto: Se un triangolo ha due lati congruenti allora ha anche due angoli congruenti
 
 [Se un triangolo ha due lati congruenti allora ha congruenti anche gli angoli opposti ai lati congruenti]{.text-blue}
 

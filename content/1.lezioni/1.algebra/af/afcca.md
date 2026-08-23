@@ -1,4 +1,4 @@
-# [Formula risolutiva dell'equazione di secondo grado]{.text-red}
+# Formula risolutiva dell'equazione di secondo grado
 
 Dobbiamo dimostrare come da
 

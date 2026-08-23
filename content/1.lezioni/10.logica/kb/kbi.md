@@ -1,4 +1,4 @@
-# [Doppia deduzione logica]{.text-red}
+# Doppia deduzione logica
 
 Anche qui non devi confondere la **doppia deduzione logica** con la coimplicazione:
 

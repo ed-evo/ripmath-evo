@@ -1,4 +1,4 @@
-## [Approfondimento]{.text-red}
+## Approfondimento
 
 Mostriamo prima che tutti i trapezi laterali del tronco di piramide derivante da una piramide retta hanno la stessa altezza (d'ora in avanti quando parleremo di tronco di piramide, se non espressamente indicato, intenderemo un tronco derivante da una piramide **retta**).
 

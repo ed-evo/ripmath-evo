@@ -1,4 +1,4 @@
-# [Matrice inversa di una matrice quadrata]{.text-red}
+# Matrice inversa di una matrice quadrata
 
 Una matrice quadrata $$\textcolor{red}{\mathbf{A}^{-1}}$$ si dice inversa della matrice quadrata $$\textcolor{red}{\mathbf{A}}$$ se vale
 

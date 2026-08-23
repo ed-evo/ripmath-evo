@@ -1,4 +1,4 @@
-# [Il circuito interruttore]{.text-red}
+# Il circuito interruttore
 
 - effetto magnetico di una corrente elettrica
 - bobina

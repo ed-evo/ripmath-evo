@@ -1,4 +1,4 @@
-# [Esempio di morfismo]{.text-red}
+# Esempio di morfismo
 
 > In pratica dobbiamo vedere se un'operazione si "mantiene" quando trasformiamo mediante funzioni gli oggetti di un dominio su cui tale operazione lavora: naturalmente se gli oggetti sono trasformati anche l'operazione sul codominio potrà essere diversa, però talvolta l'operazione valida nel primo insieme trova corrispondenza in un'operazione nel secondo insieme nel senso che operando sui trasformati dei singoli termini oppure sul trasformato del risultato otteniamo gli stessi valori: in questo caso diciamo che abbiamo un morfismo.
 >

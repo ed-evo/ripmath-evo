@@ -1,4 +1,4 @@
-# [L'asse di una corda è il diametro]{.text-red}
+# L'asse di una corda è il diametro
 
 **Ipotesi:**
 $$

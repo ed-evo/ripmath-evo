@@ -1,4 +1,4 @@
-# [Un caso particolare]{.text-red}
+# Un caso particolare
 
 Conviene sempre spostare i radicali dalla parte dove hanno il segno positivo:
 

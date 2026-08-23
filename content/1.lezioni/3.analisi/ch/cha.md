@@ -1,4 +1,4 @@
-# [Concetto di asintoto]{.text-red}
+# Concetto di asintoto
 
 [Asintoto]{.text-red} è una parola che deriva dal greco: a privativo che significa no e sympìptein che significa congiungere, cioè significa [che non tocca]{.text-red}, in pratica si tratta di una retta che si avvicina alla funzione senza mai toccarla, per questo si dice anche che l'asintoto è [la tangente all'infinito della funzione]{.text-red}.
 

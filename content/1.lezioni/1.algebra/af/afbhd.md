@@ -1,4 +1,4 @@
-# [Equazioni con due moduli]{.text-red}
+# Equazioni con due moduli
 
 Se abbiamo due moduli si avranno generalmente tre intervalli da considerare e quindi tre equazioni: vediamo un esempio.
 

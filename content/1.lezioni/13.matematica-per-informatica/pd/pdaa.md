@@ -1,4 +1,4 @@
-# [Interruttori]{.text-red}
+# Interruttori
 
 Quello di cui abbiamo bisogno ora è di un modo pratico per far passare o per interrompere un flusso di corrente su un filo, cioè un interruttore che la macchina possa utilizzare da sola, intervenendo solamente con flussi di corrente.
 

@@ -1,4 +1,4 @@
-# [Determinazione di alcuni tipi particolari di funzione]{.text-red}
+# Determinazione di alcuni tipi particolari di funzione
 
 Veramente la determinazione del tipo di funzione (intera, razionale, fratta, ...) deve essere fatta all'inizio prima della determinazione del campo di esistenza.
 Qui consideriamo alcuni tipi di funzione che ci aiutano a costruire il loro grafico e precisamente:

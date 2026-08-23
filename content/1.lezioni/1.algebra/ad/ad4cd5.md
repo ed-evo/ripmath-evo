@@ -1,4 +1,4 @@
-# [CALCOLI]{.text-red}
+# CALCOLI
 
 $$
 \textcolor{red}{(3x-2y)^3 = (3x)^3 + 3 \cdot (3x)^2 \cdot (-2y) + 3 \cdot (3x) \cdot (-2y)^2 + (-2y)^3}

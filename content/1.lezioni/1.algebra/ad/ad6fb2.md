@@ -1,4 +1,4 @@
-# [Raggruppamento per polinomi a cinque termini: quadrato di un binomio e raccoglimento]{.text-red}
+# Raggruppamento per polinomi a cinque termini: quadrato di un binomio e raccoglimento
 
 In questo caso tre termini concorrono in un quadrato e tra gli altri due termini posso mettere qualcosa in evidenza in modo che risultino uguali i termini entro parentesi.
 

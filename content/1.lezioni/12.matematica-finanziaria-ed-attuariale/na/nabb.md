@@ -1,4 +1,4 @@
-# [Perché i logaritmi]{.text-red}
+# Perché i logaritmi
 
 Premesso che, al giorno d'oggi con l'utilizzo delle calcolatrici l'uso dei logaritmi ha perso quasi tutta la sua importanza, fino a $$50$$ anni fa i logaritmi erano quasi l'unico modo di poter risolvere certe espressioni e certi calcoli.
 Prima di essi si utilizzavano le formule di Prostaferesi in trigonometria, con un ben maggior cumulo di operazioni per poter risolvere i vari problemi, tanto che un astronomo commentò che Nepero, considerato l'inventore dei logaritmi, aveva regalato loro metà della loro vita (dedicata quasi completamente ai calcoli astronomici).

@@ -1,4 +1,4 @@
-# [Definizione classica di probabilità]{.text-red}
+# Definizione classica di probabilità
 
 La probabilità classica viene determinata "a priori", cioè prima che l'evento si verifichi: per poterlo fare dovremo supporre che i possibili risultati elementari siano equiprobabili:
 esempio: lanciando un dado, se il dado non è truccato, possiamo pensare che la possibilità che esca una delle sei facce è sempre la stessa;

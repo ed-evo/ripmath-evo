@@ -1,4 +1,4 @@
-# [Potenza fra numeri reali con esponente reale]{.text-red}
+# Potenza fra numeri reali con esponente reale
 
 Dobbiamo studiare $$\textcolor{red}{a^r}$$ con $$\textcolor{red}{a}$$ ed $$\textcolor{red}{r}$$ numeri reali.
 

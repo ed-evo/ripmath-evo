@@ -1,4 +1,4 @@
-# [Dimostrazione della formula risolutiva per i radicali doppi]{.text-red}
+# Dimostrazione della formula risolutiva per i radicali doppi
 
 ### Formula con il più
 

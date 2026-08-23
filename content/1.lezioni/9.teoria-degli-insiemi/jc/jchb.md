@@ -1,4 +1,4 @@
-# [Relazione d'ordine totale]{.text-red}
+# Relazione d'ordine totale
 
 Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine totale** se tutti i suoi elementi appartengono alla relazione.
 

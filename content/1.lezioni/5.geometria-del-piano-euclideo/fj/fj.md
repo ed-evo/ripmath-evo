@@ -1,4 +1,4 @@
-## [Circonferenza e cerchio]{.text-red}
+## Circonferenza e cerchio
 
 Usiamo ora il luogo geometrico per definire un'importantissima figura geometrica.
 

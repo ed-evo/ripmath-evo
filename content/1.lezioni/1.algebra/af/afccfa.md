@@ -1,4 +1,4 @@
-# [Dimostrazione della formula per la decomposizione del trinomio]{.text-red}
+# Dimostrazione della formula per la decomposizione del trinomio
 
 devo dimostrare che vale
 

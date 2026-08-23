@@ -1,4 +1,4 @@
-# [Rendite annue a rata costante]{.text-red}
+# Rendite annue a rata costante
 
 Come abbiamo visto nell'osservazione è sempre possibile passare dal valore di una rendita calcolato in una certa data a quello relativo ad una data diversa: si tratta di spostare nel tempo il valore della rendita.
 

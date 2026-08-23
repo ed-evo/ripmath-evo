@@ -1,4 +1,4 @@
-# [Applicazioni alle ridotte]{.text-red}
+# Applicazioni alle ridotte
 
 Consideriamo la serie a segni alterni
 

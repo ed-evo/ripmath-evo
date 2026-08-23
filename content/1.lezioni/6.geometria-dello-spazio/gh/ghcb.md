@@ -1,4 +1,4 @@
-# [In un triedro ogni faccia è maggiore della differenza delle altre due]{.text-red}
+# In un triedro ogni faccia è maggiore della differenza delle altre due
 
 > **Dimostriamo il teorema:**
 > 

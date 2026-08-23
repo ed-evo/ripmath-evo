@@ -1,4 +1,4 @@
-# [Valore attuale di una rendita immediata posticipata]{.text-red}
+# Valore attuale di una rendita immediata posticipata
 
 Consideriamo la rata fissa dell'importo di $$1 \text{ €}$$; per qualunque altro importo basterà poi moltiplicare tale importo per il nostro risultato.
 

@@ -1,4 +1,4 @@
-# [Scomposizione secondo il quadrato del trinomio]{.text-red}
+# Scomposizione secondo il quadrato del trinomio
 
 È una delle più facili da individuare perché il polinomio di partenza ha un elevato numero di termini (sei), l'unica difficoltà è mettere i segni giusti.
 

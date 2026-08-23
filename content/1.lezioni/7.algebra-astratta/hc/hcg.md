@@ -1,4 +1,4 @@
-# [Spazi vettoriali]{.text-red}
+# Spazi vettoriali
 
 Il prossimo passo è di evidenziare la struttura dei numeri complessi: sia i numeri razionali $$Q$$ sia i numeri reali $$R$$ hanno la struttura di campo; per proseguire nel nostro ragionamento vediamo in cosa i numeri complessi differiscono per struttura dai numeri razionali e reali: questo ci porterà a definire una nuova struttura: gli spazi vettoriali.
 

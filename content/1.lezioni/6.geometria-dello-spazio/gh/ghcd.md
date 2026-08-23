@@ -1,4 +1,4 @@
-# [In un angoloide la somma delle facce è minore di un angolo giro]{.text-red}
+# In un angoloide la somma delle facce è minore di un angolo giro
 
 Dimostriamo che **in un angoloide ogni faccia è minore di un angolo giro**.
 

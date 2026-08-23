@@ -1,4 +1,4 @@
-# [Porte logiche come disposizioni con ripetizione]{.text-red}
+# Porte logiche come disposizioni con ripetizione
 
 Prima di procedere diamo uno sguardo d'insieme alle possibili porte logiche che derivano da due fili percorsi o meno da corrente: indicando con $$0$$ il non passaggio di corrente e con $$1$$ il passaggio di corrente notiamo che si tratta di disposizioni con ripetizione di $$2$$ oggetti ($$0$$ e $$1$$) presi $$4$$ a $$4$$, cioè con $$2$$ proposizioni avremo per le porte logiche $$16$$ possibilità ($$D'_{2,4} = 2^4 = 16$$).
 
@@ -19,7 +19,7 @@ Se fermi il mouse sulle colonne in basso della tabella potrai leggere il nome de
 
 Da notare che applicando le leggi di dualità è possibile dare più "etichette" ad una stessa colonna: alcune "etichette" sono in forma normale disgiuntiva completa, tipo ad esempio $$(a \cdot b') + (à \cdot b)$$, altre no, ad esempio $$(a+b)'$$ non è in forma disgiuntiva completa.
 
-> ### [Importante!]{.text-red}
+> ### Importante!
 >
 > Osserva nelle prime due colonne $$\text{a}$$ e $$\text{b}$$ e considera gli $$1$$ come variabili e gli $$0$$ come i loro complementari; allora hai che in ogni colonna ottieni la porta scritta nella forma normale disgiuntiva:
 >

@@ -1,4 +1,4 @@
-# [L'astrazione in matematica]{.text-red}
+# L'astrazione in matematica
 
 In matematica si cerca sempre di passare dal particolare all'universale, cercando di considerare il maggior numero di casi possibili.
 

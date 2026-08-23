@@ -1,4 +1,4 @@
-# [Successione di Fibonacci]{.text-red}
+# Successione di Fibonacci
 
 > Qualcuno la chiama serie di Fibonacci, perché c'è da fare la somma fra due termini, però io preferisco pensarla come successione considerando le serie come somme di tutti i termini precedenti
 

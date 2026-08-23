@@ -1,4 +1,4 @@
-# [Proposizione diretta]{.text-red}
+# Proposizione diretta
 
 Chiameremo **proposizione diretta** la proposizione:
 

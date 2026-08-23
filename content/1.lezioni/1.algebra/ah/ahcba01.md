@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 In questo, come negli altri problemi, io farò tutti i passaggi, tu, naturalmente, puoi abbreviare.
 

@@ -1,4 +1,4 @@
-# [Teorema inverso del teorema di Talete]{.text-red}
+# Teorema inverso del teorema di Talete
 
 > Al solito: dimostriamo il teorema inverso, così i due fatti (fascio di parallele tagliato da due trasversali e segmenti proporzionali) diventano equivalenti
 

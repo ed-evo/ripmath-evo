@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 La Geometria Cartesiana è una delle massime conquiste dell'umanità ed ha mostrato come mediante il pensiero matematico sia possibile filtrare il mondo reale in modo univoco (unitarietà del sapere).
 

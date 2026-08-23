@@ -1,4 +1,4 @@
-# [Primo termine negativo]{.text-red}
+# Primo termine negativo
 
 Se il primo termine è negativo, ricordando che la ragione, essendo un rapporto, non può essere nulla, consideriamo i seguenti casi:
 

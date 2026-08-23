@@ -1,4 +1,4 @@
-# [Relazione binaria di un insieme su sé stesso]{.text-red}
+# Relazione binaria di un insieme su sé stesso
 
 Particolarmente interessante è parlare di relazioni quando i due insiemi $$A$$ e $$B$$ coincidono; in tal caso si parla di relazione binaria di un insieme su sé stesso oppure semplicemente **relazione binaria su un insieme**.
 

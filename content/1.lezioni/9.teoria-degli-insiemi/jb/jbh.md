@@ -1,4 +1,4 @@
-# [Partizione di un insieme]{.text-red}
+# Partizione di un insieme
 
 Quando il ricoprimento finito è formato da insiemi senza elementi comuni allora avremo una partizione dell'insieme $$E$$.
 

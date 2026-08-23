@@ -1,5 +1,5 @@
-# [Transistor e chip di silicio]{.text-red}
-### [brevi cenni di storia]{.text-red}
+# Transistor e chip di silicio
+### brevi cenni di storia
 
 Attorno agli anni $$50$$ fu inventato il transistor, che si può comportare come un diodo, e quindi come un interruttore, le cui dimensioni, però, rispetto alle valvole sono notevolmente ridotte: questo ha permesso di passare da computer delle dimensioni di un appartamento a computer delle dimensioni di una stanza.
 

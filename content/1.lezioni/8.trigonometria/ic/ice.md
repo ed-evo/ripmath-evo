@@ -1,4 +1,4 @@
-# [Disequazioni trigonometriche]{.text-red}
+# Disequazioni trigonometriche
 
 Sono disequazioni in cui l'incognita è l'angolo
 

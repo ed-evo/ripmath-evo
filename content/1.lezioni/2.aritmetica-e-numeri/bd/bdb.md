@@ -1,4 +1,4 @@
-# [La retta dei numeri reali]{.text-red}
+# La retta dei numeri reali
 
 Facciamo ora la conoscenza di un ente che ci accompagnerà lungo tutta l'analisi matematica e la geometria cartesiana: la retta reale $$\textcolor{red}{R}$$
 

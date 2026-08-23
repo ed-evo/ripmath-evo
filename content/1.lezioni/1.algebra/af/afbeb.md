@@ -1,4 +1,4 @@
-# [Equazione impossibile]{.text-red}
+# Equazione impossibile
 
 È l'equazione che afferma un fatto falso:
 

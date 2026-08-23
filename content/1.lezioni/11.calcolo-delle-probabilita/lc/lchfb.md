@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Calcolare la probabilità che il pezzo difettoso provenga dall'azienda $$\text{C}$$
 anche qui applico la formula di Bayes

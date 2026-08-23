@@ -1,4 +1,4 @@
-# [ANEDDOTO]{.text-red}
+# ANEDDOTO
 
 Era l'anno 1966 e io ed il mio compagno prima di classe poi di università Riccardo frequentavamo il corso di Geometria tenuto dal Prof. Villa, un professore vecchio tipo grande matematico.
 

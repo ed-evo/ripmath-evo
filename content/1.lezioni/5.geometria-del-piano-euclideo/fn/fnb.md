@@ -1,4 +1,4 @@
-# [Grandezze commensurabili]{.text-red}
+# Grandezze commensurabili
 
 Diremo che due grandezze sono fra loro **commensurabili** se è possibile individuare la misura di una grandezza rispetto all'altra.
 

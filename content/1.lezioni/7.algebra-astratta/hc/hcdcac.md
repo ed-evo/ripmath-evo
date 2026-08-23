@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Facciamo la divisione per $$9$$ per tutti i numeri naturali
 

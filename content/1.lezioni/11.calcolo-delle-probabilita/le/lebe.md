@@ -1,4 +1,4 @@
-# [Alcune relazioni notevoli]{.text-red}
+# Alcune relazioni notevoli
 
 ora possiamo definire la funzione di ripartizione su $$\mathbb{R}$$ come
 

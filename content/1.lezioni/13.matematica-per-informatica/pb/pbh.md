@@ -1,4 +1,4 @@
-# [sistema ottale]{.text-red}
+# sistema ottale
 
 Un certo interesse in informatica ha il sistema di numerazione a base $$8$$. In pratica non è molto usato, noi qui lo ricordiamo solo per una sua peculiare caratteristica. Le cifre binarie corrispondenti alle cifre ottali sono date da soli $$3$$ bit; infatti abbiamo, per le cifre possibili:
 

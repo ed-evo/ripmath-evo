@@ -1,4 +1,4 @@
-# [Soluzione]{.text-red}
+# Soluzione
 
 $$
 \textcolor{red}{y' = 15\cos 5x - 10\sin 5x}

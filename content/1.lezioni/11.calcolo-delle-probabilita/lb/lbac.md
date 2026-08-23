@@ -1,5 +1,5 @@
-# [Permutazioni con ripetizione]{.text-red}
-## [(o permutazioni con oggetti identici)]{.text-red}
+# Permutazioni con ripetizione
+## (o permutazioni con oggetti identici)
 
 Vediamo cosa succede quando alcuni degli oggetti su cui dobbiamo fare le permutazioni sono uguali; come esempio prendiamo il problema:
 *Quanti anagrammi (anche senza significato) posso fare con le lettere della parola cannone?*

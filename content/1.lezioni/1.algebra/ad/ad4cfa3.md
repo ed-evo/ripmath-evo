@@ -1,4 +1,4 @@
-# [CALCOLI]{.text-red}
+# CALCOLI
 
 $$
 \textcolor{red}{(2x+3y)^4 = (2x)^4 + 4(2x)^3(3y) + 6(2x)^2(3y)^2 + 4(2x)(3y)^3 + (3y)^4}

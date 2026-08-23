@@ -1,4 +1,4 @@
-# [Svolgimento]{.text-red}
+# Svolgimento
 
 Per ogni passaggio puoi vedere le operazioni nei particolari cliccando sulla dicitura
 

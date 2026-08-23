@@ -1,4 +1,4 @@
-# [Cos'è un termine]{.text-red}
+# Cos'è un termine
 
 Per termine si intende ciò che c'è fra un segno PIÙ o MENO e il segno PIÙ o MENO successivo (se c'è) (fanno eccezione le parentesi), così ad esempio se prendiamo:
 

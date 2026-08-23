@@ -1,4 +1,4 @@
-# [Logaritmo di un quoziente]{.text-red}
+# Logaritmo di un quoziente
 
 ---
 

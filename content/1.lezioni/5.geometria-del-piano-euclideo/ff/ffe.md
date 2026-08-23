@@ -1,4 +1,4 @@
-# [Il quinto postulato di Euclide]{.text-red}
+# Il quinto postulato di Euclide
 
 Per procedere e fare il criterio inverso sul parallelismo ci serve il cosiddetto quinto postulato
 

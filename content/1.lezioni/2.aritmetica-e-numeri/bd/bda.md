@@ -1,4 +1,4 @@
-# [Definizione di Numero Reale]{.text-red}
+# Definizione di Numero Reale
 
 Definiamo **Numero Reale** l'elemento separatore di due classi contigue di numeri razionali.
 

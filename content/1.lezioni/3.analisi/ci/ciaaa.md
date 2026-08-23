@@ -1,4 +1,4 @@
-# [Grafico di una retta]{.text-red}
+# Grafico di una retta
 
 La retta si può presentare nella forma:
 $$\textcolor{red}{y = mx + q}$$ (forma esplicita)

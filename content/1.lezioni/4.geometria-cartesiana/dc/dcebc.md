@@ -1,4 +1,4 @@
-# [Come si determina m]{.text-red}
+# Come si determina m
 
 In pratica $$m$$ è uguale al rapporto $$\frac{y}{x}$$, quindi per determinarlo basterà che io faccia il rapporto fra un segmento verticale ed il corrispondente segmento orizzontale. Quindi considero i punti:
 

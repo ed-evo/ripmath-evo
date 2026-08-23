@@ -1,4 +1,4 @@
-# [Teorema di Talete nello spazio]{.text-red}
+# Teorema di Talete nello spazio
 
 Vediamo ora un teorema che ci sarà essenziale per trattare problemi su tronchi di cono e di piramide: l'equivalente nello spazio del teorema di Talete nel piano:
 

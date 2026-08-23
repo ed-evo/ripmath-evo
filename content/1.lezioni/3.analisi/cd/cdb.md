@@ -1,4 +1,4 @@
-# [Limite di una successione]{.text-red}
+# Limite di una successione
 
 - perché il limite di una successione
 - limite di una successione convergente

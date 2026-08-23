@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura di spazio vettoriale sull'insieme $$P(x)$$ dei polinomi in $$x$$ a coefficienti reali con le normali operazioni di addizione ($$ + $$) e moltiplicazione ($$ \cdot $$) fra polinomi sul corpo $$\mathbb{R}$$ e con la normale moltiplicazione $$ \cdot $$ come prodotto scalare.
 

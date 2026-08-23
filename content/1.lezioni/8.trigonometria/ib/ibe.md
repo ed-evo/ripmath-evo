@@ -1,4 +1,4 @@
-# [Alcuni valori di archi ed angoli particolari]{.text-red}
+# Alcuni valori di archi ed angoli particolari
 
 Calcoleremo ora i valori di seno e coseno per alcuni angoli particolari:
 

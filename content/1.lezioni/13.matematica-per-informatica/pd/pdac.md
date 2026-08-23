@@ -1,4 +1,4 @@
-# [Diodo]{.text-red}
+# Diodo
 
 Il diodo è un circuito più elaborato che può servire come interruttore per far passare o meno la corrente elettrica in un circuito.
 

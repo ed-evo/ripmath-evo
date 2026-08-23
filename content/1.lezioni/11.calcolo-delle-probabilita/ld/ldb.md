@@ -1,4 +1,4 @@
-# [Speranza matematica]{.text-red}
+# Speranza matematica
 
 Consideriamo ora il concetto fondamentale base della teoria dei giochi: la speranza matematica.
 

@@ -1,4 +1,4 @@
-# [SOMMA FRA POLINOMI]{.text-red}
+# SOMMA FRA POLINOMI
 
 ---
 

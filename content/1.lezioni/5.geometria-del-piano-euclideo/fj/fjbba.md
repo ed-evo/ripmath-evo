@@ -1,4 +1,4 @@
-# [Circonferenza per tre punti]{.text-red}
+# Circonferenza per tre punti
 
 Come conseguenza possiamo dire che:
 

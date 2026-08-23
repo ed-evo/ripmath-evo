@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 Risolvere l'integrale
 

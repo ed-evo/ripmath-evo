@@ -1,4 +1,4 @@
-# [Teorema delle corde]{.text-red}
+# Teorema delle corde
 
 Se due corde di una circonferenza si tagliano allora i due segmenti di una corda formano i medi e i due segmenti della seconda corda formano gli estremi di una proporzione.
 

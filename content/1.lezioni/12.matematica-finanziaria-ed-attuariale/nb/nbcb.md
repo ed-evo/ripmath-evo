@@ -1,4 +1,4 @@
-# [Retta dei tempi]{.text-red}
+# Retta dei tempi
 
 Come abbiamo già accennato si può intendere la capitalizzazione e lo sconto come lo spostamento di un capitale nel tempo: mentre la capitalizzazione proietta il capitale nel futuro facendolo diventare il montante, così lo sconto farà retrocedere nel tempo un capitale fino a farlo diventare un valore attuale.
 

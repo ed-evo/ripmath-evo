@@ -1,4 +1,4 @@
-# [Prima formula di Werner]{.text-red}
+# Prima formula di Werner
 
 Prima formula di Werner.
 Partiamo dalle due formule di addizione e sottrazione per il seno e sommiamo in verticale.

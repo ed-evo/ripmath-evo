@@ -1,4 +1,4 @@
-# [Concetti iniziali]{.text-red}
+# Concetti iniziali
 
 Fissiamo le cose iniziali che tutti dobbiamo sapere per poter costruire la geometria
 

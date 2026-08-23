@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{\sin x = h}$$]{.text-red}
+# $$\textcolor{red}{\sin x = h}$$
 
 È il primo tipo di equazione: cerchiamo di capire come risolverla con un esempio numerico.
 Ricordo ancora che il termine dopo l'uguale può avere solamente i valori da $$-1$$ a $$+1$$ perché il cerchio trigonometrico ha raggio $$1$$.

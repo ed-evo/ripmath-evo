@@ -1,4 +1,4 @@
-# [Perché la Geometria Cartesiana]{.text-red}
+# Perché la Geometria Cartesiana
 
 > Nelle varie discipline della matematica spesso ci si accorge che vi sono delle costruzioni equivalenti; questo non succede per caso.
 > 

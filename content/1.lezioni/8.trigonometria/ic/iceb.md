@@ -1,4 +1,4 @@
-# [$$\textcolor{red}{\cos x > n}$$]{.text-red}
+# $$\textcolor{red}{\cos x > n}$$
 
 Anche qui risolviamo su un esempio pratico vediamo come risolvere la disequazione
 

@@ -1,4 +1,4 @@
-# [Problemi numerici risolubili mediante un sistema]{.text-red}
+# Problemi numerici risolubili mediante un sistema
 
 Di solito sono più semplici da impostare di quelli con una sola incognita: basta assegnare ad ognuno dei due valori che devi trovare una lettera $$x$$ e $$y$$ e poi scrivere le due relazioni che ti dà il problema.
 

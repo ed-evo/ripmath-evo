@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 calcolare:
 

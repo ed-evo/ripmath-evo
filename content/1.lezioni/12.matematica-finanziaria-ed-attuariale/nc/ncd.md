@@ -1,4 +1,4 @@
-# [Valore di una rendita]{.text-red}
+# Valore di una rendita
 
 Definiamo valore di una rendita ad una certa data la somma dei montanti e dei valori attuali delle singole rate della rendita riferite a quella data.
 

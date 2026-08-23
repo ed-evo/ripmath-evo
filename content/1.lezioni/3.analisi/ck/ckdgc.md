@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 $$\textcolor{red}{\int x \sin x \, dx =}$$ [Soluzione](ckdgc01.html)
 

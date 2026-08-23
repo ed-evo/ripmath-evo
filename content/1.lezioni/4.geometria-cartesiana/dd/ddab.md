@@ -1,4 +1,4 @@
-# [Ellisse]{.text-red}
+# Ellisse
 
 È l'intersezione fra un cono matematico ed un piano compreso fra la circonferenza di base ed una generatrice.
 

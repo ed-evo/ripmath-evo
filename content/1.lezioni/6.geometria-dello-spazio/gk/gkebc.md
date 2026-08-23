@@ -1,4 +1,4 @@
-# [Applicazione alla superficie di una sfera]{.text-red}
+# Applicazione alla superficie di una sfera
 
 Applichiamo ora quanto visto alla superficie di una sfera.
 

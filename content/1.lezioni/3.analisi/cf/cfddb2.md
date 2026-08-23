@@ -1,4 +1,4 @@
-# [Dimostrazione della regola della derivata del prodotto di due funzioni]{.text-red}
+# Dimostrazione della regola della derivata del prodotto di due funzioni
 
 > **Avvertenza:** per una migliore visualizzazione metti la pagina a tutto schermo
 

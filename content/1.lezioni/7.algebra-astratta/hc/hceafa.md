@@ -1,4 +1,4 @@
-# [esempio]{.text-red}
+# esempio
 
 È sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $$2 \times 2$$ con termini generici
 

@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 La **Stenaritmia**, o calcolo mentale rapido, è un esercizio mentale che ormai, dopo l'introduzione delle calcolatrici, è in decisa recessione: quando ho iniziato ad insegnare (1967) era importante saper fare i calcoli velocemente ed anche mentalmente.
 

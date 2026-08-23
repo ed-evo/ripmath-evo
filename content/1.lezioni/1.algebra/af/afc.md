@@ -1,4 +1,4 @@
-# [equazioni di secondo grado]{.text-red}
+# equazioni di secondo grado
 
 Un'equazione si dice di secondo grado quando la $$x$$ vi compare a potenza $$2$$, cioè c'è un termine con $$x^2$$.
 

@@ -1,4 +1,4 @@
-# [Poliedri regolari]{.text-red}
+# Poliedri regolari
 
 Diremo che un poliedro è regolare se ha tutte le facce formate da poligoni regolari congruenti.
 

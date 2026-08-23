@@ -1,4 +1,4 @@
-# [Tipi diversi di fasci di circonferenze]{.text-red}
+# Tipi diversi di fasci di circonferenze
 
 Avremo per il fascio di circonferenze varie possibilità dipendenti da quali suoi termini contengono il parametro oppure anche dalle varie posizioni che possono assumere tra loro le due circonferenze di base.
 

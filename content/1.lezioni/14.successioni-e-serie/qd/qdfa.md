@@ -1,4 +1,4 @@
-# [Proprietà distributiva di una serie numerica]{.text-red}
+# Proprietà distributiva di una serie numerica
 
 Considero la serie convergente a $$s$$
 

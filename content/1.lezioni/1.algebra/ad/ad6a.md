@@ -1,4 +1,4 @@
-# [RACCOGLIMENTO A FATTOR COMUNE]{.text-red}
+# RACCOGLIMENTO A FATTOR COMUNE
 
 Possiamo dividerlo in due tipi:
 

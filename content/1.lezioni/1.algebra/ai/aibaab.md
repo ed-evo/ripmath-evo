@@ -1,4 +1,4 @@
-# [Metodo di addizione]{.text-red}
+# Metodo di addizione
 
 Se hai bisogno di una spiegazione [più approfondita](aibaab0.html)
 

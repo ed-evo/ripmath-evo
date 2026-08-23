@@ -1,4 +1,4 @@
-# [Somma fra numeri razionali]{.text-red}
+# Somma fra numeri razionali
 
 Ora dobbiamo definire come fare la somma fra due numeri razionali.
 Dividiamo la somma nei due casi possibili:

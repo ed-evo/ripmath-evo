@@ -1,4 +1,4 @@
-# [successione dei numeri pari]{.text-red}
+# successione dei numeri pari
 
 Partendo dalla successione dei numeri naturali
 

@@ -1,4 +1,4 @@
-# [Somma logica]{.text-red}
+# Somma logica
 
 | $+$ | $$0$$ | $$1$$ |
 | :---: | :---: | :---: |

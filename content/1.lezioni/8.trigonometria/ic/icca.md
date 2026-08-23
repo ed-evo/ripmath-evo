@@ -1,4 +1,4 @@
-# [Equazioni trigonometriche fondamentali]{.text-red}
+# Equazioni trigonometriche fondamentali
 
 Tutte le equazioni trigonometriche si possono ridurre ai $$3$$ tipi fondamentali
 

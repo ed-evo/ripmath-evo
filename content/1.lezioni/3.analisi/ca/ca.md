@@ -1,4 +1,4 @@
-# [Insufficienza del concetto di punto]{.text-red}
+# Insufficienza del concetto di punto
 
 - [Qualche cenno di storia](caa.html)
 - [I paradossi di Zenone](cab.html)

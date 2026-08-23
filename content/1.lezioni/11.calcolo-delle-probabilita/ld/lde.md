@@ -1,4 +1,4 @@
-# [Teorema della rovina del giocatore]{.text-red}
+# Teorema della rovina del giocatore
 
 Vale il seguente teorema:
 

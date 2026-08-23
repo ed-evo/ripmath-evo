@@ -1,4 +1,4 @@
-# [Un esempio]{.text-red}
+# Un esempio
 
 Come conseguenza abbiamo che la serie armonica a segni alterni è convergente
 

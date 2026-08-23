@@ -1,3 +1,3 @@
-# [Euclide]{.text-red}
+# Euclide
 
 testo

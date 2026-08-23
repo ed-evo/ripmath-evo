@@ -1,4 +1,4 @@
-# [Esercizio sulle proprietà dei logaritmi]{.text-red}
+# Esercizio sulle proprietà dei logaritmi
 
 In questa prima stesura vediamo un esercizio che ci mostri come applicare le proprietà dei logaritmi; in seguito amplieremo il numero degli esercizi (fare un link qui)
 

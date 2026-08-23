@@ -1,4 +1,4 @@
-# [rotazione di coordinate]{.text-red}
+# rotazione di coordinate
 
 Consideriamo in nero un sistema di coordinate in cui il punto $$P$$ abbia coordinate (che chiameremo vecchie coordinate)
 $$P = (x, y)$$

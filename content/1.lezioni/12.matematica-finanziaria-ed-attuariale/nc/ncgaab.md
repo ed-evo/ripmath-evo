@@ -1,4 +1,4 @@
-# [Calcolo del montante di una rendita immediata anticipata]{.text-red}
+# Calcolo del montante di una rendita immediata anticipata
 
 Consideriamo la rata fissa dell'importo di $$1 \text{ €}$$; per qualunque altro importo basterà poi moltiplicare tale importo per il nostro risultato.
 

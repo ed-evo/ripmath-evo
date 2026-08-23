@@ -1,4 +1,4 @@
-# [Come dal termine generico ricavo i termini della successione e viceversa]{.text-red}
+# Come dal termine generico ricavo i termini della successione e viceversa
 
 Abbiamo considerato la successione
 

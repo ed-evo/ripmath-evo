@@ -1,4 +1,4 @@
-# [Tautologia]{.text-red}
+# Tautologia
 
 È la proprietà per cui il filo è sempre percorso da corrente comunque siano le funzioni componenti; possiamo rappresentarlo con un $$1$$.
 

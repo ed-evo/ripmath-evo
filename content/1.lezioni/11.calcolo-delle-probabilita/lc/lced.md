@@ -1,4 +1,4 @@
-# [Probabilità statistica]{.text-red}
+# Probabilità statistica
 
 Il fatto che la frequenza, all'aumentare del numero delle prove fatte, tenda al valore della probabilità classica ci fa pensare che in fenomeni in cui la probabilità classica non è applicabile sia possibile considerare la frequenza di eventi già accaduti e considerarla come probabilità di eventi futuri.
 

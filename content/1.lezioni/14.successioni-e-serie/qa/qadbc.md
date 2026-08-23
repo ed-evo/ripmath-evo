@@ -1,4 +1,4 @@
-# [successione dei numeri dispari]{.text-red}
+# successione dei numeri dispari
 
 Considero la successione dei numeri dispari
 

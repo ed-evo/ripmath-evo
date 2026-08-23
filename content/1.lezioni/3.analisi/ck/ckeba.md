@@ -1,4 +1,4 @@
-# [Problema di calcolo di un'area separata dall'asse x]{.text-red}
+# Problema di calcolo di un'area separata dall'asse x
 
 Vediamo di capire la situazione con un semplice problema:
 

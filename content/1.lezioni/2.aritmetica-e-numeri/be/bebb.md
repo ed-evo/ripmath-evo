@@ -1,4 +1,4 @@
-# [Operazioni fra numeri complessi]{.text-red}
+# Operazioni fra numeri complessi
 
 Dobbiamo ora definire le quattro operazioni sui numeri complessi:
 

@@ -1,4 +1,4 @@
-# [Cubo]{.text-red}
+# Cubo
 
 Consideriamo ora come figura base il quadrato e facciamo confluire tre vertici di tre quadrati in un angoloide: l'angoloide misurerà quindi $$270^\circ$$; continuiamo la costruzione facendo in modo che in ogni vertice confluiscano i vertici di $$3$$ quadrati.
 

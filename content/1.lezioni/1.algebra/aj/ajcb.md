@@ -1,4 +1,4 @@
-# [Calcolo del determinante col metodo di Laplace]{.text-red}
+# Calcolo del determinante col metodo di Laplace
 
 Il determinante di ordine $$1$$ corrisponde al numero stesso
 

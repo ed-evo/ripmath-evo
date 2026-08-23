@@ -1,4 +1,4 @@
-# [Regole di deduzione]{.text-red}
+# Regole di deduzione
 
 Consideriamo ora le **regole di deduzione** che saranno essenziali nello sviluppare un ragionamento logico
 

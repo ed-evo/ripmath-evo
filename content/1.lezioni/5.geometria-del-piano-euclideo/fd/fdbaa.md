@@ -1,4 +1,4 @@
-# [Angolo esterno]{.text-red}
+# Angolo esterno
 
 Un **angolo** esterno è qualunque angolo compreso fra il lato di un triangolo ed il prolungamento di un altro lato.
 

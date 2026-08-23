@@ -1,4 +1,4 @@
-# [Confronto fra capitalizzazione lineare e composta]{.text-red}
+# Confronto fra capitalizzazione lineare e composta
 
 Considero i grafici della capitalizzazione lineare e composta.
 

@@ -1,4 +1,4 @@
-# [Prodotto di n termini di una progressione geometrica]{.text-red}
+# Prodotto di n termini di una progressione geometrica
 
 È possibile calcolare il prodotto di $$n$$ termini di una progressione geometrica con tutti i termini positivi.
 

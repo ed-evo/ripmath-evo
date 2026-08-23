@@ -1,4 +1,4 @@
-# [Area di un quadrilatero qualunque]{.text-red}
+# Area di un quadrilatero qualunque
 
 Chiamiamo $$O$$ l'intersezione delle due diagonali e poniamo:
 $$\overline{AC} = d_1 \quad \overline{BD} = d_2$$

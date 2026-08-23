@@ -1,5 +1,5 @@
-# [Altezza di una torre.]{.text-red}
-## [Piede della torre sul piano dell'osservatore ed accessibile]{.text-red}
+# Altezza di una torre.
+## Piede della torre sul piano dell'osservatore ed accessibile
 
 In questo caso il problema si presenta in modo piuttosto semplice.
 

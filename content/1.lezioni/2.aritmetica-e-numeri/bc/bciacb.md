@@ -1,4 +1,4 @@
-# [Criterio di scomposizione per 3]{.text-red}
+# Criterio di scomposizione per 3
 
 > **Un numero è divisibile per $$3$$ se sommando le sue cifre si ottiene un multiplo di $$3$$**
 

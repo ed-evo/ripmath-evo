@@ -1,4 +1,4 @@
-# [tipi di successioni a limite infinito]{.text-red}
+# tipi di successioni a limite infinito
 
 Distinguiamo i casi
 

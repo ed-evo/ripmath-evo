@@ -1,4 +1,4 @@
-# [Prodotto fra radicali con lo stesso indice]{.text-red}
+# Prodotto fra radicali con lo stesso indice
 
 Anche per il prodotto ci rifacciamo al calcolo letterale: infatti per eseguire un prodotto fra monomi devo moltiplicare numeri con numeri e lettere con lettere.
 

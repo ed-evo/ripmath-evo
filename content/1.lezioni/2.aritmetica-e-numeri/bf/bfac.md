@@ -1,4 +1,4 @@
-# [Postulati iniziali]{.text-red}
+# Postulati iniziali
 
 Qualunque teoria matematica parte sempre da alcuni enti fondamentali e dalle relazioni esistenti fra gli stessi: i postulati
 

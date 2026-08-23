@@ -1,4 +1,4 @@
-# [In ogni triangolo la somma degli angoli interni è congruente ad un angolo piatto]{.text-red}
+# In ogni triangolo la somma degli angoli interni è congruente ad un angolo piatto
 
 Adesso che abbiamo fatto tutta questa fatica è ora che ci facciamo ripagare in facilità di dimostrazioni: il teorema che segue, ed è un teorema molto importante, è ora molto facile da dimostrare.
 

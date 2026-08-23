@@ -1,4 +1,4 @@
-# [Approfondimento sull'uso dei simboli]{.text-red}
+# Approfondimento sull'uso dei simboli
 
 > Indicheremo il **montante di una rendita** con il simbolo $$s$$ (lettera s in corsivo)
 >

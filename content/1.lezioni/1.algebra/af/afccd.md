@@ -1,4 +1,4 @@
-# [Relazioni fra coefficienti e radici nell'equazione di secondo grado]{.text-red}
+# Relazioni fra coefficienti e radici nell'equazione di secondo grado
 
 Se io considero un'equazione di secondo grado tipo:
 

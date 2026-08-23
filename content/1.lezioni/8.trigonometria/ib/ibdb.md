@@ -1,4 +1,4 @@
-# [Secondo quadrante]{.text-red}
+# Secondo quadrante
 
 Quando l'angolo si trova nel secondo quadrante può essere pensato in due modi diversi: o come $$90^\circ + \alpha$$ o come $$180^\circ - \alpha$$.
 

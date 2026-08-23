@@ -1,4 +1,4 @@
-# [Grafici di funzioni con moduli]{.text-red}
+# Grafici di funzioni con moduli
 
 Quando una funzione è contenuta in un modulo per disegnarla basta disegnare la funzione senza modulo poi riportare sopra l'asse delle $$x$$ la parte che si trova sotto l'asse.
 

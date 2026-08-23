@@ -1,4 +1,4 @@
-# [Caratteristiche della funzione $$y = \tan x$$]{.text-red}
+# Caratteristiche della funzione $$y = \tan x$$
 
 Vediamo nei particolari le caratteristiche della tangentoide:
 

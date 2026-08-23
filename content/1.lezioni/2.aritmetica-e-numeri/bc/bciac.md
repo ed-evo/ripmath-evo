@@ -1,4 +1,4 @@
-# [Criteri di scomposizione in fattori primi]{.text-red}
+# Criteri di scomposizione in fattori primi
 
 Per scomporre un numero in fattori primi dovrei vedere
 se è divisibile per $$2$$ quindi dividerlo per $$2$$ e vedere se il resto è zero

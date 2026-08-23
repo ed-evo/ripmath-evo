@@ -1,4 +1,4 @@
-# [Giudizio universale affermativo]{.text-red}
+# Giudizio universale affermativo
 
 Dimostriamo che, mediante la teoria degli insiemi, è possibile mostrare la verità o meno del giudizio universale affermativo:
 

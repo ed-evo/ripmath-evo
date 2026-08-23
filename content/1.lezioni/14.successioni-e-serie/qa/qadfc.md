@@ -1,4 +1,4 @@
-# [Esponente variabile con base negativa o nulla]{.text-red}
+# Esponente variabile con base negativa o nulla
 
 ## BASE NULLA
 Se la base è nulla ritroviamo la nostra successione nulla

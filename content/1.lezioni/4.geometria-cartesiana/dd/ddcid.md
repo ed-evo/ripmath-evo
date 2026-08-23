@@ -1,4 +1,4 @@
-# [Esercizi sui fasci di circonferenze]{.text-red}
+# Esercizi sui fasci di circonferenze
 
 Vediamo qui alcuni semplici esercizi sui fasci di circonferenze.
 

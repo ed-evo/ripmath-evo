@@ -1,4 +1,4 @@
-# [Distribuzione di Poisson]{.text-red}
+# Distribuzione di Poisson
 
 Se vuoi vedere la [dimostrazione per calcolare](leafcba.html) la variabile aleatoria.
 

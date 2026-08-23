@@ -1,4 +1,4 @@
-# [L'utilizzo di simboli in matematica]{.text-red}
+# L'utilizzo di simboli in matematica
 
 Di pari passo con l'astrazione si ha l'utilizzo di simboli specifici: un simbolo permette di fare tante operazioni al prezzo di una: se scrivo
 

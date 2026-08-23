@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [Il perimetro di un triangolo isoscele è metri $$26$$; determinare le lunghezze della base e dei lati sapendo che la base è $$3/5$$ del lato.]{.text-blue}
 

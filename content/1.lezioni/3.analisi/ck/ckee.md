@@ -1,4 +1,4 @@
-# [Volumi di solidi di rotazione]{.text-red}
+# Volumi di solidi di rotazione
 
 > Di solito ai licei scientifici questo è l'ultimo argomento sugli integrali anche perché il tempo a disposizione per la preparazione degli esami non basta mai, quindi tutta la parte successiva dell'analisi (integrali curvilinei, integrali doppi, tripli, ecc.) viene trattata solamente nel biennio universitario e non farà parte di questo corso (almeno per ora).
 

@@ -1,4 +1,4 @@
-# [Considerazioni generali]{.text-red}
+# Considerazioni generali
 
 Vediamo ora come definire la perpendicolarità fra una retta e un piano.
 

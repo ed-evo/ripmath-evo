@@ -1,4 +1,4 @@
-# [Sconto]{.text-red}
+# Sconto
 
 Chiameremo **sconto** il compenso che spetta a chi anticipa un pagamento: questo può avvenire:
 

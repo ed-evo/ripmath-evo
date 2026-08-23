@@ -1,4 +1,4 @@
-# [Delta del polinomio uguale a zero]{.text-red}
+# Delta del polinomio uguale a zero
 
 Se il discriminante dell'equazione è uguale a zero allora ho due soluzioni
 $$\textcolor{red}{x_1 = x_2}$$ reali e coincidenti

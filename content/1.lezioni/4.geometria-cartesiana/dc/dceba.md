@@ -1,4 +1,4 @@
-# [Come si disegna la retta]{.text-red}
+# Come si disegna la retta
 
 Per disegnare una retta sul piano basterà individuare due suoi punti e poi tracciarne la congiungente.
 

@@ -1,4 +1,4 @@
-# [Problemi numerici]{.text-red}
+# Problemi numerici
 
 Sono i problemi che ti chiedono di trovare un numero che soddisfi certe condizioni.
 Qui purtroppo non c'è scampo: per imparare a fare i problemi bisogna fare tanti problemi perché sono troppe le variazioni possibili. Risolviamone alcuni insieme.

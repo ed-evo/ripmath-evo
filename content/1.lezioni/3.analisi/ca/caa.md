@@ -1,4 +1,4 @@
-# [Qualche cenno di storia]{.text-red}
+# Qualche cenno di storia
 
 Nella prima metà del $$1600$$ divenne piuttosto pericoloso occuparsi di questioni di fede: anche perché difendere le proprie idee poteva portare al rogo, quindi le menti più libere ed originali si volsero alla scienza che, essendo vera di per sé, non rendeva necessario il morire per difenderne i principi: nasce in quegli anni la fisica come disciplina autonoma, e per potersi sviluppare si rivolse all'altra scienza che era già nota in quel periodo: la matematica. Però la matematica non era adatta per il mondo fisico, infatti appena la matematica veniva applicata a problemi fisici si potevano avere paradossi insolubili. Ciò rese necessario creare un tipo di matematica adatto alla fisica partendo da quella che già si conosceva e conservandone, per quanto possibile i risultati acquisiti:  
 [l'Analisi Matematica o Calcolo Infinitesimale]{.text-purple}

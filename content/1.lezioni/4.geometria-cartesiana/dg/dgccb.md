@@ -1,4 +1,4 @@
-# [Condizioni per determinare l'equazione della parabola]{.text-red}
+# Condizioni per determinare l'equazione della parabola
 
 Se consideriamo l'equazione completa di una parabola con asse verticale
 

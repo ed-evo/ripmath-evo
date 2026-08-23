@@ -1,4 +1,4 @@
-# [I postulati]{.text-red}
+# I postulati
 
 I postulati sono delle regole iniziali cui tutti gli oggetti geometrici debbono obbedire: Euclide li mise alla base della geometria per la loro intuitività.
 

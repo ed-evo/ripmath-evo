@@ -1,4 +1,4 @@
-# [discussione di equazioni di primo grado metodo grafico]{.text-red}
+# discussione di equazioni di primo grado metodo grafico
 
 ---
 

@@ -1,4 +1,4 @@
-# [Tangenza fra una parabola ed una conica]{.text-red}
+# Tangenza fra una parabola ed una conica
 
 ## Esercizio 1
 

@@ -1,4 +1,4 @@
-# [informazioni errate]{.text-red}
+# informazioni errate
 
 Prendiamo sempre i valori 
 $$\textcolor{red}{x = 1}$$ $$\textcolor{red}{y = 2}$$ $$\textcolor{red}{z = 3}$$

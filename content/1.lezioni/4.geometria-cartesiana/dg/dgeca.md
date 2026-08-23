@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 [Data la parabola $$y = -x^2 + 6x - 5$$, indicate con $$A$$ e $$B$$ le intersezioni fra la retta $$y = k$$ e la parabola e con $$A'$$ e $$B'$$ le proiezioni di $$A$$ e $$B$$ sull'asse delle $$x$$, determinare il valore di $$k$$ perché il perimetro del rettangolo $$AA'B'B$$ abbia valore $$10$$ unità del piano.]{.text-blue}
 

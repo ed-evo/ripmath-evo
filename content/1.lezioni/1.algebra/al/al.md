@@ -1,4 +1,4 @@
-# [Logaritmi]{.text-red}
+# Logaritmi
 
 - Utilità dei logaritmi
 - Cos'è il logaritmo

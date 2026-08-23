@@ -1,4 +1,4 @@
-# [Implicazione inversa]{.text-red}
+# Implicazione inversa
 
 È l'implicazione inversa $$à + b$$
 corrisponde alla [implicazione materiale in logica](../../k/kb/kblad.html)

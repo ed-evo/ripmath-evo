@@ -1,4 +1,4 @@
-# [Quadrato del trinomio]{.text-red}
+# Quadrato del trinomio
 
 $$\textcolor{red}{(a+b+c)^2 = (a+b+c) \cdot (a+b+c) =}$$
 

@@ -1,4 +1,4 @@
-# [Sistemi di grado superiore]{.text-red}
+# Sistemi di grado superiore
 
 Per risolvere un sistema di grado superiore occorre risolvere un'equazione di grado superiore al secondo.
 Vediamo un esercizio: Risolvere il sistema

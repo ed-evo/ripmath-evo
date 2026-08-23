@@ -1,4 +1,4 @@
-# [Esercizi sulle operazioni con radicali]{.text-red}
+# Esercizi sulle operazioni con radicali
 
 Facciamo ora alcuni semplici esercizi per fissare meglio le regole studiate
 

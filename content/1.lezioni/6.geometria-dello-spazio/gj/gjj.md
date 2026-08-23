@@ -1,4 +1,4 @@
-# [Superficie laterale e totale del tronco di piramide]{.text-red}
+# Superficie laterale e totale del tronco di piramide
 
 Se il tronco di piramide deriva da una piramide **non retta** allora le facce laterali dipendono dai lati del poligono di base, ma hanno altezze diverse e quindi dovremo calcolare le aree delle facce una ad una.
 

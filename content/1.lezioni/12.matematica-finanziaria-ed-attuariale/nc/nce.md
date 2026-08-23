@@ -1,4 +1,4 @@
-# [Nomenclatura sui tipi di rendita]{.text-red}
+# Nomenclatura sui tipi di rendita
 
 [Approfondimento sull'utilizzo dei simboli](ncea.html)
 

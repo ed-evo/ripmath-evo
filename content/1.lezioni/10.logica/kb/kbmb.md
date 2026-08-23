@@ -1,4 +1,4 @@
-# [Modus ponens]{.text-red}
+# Modus ponens
 
 Premetto due esempi di modus ponens:
 

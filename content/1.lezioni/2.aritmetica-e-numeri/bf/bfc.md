@@ -1,4 +1,4 @@
-# [Brevi cenni sui limiti della formalizzazione]{.text-red}
+# Brevi cenni sui limiti della formalizzazione
 
 Vediamo in queste pagine qualche breve cenno su come la matematica riconosca i suoi limiti, mostrando che non si può mai raggiungere la certezza in nessuna teoria.
 

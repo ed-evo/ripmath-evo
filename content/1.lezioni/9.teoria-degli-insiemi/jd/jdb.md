@@ -1,4 +1,4 @@
-# [Codominio]{.text-red}
+# Codominio
 
 Siccome nella definizione di funzione esauriamo l'insieme $$A$$ ma non è detto che esauriamo l'insieme $$B$$ diventa importante definire quanta parte dell'insieme $$B$$ entri a far parte dell'applicazione.
 

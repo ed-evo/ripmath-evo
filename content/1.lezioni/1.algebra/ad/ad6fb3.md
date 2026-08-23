@@ -1,4 +1,4 @@
-# [Raggruppamento per polinomi a cinque termini: trinomio notevole con raccoglimento]{.text-red}
+# Raggruppamento per polinomi a cinque termini: trinomio notevole con raccoglimento
 
 In questo caso tre termini concorrono in un trinomio notevole e tra gli altri due termini posso mettere qualcosa in evidenza in modo che risultino uguali i termini entro parentesi
 

@@ -1,4 +1,4 @@
-# [Sistema possibile, impossibile ed indeterminato]{.text-red}
+# Sistema possibile, impossibile ed indeterminato
 
 È lo stesso discorso che ho fatto nelle equazioni: come in tutti i linguaggi anche nel linguaggio della matematica posso dire frasi vere, posso dire bugie e posso dire cose inutili: questo si riflette sui sistemi relativi a quelle frasi che potranno essere possibili, impossibili od indeterminati. Vediamo di spiegarci meglio con qualche esempio:
 

@@ -1,4 +1,4 @@
-# [Alcuni teoremi]{.text-red}
+# Alcuni teoremi
 
 Vediamo assieme alcuni teoremi che saranno utili per i calcoli.
 

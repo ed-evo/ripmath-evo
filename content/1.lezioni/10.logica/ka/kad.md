@@ -1,4 +1,4 @@
-# [Proposizioni semplici e complesse]{.text-red}
+# Proposizioni semplici e complesse
 
 Distinguiamo fra proposizioni semplici e proposizioni complesse:
 

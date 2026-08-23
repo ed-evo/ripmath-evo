@@ -1,4 +1,4 @@
-# [Condizione di perpendicolarità fra due rette]{.text-red}
+# Condizione di perpendicolarità fra due rette
 
 Prima di costruire la formula devo determinare a cosa corrisponde il fatto che due rette siano perpendicolari: per fare questo considero due rette (supponendo che siano perpendicolari) e cerco di trovare una relazione fra i loro coefficienti angolari.
 

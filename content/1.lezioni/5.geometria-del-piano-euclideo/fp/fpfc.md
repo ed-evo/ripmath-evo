@@ -1,4 +1,4 @@
-# [Secondo criterio di similitudine fra triangoli]{.text-red}
+# Secondo criterio di similitudine fra triangoli
 
 **Se due triangoli hanno due lati proporzionali e gli angoli compresi uguali allora i due triangoli sono simili**
 

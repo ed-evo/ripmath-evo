@@ -1,4 +1,4 @@
-## [l'infinito nei limiti]{.text-red}
+## l'infinito nei limiti
 
 Il concetto di infinito è sempre stato un po' la bestia nera della matematica e col concetto di limite si può affrontare in modo abbastanza efficace: il limite mi mette in relazione due intervalli che si contraggono contemporaneamente: allora perché non applicare questo concetto anche ad un intorno di infinito? Il problema è che non posso far riferimento ad un intorno e nemmeno ad un intervallo, però posso fare riferimento al bordo dell'intervallo che, man mano che si [stringe](cdd1.html), assumerà valori sempre più grandi in valore assoluto.
 

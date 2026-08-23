@@ -1,4 +1,4 @@
-# [Scomposizione secondo il trinomio notevole]{.text-red}
+# Scomposizione secondo il trinomio notevole
 
 La scomposizione secondo il trinomio notevole è l'operazione inversa della moltiplicazione fra binomi: cioè dato il trinomio $$\textcolor{red}{x^2+sx+p}$$ con $$\textcolor{red}{s}$$ e $$\textcolor{red}{p}$$ numeri dati dobbiamo trovare il prodotto fra binomi $$\textcolor{red}{(x+a)(x+b)}$$ il cui risultato sia il polinomio di partenza.
 

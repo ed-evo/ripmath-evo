@@ -1,4 +1,4 @@
-# [Proprietà dei gruppi]{.text-red}
+# Proprietà dei gruppi
 
 Vediamo ora alcune proprietà dei gruppi e facciamone la dimostrazione: vedrai un tipo di ragionamento piuttosto "originale" ma che porta ad ottimi risultati
 

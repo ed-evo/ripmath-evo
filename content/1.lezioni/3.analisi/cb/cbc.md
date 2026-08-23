@@ -1,4 +1,4 @@
-# [PUNTO FRONTIERA]{.text-red}
+# PUNTO FRONTIERA
 
 Un punto si definisce di frontiera quando appartiene al bordo dell'insieme.
 

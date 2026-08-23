@@ -1,4 +1,4 @@
-# [Definizione di Poliedro]{.text-red}
+# Definizione di Poliedro
 
 > **Definizione:** **Poliedro** è la parte di spazio limitata da un numero finito di poligoni, giacenti su piani diversi ed aventi, due a due, un lato in comune.
 >

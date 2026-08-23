@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 Determinare i punti di massimo, minimo e flesso per la seguente funzione in tutto l'intervallo di definizione:
 

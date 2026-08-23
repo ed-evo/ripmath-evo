@@ -1,4 +1,4 @@
-# [sviluppo in serie]{.text-red}
+# sviluppo in serie
 
 - Cos'è una serie di funzioni
 - Sviluppo di alcune funzioni razionali

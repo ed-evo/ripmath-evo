@@ -1,4 +1,4 @@
-## [calcoli]{.text-red}
+## calcoli
 
 $$
 \sum_{k=0,1,\dots,n} \binom{n}{k} \frac{1}{n^k} =

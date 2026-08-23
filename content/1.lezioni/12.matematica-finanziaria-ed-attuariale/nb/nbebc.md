@@ -1,4 +1,4 @@
-# [Ricerca dell'epoca dell'importo]{.text-red}
+# Ricerca dell'epoca dell'importo
 
 Conoscendo il valore da pagare possiamo trovare la scadenza. Vediamo anche qui come fare con un esercizio.
 

@@ -1,4 +1,4 @@
-# [Il campo di esistenza per le funzioni fratte]{.text-red}
+# Il campo di esistenza per le funzioni fratte
 
 Si definisce funzione fratta una funzione in cui la $$x$$ compaia al denominatore.
 

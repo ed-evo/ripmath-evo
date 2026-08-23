@@ -1,4 +1,4 @@
-# [circuito **somma binaria**]{.text-red}
+# circuito **somma binaria**
 
 Mostriamo come funziona il circuito **somma binaria**
 

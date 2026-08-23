@@ -1,4 +1,4 @@
-# [Equiestensione]{.text-red}
+# Equiestensione
 
 Considereremo come concetto primitivo l'avere la stessa superficie; intuitivamente due figure avranno la stessa superficie se, per dipingerle, occorrerà la stessa quantità di vernice.
 

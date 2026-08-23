@@ -1,4 +1,4 @@
-# [Leggi di De Morgan]{.text-red}
+# Leggi di De Morgan
 
 ## Prima legge
 

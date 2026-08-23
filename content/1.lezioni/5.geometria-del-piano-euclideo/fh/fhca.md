@@ -1,4 +1,4 @@
-# [Teorema]{.text-red}
+# Teorema
 
 ## [in ogni rettangolo le diagonali sono congruenti]{.text-red-darken-1}
 e viceversa

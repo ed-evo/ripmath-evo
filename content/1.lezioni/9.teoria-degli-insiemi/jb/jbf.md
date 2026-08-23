@@ -1,4 +1,4 @@
-# [Operazioni fra insiemi]{.text-red}
+# Operazioni fra insiemi
 
 Vediamo ora le possibili operazioni fra insiemi e le relative proprietà:
 

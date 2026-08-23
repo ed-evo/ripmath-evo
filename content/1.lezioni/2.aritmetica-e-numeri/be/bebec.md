@@ -1,4 +1,4 @@
-# [Funzione esponenziale con esponente complesso]{.text-red}
+# Funzione esponenziale con esponente complesso
 
 > A questo punto possiamo scrivere la funzione esponenziale ad esponente complesso: infatti per le proprietà delle potenze abbiamo
 >

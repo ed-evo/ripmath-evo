@@ -1,4 +1,4 @@
-## [Perpendicolarità: definizione]{.text-red}
+## Perpendicolarità: definizione
 
 Diremo che due rette sono perpendicolari se incontrandosi formano $$4$$ angoli uguali (che chiameremo retti).
 

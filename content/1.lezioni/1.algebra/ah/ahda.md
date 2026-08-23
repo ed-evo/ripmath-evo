@@ -1,4 +1,4 @@
-# [Problemi di secondo grado di tipo numerico]{.text-red}
+# Problemi di secondo grado di tipo numerico
 
 Vediamo direttamente su alcuni esercizi come risolvere un problema di secondo grado di tipo numerico: di solito l'equazione risolvente di secondo grado viene suggerita direttamente dal problema stesso;
 

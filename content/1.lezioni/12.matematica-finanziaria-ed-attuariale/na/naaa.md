@@ -1,4 +1,4 @@
-# [Cos'è l'interpolazione lineare]{.text-red}
+# Cos'è l'interpolazione lineare
 
 L'interpolazione lineare è un metodo per trovare approssimativamente un valore compreso tra due valori noti.
 

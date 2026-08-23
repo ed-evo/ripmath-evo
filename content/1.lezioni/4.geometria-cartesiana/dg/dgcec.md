@@ -1,4 +1,4 @@
-# [Determinazione dei punti base di una famiglia di parabole]{.text-red}
+# Determinazione dei punti base di una famiglia di parabole
 
 Se consideriamo due parabole qualunque della famiglia e ne facciamo l'intersezione, e troviamo le coordinate di due punti, questi saranno chiamati **punti base** della famiglia.
 

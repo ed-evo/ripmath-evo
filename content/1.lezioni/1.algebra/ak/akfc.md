@@ -1,4 +1,4 @@
-# [Tre termini al denominatore]{.text-red}
+# Tre termini al denominatore
 
 Anche qui useremo uno dei [principali meccanismi della matematica](../ad/aneddoto.html) : trasformeremo i tre termini in due termini (usando le parentesi)
 

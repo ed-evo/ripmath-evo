@@ -1,4 +1,4 @@
-# [Prodotto di numeri complessi in forma trigonometrica: dimostrazione]{.text-red}
+# Prodotto di numeri complessi in forma trigonometrica: dimostrazione
 
 Considero i numeri complessi
 

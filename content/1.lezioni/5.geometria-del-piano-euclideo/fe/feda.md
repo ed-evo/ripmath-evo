@@ -1,4 +1,4 @@
-# [In un triangolo isoscele l'altezza, la mediana e la bisettrice condotte dal vertice opposto alla base sono coincidenti]{.text-red}
+# In un triangolo isoscele l'altezza, la mediana e la bisettrice condotte dal vertice opposto alla base sono coincidenti
 
 So che il triangolo è isoscele e ne considero l'altezza, dimostro che allora è anche mediana e bisettrice. Posso anche prendere per ipotesi che il triangolo è isoscele e considerarne la mediana oppure prendere il triangolo isoscele e considerarne la bisettrice. Quindi ho tre possibili dimostrazioni.
 

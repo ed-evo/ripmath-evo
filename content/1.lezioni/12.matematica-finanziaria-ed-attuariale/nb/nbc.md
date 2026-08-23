@@ -1,4 +1,4 @@
-# [Sconto]{.text-red}
+# Sconto
 
 - definizione di sconto
 - La retta dei tempi

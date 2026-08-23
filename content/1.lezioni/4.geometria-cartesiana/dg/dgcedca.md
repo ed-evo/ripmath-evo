@@ -1,4 +1,4 @@
-# [grafico della funzione $$y = \frac{2}{x} + 3 + \frac{1}{2}x$$]{.text-red}
+# grafico della funzione $$y = \frac{2}{x} + 3 + \frac{1}{2}x$$
 
 Presa la funzione
 $$

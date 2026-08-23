@@ -1,4 +1,4 @@
-# [Sistema lineare non omogeneo]{.text-red}
+# Sistema lineare non omogeneo
 
 Per risolvere un sistema lineare non omogeneo di $$n$$ equazioni di primo grado in $$n$$ incognite dobbiamo:
 

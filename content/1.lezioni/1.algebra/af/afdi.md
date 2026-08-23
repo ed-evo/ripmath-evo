@@ -1,4 +1,4 @@
-# [Equazioni risolubili con metodi grafici]{.text-red}
+# Equazioni risolubili con metodi grafici
 
 > È l'ultima spiaggia: se proprio non è possibile fare nient'altro, con questo metodo potrai almeno ottenere una soluzione approssimata. Rimandando al capitolo [Analisi numerica]{.text-red} per l'analisi dell'approssimazione vediamo qui un semplice esempio del metodo;
 > 

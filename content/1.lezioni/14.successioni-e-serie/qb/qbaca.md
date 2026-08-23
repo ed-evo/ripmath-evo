@@ -1,4 +1,4 @@
-# [Calcoli]{.text-red}
+# Calcoli
 
 I calcoli sono abbastanza semplici:
 

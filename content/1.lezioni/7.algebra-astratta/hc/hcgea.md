@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Individuare la struttura di spazio vettoriale per l'insieme $$\mathbb{C}$$ dei numeri complessi sul corpo $$\mathbb{R}$$ con le normali operazioni di addizione e moltiplicazione in $$\mathbb{C}$$ e con la moltiplicazione scalare $$\mathbb{R} \cdot \mathbb{C}$$ (numero reale per numero complesso).
 

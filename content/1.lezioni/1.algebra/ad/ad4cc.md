@@ -1,4 +1,4 @@
-# [QUADRATO DEL TRINOMIO]{.text-red}
+# QUADRATO DEL TRINOMIO
 
 Abbiamo visto come trovare la regola [ (cioè si prendono i monomi più semplici possibili)]{.text-purple} possiamo provare a trovare le regole per altri prodotti: quello che viene più spontaneo è il quadrato quando invece di due termini ne abbiamo tre, cioè il quadrato del trinomio. Ora hai capito il meccanismo dei prodotti notevoli, quindi, senza fare la parte introduttiva, [ (cioè senza fare tutti i prodotti per trovare dei metodi per abbreviarli)]{.text-purple} passiamo a trovare la regola finale.
 

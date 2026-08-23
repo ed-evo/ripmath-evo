@@ -1,4 +1,4 @@
-# [Potenza con base variabile]{.text-red}
+# Potenza con base variabile
 
 Considero la successione $$s: \mathbb{N} \to \mathbb{N}$$
 $$1^2, 2^2, 3^2, 4^2, \dots, n^2, (n+1)^2, \dots$$

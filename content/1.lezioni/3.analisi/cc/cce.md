@@ -1,4 +1,4 @@
-# [Funzione inversa]{.text-red}
+# Funzione inversa
 
 Una funzione è il legame che esiste fra un dominio ed un codominio; sotto certe condizioni è possibile ipotizzare un legame che faccia passare dal codominio al dominio: se questo è possibile tale funzione si chiama funzione inversa.
 

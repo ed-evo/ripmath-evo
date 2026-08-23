@@ -1,5 +1,5 @@
-# [Sul concetto di geometria]{.text-red}
-## [Le "geometrie" e i giochi di carte]{.text-red}
+# Sul concetto di geometria
+## Le "geometrie" e i giochi di carte
 
 Per quanto ti possa sembrare strano, una delle cose più simili alla geometria che esista nel mondo reale è una partita a carte: le regole iniziali sono i postulati che anche qui puoi suddividere in:
 

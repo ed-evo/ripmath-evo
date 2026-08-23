@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 In questa sezione raccogliamo le parti della matematica che sono utilizzate ed applicate in informatica.
 

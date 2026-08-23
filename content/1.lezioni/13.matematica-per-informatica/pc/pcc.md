@@ -1,4 +1,4 @@
-# [Operazioni interne]{.text-red}
+# Operazioni interne
 
 Prima di procedere approfondiamo un poco il concetto di operazione.
 Se vuoi far contento il tuo Prof. puoi indicarla, in linguaggio erudito, come legge di composizione.

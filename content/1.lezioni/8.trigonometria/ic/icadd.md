@@ -1,4 +1,4 @@
-# [Tabella di riepilogo formule parametriche]{.text-red}
+# Tabella di riepilogo formule parametriche
 
 $$
 \textcolor{blue}{\sin \alpha = \frac{2t}{1 + t^2}}

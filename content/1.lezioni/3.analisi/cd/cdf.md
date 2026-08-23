@@ -1,4 +1,4 @@
-> # [Due limiti notevoli]{.text-red}
+> # Due limiti notevoli
 >
 > Sono molto importanti: il primo è alla base del calcolo dei limiti su parecchie funzioni trigonometriche e l'altro è il generatore del numero $$e$$ (numero di Nepero)
 >

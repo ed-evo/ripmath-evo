@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Calcolare la seguente potenza
 $$ (x - 2y)^6 = $$

@@ -1,4 +1,4 @@
-# [Differenza fra numeri reali]{.text-red}
+# Differenza fra numeri reali
 
 **Definiamo differenza $$\textcolor{red}{c}$$ dei numeri reali $$\textcolor{red}{a}$$ e $$\textcolor{red}{b}$$**
 

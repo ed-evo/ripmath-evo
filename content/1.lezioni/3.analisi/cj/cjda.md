@@ -1,4 +1,4 @@
-# [Troviamo le costanti]{.text-red}
+# Troviamo le costanti
 
 metti la pagina a tutto schermo altrimenti le formule si vedono male
 

@@ -1,4 +1,4 @@
-# [Applicazione composta]{.text-red}
+# Applicazione composta
 
 Consideriamo un'applicazione $$f$$ da $$A$$ a $$B$$ e poi un'altra applicazione $$g$$ da $$B$$ a $$C$$; allora se considero un'applicazione da $$A$$ a $$C$$ equivalente alle due applicazioni considerate (nel senso che fa corrispondere gli stessi elementi), essa sarà la loro composizione.
 

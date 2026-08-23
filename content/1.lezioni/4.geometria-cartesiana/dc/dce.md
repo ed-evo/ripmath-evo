@@ -1,4 +1,4 @@
-# [La retta nel piano cartesiano]{.text-red}
+# La retta nel piano cartesiano
 
 - Introduzione
 - Retta per l'origine

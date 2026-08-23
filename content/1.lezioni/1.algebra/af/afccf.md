@@ -1,4 +1,4 @@
-# [Decomposizione del trinomio]{.text-red}
+# Decomposizione del trinomio
 
 Come nome è un po' macabro, ma è il suo; qualcuno la chiama scomposizione, però la scomposizione del trinomio è un altro tipo di ragionamento anche se il risultato è quasi il medesimo.
 

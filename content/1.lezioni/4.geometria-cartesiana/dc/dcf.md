@@ -1,4 +1,4 @@
-# [Il problema in geometria cartesiana]{.text-red}
+# Il problema in geometria cartesiana
 
 In geometria cartesiana la soluzione di un problema mostra con più evidenza che in altre discipline tre importanti caratteristiche:
 

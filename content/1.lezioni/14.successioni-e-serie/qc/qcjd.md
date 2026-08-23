@@ -1,4 +1,4 @@
-# [Teorema della minorante]{.text-red}
+# Teorema della minorante
 
 Prima di enunciare il teorema introduciamo il concetto di **successione minorante** e **successione maggiorante**.
 

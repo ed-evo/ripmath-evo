@@ -1,4 +1,4 @@
-# [Grafico della funzione esponenziale quando la base è compresa tra $$0$$ ed $$1$$]{.text-red}
+# Grafico della funzione esponenziale quando la base è compresa tra $$0$$ ed $$1$$
 
 > Costruiamo il grafico considerando la base $$\frac{1}{2}$$: infatti quando la base è compresa tra $$0$$ ed $$1$$ tutte le curve esponenziali ottenute con qualunque base hanno le stesse caratteristiche
 

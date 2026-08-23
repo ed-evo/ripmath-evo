@@ -1,4 +1,4 @@
-# [Tavole di verità]{.text-red}
+# Tavole di verità
 
 Ad ogni proposizione possiamo associare o il valore $$\textcolor{red}{v}$$ oppure il valore $$\textcolor{red}{f}$$.
 

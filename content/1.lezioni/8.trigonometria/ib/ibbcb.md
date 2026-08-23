@@ -1,4 +1,4 @@
-# [Valori di $$\tan \alpha$$]{.text-red}
+# Valori di $$\tan \alpha$$
 
 Dobbiamo immaginare che il raggio $$OP$$ parta dall'orizzontale $$OA$$ e che il punto $$P$$ percorra la circonferenza. Leggiamo il valore del segmento $$AT$$ sulla verticale.
 

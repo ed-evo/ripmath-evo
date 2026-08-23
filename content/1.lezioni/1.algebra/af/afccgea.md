@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trovare i due numeri $$x_1$$ e $$x_2$$ tali che
 

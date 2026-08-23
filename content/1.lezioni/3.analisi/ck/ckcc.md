@@ -1,4 +1,4 @@
-# [Teorema fondamentale del calcolo integrale]{.text-red}
+# Teorema fondamentale del calcolo integrale
 
 Il teorema fondamentale del calcolo integrale dice che la derivata della funzione integrale è uguale alla funzione di partenza.
 

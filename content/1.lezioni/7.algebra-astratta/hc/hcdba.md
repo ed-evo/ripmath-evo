@@ -1,4 +1,4 @@
-# [Unicità dell'elemento neutro]{.text-red}
+# Unicità dell'elemento neutro
 
 Proprietà:
 **_In ogni gruppo $$ (A, \ast) $$ l'elemento neutro è unico_**

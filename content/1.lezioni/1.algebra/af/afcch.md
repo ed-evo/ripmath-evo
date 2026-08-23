@@ -1,4 +1,4 @@
-# [Discussione di equazioni con parametro]{.text-red}
+# Discussione di equazioni con parametro
 
 Se cerchi le equazioni con parametro senza discussione guarda la [pagina precedente](afccg.html)
 

@@ -1,4 +1,4 @@
-# [Il determinante 3x3]{.text-red}
+# Il determinante 3x3
 
 Presa la matrice
 

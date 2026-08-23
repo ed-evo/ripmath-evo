@@ -1,4 +1,4 @@
-# [Quarto quadrante]{.text-red}
+# Quarto quadrante
 
 > Quando l'angolo si trova nel quarto quadrante può essere pensato in due modi diversi: o come $$270^\circ + \alpha$$ o come $$360^\circ - \alpha$$, e quindi, essendovi la periodicità di $$360^\circ$$, come $$-\alpha$$.
 >

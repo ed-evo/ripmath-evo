@@ -1,4 +1,4 @@
-# [Somma fra numeri interi]{.text-red}
+# Somma fra numeri interi
 
 > Al solito userò indifferentemente la parola somma e la parola addizione anche se la prima indica il risultato e la seconda indica l'operazione.
 

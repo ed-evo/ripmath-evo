@@ -1,4 +1,4 @@
-# [Problemi tipo settimana enigmistica]{.text-red}
+# Problemi tipo settimana enigmistica
 
 > Problemi che si risolvono con una sola incognita possono essere risolti anche con due incognite in modo equivalente e spesso più semplicemente.
 > I tre problemi seguenti sono già stati risolti con una sola incognita: qui li risolviamo con due incognite.

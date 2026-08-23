@@ -1,4 +1,4 @@
-# [Successioni generate da potenze]{.text-red}
+# Successioni generate da potenze
 
 - [termine variabile alla base](qadfa.html)
 - [esponente variabile con base positiva](qadfb.html)

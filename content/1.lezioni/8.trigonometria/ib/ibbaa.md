@@ -1,4 +1,4 @@
-# [Definizione del seno di un angolo $$\alpha$$]{.text-red}
+# Definizione del seno di un angolo $$\alpha$$
 
 Il seno di $$\alpha$$ viene definito come rapporto dell'altezza $$PH$$ al raggio della circonferenza
 

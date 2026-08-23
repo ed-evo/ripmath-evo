@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 Devo risolvere il problema:
 Un mattone pesa un chilo più mezzo mattone. Quanto pesa un mattone?

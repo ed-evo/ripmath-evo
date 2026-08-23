@@ -1,4 +1,4 @@
-# [Sistemi di equazioni]{.text-red}
+# Sistemi di equazioni
 
 - Definizione
 - Sistemi di primo grado

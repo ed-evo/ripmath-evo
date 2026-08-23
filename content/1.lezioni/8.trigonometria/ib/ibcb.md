@@ -1,4 +1,4 @@
-# [Seconda relazione fondamentale]{.text-red}
+# Seconda relazione fondamentale
 
 È una relazione tra il seno e il coseno con la tangente.
 

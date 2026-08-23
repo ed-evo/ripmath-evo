@@ -1,4 +1,4 @@
-# [Valori agli estremi del campo di esistenza]{.text-red}
+# Valori agli estremi del campo di esistenza
 
 Quando il campo di esistenza è diverso da tutto $$\mathbb{R}$$ meno qualche punto e vi sono delle zone della retta reale in cui la funzione non è definita è bene andare a controllare qual è il valore della funzione nei punti che separano queste zone: attenzione però che devi fare il limite solo dalla parte dove la funzione è definita.
 

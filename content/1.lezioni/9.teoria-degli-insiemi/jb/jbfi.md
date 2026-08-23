@@ -1,4 +1,4 @@
-# [Prodotto cartesiano]{.text-red}
+# Prodotto cartesiano
 
 - Concetto di coppia ordinata
 - Prodotto cartesiano fra due insiemi

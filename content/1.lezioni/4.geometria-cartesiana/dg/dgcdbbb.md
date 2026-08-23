@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Rappresentare graficamente la parabola di equazione
 $$\textcolor{red}{y = \frac{1}{9}x^2 + \frac{4}{9}x - \frac{32}{9}}$$

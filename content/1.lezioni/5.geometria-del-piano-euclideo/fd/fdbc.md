@@ -1,4 +1,4 @@
-# [In ogni triangolo a angolo maggiore sta opposto il lato maggiore]{.text-red}
+# In ogni triangolo a angolo maggiore sta opposto il lato maggiore
 
 È il teorema inverso del precedente.
 

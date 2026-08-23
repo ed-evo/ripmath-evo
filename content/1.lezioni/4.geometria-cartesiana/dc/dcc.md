@@ -1,4 +1,4 @@
-# [Distanza fra due punti nel piano]{.text-red}
+# Distanza fra due punti nel piano
 
 Consideriamo i punti nel piano $$\textcolor{blue}{A = (x_1, y_1)}$$ $$\textcolor{blue}{B = (x_2, y_2)}$$ voglio trovare la loro distanza.
 

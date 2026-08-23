@@ -1,4 +1,4 @@
-# [Funzioni discontinue]{.text-red}
+# Funzioni discontinue
 
 Diciamo semplicemente che
 

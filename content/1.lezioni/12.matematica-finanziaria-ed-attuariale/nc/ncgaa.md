@@ -1,4 +1,4 @@
-# [Calcolo del montante]{.text-red}
+# Calcolo del montante
 
 - montante di una rendita immediata posticipata
 - montante di una rendita immediata anticipata

@@ -1,4 +1,4 @@
-## [Sul concetto di rappresentazione di una funzione]{.text-red}
+## Sul concetto di rappresentazione di una funzione
 
 È utile ricordare, per ben capire il concetto di funzione, che la funzione è il collegamento esistente fra due variabili, e si può rappresentare, per funzioni reali di variabili reali, mediante il collegamento esistente fra due rette; ora queste rette di solito si rappresentano mediante un sistema di assi ortogonali e la funzione diventa l'insieme dei punti che ad una $$x$$ fanno corrispondere una $$y$$;
 

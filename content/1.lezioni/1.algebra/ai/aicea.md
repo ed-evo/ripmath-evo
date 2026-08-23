@@ -1,4 +1,4 @@
-# [Sistema simmetrico elementare]{.text-red}
+# Sistema simmetrico elementare
 
 Chiameremo sistema simmetrico elementare un sistema in cui abbiamo un'equazione con la somma delle incognite e l'altra equazione con il loro prodotto:
 

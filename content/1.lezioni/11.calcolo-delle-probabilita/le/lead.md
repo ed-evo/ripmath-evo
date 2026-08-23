@@ -1,4 +1,4 @@
-# [Varianza]{.text-red}
+# Varianza
 
 Per poter avere una buona rappresentatività del valore medio è necessario introdurre un indice che misuri di quanto il valore medio si discosta dai dati, cioè la **varianza**.
 

@@ -1,4 +1,4 @@
-# [Equivalenza delle operazioni in informatica, logica e teoria degli insiemi]{.text-red}
+# Equivalenza delle operazioni in informatica, logica e teoria degli insiemi
 
 Vediamo ora di puntualizzare che le operazioni fondamentali sugli insiemi, sulle proposizioni logiche, nell'algebra di Boole ed in informatica sono esattamente lo stesso tipo di operazioni, il che fa pensare che il ragionamento matematico è unico, anche se variano gli oggetti cui si applica.
 

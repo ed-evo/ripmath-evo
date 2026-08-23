@@ -1,4 +1,4 @@
-# [Radiante]{.text-red}
+# Radiante
 
 Consideriamo ora il **radiante**, cioè l'arco che, rettificato, ha la stessa lunghezza del raggio $$r$$ del cerchio e usiamolo come unità di misura per la circonferenza: infatti se considero un arco uguale al raggio avrò che la circonferenza vale:
 

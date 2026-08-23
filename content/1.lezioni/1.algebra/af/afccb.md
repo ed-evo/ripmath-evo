@@ -1,4 +1,4 @@
-# [Formula ridotta]{.text-red}
+# Formula ridotta
 
 Si può applicare solamente quando il secondo termine è divisibile per due: pongo $$b = 2h$$
 

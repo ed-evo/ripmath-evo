@@ -1,4 +1,4 @@
-# [Distanza fra due punti accessibili ma non visibili tra loro]{.text-red}
+# Distanza fra due punti accessibili ma non visibili tra loro
 
 Supponiamo di voler calcolare la distanza fra due punti $$B$$ e $$C$$ ma che fra essi ci sia un ostacolo (nella figura una specie di casetta).
 

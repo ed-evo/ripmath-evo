@@ -1,4 +1,4 @@
-# [Terzo criterio di similitudine fra triangoli]{.text-red}
+# Terzo criterio di similitudine fra triangoli
 
 > Questo è uno dei teoremi meno usati, ma quando capita... Insegnavo alle magistrali quando ho incontrato un esercizio (l'unico mai visto) basato sul terzo criterio e ci sono stato sopra 3 giorni prima di capire cos'era e come venirne a capo
 

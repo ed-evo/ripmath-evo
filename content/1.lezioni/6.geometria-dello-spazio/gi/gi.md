@@ -1,4 +1,4 @@
-# [Prismi]{.text-red}
+# Prismi
 
 Cominciamo ora a studiare i solidi nello spazio anche dal punto di vista della loro superficie e del loro volume; iniziamo dalla famiglia dei prismi che sono un po' nello spazio l'equivalente dei poligoni nel piano.
 

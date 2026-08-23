@@ -1,4 +1,4 @@
-# [Passaggio dal tasso frazionato al tasso annuo effettivo]{.text-red}
+# Passaggio dal tasso frazionato al tasso annuo effettivo
 
 Sorge quindi il problema di passare dal tasso annuo effettivo al tasso frazionato e, viceversa, dal tasso frazionato al tasso annuo effettivo:
 

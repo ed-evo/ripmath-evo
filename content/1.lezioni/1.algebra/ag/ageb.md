@@ -1,4 +1,4 @@
-# [Sistema con disequazioni di primo e secondo grado]{.text-red}
+# Sistema con disequazioni di primo e secondo grado
 
 È abbastanza elementare: devi riportare su un grafico le soluzioni delle varie disequazioni di primo e secondo grado e considerare i valori validi contemporaneamente per tutte le disequazioni.
 

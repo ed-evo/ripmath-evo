@@ -1,4 +1,4 @@
-# [bit]{.text-red}
+# bit
 
 La parola [**bit**]{.text-red} è l'acronimo di [**BI**]{.text-red}nary dig[**IT**]{.text-red}, cioè cifra binaria ed è la minima quantità di informazione: si riduce sempre ad uno $$0$$ oppure ad un $$1$$.
 

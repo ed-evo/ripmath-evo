@@ -1,4 +1,4 @@
-# [CUBO DEL BINOMIO]{.text-red}
+# CUBO DEL BINOMIO
 
 Anche per il cubo troviamo la regola come abbiamo fatto per il prodotto notevole precedente: infatti basta che applichiamo l'operazione sul binomio più semplice possibile e poi leggiamo il risultato:
 

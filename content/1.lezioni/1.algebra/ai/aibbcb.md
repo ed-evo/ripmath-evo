@@ -1,4 +1,4 @@
-# [Sistema indeterminato]{.text-red}
+# Sistema indeterminato
 
 Diremo che un sistema è indeterminato se due delle equazioni che lo compongono sono tra loro equivalenti oppure anche tutte e tre: i due casi danno luogo a soluzioni diverse: vediamolo in particolare
 

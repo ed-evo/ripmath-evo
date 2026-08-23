@@ -1,4 +1,4 @@
-# [Equazioni biquadratiche]{.text-red}
+# Equazioni biquadratiche
 
 Si chiamerà biquadratica un'equazione che ha tre termini, uno con $$x^4$$, uno con $$x^2$$, ed un termine noto.
 

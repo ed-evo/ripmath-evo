@@ -1,4 +1,4 @@
-# [Distanza fra due punti visibili ma uno non accessibile]{.text-red}
+# Distanza fra due punti visibili ma uno non accessibile
 
 Supponiamo di voler calcolare la distanza fra due punti $$A$$ e $$B$$: io mi trovo in $$A$$ ma non posso raggiungere $$B$$ perché è al di là del fiume.
 

@@ -1,4 +1,4 @@
-# [Primo quadrante (angoli complementari)]{.text-red}
+# Primo quadrante (angoli complementari)
 
 Consideriamo nel primo quadrante l'angolo $$\alpha$$ ed anche l'angolo $$\textcolor{red}{90^\circ - \alpha}$$.
 L'angolo che resta tra $$\textcolor{red}{90^\circ - \alpha}$$ e l'asse verticale vale anche lui $$\alpha$$.

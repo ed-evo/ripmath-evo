@@ -1,4 +1,4 @@
-# [Proprietà della moltiplicazione]{.text-red}
+# Proprietà della moltiplicazione
 
 Elenchiamo semplicemente le proprietà che ci interesseranno con un semplice esempio semplificativo:
 

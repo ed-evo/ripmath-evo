@@ -1,4 +1,4 @@
-# [Angoli fra rette tagliate da una trasversale]{.text-red}
+# Angoli fra rette tagliate da una trasversale
 
 Il criterio che useremo per caratterizzare le rette parallele sarà quello che coinvolge gli angoli che tali rette fanno con una trasversale, pertanto ora dovremo dare un nome a tali angoli per poterli usare; tali nomi però andranno bene anche se le rette non sono parallele. Per semplicità indico ogni angolo con un numero.
 

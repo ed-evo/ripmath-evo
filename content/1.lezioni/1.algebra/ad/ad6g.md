@@ -1,4 +1,4 @@
-# [Tabella di riepilogo per le scomposizioni]{.text-red}
+# Tabella di riepilogo per le scomposizioni
 
 ## [Come si usa la tabella]{.text-blue}
 

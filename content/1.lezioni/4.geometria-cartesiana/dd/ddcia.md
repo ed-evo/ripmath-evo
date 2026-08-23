@@ -1,4 +1,4 @@
-# [Definizione di fascio di circonferenze]{.text-red}
+# Definizione di fascio di circonferenze
 
 Diremo che abbiamo un fascio di circonferenze se, all'interno dell'equazione, esiste un parametro che può variare senza alterare le condizioni per cui l'equazione è una circonferenza.
 

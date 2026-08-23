@@ -1,4 +1,4 @@
-# [La serie armonica]{.text-red}
+# La serie armonica
 
 Mostriamo ora, come applicazione, che la serie armonica è divergente
 

@@ -1,4 +1,4 @@
-# [Poligoni regolari]{.text-red}
+# Poligoni regolari
 
 Abbiamo detto che un poligono è detto **regolare** quando ha tutti gli angoli e tutti i lati uguali.
 Vediamo alcuni tra i principali poligoni regolari:

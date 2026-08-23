@@ -1,4 +1,4 @@
-# [Quattro termini al denominatore]{.text-red}
+# Quattro termini al denominatore
 
 Ormai è logico come procederemo: trasformeremo i quattro termini in due termini (usando le parentesi)
 

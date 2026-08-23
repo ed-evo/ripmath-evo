@@ -1,4 +1,4 @@
-# [Definizione di frequenza]{.text-red}
+# Definizione di frequenza
 
 Facciamo un gioco: lancio una moneta $$20$$ volte e segno il numero di volte che esce testa.
 Supponiamo che testa esca $$12$$ volte

@@ -1,4 +1,4 @@
-# [Forma trigonometrica dei numeri complessi]{.text-red}
+# Forma trigonometrica dei numeri complessi
 
 Considero il numero complesso $$\textcolor{red}{a + ib}$$
 

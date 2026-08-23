@@ -1,4 +1,4 @@
-# [Triedri]{.text-red}
+# Triedri
 
 Se il poligono generatore è un triangolo otteniamo l'angoloide più semplice che chiameremo **Triedro**.
 

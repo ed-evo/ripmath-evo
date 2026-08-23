@@ -1,4 +1,4 @@
-# [Ancora sul piano cartesiano]{.text-red}
+# Ancora sul piano cartesiano
 
 Con la costruzione precedente abbiamo diviso il piano in 4 parti che chiameremo quadranti e di solito vengono indicati con numeri romani.
 

@@ -1,4 +1,4 @@
-# [INTERVALLI ED INTORNI: DEFINIZIONI E RAPPRESENTAZIONE]{.text-red}
+# INTERVALLI ED INTORNI: DEFINIZIONI E RAPPRESENTAZIONE
 
 Si definisce intervallo sulla retta $$\mathbb{R}$$ l'insieme di tutti i punti compresi fra due valori dati: ad esempio l'intervallo $$[2, 5]$$ sarà l'insieme di tutti i punti (numeri) compresi fra $$2$$ e $$5$$.
 

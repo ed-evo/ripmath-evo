@@ -1,4 +1,4 @@
-# [Tangenza ad una retta]{.text-red}
+# Tangenza ad una retta
 
 Imporre la condizione di tangenza ad una retta significa fare il sistema fra la retta e la circonferenza e porre il $$\Delta$$ uguale a $$0$$.
 

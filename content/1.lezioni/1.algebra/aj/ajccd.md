@@ -1,4 +1,4 @@
-# [Se moltiplico ogni elemento di una riga (colonna) per un numero reale $$C$$ allora il valore del determinante viene moltiplicato per $$C$$]{.text-red}
+# Se moltiplico ogni elemento di una riga (colonna) per un numero reale $$C$$ allora il valore del determinante viene moltiplicato per $$C$$
 
 Ad esempio si ha:
 

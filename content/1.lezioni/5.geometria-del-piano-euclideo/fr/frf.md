@@ -1,4 +1,4 @@
-# [Utilizzo del "numero" pi greco]{.text-red}
+# Utilizzo del "numero" pi greco
 
 **Pi greco** è un numero reale e non razionale;
 

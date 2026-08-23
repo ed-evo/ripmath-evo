@@ -1,8 +1,8 @@
-# [Il concetto di insieme]{.text-red}
+# Il concetto di insieme
 
 Non è possibile definire l'insieme: essendo uno dei concetti primitivi della matematica ognuno di noi dovrebbe possederlo e tale concetto dovrebbe essere lo stesso per ciascuno di noi. Comunque intuitivamente si può dire che quando abbiamo degli oggetti se riusciamo a considerarli collegati tra loro allora abbiamo un insieme. La prima cosa da dire è che gli oggetti (elementi) che compongono l'insieme devono sempre essere ben definiti prima ancora di considerare l'insieme stesso.
 
-## [vediamo un po' di nomenclatura (simboli)]{.text-red}
+## vediamo un po' di nomenclatura (simboli)
 
 Useremo le lettere minuscole dell'alfabeto per indicare gli oggetti (elementi) di un insieme:
 

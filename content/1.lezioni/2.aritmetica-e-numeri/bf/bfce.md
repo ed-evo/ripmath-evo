@@ -1,4 +1,4 @@
-# [Conclusioni]{.text-red}
+# Conclusioni
 
 Quanto fatto nella pagina precedente significa che nell'aritmetica in particolare e nella matematica in generale non è possibile riuscire a dimostrare la validità di un ragionamento matematico partendo dagli assiomi ed utilizzando le normali regole di inferenza, cioè la matematica riconosce i suoi limiti e ne prende atto.
 

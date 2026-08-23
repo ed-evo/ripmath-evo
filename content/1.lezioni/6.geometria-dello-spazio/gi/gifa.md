@@ -1,4 +1,4 @@
-# [Teorema sui parallelepipedi rettangoli]{.text-red}
+# Teorema sui parallelepipedi rettangoli
 
 **Teorema:**
 **Due parallelepipedi rettangoli aventi due dimensioni congruenti hanno i volumi proporzionali alla terza dimensione**

@@ -1,4 +1,4 @@
-# [Qualche semplice esercizio sulle derivate immediate]{.text-red}
+# Qualche semplice esercizio sulle derivate immediate
 
 Purtroppo gli esercizi che ora possiamo fare sono davvero pochi in quanto ancora non abbiamo le regole operative; comunque cominciamo con quelli che possiamo fare:
 

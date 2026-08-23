@@ -1,4 +1,4 @@
-# [Successioni particolari]{.text-red}
+# Successioni particolari
 
 Qui mettiamo alcune successioni che sono un po' particolari e che è difficile definire con semplici operazioni (a parte forse la prima)
 

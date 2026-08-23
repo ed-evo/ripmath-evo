@@ -1,4 +1,4 @@
-# [Teoria e modelli]{.text-red}
+# Teoria e modelli
 
 Fino agli inizi del $$1900$$ in matematica si dava più importanza al calcolo "puro" rispetto al calcolo applicato: ad esempio furono studiati i numeri immaginari molto prima di trovarne applicazioni fisiche.
 

@@ -1,4 +1,4 @@
-# [Dodecaedro]{.text-red}
+# Dodecaedro
 
 Consideriamo ora come figura base il pentagono regolare.
 

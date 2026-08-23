@@ -1,4 +1,4 @@
-# [Segmenti perpendicolari ed obliqui]{.text-red}
+# Segmenti perpendicolari ed obliqui
 
 Analogamente a quanto fatto nel piano, vediamo le proprietà dei segmenti di perpendicolare e delle oblique condotte al piano da un punto che sia esterno al piano stesso.
 

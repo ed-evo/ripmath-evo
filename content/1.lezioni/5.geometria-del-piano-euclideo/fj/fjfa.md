@@ -1,4 +1,4 @@
-# [Ancora sugli angoli al centro ed alla circonferenza]{.text-red}
+# Ancora sugli angoli al centro ed alla circonferenza
 
 Talvolta, o per far capire meglio l'alunno che ha qualche difficoltà o per costringere a ragionare l'alunno più "secchione", il docente presenta la figura dell'angolo al centro ed alla circonferenza in modo alternativo; vediamo in questa pagina quali casi si possono presentare.
 

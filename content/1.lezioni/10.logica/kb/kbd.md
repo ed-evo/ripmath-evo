@@ -1,4 +1,4 @@
-# [Operatori logici fondamentali]{.text-red}
+# Operatori logici fondamentali
 
 Gli operatori visti sinora $$\text{not}$$, $$\text{et}$$, $$\text{vel}$$ sono detti **operatori logici fondamentali** perché tramite essi è possibile ricavare tutti gli altri operatori che considereremo; da qui la loro importanza fondamentale.
 

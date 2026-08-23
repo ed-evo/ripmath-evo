@@ -1,4 +1,4 @@
-# [DIVISIONE FRA UN POLINOMIO ED UN MONOMIO]{.text-red}
+# DIVISIONE FRA UN POLINOMIO ED UN MONOMIO
 
 Per eseguire la divisione fra un polinomio ed un monomio basta ricordare il significato delle [parentesi](parentes.html): Tutti i termini dentro parentesi hanno gli stessi diritti, quindi tutti devono essere divisi per il monomio fuori.
 

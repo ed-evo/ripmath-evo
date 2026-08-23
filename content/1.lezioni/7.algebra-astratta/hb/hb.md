@@ -1,4 +1,4 @@
-# [Ripasso sulle proprietà delle operazioni elementari]{.text-red}
+# Ripasso sulle proprietà delle operazioni elementari
 
 Vediamo quindi le principali proprietà delle operazioni che abbiamo definito inizialmente come operazioni interne nell'insieme $$N$$ dei numeri naturali
 

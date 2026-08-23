@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [Dato il triangolo $$ABC$$, isoscele sulla base $$BC$$, si prolunghi il lato $$BC$$ oltre $$B$$ e $$C$$ di due segmenti congruenti $$BD = CE$$. Dimostrare che il triangolo $$ADE$$ è isoscele]{.text-blue}
 

@@ -1,4 +1,4 @@
-# [Costruzione di una famiglia di parabole]{.text-red}
+# Costruzione di una famiglia di parabole
 
 Come abbiamo visto per la retta e la circonferenza anche per le parabole è possibile parlare di fascio, o meglio di **famiglia di parabole**.
 

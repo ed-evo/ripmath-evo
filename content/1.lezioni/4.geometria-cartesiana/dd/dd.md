@@ -1,4 +1,4 @@
-# [Coniche]{.text-red}
+# Coniche
 
 - Le coniche come intersezione fra un piano ed un cono matematico
 - Equazione generale di una conica

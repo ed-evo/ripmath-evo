@@ -1,4 +1,4 @@
-> ### [Osservazione]{.text-red}
+> ### Osservazione
 >
 > **Attenzione:** per poter parlare di continuità o discontinuità bisogna poter parlare di limite: ad esempio secondo voi la funzione
 >

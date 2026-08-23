@@ -1,4 +1,4 @@
-# [Volume della piramide]{.text-red}
+# Volume della piramide
 
 Ormai è facile determinare il volume di una piramide: basterà considerare il volume di un prisma avente la stessa base e la stessa altezza e dividere il risultato per 3.
 

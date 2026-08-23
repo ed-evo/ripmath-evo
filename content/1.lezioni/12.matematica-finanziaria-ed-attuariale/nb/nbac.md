@@ -1,4 +1,4 @@
-# [Regime ad interesse composto]{.text-red}
+# Regime ad interesse composto
 
 > Se metto dei soldi in banca, al 31 dicembre mi viene corrisposto un interesse: di solito tale interesse non viene ritirato ma viene aggiunto al capitale venendo così a formare il nuovo capitale su cui calcolare l'interesse per il prossimo anno e così di anno in anno.
 >

@@ -1,4 +1,4 @@
-# [Punti di Massimo, minimo e flesso]{.text-red}
+# Punti di Massimo, minimo e flesso
 
 - Funzioni crescenti e decrescenti
 - Punto di Massimo

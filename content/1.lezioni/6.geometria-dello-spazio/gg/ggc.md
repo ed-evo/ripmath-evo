@@ -1,4 +1,4 @@
-# [Angolo diedro]{.text-red}
+# Angolo diedro
 
 Il concetto di perpendicolarità fra piani ci permette ora di estendere nello spazio il concetto di angolo fra due piani che chiameremo angolo diedro.
 

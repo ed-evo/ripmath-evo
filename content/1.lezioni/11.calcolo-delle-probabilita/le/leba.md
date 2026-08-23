@@ -1,4 +1,4 @@
-# [Dal discreto al continuo]{.text-red}
+# Dal discreto al continuo
 
 Esistono vari tipi di problemi in cui l'insieme dei valori possibili è continuo, cioè abbiamo un numero infinito di probabilità per tutti i valori compresi in un intervallo in corrispondenza biunivoca con un intervallo della Retta Reale.
 

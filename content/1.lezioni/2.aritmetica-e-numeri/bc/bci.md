@@ -1,4 +1,4 @@
-# [Espressioni con numeri razionali]{.text-red}
+# Espressioni con numeri razionali
 
 Vediamo ora come sviluppare un'espressione con i numeri razionali: prima premetto la scomposizione in fattori primi che, anche se è un argomento già fatto nella scuola media, è bene ripassare almeno per quanto riguarda i criteri di scomposizione; vediamo poi quanto questa scomposizione è importante per eseguire velocemente le operazioni fondamentali sui numeri razionali ed infine vedremo come affrontare un'espressione
 

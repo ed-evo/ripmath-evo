@@ -1,4 +1,4 @@
-## [Equiscomponibilità fra parallelogrammi]{.text-red}
+## Equiscomponibilità fra parallelogrammi
 
 Come prima cosa mostriamo che:
 

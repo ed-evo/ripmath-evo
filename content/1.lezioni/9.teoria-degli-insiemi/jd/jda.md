@@ -1,4 +1,4 @@
-# [Definizione di applicazione (o funzione) fra insiemi]{.text-red}
+# Definizione di applicazione (o funzione) fra insiemi
 
 Intuitivamente si ha una funzione quando si riesce a stabilire un legame tra due insiemi diversi in modo che ad elementi del primo insieme corrispondano elementi del secondo insieme.
 

@@ -1,4 +1,4 @@
-# [Calcolo del montante di una rendita immediata posticipata]{.text-red}
+# Calcolo del montante di una rendita immediata posticipata
 
 Prima di procedere consiglio un ripasso del concetto di [progressione geometrica](../../q/qb/qbb.html)
 dovremo utilizzare la formula per la [somma dei suoi primi n termini](../../q/qb/qbbe.html)

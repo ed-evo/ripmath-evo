@@ -1,4 +1,4 @@
-# [Disequazioni esponenziali a base maggiore di 1]{.text-red}
+# Disequazioni esponenziali a base maggiore di 1
 
 Se la base è maggiore di $$1$$ allora il verso della disequazione si mantiene; cioè:
 

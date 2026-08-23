@@ -1,4 +1,4 @@
-# [Differenza di quadrati]{.text-red}
+# Differenza di quadrati
 
 Prendiamo il prodotto notevole somma di due monomi per la loro differenza:
 

@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Date le parabole $$y = x^2 - 2x$$ e $$y = -x^2 + 2x$$, trovare le equazioni delle tangenti nei punti comuni alle due parabole e dire quale tipo di figura individuano tali tangenti.
 

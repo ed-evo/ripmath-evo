@@ -1,5 +1,5 @@
-# [Determinazione del segno di un polinomio di secondo grado]{.text-red}
-## [Metodo algebrico]{.text-red}
+# Determinazione del segno di un polinomio di secondo grado
+## Metodo algebrico
 
 Risolvere una disequazione di secondo grado significa trovare il segno del polinomio di secondo grado.
 

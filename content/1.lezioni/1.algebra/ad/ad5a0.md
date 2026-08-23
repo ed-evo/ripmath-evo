@@ -1,4 +1,4 @@
-# [I NUMERI SONO DEI POLINOMI]{.text-red}
+# I NUMERI SONO DEI POLINOMI
 
 Ti mostro che anche i numeri sono dei polinomi ordinati.
 Consideriamo ad esempio il numero

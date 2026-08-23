@@ -1,4 +1,4 @@
-# [Due radici]{.text-red}
+# Due radici
 
 Lasceremo una radice prima dell'uguale e porteremo l'altra dopo l'uguale, poi eleveremo a quadrato entrambi i membri dell'equazione.
 

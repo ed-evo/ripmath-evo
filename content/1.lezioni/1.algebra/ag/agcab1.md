@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 [$$\frac{x - 3}{x + 1} > 0$$]{.text-blue}
 

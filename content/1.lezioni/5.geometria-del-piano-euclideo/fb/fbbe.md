@@ -1,4 +1,4 @@
-# [Postulato delle parallele]{.text-red}
+# Postulato delle parallele
 
 Su un piano data una retta ed un punto fuori di essa, dal punto è possibile tracciare solamente una parallela alla retta data.
 

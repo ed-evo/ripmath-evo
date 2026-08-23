@@ -1,4 +1,4 @@
-# [Perché le derivate]{.text-red}
+# Perché le derivate
 
 Il concetto di limite, sebbene utilissimo per sostituire ad un punto un intervallo ha comunque dei difetti: infatti applicando il concetto di limite ad un punto io posso avere solamente una visione locale di una funzione: è come se volessi studiare una strada di notte approfittando della luce di qualche lampione: potrò vedere in quel punto e nelle vicinanze di quel punto ma se voglio sapere cosa succede un po' più in là dovrò avere un altro lampione.
 

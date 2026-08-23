@@ -1,4 +1,4 @@
-# [Sistema possibile, impossibile ed indeterminato]{.text-red}
+# Sistema possibile, impossibile ed indeterminato
 
 Al solito le equazioni che compongono un sistema contengono informazioni che possono essere:
 

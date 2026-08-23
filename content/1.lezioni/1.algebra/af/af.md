@@ -1,4 +1,4 @@
-# [Equazioni ad una incognita]{.text-red}
+# Equazioni ad una incognita
 
 - [Perché le equazioni](afa.html)
 - [Equazioni di primo grado](afb.html)

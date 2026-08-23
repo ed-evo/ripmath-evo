@@ -1,4 +1,4 @@
-# [Elemento simmetrico]{.text-red}
+# Elemento simmetrico
 
 Dato un insieme di enti $$A$$ e su di esso un'operazione $$\oplus$$ diremo che $$à$$ appartenente ad $$A$$ è l'**elemento simmetrico** rispetto all'elemento $$a$$ di $$A$$ se vale:
 

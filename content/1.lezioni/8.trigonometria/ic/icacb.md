@@ -1,4 +1,4 @@
-# [Formula di bisezione per il coseno]{.text-red}
+# Formula di bisezione per il coseno
 
 Partiamo dalla formula
 

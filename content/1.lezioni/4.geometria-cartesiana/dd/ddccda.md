@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la seguente equazione indicare se rappresenta una circonferenza ed in caso positivo trovarne il centro ed il raggio:
 

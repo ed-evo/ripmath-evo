@@ -1,4 +1,4 @@
-# [Limite tendente a meno infinito per x tendente ad un valore finito]{.text-red}
+# Limite tendente a meno infinito per x tendente ad un valore finito
 
 Per dire che abbiamo un limite meno infinito quando $$x$$ tende a $$c$$ dobbiamo dire che quando il bordo dell'intorno di meno infinito sulla $$y$$ scende verso il basso l'intervallo che contiene il punto $$c$$ si stringe.
 

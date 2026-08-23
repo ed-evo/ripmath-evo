@@ -1,4 +1,4 @@
-# [Formula di duplicazione per il coseno]{.text-red}
+# Formula di duplicazione per il coseno
 
 Partiamo dalla formula
 

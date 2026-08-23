@@ -1,4 +1,4 @@
-# [Dimostrazione del metodo delle derivate successive]{.text-red}
+# Dimostrazione del metodo delle derivate successive
 
 Tutte queste dimostrazioni si basano sul fatto che se la derivata è positiva allora la funzione è crescente e viceversa e, naturalmente, se la derivata è negativa la funzione è decrescente e viceversa.
 Cioè funzione crescente e derivata positiva sono due cose equivalenti (in matematica questo viene espresso con la notazione [se e solo se]{.text-purple}) come anche sono equivalenti derivata negativa e funzione decrescente (meglio dire: la derivata è negativa se e solo se la funzione è decrescente).

@@ -1,4 +1,4 @@
-# [Conclusioni]{.text-red}
+# Conclusioni
 
 Allora siamo riusciti a costruire una geometria dove, data una retta ed un punto fuori di essa, si possono tracciare:
 

@@ -1,4 +1,4 @@
-# [Sconto commerciale]{.text-red}
+# Sconto commerciale
 
 Lo sconto commerciale è un tipo di sconto direttamente proporzionale al valore nominale $$C$$, al tasso $$i$$ ed al tempo di anticipazione del pagamento $$t$$.
 

@@ -1,4 +1,4 @@
-# [Esercizi sulle equazioni]{.text-red}
+# Esercizi sulle equazioni
 
 Vediamo ora alcuni tipi di esercizi che riguardano le equazioni di secondo grado:
 

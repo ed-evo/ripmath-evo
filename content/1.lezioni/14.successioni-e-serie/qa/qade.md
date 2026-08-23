@@ -1,4 +1,4 @@
-# [Successioni generate da quozienti]{.text-red}
+# Successioni generate da quozienti
 
 - Divisione per una costante
 - Termine variabile come divisore

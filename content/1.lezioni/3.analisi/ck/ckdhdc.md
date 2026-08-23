@@ -1,4 +1,4 @@
-# [terzo tipo]{.text-red}
+# terzo tipo
 
 Devo risolvere
 

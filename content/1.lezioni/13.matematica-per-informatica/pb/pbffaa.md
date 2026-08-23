@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Eseguire la seguente somma fra numeri binari:
 $$10010101101 + 1110000 =$$

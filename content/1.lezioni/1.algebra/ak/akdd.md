@@ -1,10 +1,10 @@
-# [Quoziente fra radicali]{.text-red}
+# Quoziente fra radicali
 
 Come per il prodotto distinguiamo due casi:
 - se i radicali hanno lo stesso indice
 - se i radicali non hanno lo stesso indice
 
-## [se i radicali hanno lo stesso indice]{.text-red}
+## se i radicali hanno lo stesso indice
 
 In questo caso basta fare il radicale del quoziente dei termini dentro radice:
 
@@ -14,7 +14,7 @@ $$
 
 > **Regola:** [per dividere fra loro due radicali con lo stesso indice si dividono tra loro i radicandi]{.text-purple}
 
-## [se i radicali non hanno lo stesso indice]{.text-red}
+## se i radicali non hanno lo stesso indice
 
 Prima devo far diventare i due radicali con lo stesso indice, poi procedo come prima:
 

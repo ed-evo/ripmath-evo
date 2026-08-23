@@ -1,4 +1,4 @@
-# [Esercizi sulla famiglia di parabole]{.text-red}
+# Esercizi sulla famiglia di parabole
 
 Premettendo che la famiglia di parabole sarà usata nella soluzione geometrica di problemi (fare link), vediamo qui alcuni problemi generali.
 

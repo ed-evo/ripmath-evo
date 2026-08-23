@@ -1,4 +1,4 @@
-# [Quarto quadrante: $$270^\circ + \alpha$$]{.text-red}
+# Quarto quadrante: $$270^\circ + \alpha$$
 
 Se il punto $$P$$ corrisponde all'angolo $$270^\circ + \alpha$$ allora il punto $$Q$$ corrisponderà all'angolo $$\alpha$$.
 

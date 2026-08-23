@@ -1,4 +1,4 @@
-# [Successione oscillante indeterminata]{.text-red}
+# Successione oscillante indeterminata
 
 Molto interessante è la successione in $$\mathbb{Z}$$
 

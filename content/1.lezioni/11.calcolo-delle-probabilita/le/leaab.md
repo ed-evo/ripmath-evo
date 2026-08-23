@@ -1,4 +1,4 @@
-## [esercizio]{.text-red}
+## esercizio
 
 Trovare le variabili aleatorie per l'evento: lancio contemporaneo di due monete
 

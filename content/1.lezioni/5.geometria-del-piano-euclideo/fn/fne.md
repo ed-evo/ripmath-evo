@@ -1,4 +1,4 @@
-# [Come individuare $$\sqrt{2}$$ sulla retta razionale]{.text-red}
+# Come individuare $$\sqrt{2}$$ sulla retta razionale
 
 Vediamo come fare ad individuare il numero $$\sqrt{2}$$ sulla retta dei numeri razionali partendo dal valore [$$\sqrt{2}$$ approssimato a $$1,414293\dots$$]{.text-red}.
 

@@ -1,4 +1,4 @@
-# [Asintoto obliquo]{.text-red}
+# Asintoto obliquo
 
 Si ha un asintoto obliquo quando la funzione, andando verso infinito, si avvicina ad una retta obliqua.
 

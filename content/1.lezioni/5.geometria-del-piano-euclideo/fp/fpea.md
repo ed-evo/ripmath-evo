@@ -1,4 +1,4 @@
-# [Proprietà della bisettrice dell'angolo interno di un triangolo]{.text-red}
+# Proprietà della bisettrice dell'angolo interno di un triangolo
 
 Vale il teorema:
 

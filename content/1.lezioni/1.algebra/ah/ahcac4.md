@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 [In un triangolo isoscele la base è $$\frac{6}{5}$$ del lato e la somma dei $$\frac{2}{3}$$ della base e dei $$\frac{4}{5}$$ del lato è $$32\text{ cm}$$. Calcolare il perimetro e l'area]{.text-blue}
 

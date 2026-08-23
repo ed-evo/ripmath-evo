@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Risolviamo l'equazione
 $$\textcolor{red}{5k^2 + 20k + 16 = 0}$$

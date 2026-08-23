@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 Ho la disequazione [$$x^2 - 5x + 6 > 0$$]{.text-red}
 

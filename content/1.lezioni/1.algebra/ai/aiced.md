@@ -1,4 +1,4 @@
-# [Sistemi riconducibili a simmetrici]{.text-red}
+# Sistemi riconducibili a simmetrici
 
 Talvolta osservando bene un sistema è possibile, anche se non è simmetrico, trasformarlo in un sistema simmetrico in modo da riuscire a risolverlo più agevolmente.
 

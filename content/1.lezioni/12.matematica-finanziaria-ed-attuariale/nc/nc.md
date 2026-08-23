@@ -1,4 +1,4 @@
-# [Rendite finanziarie]{.text-red}
+# Rendite finanziarie
 
 - definizione
 - fonti di una rendita

@@ -1,4 +1,4 @@
-# [Area della superficie del settore sferico]{.text-red}
+# Area della superficie del settore sferico
 
 Premesso che come settore sferico intendiamo sempre un solido possiamo comunque parlare della sua superficie.
 

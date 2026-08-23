@@ -1,4 +1,4 @@
-# [Successione di numeri geometrici]{.text-red}
+# Successione di numeri geometrici
 
 Sono quei numeri che possiamo chiamare **triangolari**, **quadratici**,... nel piano; **cubici** nello spazio... eccetera.
 

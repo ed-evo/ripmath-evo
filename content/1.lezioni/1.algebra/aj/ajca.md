@@ -1,4 +1,4 @@
-# [Complemento algebrico di un elemento del determinante]{.text-red}
+# Complemento algebrico di un elemento del determinante
 
 Consideriamo il determinante
 

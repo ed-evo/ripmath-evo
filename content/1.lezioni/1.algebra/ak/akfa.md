@@ -1,4 +1,4 @@
-# [Razionalizzazione con una radice al denominatore]{.text-red}
+# Razionalizzazione con una radice al denominatore
 
 Distinguiamo i casi:
 

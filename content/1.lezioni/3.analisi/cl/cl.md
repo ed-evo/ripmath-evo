@@ -1,4 +1,4 @@
-# [Cenni sulle equazioni differenziali]{.text-red}
+# Cenni sulle equazioni differenziali
 
 > **Nota bene!** L'argomento è trattato in modo del tutto insufficiente per uno studio universitario
 

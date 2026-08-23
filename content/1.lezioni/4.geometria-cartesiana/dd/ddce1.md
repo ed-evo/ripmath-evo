@@ -1,4 +1,4 @@
-# [Intersezioni fra una retta ed una circonferenza]{.text-red}
+# Intersezioni fra una retta ed una circonferenza
 
 Data l'equazione di una retta e l'equazione di una circonferenza, se le due curve hanno dei punti in comune deve essere possibile trovarne le coordinate perché geometricamente possiamo trovare i punti comuni.
 I punti comuni appartengono contemporaneamente alla retta ed alla circonferenza, quindi basterà imporre che l'equazione della retta e l'equazione della circonferenza valgano contemporaneamente, ciò equivale a fare il sistema fra le due equazioni.

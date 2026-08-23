@@ -1,4 +1,4 @@
-# [calcoli]{.text-red}
+# calcoli
 
 $$
 \sum_{k=1,2,\dots,n} \frac{n(n-1)(n-2)\dots(n-k+1)}{k!} \frac{1}{n^k} =

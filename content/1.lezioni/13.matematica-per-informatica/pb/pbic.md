@@ -1,4 +1,4 @@
-# [Il comando debug]{.text-red}
+# Il comando debug
 
 Come esempio di quanto detto proviamo il comando debug;
 

@@ -1,4 +1,4 @@
-# [Contro-omologia]{.text-red}
+# Contro-omologia
 
 È la contro-omologia $$ab' + àb$$.
 

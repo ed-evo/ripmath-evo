@@ -1,5 +1,5 @@
-# [Tabella di riepilogo]{.text-red}
-## [Formula di prostaferesi]{.text-red}
+# Tabella di riepilogo
+## Formula di prostaferesi
 
 $$
 \textcolor{blue}{\sin p + \sin q = 2 \sin \frac{p+q}{2} \cos \frac{p-q}{2}}

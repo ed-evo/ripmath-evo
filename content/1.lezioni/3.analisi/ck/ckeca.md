@@ -1,4 +1,4 @@
-# [Come calcolare un'area]{.text-red}
+# Come calcolare un'area
 
 Quindi, viste le cose che abbiamo detto nelle pagine precedenti, per calcolare un'area come
 

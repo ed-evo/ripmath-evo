@@ -1,4 +1,4 @@
-# [Conservazione dell'uguaglianza]{.text-red}
+# Conservazione dell'uguaglianza
 
 **Dimostriamo che a segmenti uguali sulla prima trasversale corrispondono segmenti uguali sulla seconda trasversale**
 

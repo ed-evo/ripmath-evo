@@ -1,4 +1,4 @@
-# [Quadrato del binomio]{.text-red}
+# Quadrato del binomio
 
 Calcoliamo
 $$(2a+3b)\cdot(2a+3b)$$

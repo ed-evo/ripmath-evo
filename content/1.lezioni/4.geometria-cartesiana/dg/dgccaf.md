@@ -1,4 +1,4 @@
-# [esercizio per determinare le coordinate del fuoco]{.text-red}
+# esercizio per determinare le coordinate del fuoco
 
 Determinare le coordinate del fuoco della parabola di equazione
 $$ \textcolor{red}{y = x^2 - 5x + 6} $$

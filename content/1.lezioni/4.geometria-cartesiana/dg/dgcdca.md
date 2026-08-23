@@ -1,4 +1,4 @@
-# [Intersezioni fra una retta ed una parabola]{.text-red}
+# Intersezioni fra una retta ed una parabola
 
 Una retta rispetto ad una parabola può essere esterna, tangente oppure secante, quindi avremo:
 

@@ -1,4 +1,4 @@
-# [Prisma indefinito]{.text-red}
+# Prisma indefinito
 
 Consideriamo un poligono qualunque sul piano $$\alpha$$ e consideriamo un poligono congruente ad esso sul piano $$\beta$$ diverso e parallelo ad $$\alpha$$.
 

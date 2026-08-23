@@ -1,4 +1,4 @@
-# [Disequazione di primo grado a due incognite]{.text-red}
+# Disequazione di primo grado a due incognite
 
 > Per poterle risolvere devi conoscere la rappresentazione cartesiana della retta nel piano [vedere](../../d/dc/dce.html).
 

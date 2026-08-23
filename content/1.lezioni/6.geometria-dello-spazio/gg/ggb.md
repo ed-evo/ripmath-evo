@@ -1,4 +1,4 @@
-# [Criterio di perpendicolarità fra piani]{.text-red}
+# Criterio di perpendicolarità fra piani
 
 Come criterio per la perpendicolarità fra piani ci rifacciamo alla perpendicolarità fra una retta ed un piano.
 

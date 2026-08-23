@@ -1,4 +1,4 @@
-## [Segno di espressioni prodotto di due o più espressioni elementari]{.text-red}
+## Segno di espressioni prodotto di due o più espressioni elementari
 
 Vediamo di ragionare su un esempio pratico.
 Consideriamo un'espressione del tipo:

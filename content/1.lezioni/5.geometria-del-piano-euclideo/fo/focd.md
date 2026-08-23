@@ -1,4 +1,4 @@
-# [Proprietà del comporre]{.text-red}
+# Proprietà del comporre
 
 La proprietà del comporre dice che
 

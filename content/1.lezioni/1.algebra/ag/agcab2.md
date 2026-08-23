@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 $$
 \textcolor{blue}{\frac{x-4}{x+2} \leq 0}

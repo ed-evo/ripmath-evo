@@ -1,4 +1,4 @@
-# [Alcuni esempi]{.text-red}
+# Alcuni esempi
 
 Naturalmente esistono criteri di scomposizione anche per $$7$$, $$13$$,... ma sono piuttosto difficili e, per noi, sono più che sufficienti i criteri visti prima:
 

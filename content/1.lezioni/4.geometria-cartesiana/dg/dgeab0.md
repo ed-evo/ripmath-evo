@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Data la parabola $$y = x^2 - 3x$$
 trovare le equazioni delle tangenti condotte alla parabola dall'origine.

@@ -1,4 +1,4 @@
-> # [Riduzione di più crediti ad una scadenza data]{.text-red}
+> # Riduzione di più crediti ad una scadenza data
 >
 > Dobbiamo determinare l'importo dell'unico pagamento: a seconda della data della scadenza fissata avremo, per eseguire i calcoli queste $$4$$ possibilità
 >

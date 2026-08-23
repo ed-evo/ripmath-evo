@@ -1,4 +1,4 @@
-# [Convenzioni]{.text-red}
+# Convenzioni
 
 In un triangolo qualunque:
 

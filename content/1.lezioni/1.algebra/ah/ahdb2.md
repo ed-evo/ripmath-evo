@@ -1,4 +1,4 @@
-# [Problema:]{.text-red}
+# Problema:
 
 ---
 

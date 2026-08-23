@@ -1,4 +1,4 @@
-# [Esempi di studio intuitivo del grafico di una funzione]{.text-red}
+# Esempi di studio intuitivo del grafico di una funzione
 
 Vediamo ora alcuni semplici esempi di studio intuitivo del grafico di una funzione: lo studio intuitivo è conveniente quando posso suddividere la funzione in funzioni più semplici di cui io conosca il grafico:
 

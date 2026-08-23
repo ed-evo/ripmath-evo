@@ -1,4 +1,4 @@
-# [Volume di una sfera]{.text-red}
+# Volume di una sfera
 
 Ora passiamo a dimostrare la formula per trovare il volume di una sfera di raggio $$r$$
 

@@ -1,4 +1,4 @@
-# [scomporre in fattori primi]{.text-red}
+# scomporre in fattori primi
 
 ## Scomporre il seguente numero in fattori primi
 

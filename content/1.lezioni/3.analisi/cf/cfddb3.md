@@ -1,4 +1,4 @@
-# [Esercizi sulla derivata di un prodotto di funzioni]{.text-red}
+# Esercizi sulla derivata di un prodotto di funzioni
 
 Calcolare la derivata della funzione
 $$

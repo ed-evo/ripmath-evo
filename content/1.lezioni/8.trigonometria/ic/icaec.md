@@ -1,4 +1,4 @@
-# [Terza formula di prostaferesi]{.text-red}
+# Terza formula di prostaferesi
 
 Partiamo dalle due formule di addizione e sottrazione per il coseno e sommiamo in verticale.
 

@@ -1,4 +1,4 @@
-# [Equivalenza fra radicali]{.text-red}
+# Equivalenza fra radicali
 
 Due radicali si diranno equivalenti se hanno lo stesso valore:
 

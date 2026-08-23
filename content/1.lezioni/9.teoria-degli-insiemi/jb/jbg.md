@@ -1,4 +1,4 @@
-# [Ricoprimento finito di un insieme]{.text-red}
+# Ricoprimento finito di un insieme
 
 Di solito un insieme si può suddividere in sottoinsiemi; particolarmente importante è il caso in cui gli insiemi in cui lo dividiamo sono in numero finito e la loro unione ricostituisce l'insieme di partenza; in tal caso parleremo di ricoprimento finito di un insieme;
 

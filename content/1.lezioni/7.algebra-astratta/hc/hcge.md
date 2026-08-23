@@ -1,4 +1,4 @@
-# [Esempi di struttura di spazio vettoriale]{.text-red}
+# Esempi di struttura di spazio vettoriale
 
 Consideriamo i seguenti esempi e mostriamo per ciascuno la presenza della struttura di spazio vettoriale, oppure mostriamo che tale struttura non esiste: per ognuno dovremo mostrare:
 

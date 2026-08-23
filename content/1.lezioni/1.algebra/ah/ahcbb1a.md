@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 > Mettiamo le incognite mano a mano che procediamo nella lettura del problema
 

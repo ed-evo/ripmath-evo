@@ -1,4 +1,4 @@
-# [Applicazione alle grandezze geometriche]{.text-red}
+# Applicazione alle grandezze geometriche
 
 Una grandezza geometrica è un elemento di una classe di grandezze. Chiameremo omogenee due grandezze appartenenti alla stessa classe di grandezze. Ti consiglio un ripasso sul concetto di [classe di grandezze](../fn/fna.html).
 

@@ -1,4 +1,4 @@
-# [Problema del primo accadere di un evento]{.text-red}
+# Problema del primo accadere di un evento
 
 Consideriamo un gioco aleatorio, ad esempio l'estrazione di un numero al lotto in una particolare ruota, e chiediamoci qual è la probabilità che l'evento "uscita del numero" accada alla prima estrazione, alla seconda, alla terza, ... eccetera.
 

@@ -1,4 +1,4 @@
-# [Definizioni di calotta sferica e segmento sferico ad una base]{.text-red}
+# Definizioni di calotta sferica e segmento sferico ad una base
 
 Chiamiamo **calotta sferica** ognuna delle due parti in cui una superficie sferica viene divisa da un piano secante $$\alpha$$.
 

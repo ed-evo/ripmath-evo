@@ -1,4 +1,4 @@
-# [Criterio della radice]{.text-red}
+# Criterio della radice
 
 Consideriamo la serie
 

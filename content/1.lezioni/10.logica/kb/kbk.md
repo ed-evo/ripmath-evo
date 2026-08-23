@@ -1,4 +1,4 @@
-# [Funzioni proposizionali equiveridiche]{.text-red}
+# Funzioni proposizionali equiveridiche
 
 Come in tutte le discipline la prima cosa che introduciamo è l'equivalente dell'uguaglianza.
 

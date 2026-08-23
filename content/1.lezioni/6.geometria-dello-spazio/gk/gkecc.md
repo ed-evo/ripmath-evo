@@ -1,4 +1,4 @@
-# [Volume della sfera]{.text-red}
+# Volume della sfera
 
 Quindi, visti i risultati della pagina precedente, per il principio di Cavalieri per calcolare il volume della sfera sarà sufficiente calcolare il volume dell'anticlessidra, cioè:
 

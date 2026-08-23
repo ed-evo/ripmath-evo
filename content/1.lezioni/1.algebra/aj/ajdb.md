@@ -1,4 +1,4 @@
-# [somma fra matrici quadrate]{.text-red}
+# somma fra matrici quadrate
 
 Definiamo l'operazione di somma fra matrici quadrate dello stesso ordine come l'operazione che somma ad ogni termine della prima matrice il termine della seconda che si trovi nella stessa posizione.
 

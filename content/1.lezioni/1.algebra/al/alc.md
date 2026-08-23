@@ -1,4 +1,4 @@
-# [Definizione di logaritmo]{.text-red}
+# Definizione di logaritmo
 
 Consideriamo le due uguaglianze equivalenti
 

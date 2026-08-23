@@ -1,4 +1,4 @@
-# [Nomenclatura]{.text-red}
+# Nomenclatura
 
 Per ogni successione:
 - il valore corrispondente a $$1$$ lo chiameremo **primo termine** e lo indicheremo con $$a_1$$

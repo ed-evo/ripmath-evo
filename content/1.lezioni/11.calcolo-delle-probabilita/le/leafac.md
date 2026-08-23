@@ -1,4 +1,4 @@
-# [Distribuzione binomiale]{.text-red}
+# Distribuzione binomiale
 (o di Bernoulli)
 
 Quanto fatto alla pagina precedente ci porta alla formula per calcolare la variabile aleatoria.

@@ -1,4 +1,4 @@
-# [Esercizi]{.text-red}
+# Esercizi
 
 Ho la disequazione
 $$ \textcolor{red}{x^2 - 2x - 3 > 0} $$

@@ -1,4 +1,4 @@
-# [Icosaedro regolare]{.text-red}
+# Icosaedro regolare
 
 Consideriamo sempre come figura base il triangolo equilatero e facciamo confluire, nello spazio, $$5$$ vertici di $$5$$ triangoli equilateri in un angoloide: l'angoloide misurerà quindi $$300^\circ$$; i lati non in comune formeranno un poligono di $$5$$ lati.
 

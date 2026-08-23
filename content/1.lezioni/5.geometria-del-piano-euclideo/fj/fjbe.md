@@ -1,4 +1,4 @@
-# [Corde congruenti hanno la stessa distanza dal centro e viceversa]{.text-red}
+# Corde congruenti hanno la stessa distanza dal centro e viceversa
 
 Dimostriamo prima che **se le corde sono congruenti allora hanno la stessa distanza dal centro** e poi dimostreremo che **se due corde hanno stessa distanza dal centro allora sono congruenti**.
 

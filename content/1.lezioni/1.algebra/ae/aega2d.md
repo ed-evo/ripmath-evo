@@ -1,4 +1,4 @@
-### [Semplifico i fattori uguali]{.text-red}
+### Semplifico i fattori uguali
 
 $$
 \textcolor{red}{\frac{2(x + 2)}{(x - 1) \cdot (x + 1)} \cdot \frac{x + 1}{(x + 2) \cdot (x - 1)} =}

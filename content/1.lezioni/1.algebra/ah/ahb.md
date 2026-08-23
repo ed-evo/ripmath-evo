@@ -1,4 +1,4 @@
-# [Vocabolario]{.text-red}
+# Vocabolario
 
 Proviamo a risolvere un semplice problema:
 

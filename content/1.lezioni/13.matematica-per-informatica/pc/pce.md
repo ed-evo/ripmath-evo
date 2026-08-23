@@ -1,4 +1,4 @@
-# [Ordine delle operazioni]{.text-red}
+# Ordine delle operazioni
 
 Abbiamo le possibili operazioni
 

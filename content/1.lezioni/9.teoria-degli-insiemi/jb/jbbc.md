@@ -1,4 +1,4 @@
-# [Rappresentazione mediante caratteristica]{.text-red}
+# Rappresentazione mediante caratteristica
 
 Possiamo anche rappresentare l'insieme enunciando la caratteristica che tiene "assieme" gli oggetti: ad esempio posso caratterizzare l'insieme $$A$$ delle pagine precedenti come l'insieme dei numeri naturali minori di $$5$$.
 

@@ -1,4 +1,4 @@
-# [Somma di frazioni con denominatore diverso]{.text-red}
+# Somma di frazioni con denominatore diverso
 
 Vediamo come procedere se le frazioni non hanno lo stesso denominatore ad esempio su
 

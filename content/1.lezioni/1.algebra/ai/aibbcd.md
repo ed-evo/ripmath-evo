@@ -1,4 +1,4 @@
-# [Sistema impossibile]{.text-red}
+# Sistema impossibile
 
 Anche qui facciamo un semplice esempio e poi raccogliamo i risultati.
 

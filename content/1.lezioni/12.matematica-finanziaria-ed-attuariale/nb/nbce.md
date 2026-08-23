@@ -1,4 +1,4 @@
-# [Sconto razionale]{.text-red}
+# Sconto razionale
 
 Lo sconto si dice razionale quando è calcolato ad interesse semplice, cioè quando per ottenere il valore nominale si applica l'interesse semplice alla somma scontata.
 

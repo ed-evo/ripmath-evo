@@ -1,4 +1,4 @@
-# [Sistemi di numerazione]{.text-red}
+# Sistemi di numerazione
 
 > Per approfondire dal punto di vista matematico i sistemi di numerazione vedi anche [insieme dei resti modulo $$p$$](../../../h/hc/hcdc.html)
 

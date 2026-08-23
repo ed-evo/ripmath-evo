@@ -1,4 +1,4 @@
-# [Una sola radice più un'espressione senza radici]{.text-red}
+# Una sola radice più un'espressione senza radici
 
 Isoleremo la radice, eleveremo al quadrato (per eliminare la radice) poi risolveremo.
 Elevando a quadrato potrebbero aggiungersi delle soluzioni quindi le soluzioni trovate vanno o verificate sull'equazione di partenza oppure controllate con delle condizioni di realtà iniziali.

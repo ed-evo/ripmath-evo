@@ -1,4 +1,4 @@
-# [Area del trapezoide]{.text-red}
+# Area del trapezoide
 
 Aumento il numero di intervalli in cui è divisa la base del mio trapezoide, in questo modo l'area dei rettangoli si avvicina all'area del trapezoide.
 

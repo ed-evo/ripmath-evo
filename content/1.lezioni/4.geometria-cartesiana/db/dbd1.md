@@ -1,4 +1,4 @@
-# [esercizi]{.text-red}
+# esercizi
 
 Trovare la distanza fra i punti: $$\textcolor{blue}{A=(5)}$$ e $$\textcolor{blue}{B=(8)}$$
 

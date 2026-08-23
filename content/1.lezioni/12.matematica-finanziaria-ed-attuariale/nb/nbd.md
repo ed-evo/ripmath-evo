@@ -1,4 +1,4 @@
-# [Trasferimento di capitali nel tempo]{.text-red}
+# Trasferimento di capitali nel tempo
 
 A questo punto riprendiamo l'argomento che avevamo già brevemente accennato sullo spostamento di capitali per un numero $$t$$ di anni.
 

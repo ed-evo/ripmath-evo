@@ -1,4 +1,4 @@
-# [Funzioni con diversa forma matematica al variare del dominio]{.text-red}
+# Funzioni con diversa forma matematica al variare del dominio
 
 Talvolta le funzioni si presentano in forma algebrica diversa a seconda del dominio su cui sono definite: tali tipi di funzione servono per meglio imprimersi i concetti di continuità e derivabilità e quindi vengono molto usate soprattutto in ambito teorico.
 

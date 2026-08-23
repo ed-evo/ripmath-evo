@@ -1,4 +1,4 @@
-# [Studio della variabile casuale gaussiana standardizzata]{.text-red}
+# Studio della variabile casuale gaussiana standardizzata
 
 > Standardizzata implica che non dipende dall'unità di misura della variabile
 

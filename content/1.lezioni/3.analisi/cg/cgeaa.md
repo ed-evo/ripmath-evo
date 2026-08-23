@@ -1,4 +1,4 @@
-# [Esercizio sul Massimo]{.text-red}
+# Esercizio sul Massimo
 
 Considero la funzione
 $$

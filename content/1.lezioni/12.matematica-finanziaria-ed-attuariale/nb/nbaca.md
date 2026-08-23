@@ -1,4 +1,4 @@
-# [Determinazione della formula]{.text-red}
+# Determinazione della formula
 
 Per semplicità supponiamo di considerare per ora l'anno come misura intera, cioè di versare, ad esempio, in banca un capitale il primo gennaio; vedremo successivamente come adattare poi i dati a periodi frazionari.
 

@@ -1,4 +1,4 @@
-## [calcoli]{.text-red}
+## calcoli
 
 $$
 \textcolor{red}{p = \frac{C_{88,3}}{C_{90,5}}}

@@ -1,4 +1,4 @@
-# [Esercizio sulla distribuzione di Poisson]{.text-red}
+# Esercizio sulla distribuzione di Poisson
 
 La percentuale di pezzi difettosi prodotti da una macchina è, in media, dello $$0,2\%$$, siccome la ditta esporta tali pezzi in confezioni di $$1000$$ calcolare quanti pezzi in più dovranno essere messi in ogni confezione perché la probabilità di avere in una confezione meno di $$1000$$ pezzi efficienti sia inferiore allo $$0,01\%$$
 

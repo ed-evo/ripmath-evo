@@ -1,4 +1,4 @@
-# [Le ipotesi del teorema di Rolle]{.text-red}
+# Le ipotesi del teorema di Rolle
 
 Proviamo a vedere cosa può succedere se manca una delle ipotesi del teorema di Rolle:
 

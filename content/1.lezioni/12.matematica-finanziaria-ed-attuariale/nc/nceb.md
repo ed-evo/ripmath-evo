@@ -1,4 +1,4 @@
-# [Tabella di riepilogo]{.text-red}
+# Tabella di riepilogo
 
 Costruiamo una tabella riassuntiva: per semplicità nelle illustrazioni considererò una rendita di $$5$$ periodi (gli spazi in blu), quindi $$n=5$$.
 

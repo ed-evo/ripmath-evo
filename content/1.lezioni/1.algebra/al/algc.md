@@ -1,4 +1,4 @@
-# [Logaritmo di una potenza]{.text-red}
+# Logaritmo di una potenza
 
 **[Regola:]{.text-purple}** Il logaritmo di una potenza è uguale al prodotto dell'esponente per il logaritmo della base (la base è riferita alla potenza, non al logaritmo)
 

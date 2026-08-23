@@ -1,4 +1,4 @@
-# [Applicazioni sui triangoli]{.text-red}
+# Applicazioni sui triangoli
 
 Vediamo ora come, utilizzando la similitudine, possiamo dimostrare alcuni teoremi già dimostrati mediante l'equivalenza.
 

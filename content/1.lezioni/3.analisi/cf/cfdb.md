@@ -1,4 +1,4 @@
-# [Tabella delle principali derivate utilizzate nelle scuole medie superiori]{.text-red}
+# Tabella delle principali derivate utilizzate nelle scuole medie superiori
 
 | [Funzione]{.text-red-darken-1} | [Derivata]{.text-red-darken-1} |
 | :--- | :--- |

@@ -1,4 +1,4 @@
-# [Capitalizzazione composta]{.text-red}
+# Capitalizzazione composta
 
 Abbiamo trovato la formula per la capitalizzazione per un numero intero di anni:
 

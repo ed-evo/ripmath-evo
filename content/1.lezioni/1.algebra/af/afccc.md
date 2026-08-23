@@ -1,4 +1,4 @@
-# [Il discriminante dell'equazione di secondo grado]{.text-red}
+# Il discriminante dell'equazione di secondo grado
 
 Prima di affrontare questo argomento dovresti leggere le prime parti dei [numeri immaginari e complessi](../../b/be/be.html) fino alla definizione di numero complesso.
 

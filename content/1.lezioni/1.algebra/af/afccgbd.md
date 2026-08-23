@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 risolvere la seguente equazione:
 
@@ -14,7 +14,7 @@ $$
 
 È un' equazione fratta quindi prima di risolverla dobbiamo porre le condizioni di realtà cioè supporre che i denominatori siano diversi da zero
 
-### [C.R.]{.text-red}
+### C.R.
 
 $$
 \textcolor{red}{x - 1 \neq 0 \implies x \neq 1}

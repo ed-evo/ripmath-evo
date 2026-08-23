@@ -1,4 +1,4 @@
-# [Scomposizioni mediante raggruppamenti]{.text-red}
+# Scomposizioni mediante raggruppamenti
 
 Sono le scomposizioni più difficili da individuare e solamente un po' di esperienza potrà facilitartene il riconoscimento.
 

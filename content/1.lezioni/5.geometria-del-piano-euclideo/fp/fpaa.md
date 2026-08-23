@@ -1,4 +1,4 @@
-# [Enunciato del teorema di Talete]{.text-red}
+# Enunciato del teorema di Talete
 
 **Segmenti compresi fra rette parallele tagliate da due trasversali formano due classi di grandezze proporzionali**
 

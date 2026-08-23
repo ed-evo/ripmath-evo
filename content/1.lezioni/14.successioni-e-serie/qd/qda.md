@@ -1,4 +1,4 @@
-# [Introduzione]{.text-red}
+# Introduzione
 
 Facciamo un giochetto:
 supponiamo che io debba percorrere a piedi una certa distanza e che, partendo al mattino, il primo giorno io riesca a percorrere $$20.000$$ metri ($$20\text{ Km}$$).

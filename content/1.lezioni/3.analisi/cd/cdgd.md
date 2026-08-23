@@ -1,4 +1,4 @@
-# [Forme indeterminate del tipo $$\infty - \infty$$]{.text-red}
+# Forme indeterminate del tipo $$\infty - \infty$$
 
 Di solito sono forme che si hanno quando si ha qualche radicale; in ogni caso per risolverle basta ricordarsi dei metodi di [razionalizzazione]{.text-red} e moltiplicare per la stessa forma col segno in mezzo cambiato sia al numeratore che al denominatore (ricorda che al denominatore se non c'è niente c'è sempre $$1$$) allora il limite diventa della forma $$\infty / \infty$$ e posso applicare i metodi già visti.
 

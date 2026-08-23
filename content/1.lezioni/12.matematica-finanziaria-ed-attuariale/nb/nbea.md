@@ -1,4 +1,4 @@
-# [Riduzione di più crediti]{.text-red}
+# Riduzione di più crediti
 
 Se una persona ha diversi crediti con varie scadenze può realizzare i diversi crediti con un'unica riscossione (ad esempio accordandosi con i creditori oppure cedendo i vari crediti ad una banca o società finanziaria).
 

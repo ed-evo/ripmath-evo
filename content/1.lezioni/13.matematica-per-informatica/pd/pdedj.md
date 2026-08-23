@@ -1,4 +1,4 @@
-# [Contro-indipendenza diretta]{.text-red}
+# Contro-indipendenza diretta
 
 È la contro-indipendenza diretta $$b'$$
 

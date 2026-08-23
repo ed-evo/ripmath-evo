@@ -1,4 +1,4 @@
-# [Angolo di 72 gradi ($$2\pi / 5$$)]{.text-red}
+# Angolo di 72 gradi ($$2\pi / 5$$)
 
 Per l'angolo di $$72^\circ$$ basta ricordare che a $$90^\circ$$ seno e coseno si scambiano di valore quindi avremo
 

@@ -1,4 +1,4 @@
-## [Quadrato]{.text-red}
+## Quadrato
 
 Proseguiamo nella specializzazione considerando un parallelogramma che abbia sia i lati che gli angoli congruenti
 

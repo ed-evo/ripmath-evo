@@ -1,4 +1,4 @@
-# [Costruzione di una progressione aritmetica dati due termini]{.text-red}
+# Costruzione di una progressione aritmetica dati due termini
 
 Vediamo, su un esempio, come procedere per costruire una progressione aritmetica conoscendone due termini.
 Supponiamo di conoscere il terzo termine $$a_3 = 8$$ ed anche il settimo termine $$a_7 = 24$$.

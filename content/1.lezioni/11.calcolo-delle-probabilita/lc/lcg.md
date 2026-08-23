@@ -1,4 +1,4 @@
-# [Probabilità assiomatica]{.text-red}
+# Probabilità assiomatica
 
 > Per il biennio unificato e per alcuni tipi di scuola è sufficiente la parte di probabilità sin qui sviluppata.
 > Invece per il triennio, nella maggior parte delle scuole, si sviluppa la teoria assiomatica.

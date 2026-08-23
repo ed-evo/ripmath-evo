@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 ## [Trovare la distanza fra i punti $$A(-2, 1)$$ e $$B(-2, -4)$${.text-blue}]
 

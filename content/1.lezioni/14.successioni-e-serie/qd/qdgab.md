@@ -1,4 +1,4 @@
-# [Conseguenze sulle ridotte]{.text-red}
+# Conseguenze sulle ridotte
 
 Come conseguenza possiamo dire che le ridotte di una serie numerica reale convergente non superano mai la somma della serie se i termini sono tutti positivi e non ne sono mai superate se i termini sono tutti negativi.
 

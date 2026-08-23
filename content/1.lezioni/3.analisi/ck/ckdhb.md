@@ -1,4 +1,4 @@
-# [Tipi di frazioni elementari]{.text-red}
+# Tipi di frazioni elementari
 
 Le funzioni razionali si possono pensare come somma di $$4$$ tipi fondamentali di frazioni elementari, dipendenti dalle radici che possiamo ottenere eguagliando a zero i denominatori e quindi dipendenti dalle radici dei denominatori stessi (in accordo con il [teorema fondamentale dell'algebra](../../a/af/afda.html):
 

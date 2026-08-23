@@ -1,4 +1,4 @@
-# [Prodotto di numeri complessi in forma trigonometrica]{.text-red}
+# Prodotto di numeri complessi in forma trigonometrica
 
 Considero i numeri complessi
 
@@ -7,7 +7,7 @@ $$\textcolor{blue}{z_2 = c + id = \rho_2 (\cos \Theta_2 + i \sin \Theta_2)}$$
 
 Quando i numeri complessi sono in forma trigonometrica diventa molto facile eseguire il prodotto: infatti si ha la
 
-## [Regola:]{.text-red}
+## Regola:
 
 Per eseguire il prodotto fra due numeri complessi in forma trigonometrica basta moltiplicare fra loro i moduli $$\textcolor{red}{\rho_1}$$ e $$\textcolor{red}{\rho_2}$$ e sommare gli angoli $$\textcolor{red}{\Theta_1}$$ e $$\textcolor{red}{\Theta_2}$$, cioè:
 

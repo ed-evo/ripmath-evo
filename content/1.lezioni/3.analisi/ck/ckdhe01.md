@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 $$
 \int \frac{x^5 - 2x^4 - 3x^3 + 2x^2 - 4x + 3}{x^3 - 2x^2 - x + 2} \, dx

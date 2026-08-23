@@ -1,4 +1,4 @@
-# [Permutazioni semplici]{.text-red}
+# Permutazioni semplici
 
 Procediamo su un esempio:
 Domani sei a rischio di essere interrogato in tre materie: italiano, matematica e inglese: essendo la fine del quadrimestre ed avendo tre ore di tempo decidi di studiare ogni materia per $$1$$ ora; in quanti modi puoi "permutare" le materie?

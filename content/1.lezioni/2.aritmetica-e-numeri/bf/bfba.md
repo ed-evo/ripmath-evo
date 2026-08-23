@@ -1,4 +1,4 @@
-# [L'insieme $$N$$ come generatore degli altri insiemi numerici]{.text-red}
+# L'insieme $$N$$ come generatore degli altri insiemi numerici
 
 Abbiamo visto che i vari insiemi numerici sono ottenuti considerando come inizio l'insieme $$N$$ dei numeri naturali ed applicando successivi ampliamenti: così abbiamo
 

@@ -1,4 +1,4 @@
-# [Definizioni di zona sferica e segmento sferico a due basi]{.text-red}
+# Definizioni di zona sferica e segmento sferico a due basi
 
 Chiamiamo **zona sferica** la parte di superficie sferica compresa fra due piani paralleli $$\alpha$$ e $$\beta$$ che taglino la sfera.
 

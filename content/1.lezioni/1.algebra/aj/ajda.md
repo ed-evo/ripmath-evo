@@ -1,4 +1,4 @@
-# [Prodotto fra matrici]{.text-red}
+# Prodotto fra matrici
 
 È possibile definire in vari modi il prodotto fra matrici:
 - righe per righe

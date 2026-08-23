@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Trasformare in decimale il seguente numero binario
 $$111001_2 =$$

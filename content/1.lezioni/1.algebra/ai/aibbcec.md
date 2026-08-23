@@ -1,4 +1,4 @@
-# [Determinanti 2x2 estraibili dalla matrice incompleta]{.text-red}
+# Determinanti 2x2 estraibili dalla matrice incompleta
 
 Tolgo gli elementi in blu
 

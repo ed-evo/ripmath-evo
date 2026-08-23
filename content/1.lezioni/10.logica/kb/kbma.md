@@ -1,4 +1,4 @@
-# [Concetto di regola di deduzione]{.text-red}
+# Concetto di regola di deduzione
 
 Le **regole di deduzione** (**ragionamenti**) sono quelle regole che permettono, partendo da certe premesse date (ipotesi) $$P, Q, R, \dots$$, di arrivare ad una determinata conclusione (tesi) $$T$$.
 

@@ -1,4 +1,4 @@
-# [Eventi indipendenti]{.text-red}
+# Eventi indipendenti
 
 È ora fondamentale introdurre il concetto di **eventi indipendenti**.
 

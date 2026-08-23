@@ -1,4 +1,4 @@
-# [Dividere un segmento in parti proporzionali a numeri dati]{.text-red}
+# Dividere un segmento in parti proporzionali a numeri dati
 
 Considero il segmento $$AB$$, voglio, come esempio, dividerlo in parti proporzionali ai numeri $$1$$, $$2$$ e $$3$$.
 

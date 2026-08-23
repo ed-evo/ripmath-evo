@@ -1,4 +1,4 @@
-# [Definizione di numero primo]{.text-red}
+# Definizione di numero primo
 
 Consideriamo l'insieme $$N$$ dei numeri naturali.
 Se dividiamo un numero per un secondo numero potremo ottenere un risultato con un resto o senza un resto (resto zero):

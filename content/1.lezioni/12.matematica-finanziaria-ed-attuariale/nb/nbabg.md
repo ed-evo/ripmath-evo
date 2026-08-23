@@ -1,4 +1,4 @@
-# [Rappresentazioni grafiche]{.text-red}
+# Rappresentazioni grafiche
 
 È possibile rappresentare graficamente le funzioni finanziarie
 

@@ -1,4 +1,4 @@
-# [Rappresentazione grafica di una circonferenza]{.text-red}
+# Rappresentazione grafica di una circonferenza
 
 Per disegnare una circonferenza con equazione
 $$

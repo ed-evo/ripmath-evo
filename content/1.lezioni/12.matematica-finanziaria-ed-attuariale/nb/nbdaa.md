@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Per farlo velocemente con la calcolatrice basta che esegui la moltiplicazione del capitale di $$100,00$$ euro per $$1,10$$ per ogni anno: ottieni così il montante
 

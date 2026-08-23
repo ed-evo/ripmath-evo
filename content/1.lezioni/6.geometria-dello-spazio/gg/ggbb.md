@@ -1,4 +1,4 @@
-# [Criterio di perpendicolarità fra piani]{.text-red}
+# Criterio di perpendicolarità fra piani
 ## condizione sufficiente
 
 Mostriamo che la condizione è sufficiente: sapendo che i piani sono perpendicolari mostriamo che esiste una retta che giace sul piano $$\beta$$ e tale retta è perpendicolare al piano $$\alpha$$;

@@ -1,4 +1,4 @@
-# [Interpolazione lineare]{.text-red}
+# Interpolazione lineare
 
 - [Cos'è l'interpolazione lineare](naaa.html)
 - [interpolazione diretta](naab.html)

@@ -1,4 +1,4 @@
-# [Somma degli angoli interni di un poligono]{.text-red}
+# Somma degli angoli interni di un poligono
 
 **Teorema:**
 [La somma degli angoli interni di un poligono è uguale a tanti angoli piatti quanti sono i lati meno due]{.text-red}

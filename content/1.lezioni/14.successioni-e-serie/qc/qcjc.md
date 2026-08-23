@@ -1,4 +1,4 @@
-# [Conseguenze del teorema della permanenza del segno]{.text-red}
+# Conseguenze del teorema della permanenza del segno
 
 Come prima conseguenza possiamo dire che vale
 

@@ -1,4 +1,4 @@
-# [Intersezioni fra una parabola ed un'iperbole]{.text-red}
+# Intersezioni fra una parabola ed un'iperbole
 
 Dobbiamo vedere in che forma si presenta l'iperbole:
 

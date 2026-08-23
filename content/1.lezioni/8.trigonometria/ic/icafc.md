@@ -1,4 +1,4 @@
-# [Terza formula di Werner]{.text-red}
+# Terza formula di Werner
 
 Partiamo dalle due formule di addizione e sottrazione per il coseno e sommiamo in verticale.
 

@@ -1,4 +1,4 @@
-# [Numeri immaginari]{.text-red}
+# Numeri immaginari
 
 Considero
 

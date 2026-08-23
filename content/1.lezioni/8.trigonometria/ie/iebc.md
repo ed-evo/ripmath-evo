@@ -1,4 +1,4 @@
-# [Problema di Snellius]{.text-red}
+# Problema di Snellius
 
 Vediamo ora come è possibile determinare la distanza fra due punti $$B$$ e $$D$$ entrambe inaccessibili.
 

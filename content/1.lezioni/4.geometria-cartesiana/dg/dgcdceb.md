@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Trovare l'intersezione fra le due parabole
 $$

@@ -1,4 +1,4 @@
-# [Disequazione elementare del tipo $$\textcolor{red}{F(x) > \sqrt{G(x)}}$$]{.text-red}
+# Disequazione elementare del tipo $$\textcolor{red}{F(x) > \sqrt{G(x)}}$$
 
 Dobbiamo risolvere:
 $$\textcolor{red}{F(x) > \sqrt{G(x)}}$$

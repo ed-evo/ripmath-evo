@@ -1,4 +1,4 @@
-# [Divisione fra numeri interi]{.text-red}
+# Divisione fra numeri interi
 
 > Al solito userò indifferentemente la parola quoziente e la parola divisione anche se la prima indica il risultato e la seconda indica l'operazione
 

@@ -1,4 +1,4 @@
-# [esercizio per determinare l'equazione dell'asse]{.text-red}
+# esercizio per determinare l'equazione dell'asse
 
 Determinare l'equazione dell'asse della parabola di equazione
 

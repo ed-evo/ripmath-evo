@@ -1,4 +1,4 @@
-# [Definizione di ellisse]{.text-red}
+# Definizione di ellisse
 
 > Ricordo ancora la prima volta che ho visto costruire un'ellisse: ero bambino ed un giardiniere, vicino alla spiaggia, per costruire un'aiuola piantò in terra due picchetti, vi fissò i due capi di una cordicella poi con un terzo piolo tese la corda e, facendo scorrere il piolo disegnò in terra una bellissima ellisse. Fu una cosa che mi meravigliò tantissimo.
 

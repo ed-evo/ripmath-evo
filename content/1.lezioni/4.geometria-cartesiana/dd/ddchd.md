@@ -1,4 +1,4 @@
-# [Punti ciclici]{.text-red}
+# Punti ciclici
 
 Poiché il sistema fra le due circonferenze
 

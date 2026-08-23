@@ -1,4 +1,4 @@
-# [Teorema di Tolomeo]{.text-red}
+# Teorema di Tolomeo
 
 **Teorema:**
 Per ogni quadrilatero inscritto in una circonferenza la somma dei prodotti delle misure dei lati opposti è uguale al prodotto della misura delle due diagonali.

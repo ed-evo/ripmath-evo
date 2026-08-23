@@ -1,4 +1,4 @@
-# [Altezze, mediane e triangolo isoscele]{.text-red}
+# Altezze, mediane e triangolo isoscele
 
 Qui vediamo alcune definizioni ed anche una proprietà notevole del triangolo isoscele:
 

@@ -1,4 +1,4 @@
-# [Successioni aventi lo stesso carattere]{.text-red}
+# Successioni aventi lo stesso carattere
 
 Data la successione
 

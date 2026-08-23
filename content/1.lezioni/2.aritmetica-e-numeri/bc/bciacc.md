@@ -1,4 +1,4 @@
-# [Criterio di scomposizione per 5]{.text-red}
+# Criterio di scomposizione per 5
 
 > **Un numero è divisibile per $$5$$ se termina per $$0$$ oppure per $$5$$**
 

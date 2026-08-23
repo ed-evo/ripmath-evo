@@ -1,4 +1,4 @@
-# [Espressioni con le frazioni algebriche]{.text-red}
+# Espressioni con le frazioni algebriche
 
 Le espressioni sono il banco di prova delle nozioni che hai sin qui apprese: se riesci a risolverne esattamente almeno due su tre la tua preparazione è sufficiente.
 

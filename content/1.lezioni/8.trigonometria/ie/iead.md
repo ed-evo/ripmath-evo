@@ -1,4 +1,4 @@
-# [Raggio del cerchio inscritto nel triangolo]{.text-red}
+# Raggio del cerchio inscritto nel triangolo
 
 Partiamo dall'area del triangolo conoscendone il perimetro ed il raggio del cerchio inscritto che abbiamo [trovato](../../f/fm/fmbc.html) in geometria euclidea nel capitolo dedicato all'equivalenza: l'[area del triangolo](../../f/fn/fnic.html) vale
 

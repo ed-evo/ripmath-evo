@@ -1,4 +1,4 @@
-# [Angoli al centro ed alla circonferenza]{.text-red}
+# Angoli al centro ed alla circonferenza
 
 Questo è uno di quei teoremi fondamentali che devi sapere sia enunciare che dimostrare: i teoremi fondamentali in geometria si possono contare sulle [dita di una mano](fjf0.html): per gli altri teoremi di solito è sufficiente sapere che esistono, cioè conoscerne l'enunciato, per poterli applicare alla soluzione di problemi.
 Nei teoremi fondamentali è invece essenziale conoscere bene anche la dimostrazione.

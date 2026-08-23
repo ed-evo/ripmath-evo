@@ -1,4 +1,4 @@
-# [Criterio di scomposizione per 2]{.text-red}
+# Criterio di scomposizione per 2
 
 **Un numero è divisibile per $$2$$ se termina per cifra pari: $$2, 4, 6, 8, 0$$**
 

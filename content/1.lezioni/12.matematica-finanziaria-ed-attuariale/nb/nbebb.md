@@ -1,4 +1,4 @@
-# [Ricerca dell'importo ad epoche diverse]{.text-red}
+# Ricerca dell'importo ad epoche diverse
 
 Vediamo anche qui come fare con un esercizio
 

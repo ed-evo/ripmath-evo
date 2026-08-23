@@ -1,4 +1,4 @@
-# [Luoghi geometrici]{.text-red}
+# Luoghi geometrici
 
 - definizione
 - proprietà fondamentale

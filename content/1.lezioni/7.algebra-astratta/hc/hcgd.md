@@ -1,4 +1,4 @@
-# [Spazio vettoriale]{.text-red}
+# Spazio vettoriale
 
 Ora possiamo finalmente evidenziare una struttura, lo **spazio vettoriale** che è quella suggerita dai numeri complessi $$C$$ e quindi completare, per ora, le strutture basate sui numeri.
 Tale struttura (**spazio**) sarà detta **vettoriale** perché ogni elemento di essa potrà essere posto in corrispondenza con un determinato vettore.

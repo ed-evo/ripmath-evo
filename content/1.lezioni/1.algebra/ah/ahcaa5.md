@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 ## Problema:
 [Dividere il numero $$36$$ in due parti tali che la prima superi di $$6$$ il doppio della seconda]{.text-blue}

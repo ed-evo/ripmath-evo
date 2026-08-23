@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Calcolare i valori di $$\textcolor{red}{x}$$ per cui si ha:
 

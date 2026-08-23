@@ -1,4 +1,4 @@
-# [Differenza simmetrica]{.text-red}
+# Differenza simmetrica
 
 > È un'operazione poco usata, ma in qualche liceo scientifico si fa, quindi definiamola
 

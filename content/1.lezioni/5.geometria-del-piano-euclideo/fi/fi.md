@@ -1,4 +1,4 @@
-# [Luoghi geometrici]{.text-red}
+# Luoghi geometrici
 
 Definiamo il luogo geometrico come un insieme di punti legati da una proprietà.
 

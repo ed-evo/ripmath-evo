@@ -1,4 +1,4 @@
-# [Limite di un prodotto di funzioni]{.text-red}
+# Limite di un prodotto di funzioni
 
 Il limite di un prodotto di funzioni è uguale al prodotto dei limiti.
 

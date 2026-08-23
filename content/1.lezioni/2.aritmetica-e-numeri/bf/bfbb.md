@@ -1,4 +1,4 @@
-# [Assiomi di Peano]{.text-red}
+# Assiomi di Peano
 
 Considerando come acquisiti il concetto di numero, di successivo di un numero ed alcuni postulati è possibile costruire l'insieme $$N$$ dei Numeri Naturali.
 Sono i Postulati di Peano che avevo già accennato, ma che ora presento in forma un po' più moderna.

@@ -1,4 +1,4 @@
-# [Valore attuale sulla retta dei tempi]{.text-red}
+# Valore attuale sulla retta dei tempi
 
 Lo stesso ragionamento che abbiamo fatto per il montante possiamo fare anche per lo sconto.
 Partiamo anche qui da un esempio banale: consideriamo la somma di $$146,41$$ euro (ho preso la somma della pagina precedente) al tasso del $$10\%$$ che devo pagare fra $$4$$ anni, vediamo da $$0$$ a $$4$$ anni cosa succede se pago prima.

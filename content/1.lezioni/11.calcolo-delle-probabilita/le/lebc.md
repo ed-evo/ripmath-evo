@@ -1,4 +1,4 @@
-# [Funzione di ripartizione]{.text-red}
+# Funzione di ripartizione
 
 Particolare importanza, nel caso continuo, ha la funzione di ripartizione (somma di tutte le probabilità precedenti una probabilità data)
 

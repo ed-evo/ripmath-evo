@@ -1,4 +1,4 @@
-# [Proprietà dell'ellisse]{.text-red}
+# Proprietà dell'ellisse
 
 Sulle proprietà dell'ellisse non c'è molto da dire: è una curva a centro simmetrica rispetto all'origine, tutta compresa fra le rette orizzontali $$\textcolor{blue}{y = b}$$ e $$\textcolor{blue}{y = -b}$$ e fra le rette verticali $$\textcolor{blue}{x = a}$$ e $$\textcolor{blue}{x = -a}$$.
 

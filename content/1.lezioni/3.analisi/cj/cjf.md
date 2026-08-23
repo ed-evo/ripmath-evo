@@ -1,4 +1,4 @@
-## [Formula di Maclaurin]{.text-red}
+## Formula di Maclaurin
 
 La formula di Maclaurin è la formula di Taylor quando prendo come valore $$a$$ lo zero, cioè è lo sviluppo di Taylor applicato all'origine.
 

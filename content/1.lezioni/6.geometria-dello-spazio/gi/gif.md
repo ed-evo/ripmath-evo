@@ -1,4 +1,4 @@
-# [Volume del parallelepipedo rettangolo]{.text-red}
+# Volume del parallelepipedo rettangolo
 
 Procediamo ora a calcolare il primo volume: per questo abbiamo bisogno del teorema:
 **Due parallelepipedi rettangoli aventi le basi congruenti hanno i volumi proporzionali alle rispettive altezze**

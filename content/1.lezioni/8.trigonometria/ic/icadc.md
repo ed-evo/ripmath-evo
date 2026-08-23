@@ -1,4 +1,4 @@
-# [Formula parametrica per la tangente]{.text-red}
+# Formula parametrica per la tangente
 
 Per trovare la formula per la tangente basta ricordare la seconda relazione fondamentale
 

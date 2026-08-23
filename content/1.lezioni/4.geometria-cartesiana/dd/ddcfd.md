@@ -1,4 +1,4 @@
-# [Altro metodo per calcolare le equazioni delle tangenti condotte da un punto alla circonferenza]{.text-red}
+# Altro metodo per calcolare le equazioni delle tangenti condotte da un punto alla circonferenza
 
 Come hai visto il metodo indicato per trovare le equazioni delle rette tangenti condotte da un punto alla circonferenza è piuttosto complicato come calcoli anche se interessante dal punto di vista teorico.
 

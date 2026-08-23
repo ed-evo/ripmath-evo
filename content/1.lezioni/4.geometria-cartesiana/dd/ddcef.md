@@ -1,4 +1,4 @@
-# [Se nella circonferenza mancano il termine $$by$$ ed il termine noto $$c$$]{.text-red}
+# Se nella circonferenza mancano il termine $$by$$ ed il termine noto $$c$$
 
 In tal caso $$\textcolor{blue}{b = 0}$$ e $$\textcolor{blue}{c = 0}$$ e l'equazione della circonferenza diventa
 

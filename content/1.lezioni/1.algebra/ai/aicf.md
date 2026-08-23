@@ -1,4 +1,4 @@
-# [Sistemi omogenei]{.text-red}
+# Sistemi omogenei
 
 Un sistema si dice omogeneo se le equazioni, con l'eccezione dei termini noti, hanno tutti i termini con lo stesso grado; ad esempio è omogeneo il sistema:
 

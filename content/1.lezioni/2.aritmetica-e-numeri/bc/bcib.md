@@ -1,4 +1,4 @@
-# [Applicazione alla riduzione di una frazione a forma normale]{.text-red}
+# Applicazione alla riduzione di una frazione a forma normale
 
 Quando abbiamo una frazione dobbiamo sempre ridurla ai minimi termini, cioè con numeratore e denominatore che non abbiano fattori comuni fra loro.
 Si dice anche che la frazione deve essere ridotta a forma normale.

@@ -1,4 +1,4 @@
-# [Primo teorema di Euclide]{.text-red}
+# Primo teorema di Euclide
 
 **In ogni triangolo rettangolo l'altezza relativa all'ipotenusa è media proporzionale tra le proiezioni dei cateti sull'ipotenusa**
 

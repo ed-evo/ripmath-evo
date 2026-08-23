@@ -1,4 +1,4 @@
-# [Prodotto di frazioni algebriche]{.text-red}
+# Prodotto di frazioni algebriche
 
 Vediamo ora di ripassare il prodotto fra due frazioni numeriche e poi facciamo l'equivalente con i polinomi.
 

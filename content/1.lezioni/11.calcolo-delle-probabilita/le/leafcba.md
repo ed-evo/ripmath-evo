@@ -1,4 +1,4 @@
-# [Dimostrazione]{.text-red}
+# Dimostrazione
 
 Vediamo come si ricava la formula della distribuzione di Poisson
 

@@ -1,4 +1,4 @@
-# [Rappresentazione grafica dell'interesse semplice]{.text-red}
+# Rappresentazione grafica dell'interesse semplice
 
 Consideriamo la formula dell'interesse semplice:
 

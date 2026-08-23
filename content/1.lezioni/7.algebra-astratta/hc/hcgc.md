@@ -1,4 +1,4 @@
-# [La moltiplicazione sui numeri complessi]{.text-red}
+# La moltiplicazione sui numeri complessi
 
 Consideriamo un numero complesso, cioè $$a+ib$$ formato da una parte reale più una parte immaginaria e consideriamo l'operazione di moltiplicazione.
 

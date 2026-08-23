@@ -1,4 +1,4 @@
-# [Proposizione contraria]{.text-red}
+# Proposizione contraria
 
 Chiameremo **proposizione contraria** la proposizione ottenuta prendendo le negazioni dell'ipotesi e della tesi:
 

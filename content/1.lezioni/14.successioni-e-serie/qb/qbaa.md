@@ -1,4 +1,4 @@
-# [Definizione di progressione aritmetica]{.text-red}
+# Definizione di progressione aritmetica
 
 Definiamo **progressione aritmetica** una successione in cui è costante la differenza fra ogni termine ed il suo antecedente.
 

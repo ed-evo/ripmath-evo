@@ -1,4 +1,4 @@
-# [legge dei grandi numeri (o legge empirica del caso)]{.text-red}
+# legge dei grandi numeri (o legge empirica del caso)
 
 Partiamo da un semplice esempio: lanciamo una moneta $$10$$ volte, $$100$$ volte, $$1000$$ volte e controlliamo l'evento "uscita di testa". Io ho ottenuto questi risultati:
 

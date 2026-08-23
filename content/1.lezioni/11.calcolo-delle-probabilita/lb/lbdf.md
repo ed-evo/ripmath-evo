@@ -1,4 +1,4 @@
-# [Relazione di ricorrenza]{.text-red}
+# Relazione di ricorrenza
 
 Dobbiamo dimostrare che è valida l'uguaglianza
 

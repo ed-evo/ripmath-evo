@@ -1,4 +1,4 @@
-# [Applicazione suriettiva]{.text-red}
+# Applicazione suriettiva
 
 Diremo che un'applicazione 
 

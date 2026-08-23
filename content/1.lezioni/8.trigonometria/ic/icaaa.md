@@ -1,4 +1,4 @@
-# [$$\cos(\alpha - \beta)$$]{.text-red}
+# $$\cos(\alpha - \beta)$$
 
 Consideriamo un cerchio trigonometrico. Consideriamo l'angolo $$\alpha$$ nel terzo quadrante e l'angolo $$\beta$$ nel secondo quadrante tali che la loro differenza, ($$\alpha - \beta$$), sia un angolo del primo quadrante.
 

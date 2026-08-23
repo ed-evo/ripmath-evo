@@ -2,7 +2,7 @@ I componenti della macchina "equazione" sono due: il primo ed il secondo princip
 
 ***
 
-## [Primo principio di equivalenza]{.text-red}
+## Primo principio di equivalenza
 
 Il primo principio di equivalenza delle equazioni dice che:
 [Aggiungendo o sottraendo ad entrambi i membri di un'equazione una stessa quantità l'equazione resta equivalente alla data]{.text-purple}

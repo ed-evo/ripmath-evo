@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# esercizio
 
 Eseguire la seguente differenza fra numeri binari:
 $$10100100101 - 1101001010 =$$

@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# Esercizio
 
 Dire per quali valori di $$x$$ la seguente disequazione risulta verificata:
 

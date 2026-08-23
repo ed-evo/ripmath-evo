@@ -1,4 +1,4 @@
-# [Esempi di strutture di gruppo]{.text-red}
+# Esempi di strutture di gruppo
 
 1) Consideriamo l'insieme $$\mathbb{Z}$$ dei numeri interi con l'operazione di addizione: allora la struttura $$(\mathbb{Z}; +)$$ è una struttura di gruppo; infatti:
 

@@ -1,4 +1,4 @@
-# [PRODOTTI NOTEVOLI]{.text-red}
+# PRODOTTI NOTEVOLI
 
 > **Perché servono i prodotti notevoli:**
 > I prodotti notevoli sono sempre la "Bestia Nera" degli studenti che non capiscono perché debbono faticare di più per ottenere risultati che non sempre sembrano apprezzabili. Vedi, se noi facciamo sempre la stessa operazione ci stanchiamo e cerchiamo di abbreviare e di trovare delle regolarità che ci permettano di scrivere il risultato senza dover sempre eseguire tutte le operazioni; cioè possiamo generalizzare, è come in certi giochi dove si accumulano punti e ad un certo momento si sale ad un livello superiore: è il caso dei prodotti notevoli dove sali dal livello di operazioni fra lettere al livello di operazioni sulle operazioni (prodotti).

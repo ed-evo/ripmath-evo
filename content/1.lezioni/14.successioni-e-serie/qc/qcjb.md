@@ -1,4 +1,4 @@
-# [Teorema della permanenza del segno del limite di una successione]{.text-red}
+# Teorema della permanenza del segno del limite di una successione
 
 Vale il teorema:
 

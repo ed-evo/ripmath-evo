@@ -1,4 +1,4 @@
-# [Automorfismo]{.text-red}
+# Automorfismo
 
 L'automorfismo è l'equivalente per l'isomorfismo dell'endomorfismo per il morfismo.
 

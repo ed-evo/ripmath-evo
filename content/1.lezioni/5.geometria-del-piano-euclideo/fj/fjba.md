@@ -1,4 +1,4 @@
-# [Il diametro è la massima corda]{.text-red}
+# Il diametro è la massima corda
 
 Dimostriamolo:
 

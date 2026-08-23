@@ -1,4 +1,4 @@
-# [Principio di dualità (cenni)]{.text-red}
+# Principio di dualità (cenni)
 
 In un'algebra di Boole la duale di una qualsiasi asserzione è l'asserzione che si ottiene scambiando fra loro il prodotto con la somma e lo $$0$$ con l'$$1$$.
 

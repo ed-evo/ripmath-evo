@@ -1,4 +1,4 @@
-# [Problema]{.text-red}
+# Problema
 
 Dato un qualunque triangolo isoscele e considerata la circonferenza in esso inscritta, dimostrare che la distanza della base dal punto di contatto della circonferenza con ognuno dei lati congruenti è la metà della misura dell'altezza relativa ad ognuno dei lati congruenti.
 

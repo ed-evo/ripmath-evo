@@ -1,4 +1,4 @@
-# [Iperbole]{.text-red}
+# Iperbole
 
 È l'intersezione fra un cono matematico ed un piano parallelo all'asse e non passante per il vertice.
 

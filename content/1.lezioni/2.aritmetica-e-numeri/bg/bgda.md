@@ -1,4 +1,4 @@
-# [Calcoli mentali particolari]{.text-red}
+# Calcoli mentali particolari
 
 - Quando devo moltiplicare due numeri che differiscono di poco (per un numero pari) posso usare la proprietà della somma di due numeri per la loro differenza (da usare specialmente se i due numeri hanno come media un numero che termina per zero)
 [$$24 \times 26 = (25 - 1) \times (25 + 1) = 625 - 1 = 624$$]{.text-blue}

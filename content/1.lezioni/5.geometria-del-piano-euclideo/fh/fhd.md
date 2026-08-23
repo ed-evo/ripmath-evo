@@ -1,4 +1,4 @@
-# [Rombo]{.text-red}
+# Rombo
 
 > **Definizione:** [Chiameremo rombo un parallelogramma avente i lati congruenti]{.text-red}
 

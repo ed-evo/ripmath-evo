@@ -1,4 +1,4 @@
-# [Parallelismo fra rette nello spazio]{.text-red}
+# Parallelismo fra rette nello spazio
 
 Due rette nello spazio si dicono **parallele** se giacciono sullo stesso piano e non hanno nessun punto in comune.
 

@@ -1,4 +1,4 @@
-# [Scomposizione di una somma di potenze pari]{.text-red}
+# Scomposizione di una somma di potenze pari
 
 In genere una somma di potenze pari del tipo $$\textcolor{red}{x^4 + a^4}$$ non è scomponibile.
 
