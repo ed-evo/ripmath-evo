@@ -13,11 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - run: corepack enable
+      - name: Install pnpm
+        uses: pnpm/action-setup@main
       - uses: actions/setup-node@main
         with:
           node-version: "24"
+          cache: 'pnpm'
       # Pick your own package manager and build script
-      - run: npm ci
+      - run: pnpm install --frozen-lockfile
       - run: npx nuxt build --preset github_pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@main
