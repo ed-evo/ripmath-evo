@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	_ "embed"
+	"flag"
 	"fmt"
 	"log"
 	"os"
@@ -19,12 +20,16 @@ import (
 var systemPrompt string
 
 func main() {
-	if err := run(); err != nil {
+
+	resourcePtr := flag.String("resource", "", "Resource to process. Path without ext")
+	flag.Parse()
+
+	if err := run(resourcePtr); err != nil {
 		log.Fatalf("Execution error: %v", err)
 	}
 }
 
-func run() error {
+func run(r *string) error {
 	cfg := config.Get()
 
 	logFile, err := os.OpenFile(cfg.LogFile, os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
@@ -46,11 +51,21 @@ func run() error {
 	if err != nil {
 		return fmt.Errorf("failed to create Genai Client: %w", err)
 	}
-
-	resList, err := resources.ListHtml(ctx, *cfg)
-
-	if err != nil {
-		return fmt.Errorf("Error reading resources: %w", err)
+	var resList []*resources.Resource
+	if r != nil && *r != "" {
+		resList = []*resources.Resource{
+			&resources.Resource{
+				Name: *r,
+				Html: *r + ".html",
+				Png: *r + ".png",
+			},
+		}
+	} else {
+		resList, err = resources.ListHtml(ctx, *cfg)
+	
+		if err != nil {
+			return fmt.Errorf("Error reading resources: %w", err)
+		}
 	}
 
 	err = ai.Process(
