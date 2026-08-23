@@ -1,0 +1,3 @@
+> Se hai risposto $$\textcolor{red}{\frac{4}{12}}$$ oppure $$\textcolor{red}{\frac{5}{15}}$$ oppure $$\textcolor{red}{\frac{6}{18}}$$ sei sulla buona strada: se dici come hai fatto a dire quei numeri allora quella è la regola per trovare le frazioni equivalenti.
+> 
+> So che è facile intuire mentre è difficile esplicitare le regole: si tratta di trasformare l'intuizione in ragionamento, e questo è uno degli scopi della matematica.

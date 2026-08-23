@@ -1,0 +1,1 @@
+> Infatti se $$(2+x)$$ è positivo va tutto bene, ma se $$(2+x)$$ è negativo la disequazione cambia di verso ed io non so quale sia il segno.

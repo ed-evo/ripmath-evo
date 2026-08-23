@@ -1,0 +1,1 @@
+> [qui puoi vedere come cambia l'inclinazione della retta al variare del coefficiente angolare]{.text-purple}

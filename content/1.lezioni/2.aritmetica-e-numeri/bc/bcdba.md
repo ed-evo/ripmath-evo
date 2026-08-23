@@ -1,0 +1,1 @@
+> Veramente dire **[minimo comun denominatore]{.text-red}** sarebbe errato, ma ormai il termine è entrato nell'uso comune e quindi comunemente accettato col significato di **[minimo comune multiplo fra i denominatori]{.text-red}**
