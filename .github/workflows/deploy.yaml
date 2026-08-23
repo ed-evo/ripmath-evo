@@ -26,7 +26,7 @@ jobs:
       - name: build pages
         run: npx nuxt build --preset github_pages
         env:
-          NODE_OPTIONS: "--max-old-space-size=6144 --trace-gc"
+          NODE_OPTIONS: "--max-old-space-size=6144"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@main
         with:
