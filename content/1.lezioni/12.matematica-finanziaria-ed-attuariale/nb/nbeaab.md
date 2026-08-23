@@ -1,4 +1,4 @@
-[# Riduzione di più crediti ad una scadenza posteriore]{.text-red}
+# Riduzione di più crediti ad una scadenza posteriore
 
 In questo caso ci riferiamo ad una scadenza successiva alle varie scadenze delle somme considerate.
 Dobbiamo determinare l'importo: vediamo come procedere su un esempio.

@@ -1,4 +1,4 @@
-[# Teorema dei seni]{.text-red}
+# Teorema dei seni
 
 Iniziamo qui una serie di teoremi che ci permetteranno di risolvere i triangoli qualunque utilizzando il teorema dei seni posso:
 

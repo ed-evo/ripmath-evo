@@ -1,4 +1,4 @@
-[# Prodotto righe per colonne fra matrici quadrate]{.text-red}
+# Prodotto righe per colonne fra matrici quadrate
 
 Possiamo dire subito che è un'operazione di composizione interna perché il prodotto fra due matrici quadrate dello stesso ordine è ancora una matrice quadrata dello stesso ordine.
 

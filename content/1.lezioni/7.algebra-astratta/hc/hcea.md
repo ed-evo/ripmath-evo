@@ -1,4 +1,4 @@
-[# Esempi di struttura ad anello]{.text-red}
+# Esempi di struttura ad anello
 
 Consideriamo i seguenti esempi e mostriamo per ciascuno la presenza della struttura ad anello: per ognuno dovremo mostrare:
 

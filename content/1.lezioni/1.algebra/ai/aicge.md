@@ -1,4 +1,4 @@
-[# Dividere membro a membro]{.text-red}
+# Dividere membro a membro
 
 È un metodo alternativo al precedente: invece di sommare o sottrarre si possono isolare i termini uguali o proporzionali in un membro e poi dividere; solo provando puoi vedere se conviene più questo metodo oppure il precedente; di solito è poco usato preferendosi usare altri metodi più intuitivi.
 

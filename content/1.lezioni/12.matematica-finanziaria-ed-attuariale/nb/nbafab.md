@@ -1,4 +1,4 @@
-[# Calcolo del montante ad interesse composto per tempi interi con tasso non sulle tavole]{.text-red}
+# Calcolo del montante ad interesse composto per tempi interi con tasso non sulle tavole
 
 Si impiega il capitale di $$\text{€ } 20000$$ per $$18$$ anni ad interesse composto al $$2,673\%$$.
 Calcolarne il montante nei vari modi possibili e confrontare i risultati.

@@ -1,4 +1,4 @@
-[# Limite finito di una successione]{.text-red}
+# Limite finito di una successione
 
 Quella che abbiamo dato nella pagina precedente è una definizione mediante intorni ed è valida sempre per ogni tipo di limite; ma è possibile dare, per una successione convergente, una definizione di limite più "algebrica" che può essere meglio utilizzizzata negli esercizi.
 

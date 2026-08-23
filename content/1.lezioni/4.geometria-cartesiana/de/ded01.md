@@ -1,4 +1,4 @@
-[# esercizio]{.text-red}
+# esercizio
 
 Trovare l'equazione canonica dell'ellisse passante per i punti $$\textcolor{blue}{A(\frac{9}{5}, 4)}$$ e $$\textcolor{blue}{B(\frac{12}{5}, 3)}$$
 

@@ -1,4 +1,4 @@
-[# Differenza di successioni]{.text-red}
+# Differenza di successioni
 
 Date la successione $$a$$
 $$

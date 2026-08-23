@@ -1,4 +1,4 @@
-[# Equazione generale di una conica]{.text-red}
+# Equazione generale di una conica
 
 È l'equazione generale di secondo grado
 

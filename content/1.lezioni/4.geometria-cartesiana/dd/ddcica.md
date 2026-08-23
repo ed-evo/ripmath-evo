@@ -1,4 +1,4 @@
-[# Fascio di circonferenze concentriche]{.text-red}
+# Fascio di circonferenze concentriche
 
 Quando il parametro si trova solamente nel termine noto allora avremo un fascio di circonferenze concentriche.
 L'equazione di un fascio di circonferenze concentriche si può ridurre a:

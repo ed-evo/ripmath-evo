@@ -1,4 +1,4 @@
-[# Limite destro e limite sinistro]{.text-red}
+# Limite destro e limite sinistro
 
 Per capire bene il concetto di limite destro (sinistro) consideriamo cos'è un intervallo per un punto interno: è un intorno e per essere un intorno non è necessario che il punto sia al centro dell'intervallo, anzi il punto può essere spostato anche fino al bordo se l'intervallo è chiuso ed in tal caso avremo un intorno destro o sinistro del punto.
 

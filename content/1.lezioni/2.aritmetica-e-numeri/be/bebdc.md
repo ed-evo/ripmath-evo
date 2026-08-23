@@ -1,4 +1,4 @@
-[# Trasformazione da coordinate polari a coordinate cartesiane ortogonali]{.text-red}
+# Trasformazione da coordinate polari a coordinate cartesiane ortogonali
 
 In modo analogo trasformiamo le coordinate cartesiane ortogonali in coordinate polari.
 

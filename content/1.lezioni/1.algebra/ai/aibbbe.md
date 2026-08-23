@@ -1,4 +1,4 @@
-[# Soluzione del sistema col metodo di Cramer]{.text-red}
+# Soluzione del sistema col metodo di Cramer
 
 Ora possiamo procedere a risolvere il sistema:
 Prendiamo lo stesso sistema già risolto con il metodo di sostituzione

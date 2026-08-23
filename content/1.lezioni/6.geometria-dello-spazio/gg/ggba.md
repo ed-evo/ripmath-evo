@@ -1,4 +1,4 @@
-[# Criterio di perpendicolarità fra piani]{.text-red}
+# Criterio di perpendicolarità fra piani
 #### condizione necessaria
 
 Mostriamo che la condizione è necessaria: prendiamo una retta che giaccia sul piano $$\beta$$ e tale retta sia perpendicolare al piano $$\alpha$$; mostriamo che il piano $$\beta$$ è perpendicolare al piano $$\alpha$$.

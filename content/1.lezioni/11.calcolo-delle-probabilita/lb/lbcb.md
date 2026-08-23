@@ -1,4 +1,4 @@
-[# Combinazioni con ripetizione]{.text-red}
+# Combinazioni con ripetizione
 
 Le combinazioni con ripetizione $$\textcolor{red}{C^*_{n;}}$$ di $$n$$ oggetti sono le coppie, terne, quaterne, ... $$k$$-uple non ordinate che posso formare considerando che ogni oggetto può essere considerato più volte.
 

@@ -1,4 +1,4 @@
-[# Esercizi]{.text-red}
+# Esercizi
 
 $$
 \textcolor{blue}{y^2 - 5y + 6 = 0}

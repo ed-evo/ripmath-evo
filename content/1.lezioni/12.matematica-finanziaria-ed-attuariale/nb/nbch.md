@@ -1,4 +1,4 @@
-[# Utilizzo dei vari tipi di sconto]{.text-red}
+# Utilizzo dei vari tipi di sconto
 
 Abbiamo quindi tre tipi di sconto: commerciale, razionale e composto; però subito diciamo che per periodi superiori all'anno useremo esclusivamente lo sconto composto, mentre utilizzeremo gli sconti commerciale e razionale per periodi inferiori all'anno.
 

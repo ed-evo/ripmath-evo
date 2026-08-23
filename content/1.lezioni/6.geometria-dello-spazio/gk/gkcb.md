@@ -1,4 +1,4 @@
-[# Area della superficie del cono]{.text-red}
+# Area della superficie del cono
 
 Sviluppando la superficie del cono su un piano otteniamo $$1$$ cerchio (la base) ed un settore circolare che è la superficie laterale.
 

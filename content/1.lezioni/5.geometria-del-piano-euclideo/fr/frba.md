@@ -1,4 +1,4 @@
-[# Esercizio]{.text-red}
+# Esercizio
 
 Dimostrare che in ogni circonferenza una corda è minore del suo arco
 

@@ -1,4 +1,4 @@
-[# Esercizio sul calcolo del montante ad interesse composto per tempi interi con valori sulle tavole]{.text-red}
+# Esercizio sul calcolo del montante ad interesse composto per tempi interi con valori sulle tavole
 
 Si impiega il capitale di $$\text{€ } 15000$$ per $$2$$ anni e $$8$$ mesi al $$2,50\%$$ annuo. Calcolarne il montante nei modi possibili e confrontare i risultati.
 

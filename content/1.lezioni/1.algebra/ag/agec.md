@@ -1,4 +1,4 @@
-[# Applicazioni a disequazioni prodotto di espressioni di primo e secondo grado]{.text-red}
+# Applicazioni a disequazioni prodotto di espressioni di primo e secondo grado
 
 Quando invece di un sistema hai un prodotto devi pensare che ogni prodotto è equivalente a più sistemi
 
