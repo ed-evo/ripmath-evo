@@ -1,2 +1,0 @@
-> **Definizione:**
-> **Secchione**: tipo ormai piuttosto raro di alunno che passa la quasi totalità del suo tempo sui libri scolastici, spesso (ma non sempre) impegnato in uno studio mnemonico ed acritico.

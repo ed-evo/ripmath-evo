@@ -1,1 +1,0 @@
-# Esempi di studio intuitivo del grafico di una funzione

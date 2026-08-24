@@ -1,1 +1,0 @@
-> Se una persona diventava uno studioso di matematica o aveva capitali suoi con cui vivere di rendita oppure si appoggiava a qualche potente mecenate con cui si sdebitava facendogli l'"oroscopo" oppure fornendogli studi sulle possibilità di vincere al gioco. Il mecenate poteva poi offrirgli qualche cattedra universitaria. Sono famosi gli oroscopi fatti da Newton.

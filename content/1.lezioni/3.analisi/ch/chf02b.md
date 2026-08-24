@@ -1,1 +1,0 @@
-> Ti ricordo che dividere una funzione per $$x$$ vuol dire moltiplicare per $$x$$ i termini al denominatore

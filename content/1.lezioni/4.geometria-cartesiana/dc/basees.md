@@ -1,3 +1,0 @@
-# Problemi in geometria cartesiana
-
----

@@ -1,3 +1,0 @@
-# Le funzioni empiriche
-
-> Sono quelle funzioni che si possono desumere dalla natura, ad esempio altezza del sole e temperatura, oppure tempo trascorso dalla semina ed altezza di un germoglio. Non hanno una vera forma matematica a meno di non applicarvi appositi modelli matematici: ad esempio in ecologia il legame fra predatori e prede in un ambiente chiuso si può rappresentare mediante un'equazione differenziale.

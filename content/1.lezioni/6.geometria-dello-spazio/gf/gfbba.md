@@ -1,3 +1,0 @@
-**Segmento di perpendicolare** è il segmento compreso fra il punto sulla retta e il piede della perpendicolare condotta dal punto sul piano: ad esempio in figura sono segmenti di perpendicolare $$AA'$$, $$BB'$$, $$CC'$$.
-
-Si dirà invece **segmento obliquo** un qualunque segmento che non sia perpendicolare, cioè un qualunque segmento che congiunga un punto esterno al piano con un punto del piano e che non appartenga alla retta perpendicolare dal punto al piano: ad esempio in figura $$BP$$ è un segmento obliquo.

@@ -1,1 +1,0 @@
-> Ti ricordo che (come diceva un mio Insegnante di Matematica) un criterio è una scorciatoia che ci permette di arrivare a qualcosa senza dover prendere tutta la definizione

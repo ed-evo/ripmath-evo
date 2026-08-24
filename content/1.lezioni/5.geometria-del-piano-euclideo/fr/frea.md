@@ -1,1 +1,0 @@
-> Lo chiamiamo $$2p$$ perché spesso serve il semiperimetro, cioè devo dividere per due, quindi, senza usare le frazioni avrò nelle formule il semiperimetro $$p$$

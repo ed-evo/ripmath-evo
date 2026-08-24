@@ -1,1 +1,0 @@
-intersezioni n° $$\textcolor{red}{0}$$

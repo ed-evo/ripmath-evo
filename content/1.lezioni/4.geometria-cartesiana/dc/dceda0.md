@@ -1,1 +1,0 @@
-> Diremo combinazione lineare delle due funzioni la somma della prima con la seconda moltiplicata per una costante
