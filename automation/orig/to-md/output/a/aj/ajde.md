@@ -1,8 +1,8 @@
 # [Matrice unitaria]{.text-red}
 
-Definiamo matrice unitaria la matrice che ha tutti gli elementi nulli tranne quelli che si trovano sulla diagonale principale e che valgono tutti $$1$$.
+Definiamo matrice unitaria la matrice che ha tutti gli elementi nulli tranne quelli che si trovano sulla diagonale principale e che valgono tutti $1$.
 
-Esempio di matrice unitaria di tipo $$4 \times 4$$
+Esempio di matrice unitaria di tipo $4 \times 4$
 
 $$
 \textcolor{red}{

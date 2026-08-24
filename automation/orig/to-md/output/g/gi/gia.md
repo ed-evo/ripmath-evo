@@ -1,6 +1,6 @@
 # [Prisma indefinito]{.text-red}
 
-Consideriamo un poligono qualunque sul piano $$\alpha$$ e consideriamo un poligono congruente ad esso sul piano $$\beta$$ diverso e parallelo ad $$\alpha$$.
+Consideriamo un poligono qualunque sul piano $\alpha$ e consideriamo un poligono congruente ad esso sul piano $\beta$ diverso e parallelo ad $\alpha$.
 
 Consideriamo poi le congiungenti i punti corrispondenti dei perimetri dei due poligoni congruenti: in tal modo l'insieme di tali rette definiscono una **superficie prismatica indefinita**.
 

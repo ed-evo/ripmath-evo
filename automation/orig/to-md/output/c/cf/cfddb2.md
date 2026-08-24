@@ -46,7 +46,7 @@
 > \lim_{h \to 0} \textcolor{red}{g(x+h)} \cdot \lim_{h \to 0} \frac{\textcolor{red}{f(x+h) - f(x)}}{h}
 > $$
 >
-> il primo limite quando $$h$$ tende a zero vale [$$\textcolor{red}{g(x)}$]{.text-red} ed il secondo è [$$\textcolor{red}{f'(x)}$]{.text-red} quindi
+> il primo limite quando $h$ tende a zero vale [$\textcolor{red}{g(x)}$]{.text-red} ed il secondo è [$\textcolor{red}{f'(x)}$]{.text-red} quindi
 > [$$\textcolor{red}{= g(x) \cdot f'(x) = f'(x) \cdot g(x)}$]{.text-red}
 >
 > nel secondo limite
@@ -67,7 +67,7 @@
 > \lim_{h \to 0} \textcolor{red}{f(x)} \cdot \lim_{h \to 0} \frac{\textcolor{red}{g(x+h) - g(x)}}{h}
 > $$
 >
-> il primo limite non dipende da $$h$$ e vale [$$\textcolor{red}{f(x)}$]{.text-red} ed il secondo è [$$\textcolor{red}{g'(x)}$]{.text-red} quindi
+> il primo limite non dipende da $h$ e vale [$\textcolor{red}{f(x)}$]{.text-red} ed il secondo è [$\textcolor{red}{g'(x)}$]{.text-red} quindi
 > [$$\textcolor{red}{= f(x) \cdot g'(x)}$]{.text-red}
 >
 > Raccogliendo i risultati l'espressione iniziale vale

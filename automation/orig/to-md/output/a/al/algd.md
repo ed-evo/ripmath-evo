@@ -20,7 +20,7 @@ $$
 \textcolor{red}{\sqrt[5]{1024} =}
 $$
 
-Siccome $$1024$$ è una potenza del $$2$$ uso i logaritmi in base $$2$$.
+Siccome $1024$ è una potenza del $2$ uso i logaritmi in base $2$.
 
 Passo al logaritmo:
 

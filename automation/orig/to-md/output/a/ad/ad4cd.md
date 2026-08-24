@@ -6,7 +6,7 @@ $$
 (a+b)^3 = (a+b) \cdot (a+b) \cdot (a+b) =
 $$
 
-ora so che $$(a+b) \cdot (a+b) = a^2 + 2ab + b^2$$ quindi dovrò fare:
+ora so che $(a+b) \cdot (a+b) = a^2 + 2ab + b^2$ quindi dovrò fare:
 
 $$
 = (a^2 + 2ab + b^2) \cdot (a+b) =
@@ -40,16 +40,16 @@ $$
 (2x+3y)^3
 $$
 
-al posto di $$a$$ ho $$2x$$ ed al posto di $$b$$ ho $$3y$$, quindi nella regola quando ho il primo monomio metto $$2x$$ e quando ho il secondo metto $$3y$$.
+al posto di $a$ ho $2x$ ed al posto di $b$ ho $3y$, quindi nella regola quando ho il primo monomio metto $2x$ e quando ho il secondo metto $3y$.
 
 Facciamolo assieme:
 
-[Il cubo di un binomio]{.text-purple} $$(2x+3y)^3$$
-[è uguale]{.text-purple} $$=$$
-[al cubo del primo monomio]{.text-purple} $$(2x)^3$$
-[più il triplo del prodotto del quadrato del primo per il secondo]{.text-purple} $$+3 \cdot (2x)^2 \cdot (3y)$$
-[più il triplo del prodotto del primo per il quadrato del secondo]{.text-purple} $$+3 \cdot (2x) \cdot (3y)^2$$
-[più il cubo del secondo]{.text-purple} $$+(3y)^3$$
+[Il cubo di un binomio]{.text-purple} $(2x+3y)^3$
+[è uguale]{.text-purple} $=$
+[al cubo del primo monomio]{.text-purple} $(2x)^3$
+[più il triplo del prodotto del quadrato del primo per il secondo]{.text-purple} $+3 \cdot (2x)^2 \cdot (3y)$
+[più il triplo del prodotto del primo per il quadrato del secondo]{.text-purple} $+3 \cdot (2x) \cdot (3y)^2$
+[più il cubo del secondo]{.text-purple} $+(3y)^3$
 
 quindi raccogliendo:
 
@@ -65,7 +65,7 @@ $$
 
 ***
 
-Vediamo ora come comportarci se invece che la somma abbiamo la differenza fra $$2$$ monomi. Lavoriamo su un esempio:
+Vediamo ora come comportarci se invece che la somma abbiamo la differenza fra $2$ monomi. Lavoriamo su un esempio:
 
 $$
 (3x-2y)^3 =
@@ -77,7 +77,7 @@ $$
 [3x + (-2y)]^3 =
 $$
 
-allora il primo monomio è $$3x$$ ed il secondo è $$-2y$$. Quindi avremo:
+allora il primo monomio è $3x$ ed il secondo è $-2y$. Quindi avremo:
 
 $$
 (3x)^3 + 3 \cdot (3x)^2 \cdot (-2y) + 3 \cdot (3x) \cdot (-2y)^2 + (-2y)^3 =

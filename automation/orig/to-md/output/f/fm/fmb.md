@@ -6,7 +6,7 @@ Notiamo che alcune figure si possono scomporre in "pezzi" uguali; se riusciamo a
 
 Definiamo **equiscomponibili** due figure che possano essere scomposte in parti congruenti.
 
-> a destra hai l'esempio di $$3$$ figure equiscomposte (si dice anche equicomposte)
+> a destra hai l'esempio di $3$ figure equiscomposte (si dice anche equicomposte)
 > Al solito: equiscomposte se dai la precedenza alle figure
 > equicomposte se vuoi mettere in evidenza le parti componenti
 

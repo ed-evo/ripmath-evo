@@ -1,5 +1,5 @@
-Calcoliamo $$(a+b+c)^3 =$$
-la potenza $$3$$ significa il moltiplicare la base $$3$$ volte per sé stessa
+Calcoliamo $(a+b+c)^3 =$
+la potenza $3$ significa il moltiplicare la base $3$ volte per sé stessa
 $$
 =(a+b+c)\cdot(a+b+c)\cdot(a+b+c)=
 $$
@@ -11,9 +11,9 @@ quindi posso scrivere
 $$
 =(a^2 + b^2 + c^2 + 2ab + 2ac + 2bc)\cdot(a+b+c)=
 $$
-ora moltiplico termine a termine il primo polinomio per il secondo: siccome sono $$6$$ termini per $$3$$ termini otterrò $$18$$ termini, quindi capisci che devi procedere con calma perché è molto facile sbagliarsi
+ora moltiplico termine a termine il primo polinomio per il secondo: siccome sono $6$ termini per $3$ termini otterrò $18$ termini, quindi capisci che devi procedere con calma perché è molto facile sbagliarsi
 
-Moltiplico il primo termine $$a^2$$ per $$(a+b+c)$$
+Moltiplico il primo termine $a^2$ per $(a+b+c)$
 $$
 a^2\cdot a = a^3
 $$
@@ -24,7 +24,7 @@ $$
 a^2\cdot c = a^2c
 $$
 
-Moltiplico il secondo termine $$b^2$$ per $$(a+b+c)$$
+Moltiplico il secondo termine $b^2$ per $(a+b+c)$
 $$
 b^2\cdot a = ab^2
 $$
@@ -35,7 +35,7 @@ $$
 b^2\cdot c = b^2c
 $$
 
-Moltiplico il terzo termine $$c^2$$ per $$(a+b+c)$$
+Moltiplico il terzo termine $c^2$ per $(a+b+c)$
 $$
 c^2\cdot a = ac^2
 $$
@@ -46,7 +46,7 @@ $$
 c^2\cdot c = c^3
 $$
 
-Moltiplico il quarto termine $$2ab$$ per $$(a+b+c)$$
+Moltiplico il quarto termine $2ab$ per $(a+b+c)$
 $$
 2ab\cdot a = 2a^2b
 $$
@@ -57,7 +57,7 @@ $$
 2ab\cdot c = 2abc
 $$
 
-Moltiplico il quinto termine $$2ac$$ per $$(a+b+c)$$
+Moltiplico il quinto termine $2ac$ per $(a+b+c)$
 $$
 2ac\cdot a = 2a^2c
 $$
@@ -68,7 +68,7 @@ $$
 2ac\cdot c = 2ac^2
 $$
 
-Moltiplico il sesto termine $$2bc$$ per $$(a+b+c)$$
+Moltiplico il sesto termine $2bc$ per $(a+b+c)$
 $$
 2bc\cdot a = 2abc
 $$

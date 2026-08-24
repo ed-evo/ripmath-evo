@@ -5,8 +5,8 @@
 
 Trasformare in radicali semplici
 
-[$$\sqrt{3 + 2\sqrt{2}} =$$]{.text-blue} [soluzione](akeb1.html)
+[$\sqrt{3 + 2\sqrt{2}} =$]{.text-blue} [soluzione](akeb1.html)
 
-[$$\sqrt{6 - 2\sqrt{5}} =$$]{.text-blue} [soluzione](akeb2.html)
+[$\sqrt{6 - 2\sqrt{5}} =$]{.text-blue} [soluzione](akeb2.html)
 
-[$$\sqrt{4 + \sqrt{7}} =$$]{.text-blue} [soluzione](akeb3.html)
+[$\sqrt{4 + \sqrt{7}} =$]{.text-blue} [soluzione](akeb3.html)

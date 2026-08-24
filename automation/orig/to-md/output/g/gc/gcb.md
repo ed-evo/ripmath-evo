@@ -16,4 +16,4 @@ Per tre punti non allineati passa un solo piano.
 
 Dato uno spazio ed un piano, il piano divide lo spazio in due parti (semispazi) tali che, presi due punti nello stesso semispazio, il segmento che li unisce non taglia il piano, mentre se prendiamo due punti in semispazi opposti, il segmento che li unisce taglia il piano.
 
-> In figura i punti $$C$$ e $$D$$ sono nello stesso semispazio, mentre $$A$$ e $$B$$ sono in semispazi opposti.
+> In figura i punti $C$ e $D$ sono nello stesso semispazio, mentre $A$ e $B$ sono in semispazi opposti.

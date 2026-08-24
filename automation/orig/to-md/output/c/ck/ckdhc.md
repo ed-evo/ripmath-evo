@@ -25,14 +25,14 @@ $$
 \textcolor{blue}{= (x - 1)(x + 1)(x - 2)}
 $$
 
-Le tre radici (reali e distinte) del denominatore sono $$1$$, $$-1$$, $$2$$.
+Le tre radici (reali e distinte) del denominatore sono $1$, $-1$, $2$.
 Posso scrivere la frazione come somma delle tre frazioni:
 
 $$
 \textcolor{blue}{\frac{-4x^2 - 6x + 7}{x^3 - 2x^2 - x + 2} = \frac{A}{x - 1} + \frac{B}{x + 1} + \frac{C}{x - 2}}
 $$
 
-Devo trovare $$A$$, $$B$$ e $$C$$.
+Devo trovare $A$, $B$ e $C$.
 A destra faccio il minimo comune multiplo:
 
 $$
@@ -62,7 +62,7 @@ $$
 \textcolor{blue}{- 2A + 2B - C = 7}
 $$
 
-Pongo a sistema le tre equazioni per calcolare $$A$$, $$B$$ e $$C$$:
+Pongo a sistema le tre equazioni per calcolare $A$, $B$ e $C$:
 
 $$
 \textcolor{blue}{\begin{cases} A + B + C = -4 \\ -A - 3B = -6 \\ - 2A + 2B - C = 7 \end{cases}}
@@ -93,8 +93,8 @@ $$
 - Trovo le radici del denominatore.
 - Pongo la frazione uguale ad una somma di frazioni elementari dipendenti dalle radici trovate.
 - Faccio il minimo comune multiplo fra le frazioni elementari e calcolo il numeratore.
-- Pongo ogni termine del numeratore trovato uguale ad ogni termine del numeratore del polinomio di partenza (principio di identità dei polinomi): ottengo tante equazioni in $$A, B, C...$$ quante sono le incognite.
-- Metto a sistema le equazioni trovate per trovare il valore di $$A, B, C...$$.
+- Pongo ogni termine del numeratore trovato uguale ad ogni termine del numeratore del polinomio di partenza (principio di identità dei polinomi): ottengo tante equazioni in $A, B, C...$ quante sono le incognite.
+- Metto a sistema le equazioni trovate per trovare il valore di $A, B, C...$.
 - Sostituisco i valori trovati nelle frazioni elementari.
 
 ---

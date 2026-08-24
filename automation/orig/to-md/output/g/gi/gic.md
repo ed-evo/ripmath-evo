@@ -18,21 +18,21 @@ Se guardi l'ultima figura vedi che non è molto chiara: infatti per mostrarti il
 
 Come ultimo argomento della pagina vediamo di calcolare il valore della diagonale del parallelepipedo rettangolo; per capirci meglio stavolta metto la figura in prospettiva; a destra la figura sviluppata nelle sue superfici.
 
-Traccio una diagonale $$\textcolor{red}{d}$$ in rosso; in blu traccio la proiezione della diagonale sulla base.
+Traccio una diagonale $\textcolor{red}{d}$ in rosso; in blu traccio la proiezione della diagonale sulla base.
 
-Essendo un parallelepipedo rettangolo la base è un rettangolo e quindi per calcolare la diagonale di base $$AC$$ possiamo applicare il teorema di Pitagora al triangolo $$\textcolor{green}{ABC}$$ (quello in verde):
+Essendo un parallelepipedo rettangolo la base è un rettangolo e quindi per calcolare la diagonale di base $AC$ possiamo applicare il teorema di Pitagora al triangolo $\textcolor{green}{ABC}$ (quello in verde):
 
 $$
 AC^2 = AB^2 + BC^2 = l^2 + m^2
 $$
 
-Ora per calcolare il valore della diagonale $$\textcolor{blue}{AD}$$ del parallelepipedo possiamo applicare il teorema di Pitagora sul triangolo $$\textcolor{blue}{ACD}$$ (quello in azzurro):
+Ora per calcolare il valore della diagonale $\textcolor{blue}{AD}$ del parallelepipedo possiamo applicare il teorema di Pitagora sul triangolo $\textcolor{blue}{ACD}$ (quello in azzurro):
 
 $$
 AD^2 = AC^2 + CD^2 = (AB^2 + BC^2) + CD^2 = l^2 + m^2 + h^2
 $$
 
-Quindi possiamo concludere che la diagonale $$d$$ di un parallelepipedo rettangolo è uguale alla radice quadrata della somma dei quadrati delle tre dimensioni:
+Quindi possiamo concludere che la diagonale $d$ di un parallelepipedo rettangolo è uguale alla radice quadrata della somma dei quadrati delle tre dimensioni:
 
 $$
 \textcolor{blue}{d = \sqrt{l^2 + m^2 + h^2}}

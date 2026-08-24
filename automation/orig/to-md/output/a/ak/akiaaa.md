@@ -60,7 +60,7 @@ x - 2 > 0 \\
 }
 $$
 
-porto il $$-20$$ dopo il disuguale
+porto il $-20$ dopo il disuguale
 
 $$
 \textcolor{blue}{
@@ -72,7 +72,7 @@ x - 2 > 0 \\
 }
 $$
 
-divido la terza per $$4$$
+divido la terza per $4$
 
 $$
 \textcolor{blue}{

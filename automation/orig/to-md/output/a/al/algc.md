@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{a^x = b}
 $$
 
-elevo entrambi i membri a potenza $$n$$
+elevo entrambi i membri a potenza $n$
 
 $$
 \textcolor{blue}{(a^x)^n = b^n}
@@ -42,7 +42,7 @@ $$
 \textcolor{blue}{nx = \log_a b^n}
 $$
 
-ma siccome $$x = \log_a b$$
+ma siccome $x = \log_a b$
 
 $$
 \textcolor{blue}{n \log_a b = \log_a b^n}

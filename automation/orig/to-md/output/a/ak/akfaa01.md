@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{1}{\sqrt{2}}}
 $$
 
-Moltiplico sopra e sotto per $$\sqrt{2}$$
+Moltiplico sopra e sotto per $\sqrt{2}$
 
 $$
 \textcolor{blue}{\frac{1}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}} = \frac{\sqrt{2}}{\sqrt{2}^2}}

@@ -18,12 +18,12 @@ $$
 
 In questo modo riempio lo spazio esistente fra i numeri interi degli infiniti risultati che otterrei eseguendo le possibili divisioni fra numeri interi:
 
-$$\frac{1}{1}, \frac{1}{2}, \frac{1}{3}, \frac{1}{4}, \frac{1}{5}, \dots$$
-$$\frac{2}{1}, \frac{2}{2}, \frac{2}{3}, \frac{2}{4}, \frac{2}{5}, \dots$$
-$$\frac{3}{1}, \frac{3}{2}, \frac{3}{3}, \frac{3}{4}, \frac{3}{5}, \dots$$
+$\frac{1}{1}, \frac{1}{2}, \frac{1}{3}, \frac{1}{4}, \frac{1}{5}, \dots$
+$\frac{2}{1}, \frac{2}{2}, \frac{2}{3}, \frac{2}{4}, \frac{2}{5}, \dots$
+$\frac{3}{1}, \frac{3}{2}, \frac{3}{3}, \frac{3}{4}, \frac{3}{5}, \dots$
 
 [per approfondire]{.text-red}
 
-> **Nota:** C'è da dire che esiste un numero che fa eccezione: lo zero! Infatti non posso dividere per zero, quindi non hanno significato i numeri $$\frac{1}{0}, \frac{2}{0}, \frac{3}{0}, \frac{4}{0}, \dots$$
+> **Nota:** C'è da dire che esiste un numero che fa eccezione: lo zero! Infatti non posso dividere per zero, quindi non hanno significato i numeri $\frac{1}{0}, \frac{2}{0}, \frac{3}{0}, \frac{4}{0}, \dots$
 
-Indicherò con [$$\textcolor{red}{Q}$$ (insieme dei numeri razionali)]{.text-red} questo nuovo insieme
+Indicherò con [$\textcolor{red}{Q}$ (insieme dei numeri razionali)]{.text-red} questo nuovo insieme

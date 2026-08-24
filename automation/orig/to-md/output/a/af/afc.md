@@ -1,6 +1,6 @@
 # [equazioni di secondo grado]{.text-red}
 
-Un'equazione si dice di secondo grado quando la $$x$$ vi compare a potenza $$2$$, cioè c'è un termine con $$x^2$$.
+Un'equazione si dice di secondo grado quando la $x$ vi compare a potenza $2$, cioè c'è un termine con $x^2$.
 
 A seconda dei termini presenti, oltre a quello di secondo grado, le equazioni possono essere suddivise in:
 

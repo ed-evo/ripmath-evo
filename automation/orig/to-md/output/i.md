@@ -4,13 +4,13 @@ a. Introduzione
 b. Goniometria
     a. Misura di archi ed angoli
     b. Principali funzioni trigonometriche
-        a. $$\text{sen } \alpha$$
-        b. $$\text{cos } \alpha$$
-        c. $$\text{tang } \alpha$$
+        a. $\text{sen } \alpha$
+        b. $\text{cos } \alpha$
+        c. $\text{tang } \alpha$
         d. reciproche delle funzioni goniometriche
-            a. $$\text{cotang } \alpha$$
-            b. $$\text{cosec } \alpha$$
-            c. $$\text{sec } \alpha$$
+            a. $\text{cotang } \alpha$
+            b. $\text{cosec } \alpha$
+            c. $\text{sec } \alpha$
     c. Relazioni fra le funzioni trigonometriche
         a. Prima relazione fondamentale
         b. Seconda relazione fondamentale
@@ -22,11 +22,11 @@ b. Goniometria
         c. angolo nel terzo quadrante
         d. angolo nel quarto quadrante
     e. Valori per alcuni angoli particolari
-        a. angolo di $$30^\circ$$
-        b. angolo di $$45^\circ$$
-        c. angolo di $$60^\circ$$
-        d. angolo di $$18^\circ$$
-        e. angolo di $$72^\circ$$
+        a. angolo di $30^\circ$
+        b. angolo di $45^\circ$
+        c. angolo di $60^\circ$
+        d. angolo di $18^\circ$
+        e. angolo di $72^\circ$
         f. tabella riassuntiva
 c. Algebra goniometrica
     a. Operazioni su archi ed angoli
@@ -39,20 +39,20 @@ c. Algebra goniometrica
     b. Identità trigonometriche
     c. Equazioni trigonometriche
         a. equazioni fondamentali
-            a. $$\text{sen } x = h$$
-            b. $$\text{cos } x = m$$
-            c. $$\text{tang } x = p$$
+            a. $\text{sen } x = h$
+            b. $\text{cos } x = m$
+            c. $\text{tang } x = p$
         b. tipi di equazioni specifiche della trigonometria
-            a. equazioni in seno e coseno di $$1^\circ$$ grado lineari omogenee
-            b. equazioni in seno e coseno di $$1^\circ$$ grado lineari non omogenee
-            c. equazioni in seno e coseno di $$2^\circ$$ grado lineari omogenee
-            d. equazioni in seno e coseno di $$2^\circ$$ grado lineari non omogenee
+            a. equazioni in seno e coseno di $1^\circ$ grado lineari omogenee
+            b. equazioni in seno e coseno di $1^\circ$ grado lineari non omogenee
+            c. equazioni in seno e coseno di $2^\circ$ grado lineari omogenee
+            d. equazioni in seno e coseno di $2^\circ$ grado lineari non omogenee
         c. equazioni di vario tipo
     d. [Sistemi trigonometrici]{.text-red}
     e. Disequazioni trigonometriche
-        a. $$\text{sen } x > h$$
-        b. $$\text{cos } x > n$$
-        c. $$\text{tang } x > p$$
+        a. $\text{sen } x > h$
+        b. $\text{cos } x > n$
+        c. $\text{tang } x > p$
         d. esercizi
 d. Trigonometria
     a. Introduzione

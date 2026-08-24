@@ -1,6 +1,6 @@
 Risolvo la prima equazione
 
-[$$\textcolor{blue}{6x^2 - 5x + 1 = 0}$$]{.text-blue}
+[$\textcolor{blue}{6x^2 - 5x + 1 = 0}$]{.text-blue}
 
 Applico la formula
 
@@ -10,9 +10,9 @@ $$
 
 Abbiamo:
 
-[$$\textcolor{blue}{a = 6}$$]{.text-blue}
-[$$\textcolor{blue}{b = -5}$$]{.text-blue}
-[$$\textcolor{blue}{c = 1}$$]{.text-blue}
+[$\textcolor{blue}{a = 6}$]{.text-blue}
+[$\textcolor{blue}{b = -5}$]{.text-blue}
+[$\textcolor{blue}{c = 1}$]{.text-blue}
 
 Sostituiamo nella formula
 

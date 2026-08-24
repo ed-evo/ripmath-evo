@@ -14,7 +14,7 @@ $$
 \textcolor{red}{(y - y_0) = m \cdot (x - x_0)}
 $$
 
-al posto del coefficiente angolare posso sostituire la derivata della funzione calcolata nel punto $$(x_0, y_0)$$ in quanto hanno praticamente lo stesso valore
+al posto del coefficiente angolare posso sostituire la derivata della funzione calcolata nel punto $(x_0, y_0)$ in quanto hanno praticamente lo stesso valore
 
 $$
 \textcolor{red}{(y - y_0) = f'(x_0) \cdot (x - x_0)}
@@ -60,7 +60,7 @@ $$
 \textcolor{red}{y' = 2x - 2}
 $$
 
-Ne calcolo il valore per $$x = 2$$
+Ne calcolo il valore per $x = 2$
 
 $$
 \textcolor{red}{y'(2) = 4 - 2 = 2}

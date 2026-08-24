@@ -1,6 +1,6 @@
 # [Quadrilateri]{.text-red}
 
-Cominciamo ora a studiare i poligoni con $$4$$ lati,
+Cominciamo ora a studiare i poligoni con $4$ lati,
 
 - Trapezi
 - Parallelogrammi

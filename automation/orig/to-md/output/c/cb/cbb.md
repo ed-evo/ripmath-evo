@@ -4,8 +4,8 @@ Un punto si dice di accumulazione per un insieme di punti se qualunque suo intor
 
 Almeno uno vuol dire che, visto che posso prendere infiniti intervalli sempre più piccoli, di punti ne conterrà infiniti.
 
-Ad esempio considero l'insieme formato dai punti $$1$$, $$1/2$$, $$1/4$$, $$1/8$$, ...
-Se provate a procedere vedete che questi punti tendono a $$0$$, allora si dice che $$0$$ è un punto di accumulazione per questo insieme: infatti per quanto io possa prendere piccolo un intervallo che contenga $$0$$ ci sarà sempre un punto della successione diverso da $$0$$ contenuto nell'intervallo (anzi ce ne saranno infiniti).
+Ad esempio considero l'insieme formato dai punti $1$, $1/2$, $1/4$, $1/8$, ...
+Se provate a procedere vedete che questi punti tendono a $0$, allora si dice che $0$ è un punto di accumulazione per questo insieme: infatti per quanto io possa prendere piccolo un intervallo che contenga $0$ ci sarà sempre un punto della successione diverso da $0$ contenuto nell'intervallo (anzi ce ne saranno infiniti).
 
 A questo proposito possiamo enunciare un piccolo teorema:
 

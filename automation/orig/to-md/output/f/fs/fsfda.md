@@ -1,4 +1,4 @@
-Per trovare il valore dell'apotema $$HO$$ basterà fare $$BO - BH$$
+Per trovare il valore dell'apotema $HO$ basterà fare $BO - BH$
 
 $$
 \textcolor{blue}{\overline{HO} = r - \frac{r(3 - \sqrt{5})}{4}}

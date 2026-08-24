@@ -1,6 +1,6 @@
 # [Angoli]{.text-red}
 
-Considero una retta $$r$$ su un piano: il piano viene diviso in due parti che chiamerò semipiani di origine la retta $$r$$.
+Considero una retta $r$ su un piano: il piano viene diviso in due parti che chiamerò semipiani di origine la retta $r$.
 
 > Per ogni cosa nuova che trovo devo prima di tutto controllare la congruenza: posso aggiungere ai postulati che tutti i semipiani sono tra loro congruenti.
 

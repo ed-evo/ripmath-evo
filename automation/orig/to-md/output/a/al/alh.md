@@ -4,7 +4,7 @@ Talvolta può essere utile cambiare la base del logaritmo, qui vediamo come è p
 
 ***
 
-[Regola:]{.text-purple} Il logaritmo di un numero positivo $$C$$ rispetto ad una nuova base $$b$$ è uguale al rapporto fra il logaritmo di $$C$$ in base $$b$$ e il logaritmo di $$a$$ in base $$b$$
+[Regola:]{.text-purple} Il logaritmo di un numero positivo $C$ rispetto ad una nuova base $b$ è uguale al rapporto fra il logaritmo di $C$ in base $b$ e il logaritmo di $a$ in base $b$
 
 $$
 \textcolor{blue}{\log_a C = \frac{\log_b C}{\log_b a}}
@@ -27,7 +27,7 @@ La dimostrazione di solito viene saltata, io la metto comunque
 > \textcolor{blue}{a^x = C}
 > $$
 >
-> applichiamo il logaritmo in base $$b$$ ad entrambi i termini
+> applichiamo il logaritmo in base $b$ ad entrambi i termini
 >
 > $$
 > \textcolor{blue}{\log_b a^x = \log_b C}
@@ -39,13 +39,13 @@ La dimostrazione di solito viene saltata, io la metto comunque
 > \textcolor{blue}{x \log_b a = \log_b C}
 > $$
 >
-> ricavo $$x$$
+> ricavo $x$
 >
 > $$
 > \textcolor{blue}{x = \frac{\log_b C}{\log_b a}}
 > $$
 >
-> e ricordando che $$x$$ è $$\log_a C$$ ottengo la formula finale
+> e ricordando che $x$ è $\log_a C$ ottengo la formula finale
 >
 > $$
 > \textcolor{blue}{\log_a C = \frac{\log_b C}{\log_b a}}

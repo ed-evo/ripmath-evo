@@ -54,7 +54,7 @@ $$
 \textcolor{red}{\sin x < 1/2}
 $$
 
-la funzione è positiva ove il seno ha valore minore di $$1/2$$ quindi:
+la funzione è positiva ove il seno ha valore minore di $1/2$ quindi:
 
 $$
 \textcolor{red}{[0, \frac{\pi}{6}] \cup [\frac{5\pi}{6}, 2\pi)}

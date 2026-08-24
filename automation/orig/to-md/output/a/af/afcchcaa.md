@@ -18,7 +18,7 @@
 > \textcolor{blue}{k^2 + 3k > 0}
 > $$
 >
-> l'equazione associata $$k^2 + 3k = 0$$ ha soluzioni
+> l'equazione associata $k^2 + 3k = 0$ ha soluzioni
 >
 > $$
 > \textcolor{blue}{k = 0 \quad k = -3}

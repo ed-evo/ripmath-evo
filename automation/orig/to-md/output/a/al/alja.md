@@ -2,7 +2,7 @@
 
 Gli esercizi sono risolti con entrambi i metodi: scegli il metodo che ti ha insegnato il tuo professore.
 
-> **Nota:** Ti ricordo che con $$\log x$$ intendiamo il logaritmo in base $$e$$ e con $$\text{Log } x$$ il logaritmo in base $$10$$.
+> **Nota:** Ti ricordo che con $\log x$ intendiamo il logaritmo in base $e$ e con $\text{Log } x$ il logaritmo in base $10$.
 
 ### Esercizio 1
 

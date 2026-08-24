@@ -1,10 +1,10 @@
-# [Triangolo con angoli $$30^\circ$$, $$60^\circ$$ e $$90^\circ$$]{.text-red}
+# [Triangolo con angoli $30^\circ$, $60^\circ$ e $90^\circ$]{.text-red}
 
-È logicamente un triangolo rettangolo poiché ha un angolo di $$90^\circ$$; inoltre è la metà di un triangolo equilatero: infatti eseguendo un ribaltamento attorno al cateto maggiore ottengo un triangolo con tre angoli di $$60^\circ$$, cioè equiangolo e quindi equilatero.
+È logicamente un triangolo rettangolo poiché ha un angolo di $90^\circ$; inoltre è la metà di un triangolo equilatero: infatti eseguendo un ribaltamento attorno al cateto maggiore ottengo un triangolo con tre angoli di $60^\circ$, cioè equiangolo e quindi equilatero.
 
 Anche in questo triangolo basta conoscere almeno un lato (cateto o ipotenusa) per risolvere il triangolo.
 
-Per i lati avremo che, chiamata $$l$$ l'ipotenusa $$BC$$, avremo che $$CA$$ è metà del lato del triangolo equilatero quindi vale $$l/2$$. Siccome vale il teorema di Pitagora possiamo trovare l'altro cateto $$h$$:
+Per i lati avremo che, chiamata $l$ l'ipotenusa $BC$, avremo che $CA$ è metà del lato del triangolo equilatero quindi vale $l/2$. Siccome vale il teorema di Pitagora possiamo trovare l'altro cateto $h$:
 
 $$
 BC^2 = AC^2 + AB^2
@@ -30,7 +30,7 @@ $$
 
 ---
 
-Quindi essendo noto il valore $$l$$ dell'ipotenusa $$BC$$ avremo:
+Quindi essendo noto il valore $l$ dell'ipotenusa $BC$ avremo:
 
 $$
 \textcolor{red}{CA = l/2}
@@ -42,7 +42,7 @@ $$
 
 ---
 
-Essendo invece noto il valore $$h$$ del cateto $$AB$$ avremo:
+Essendo invece noto il valore $h$ del cateto $AB$ avremo:
 
 $$
 AB = \frac{BC\sqrt{3}}{2}
@@ -72,7 +72,7 @@ $$
 \textcolor{red}{BC = \frac{2h\sqrt{3}}{3}}
 $$
 
-e $$AC$$, essendo alla metà di $$BC$$, vale:
+e $AC$, essendo alla metà di $BC$, vale:
 
 $$
 \textcolor{red}{AC = \frac{h\sqrt{3}}{3}}

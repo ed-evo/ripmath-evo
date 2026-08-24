@@ -5,15 +5,15 @@ $$
 (2a^2-3b)^5 =
 $$
 
-So che le parti letterali sono $$\textcolor{red}{a^5, a^4b, a^3b^2, a^2b^3, ab^4, b^5}$$
-so, dal [triangolo di Tartaglia](ad4cfaa.html) che i coefficienti sono $$1, 5, 10, 10, 5, 1$$
+So che le parti letterali sono $\textcolor{red}{a^5, a^4b, a^3b^2, a^2b^3, ab^4, b^5}$
+so, dal [triangolo di Tartaglia](ad4cfaa.html) che i coefficienti sono $1, 5, 10, 10, 5, 1$
 quindi vale la regola
 $$
 \textcolor{red}{(a+b)^5 = a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + b^5}
 $$
 
-Adesso devi stare attento a non fare confusione fra la $$a$$ e la $$b$$ della regola ed il $$2a^2$$ ed il $$-3b$$ dell'esercizio; per non sbagliare metto $$(2a^2)$$ e $$(-3b)$$ con le parentesi (quando avrai imparato bene, fallo solo mentalmente).
-Al posto di $$\textcolor{red}{a}$$ ho $$\textcolor{red}{(2a^2)}$$ ed al posto di $$\textcolor{red}{b}$$ ho $$\textcolor{red}{(-3b)}$$.
+Adesso devi stare attento a non fare confusione fra la $a$ e la $b$ della regola ed il $2a^2$ ed il $-3b$ dell'esercizio; per non sbagliare metto $(2a^2)$ e $(-3b)$ con le parentesi (quando avrai imparato bene, fallo solo mentalmente).
+Al posto di $\textcolor{red}{a}$ ho $\textcolor{red}{(2a^2)}$ ed al posto di $\textcolor{red}{b}$ ho $\textcolor{red}{(-3b)}$.
 Quindi vado a sostituire nella regola:
 
 $$

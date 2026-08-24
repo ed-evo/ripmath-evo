@@ -1,0 +1,7 @@
+# bit e Byte
+
+Vediamo ora, prima di passare ad altri sistemi di numerazione, di parlare degli oggetti che saranno poi in informatica legati a tali sistemi:
+
+- bit
+- Byte
+- codice ascii

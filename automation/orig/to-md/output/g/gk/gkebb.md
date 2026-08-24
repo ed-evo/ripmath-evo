@@ -7,7 +7,7 @@ Dimostriamo che vale il teorema:
 
 > **Dimostrazione:**
 >
-> Notiamo che $$M$$ è il punto medio di ogni segmento ed $$MO$$ è l'asse del segmento stesso; inoltre le apoteme, essendo la poligonale regolare, sono tutte uguali:
+> Notiamo che $M$ è il punto medio di ogni segmento ed $MO$ è l'asse del segmento stesso; inoltre le apoteme, essendo la poligonale regolare, sono tutte uguali:
 >
 > $$
 > OM_1 = OM_2 = OM_3 = a
@@ -15,15 +15,15 @@ Dimostriamo che vale il teorema:
 >
 > Per il teorema dimostrato nella pagina precedente abbiamo che:
 >
-> - la superficie di rotazione generata da $$AB$$ vale:
+> - la superficie di rotazione generata da $AB$ vale:
 >   $$
 >   \text{Area} = 2 \pi OM_1 \cdot A'B' = 2 \pi a \cdot A'B'
 >   $$
-> - la superficie di rotazione generata da $$BC$$ vale:
+> - la superficie di rotazione generata da $BC$ vale:
 >   $$
 >   \text{Area} = 2 \pi OM_2 \cdot B'C' = 2 \pi a \cdot B'C'
 >   $$
-> - la superficie di rotazione generata da $$CD$$ vale:
+> - la superficie di rotazione generata da $CD$ vale:
 >   $$
 >   \text{Area} = 2 \pi OM_3 \cdot C'D' = 2 \pi a \cdot C'D'
 >   $$

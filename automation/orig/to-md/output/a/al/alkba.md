@@ -23,7 +23,7 @@ $$
 \textcolor{blue}{\log_{1/4}(\text{espressione}) < 0}
 $$
 
-Confrontando con il grafico della funzione logaritmo qui a destra vedo che essendo il logaritmo minore di $$0$$ (sotto l'asse delle $$x$$) devo porre l'argomento maggiore di $$1$$.
+Confrontando con il grafico della funzione logaritmo qui a destra vedo che essendo il logaritmo minore di $0$ (sotto l'asse delle $x$) devo porre l'argomento maggiore di $1$.
 
 $$
 \textcolor{blue}{x^2 - 4 > 1}

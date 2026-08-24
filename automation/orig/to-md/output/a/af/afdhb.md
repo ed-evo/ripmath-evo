@@ -1,6 +1,6 @@
 Risolviamo l'equazione:
 
-$$\textcolor{blue}{x^2 - 4x + 12 = 0}$$
+$\textcolor{blue}{x^2 - 4x + 12 = 0}$
 
 Prendiamo la formula risolutiva ridotta:
 
@@ -10,9 +10,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -4} \quad \textcolor{blue}{\beta = -2}$$
-$$\textcolor{blue}{c = 12}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -4} \quad \textcolor{blue}{\beta = -2}$
+$\textcolor{blue}{c = 12}$
 
 Sostituiamo nella formula:
 
@@ -32,7 +32,7 @@ $$
 
 > **Osservazione:** Essendo negativo il termine all'interno della radice, otterrò due radici complesse e coniugate.
 
-Ricordando che $$8 = 2^3 = 2^2 \cdot 2$$ ottengo:
+Ricordando che $8 = 2^3 = 2^2 \cdot 2$ ottengo:
 
 $$
 \textcolor{blue}{= 2 \pm 2i\sqrt{2}}

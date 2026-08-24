@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{= \frac{1 \pm 3}{2}}
 $$
 
-Ottengo le soluzioni $$\textcolor{blue}{x = -1}$$ e $$\textcolor{blue}{x = 2}$$.
+Ottengo le soluzioni $\textcolor{blue}{x = -1}$ e $\textcolor{blue}{x = 2}$.
 
 Essendo soluzioni dell'equazione associata, per risolvere la disequazione devo prendere i valori [esterni]{.text-blue} all'intervallo delle radici ed ottengo:
 

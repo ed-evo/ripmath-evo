@@ -3,13 +3,13 @@
 Per fare il prodotto fra monomi devi seguire queste semplici regole
 
 Il segno va moltiplicato con il segno secondo le [regole dei segni](../../b/ba/psegni.html) della moltiplicazione fra i numeri interi.
-> (se il segno non c'è è sottointeso $$+$$)
+> (se il segno non c'è è sottointeso $+$)
 
 Il numero (coefficiente numerico) va moltiplicato con il numero secondo le [regole del prodotto dei numeri razionali](../../b/bc/bcf.html)
-> (se il numero non c'è è sottointeso $$1$$)
+> (se il numero non c'è è sottointeso $1$)
 
 Le lettere vanno moltiplicate con le lettere secondo le [regole delle potenze](../aa/aa2.html)
-> (se la lettera non c'è è sottointeso $$a^0b^0$$ ecc..)
+> (se la lettera non c'è è sottointeso $a^0b^0$ ecc..)
 
 quindi
 

@@ -4,7 +4,7 @@ Ora dobbiamo passare a calcolare il volume di una piramide: per semplificare i c
 
 Enunciamo il principio di Cavalieri:
 
-Consideriamo due solidi aventi la stessa altezza $$h$$. Se tali solidi, aventi le basi equivalenti (stessa area) sono tagliati da piani paralleli al piano di base secondo poligoni equivalenti allora i due solidi hanno lo stesso volume.
+Consideriamo due solidi aventi la stessa altezza $h$. Se tali solidi, aventi le basi equivalenti (stessa area) sono tagliati da piani paralleli al piano di base secondo poligoni equivalenti allora i due solidi hanno lo stesso volume.
 
 Se, essendo uguale l'altezza,
 
@@ -12,7 +12,7 @@ $$
 As(ABCD) = As(EFG)
 $$
 
-e per ogni piano $$\beta$$ parallelo ad $$\alpha$$ vale
+e per ogni piano $\beta$ parallelo ad $\alpha$ vale
 
 $$
 As(A'B'C'D') = As(E'F'G')

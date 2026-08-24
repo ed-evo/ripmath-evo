@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{\log_2(x+1) = \log_4(2x+5)}
 $$
 
-Siccome i logaritmi hanno base diversa, dovrò applicare la regola del cambiamento di base. Conviene trasformare il secondo logaritmo da base $$4$$ in base $$2$$. 
+Siccome i logaritmi hanno base diversa, dovrò applicare la regola del cambiamento di base. Conviene trasformare il secondo logaritmo da base $4$ in base $2$. 
 
 Applico la regola:
 
@@ -90,8 +90,8 @@ $$
 
 > **Nota:** Per l'equazione irrazionale dovrei vedere se le soluzioni sono accettabili, però ho visto sempre che corrisponde all'accettabilità della soluzione dell'equazione logaritmica.
 
-Per l'equazione logaritmica controllo che le soluzioni siano comprese nell'intervallo di definizione $$\textcolor{blue}{x > -1}$$:
+Per l'equazione logaritmica controllo che le soluzioni siano comprese nell'intervallo di definizione $\textcolor{blue}{x > -1}$:
 
-La soluzione [x = 2]{.text-red} è accettabile perché maggiore di $$-1$$
+La soluzione [x = 2]{.text-red} è accettabile perché maggiore di $-1$
 
-La soluzione [x = -2]{.text-red} non è accettabile perché minore di $$-1$$
+La soluzione [x = -2]{.text-red} non è accettabile perché minore di $-1$

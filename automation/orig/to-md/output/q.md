@@ -10,7 +10,7 @@
             - Successione dei numeri pari
             - Successione dei numeri dispari
             - Successione di Fibonacci
-        - Prodotto per $$-1$$
+        - Prodotto per $-1$
             - Successione dei numeri interi negativi
             - Successione dei numeri pari negativi
             - Successione dei numeri dispari negativi
@@ -19,8 +19,8 @@
             - Successione oscillante divergente
             - Successione oscillante indeterminata
         - Prodotti
-            - Prodotto per $$0$$
-            - Prodotto per una costante diversa da $$0$$
+            - Prodotto per $0$
+            - Prodotto per una costante diversa da $0$
         - Quozienti
             - Divisione per una costante
             - Termine variabile come divisore
@@ -40,16 +40,16 @@
         - Definizione
         - Ricerca di un termine qualunque
         - Costruzione di una progressione dati due termini
-        - Conoscendo il termine di posto $$h$$ determinare il termine di posto $$k$$
-        - Somma di $$n$$ termini di una progressione aritmetica
+        - Conoscendo il termine di posto $h$ determinare il termine di posto $k$
+        - Somma di $n$ termini di una progressione aritmetica
     - Progressioni geometriche
         - Definizione
         - Ricerca di un termine qualunque
         - Costruzione di una progressione dati due termini
-        - Conoscendo il termine di posto $$h$$ determinare il termine di posto $$k$$
-        - Somma di $$n$$ termini di una progressione geometrica
+        - Conoscendo il termine di posto $h$ determinare il termine di posto $k$
+        - Somma di $n$ termini di una progressione geometrica
         - Somma dei termini di una progressione geometrica
-        - Prodotto di $$n$$ termini di una progressione geometrica
+        - Prodotto di $n$ termini di una progressione geometrica
 - Successioni
     - Definizioni
     - Rappresentazione cartesiana

@@ -18,14 +18,14 @@ $$
 \textcolor{red}{\lim_{x \to 2} \frac{x^2-4}{x-2} =}
 $$
 
-Infatti se faccio i calcoli sostituendo $$2$$ ad $$x$$ ottengo $$0/0$$ che [in matematica non ha significato](zerosuzero.html).
+Infatti se faccio i calcoli sostituendo $2$ ad $x$ ottengo $0/0$ che [in matematica non ha significato](zerosuzero.html).
 
-Ma se la definizione di limite che abbiamo data è valida l'errore non deve essere nel limite, ma nella funzione: infatti avremo il limite $$0/0$$ solo se la funzione si annulla contemporaneamente al numeratore ed al denominatore, allora per calcolare il limite basterà togliere nella funzione la causa dell'indeterminazione scomponendo numeratore e denominatore e semplificando.
+Ma se la definizione di limite che abbiamo data è valida l'errore non deve essere nel limite, ma nella funzione: infatti avremo il limite $0/0$ solo se la funzione si annulla contemporaneamente al numeratore ed al denominatore, allora per calcolare il limite basterà togliere nella funzione la causa dell'indeterminazione scomponendo numeratore e denominatore e semplificando.
 
-$$\textcolor{red}{x^2-4}$$ si scompone come $$\textcolor{red}{(x+2)(x-2)}$$
-il denominatore è già scomposto $$\textcolor{red}{(x-2)}$$
+$\textcolor{red}{x^2-4}$ si scompone come $\textcolor{red}{(x+2)(x-2)}$
+il denominatore è già scomposto $\textcolor{red}{(x-2)}$
 semplifico:
-$$\textcolor{red}{\frac{x^2-4}{x-2} = \frac{(x+2)(x-2)}{x-2} = x+2}$$
+$\textcolor{red}{\frac{x^2-4}{x-2} = \frac{(x+2)(x-2)}{x-2} = x+2}$
 e faccio il limite:
 
 $$
@@ -40,10 +40,10 @@ $$
 \textcolor{red}{\lim_{x \to 1} \frac{x^3 - 3x^2 + 3x - 1}{x^3 - 1} =}
 $$
 
-anche qui sostituendo $$1$$ alla $$x$$ ottengo $$0/0$$ quindi devo scomporre il numeratore ed il denominatore e togliere la causa dell'indeterminazione.
+anche qui sostituendo $1$ alla $x$ ottengo $0/0$ quindi devo scomporre il numeratore ed il denominatore e togliere la causa dell'indeterminazione.
 
-$$\textcolor{red}{x^3 - 3x^2 + 3x - 1}$$ è il cubo di un binomio e si scompone come $$\textcolor{red}{(x-1)^3}$$
-$$\textcolor{red}{x^3 - 1}$$ è la differenza fra due cubi e si scompone come $$\textcolor{red}{(x-1)(x^2 + x + 1)}$$
+$\textcolor{red}{x^3 - 3x^2 + 3x - 1}$ è il cubo di un binomio e si scompone come $\textcolor{red}{(x-1)^3}$
+$\textcolor{red}{x^3 - 1}$ è la differenza fra due cubi e si scompone come $\textcolor{red}{(x-1)(x^2 + x + 1)}$
 
 semplificando ottengo:
 

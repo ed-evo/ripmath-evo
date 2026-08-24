@@ -6,7 +6,7 @@ $$
 \textcolor{red}{x^2+2xy+y^2 +3x+3y=}
 $$
 
-Raggruppo i primi tre termini e fra il quarto ed il quinto raccolgo $$\textcolor{red}{3}$$:
+Raggruppo i primi tre termini e fra il quarto ed il quinto raccolgo $\textcolor{red}{3}$:
 
 $$
 \textcolor{red}{=(x^2 +2xy+y^2)+3(x+y)=}

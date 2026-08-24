@@ -4,7 +4,7 @@ Data l'equazione
 $$
 \textcolor{blue}{kx^2 - kx + k + 2 = 0}
 $$
-trovare il valore di $$k$$ affinché una radice sia tripla dell'altra, significa che
+trovare il valore di $k$ affinché una radice sia tripla dell'altra, significa che
 $$
 \textcolor{blue}{x_2 = 3x_1}
 $$
@@ -47,7 +47,7 @@ Ora posso impostare il sistema
 $$
 \begin{cases} \textcolor{red}{x_2 = 3x_1} \\ \textcolor{red}{x_1 + x_2 = 1} \\ \textcolor{red}{kx_1x_2 = k + 2} \end{cases}
 $$
-che per $$k$$ mi dà la soluzione [calcoli](afccgfc1a.html){.text-red}
+che per $k$ mi dà la soluzione [calcoli](afccgfc1a.html){.text-red}
 $$
 \textcolor{blue}{k = -\frac{32}{13}}
 $$

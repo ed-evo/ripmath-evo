@@ -6,15 +6,15 @@ Cioè dovremo prendere tutti i fattori con l'esponente più alto. Facciamo un es
 
 > **Esempio:** Trovare il m.c.m. fra
 >
-> $$\textcolor{red}{6a^2b^3c}$$ e $$\textcolor{red}{4ab^2}$$
+> $\textcolor{red}{6a^2b^3c}$ e $\textcolor{red}{4ab^2}$
 >
-> Allora il multiplo tra $$\textcolor{red}{6}$$ e $$\textcolor{red}{4}$$ è $$\textcolor{red}{12}$$, poi:
+> Allora il multiplo tra $\textcolor{red}{6}$ e $\textcolor{red}{4}$ è $\textcolor{red}{12}$, poi:
 >
-> Tra $$\textcolor{red}{a^2}$$ ed $$\textcolor{red}{a}$$ sceglieremo $$\textcolor{red}{a^2}$$
+> Tra $\textcolor{red}{a^2}$ ed $\textcolor{red}{a}$ sceglieremo $\textcolor{red}{a^2}$
 >
-> Tra $$\textcolor{red}{b^3}$$ e $$\textcolor{red}{b^2}$$ sceglieremo $$\textcolor{red}{b^3}$$
+> Tra $\textcolor{red}{b^3}$ e $\textcolor{red}{b^2}$ sceglieremo $\textcolor{red}{b^3}$
 >
-> Nel primo c'è $$\textcolor{red}{c}$$ e nel secondo non c'è, quindi prendiamo $$\textcolor{red}{c}$$
+> Nel primo c'è $\textcolor{red}{c}$ e nel secondo non c'è, quindi prendiamo $\textcolor{red}{c}$
 >
 > Quindi il minimo comune multiplo è:
 >

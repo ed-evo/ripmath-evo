@@ -8,7 +8,7 @@ $$
 \textcolor{red}{x + 6 = 2(x + 2)}
 $$
 
-cerchiamo di scriverla risparmiando il più possibile nei simboli: possiamo scrivere ogni numero naturale utilizzando semplicemente due simboli: il numero $$1$$ e l'apice $$'$$.
+cerchiamo di scriverla risparmiando il più possibile nei simboli: possiamo scrivere ogni numero naturale utilizzando semplicemente due simboli: il numero $1$ e l'apice $'$.
 
 otteniamo
 
@@ -20,12 +20,12 @@ Quindi costruiamo un "alfabeto" che ci permetta di sviluppare la teoria matemati
 
 | [Simbolo]{.text-red} | [Significato]{.text-red} |
 | :---: | :---: |
-| $$\textcolor{red}{1}$$ | [uno]{.text-red} |
-| $$\textcolor{red}{'}$$ | [successivo]{.text-red} |
-| $$\textcolor{red}{(}$$ | [parentesi aperta]{.text-red} |
-| $$\textcolor{red}{)}$$ | [parentesi chiusa]{.text-red} |
-| $$\textcolor{red}{+}$$ | [addizione]{.text-red} |
-| $$\textcolor{red}{=}$$ | [uguaglianza]{.text-red} |
-| $$\textcolor{red}{\dots}$$ | [$\dots$]{.text-red} |
+| $\textcolor{red}{1}$ | [uno]{.text-red} |
+| $\textcolor{red}{'}$ | [successivo]{.text-red} |
+| $\textcolor{red}{(}$ | [parentesi aperta]{.text-red} |
+| $\textcolor{red}{)}$ | [parentesi chiusa]{.text-red} |
+| $\textcolor{red}{+}$ | [addizione]{.text-red} |
+| $\textcolor{red}{=}$ | [uguaglianza]{.text-red} |
+| $\textcolor{red}{\dots}$ | [$\dots$]{.text-red} |
 
 È logico pensare che per ogni teoria matematica il numero dei simboli essenziali necessari allo sviluppo della teoria sia limitato e quindi la tabella relativa, quale quella vista sopra per l'Algebra, sarà finita.

@@ -1,13 +1,13 @@
 # Trasformazione in forma trigonometrica
 
-Devo trasformare $$1$$ nella sua forma trigonometrica del tipo $$\rho(\cos \theta + i \sin \theta)$$
+Devo trasformare $1$ nella sua forma trigonometrica del tipo $\rho(\cos \theta + i \sin \theta)$
 
 $$
 1 = 1 + i0 = a + ib
 $$
 
 ho
-$$a = 1$$ $$b = 0$$
+$a = 1$ $b = 0$
 
 quindi
 $$
@@ -19,7 +19,7 @@ $$
 $$
 
 segue
-$$\theta = 0^\circ$$
+$\theta = 0^\circ$
 
 quindi
 $$

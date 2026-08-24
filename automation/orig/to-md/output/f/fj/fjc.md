@@ -8,7 +8,7 @@ $$
 \textcolor{blue}{OH > OA} \quad \textcolor{blue}{d > r}
 $$
 
-La retta è esterna alla circonferenza se la distanza $$OH$$ della retta dal centro della circonferenza è superiore al valore del raggio $$OA$$.
+La retta è esterna alla circonferenza se la distanza $OH$ della retta dal centro della circonferenza è superiore al valore del raggio $OA$.
 
 Viceversa: se la distanza di una retta dal centro della circonferenza è superiore al valore del raggio allora la retta è esterna alla circonferenza.
 
@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{OH = OA} \quad \textcolor{blue}{d = r}
 $$
 
-La retta è tangente alla circonferenza se la distanza $$OH$$ della retta dal centro della circonferenza è uguale al valore del raggio $$OA$$.
+La retta è tangente alla circonferenza se la distanza $OH$ della retta dal centro della circonferenza è uguale al valore del raggio $OA$.
 
 Viceversa: se la distanza di una retta dal centro della circonferenza è uguale al valore del raggio allora la retta è tangente alla circonferenza.
 
@@ -28,6 +28,6 @@ $$
 \textcolor{blue}{OH < OA} \quad \textcolor{blue}{d < r}
 $$
 
-La retta è secante la circonferenza se la distanza $$OH$$ della retta dal centro della circonferenza è inferiore al valore del raggio $$OA$$.
+La retta è secante la circonferenza se la distanza $OH$ della retta dal centro della circonferenza è inferiore al valore del raggio $OA$.
 
 Viceversa: se la distanza di una retta dal centro della circonferenza è inferiore al valore del raggio allora la retta è secante la circonferenza.

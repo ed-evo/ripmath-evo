@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{x^2 - 9 + 5x = 5x - 25}
 $$
 
-Porto le $$x$$ prima dell'uguale e i termini noti dopo l'uguale.
+Porto le $x$ prima dell'uguale e i termini noti dopo l'uguale.
 
 $$
 \textcolor{blue}{x^2 + 5x - 5x = 9 - 25}
@@ -33,13 +33,13 @@ $$
 Dovrei fare la radice quadrata di un numero negativo e qui hai due possibilità:
 
 - Se il tuo Professore non ti ha spiegato i numeri immaginari e complessi devi solo dire che l'equazione [non ammette soluzioni reali]{.text-red}
-- Se il tuo Professore ti ha spiegato i numeri [immaginari e complessi](../../b/be/be.html) allora devi procedere estraendo la radice e ricordando che $$\sqrt{-1} = i$$
+- Se il tuo Professore ti ha spiegato i numeri [immaginari e complessi](../../b/be/be.html) allora devi procedere estraendo la radice e ricordando che $\sqrt{-1} = i$
 
 $$
 \textcolor{blue}{\sqrt{x^2} = \pm\sqrt{-1} \sqrt{16}}
 $$
 
-Semplifico le radici con gli esponenti ricordando che $$16=4^2$$.
+Semplifico le radici con gli esponenti ricordando che $16=4^2$.
 
 $$
 \textcolor{blue}{x = \pm 4i}

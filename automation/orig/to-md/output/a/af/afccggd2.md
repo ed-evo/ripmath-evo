@@ -1,5 +1,5 @@
 risolvo la seconda equazione
-[$$3x^2 + 4ax - 4a^2 = 0$$]{.text-blue}
+[$3x^2 + 4ax - 4a^2 = 0$]{.text-blue}
 
 applico la formula ridotta
 
@@ -9,9 +9,9 @@ $$]{.text-blue}
 
 abbiamo:
 
-[$$a = 3$$]{.text-blue}
-[$$b = 4a \quad \beta = 2a$$]{.text-blue}
-[$$c = -4a^2$$]{.text-blue}
+[$a = 3$]{.text-blue}
+[$b = 4a \quad \beta = 2a$]{.text-blue}
+[$c = -4a^2$]{.text-blue}
 
 > **Nota:** Anche qui attenzione a non confondere i simboli prima dell'uguale con quelli dopo l'uguale
 

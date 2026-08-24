@@ -20,9 +20,9 @@ $$
 Devo risolvere prima dentro le parentesi tonde
 nella prima terza e quinta parentesi tonda devo fare le somme algebriche (per somme algebriche si intendono sia le somme che le differenze)
 
-- prima parentesi m.c.m. = $$14$$
-- seconda parentesi m.c.m. = $$3$$
-- terza parentesi m.c.m. = $$3$$
+- prima parentesi m.c.m. = $14$
+- seconda parentesi m.c.m. = $3$
+- terza parentesi m.c.m. = $3$
 
 $$
 \textcolor{blue}{= \left( \frac{4 - 1 - 21}{14} \right)^2 : \left( \frac{9}{7} \right) \cdot \left[ \frac{1}{2} \cdot \left( \frac{6 - 2}{3} \right) + \frac{8}{3} : \left( -\frac{4}{15} \right) \right] \cdot \left( \frac{2 - 3}{3} \right)^2 =}

@@ -42,7 +42,7 @@ $$
 \frac{x^2 - x}{x + 1} < 1
 $$
 
-cioè spostando $$1$$ prima dell'uguale:
+cioè spostando $1$ prima dell'uguale:
 
 > **Nota bene!**
 > $$
@@ -76,11 +76,11 @@ ottengo:
 Faccio il grafico.
 Indico i valori positivi con una linea continua ed indico i negativi con una linea tratteggiata: per sapere il segno della frazione controllo i segni con la regola del prodotto (la regola dei segni è la stessa per il prodotto ed il quoziente).
 
-$$\sqrt{2}$$ vale circa $$1,4$$, quindi $$1 + \sqrt{2} = 2,4$$ e $$1 - \sqrt{2} = -0,4$$.
+$\sqrt{2}$ vale circa $1,4$, quindi $1 + \sqrt{2} = 2,4$ e $1 - \sqrt{2} = -0,4$.
 
 Siccome cerco dove la frazione è minore di zero ho come risultato:
 
-[$$x < -1 \lor 1 - \sqrt{2} < x < 1 + \sqrt{2}$$]{.text-red}
+[$x < -1 \lor 1 - \sqrt{2} < x < 1 + \sqrt{2}$]{.text-red}
 
 ***
 
@@ -97,4 +97,4 @@ Faccio il grafico (è un sistema quindi devo prendere le soluzioni comuni ad ent
 
 Ottengo come risultato:
 
-[$$1 - \sqrt{2} < x < 0 \lor 1 < x < 1 + \sqrt{2}$$]{.text-red}
+[$1 - \sqrt{2} < x < 0 \lor 1 < x < 1 + \sqrt{2}$]{.text-red}

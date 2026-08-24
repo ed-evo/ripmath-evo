@@ -16,7 +16,7 @@ $$
 \textcolor{blue}{= \sqrt{\frac{6 + \sqrt{16}}{2}} + \sqrt{\frac{6 - \sqrt{16}}{2}}} =
 $$
 
-Estraggo la radice, essendo $$16 = 4^2$$
+Estraggo la radice, essendo $16 = 4^2$
 
 $$
 \textcolor{blue}{= \sqrt{\frac{6 + 4}{2}} + \sqrt{\frac{6 - 4}{2}}} =

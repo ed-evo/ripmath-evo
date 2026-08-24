@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\frac{2}{3} : \frac{4}{5} =}
 $$
 
-rovescio la seconda frazione, semplifico sopra e sotto se possibile (in questo caso semplifico il $$2$$ con il $$4$$ e mi restano $$1$$ e $$2$$), ed infine moltiplico
+rovescio la seconda frazione, semplifico sopra e sotto se possibile (in questo caso semplifico il $2$ con il $4$ e mi restano $1$ e $2$), ed infine moltiplico
 
 $$
 \textcolor{red}{\frac{2}{3} \cdot \frac{5}{4} = \frac{1}{3} \cdot \frac{5}{2} = \frac{1 \cdot 5}{3 \cdot 2} = \frac{5}{6}}

@@ -8,6 +8,6 @@ Defineremo **Angoloide** lo spazio limitato da tutte le semirette uscenti dal pu
 
 > [nota](ghaa.html)
 
-In figura ho evidenziato in colore il poligono ed ho tracciato solamente le congiungenti il punto $$P$$ con i vertici del poligono (quadrilatero): intuitivamente ottengo una piramide senza fine.
+In figura ho evidenziato in colore il poligono ed ho tracciato solamente le congiungenti il punto $P$ con i vertici del poligono (quadrilatero): intuitivamente ottengo una piramide senza fine.
 
-Il punto $$P$$ sarà chiamato **vertice** dell'angoloide.
+Il punto $P$ sarà chiamato **vertice** dell'angoloide.

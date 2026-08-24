@@ -10,7 +10,7 @@ Questo criterio permette di mostrare l'esistenza del limite di una successione s
 > a_1, a_2, a_3, a_4, \dots, a_n, \dots
 > $$
 >
-> **sia convergente è che, dato comunque un numero positivo $$\epsilon$$, è possibile trovare in sua corrispondenza un numero naturale $$k_\epsilon$$ dipendente da $$\epsilon$$ tale che per ogni coppia di numeri naturali $$p$$ e $$q$$ maggiori di $$k_\epsilon$$ si abbia**
+> **sia convergente è che, dato comunque un numero positivo $\epsilon$, è possibile trovare in sua corrispondenza un numero naturale $k_\epsilon$ dipendente da $\epsilon$ tale che per ogni coppia di numeri naturali $p$ e $q$ maggiori di $k_\epsilon$ si abbia**
 >
 > $$
 > |a_p - a_q| < \epsilon

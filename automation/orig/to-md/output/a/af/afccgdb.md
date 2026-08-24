@@ -4,7 +4,7 @@ Facciamo un esercizio con segni diversi
 
 Trovare l'equazione che ha come radici
 
-$$\textcolor{red}{x_1 = 3}$$ $$\textcolor{red}{x_2 = -2}$$
+$\textcolor{red}{x_1 = 3}$ $\textcolor{red}{x_2 = -2}$
 
 Facciamo anche qui riferimento alla [forma](afccdc.html) dell'equazione di secondo grado
 
@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{x^2 - sx + p = 0}
 $$
 
-con $$s$$ e $$p$$ somma e prodotto delle radici
+con $s$ e $p$ somma e prodotto delle radici
 
 $$
 \textcolor{blue}{s = x_1 + x_2 = 3 + (-2) = 3 - 2 = 1}

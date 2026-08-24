@@ -1,23 +1,23 @@
 # [esercizio]{.text-red}
 
-Tra tutti i rettangoli di perimetro assegnato $$2p$$ determinare quello di area massima
+Tra tutti i rettangoli di perimetro assegnato $2p$ determinare quello di area massima
 
 ***
 
-In tutti questi problemi la $$y$$ è ciò che deve essere massimo o minimo quindi [$$\text{area} = y$$]{.text-red}, l'area del rettangolo si trova moltiplicando la base per l'altezza quindi chiamiamo $$x$$ o la base o l'altezza.
+In tutti questi problemi la $y$ è ciò che deve essere massimo o minimo quindi [$\text{area} = y$]{.text-red}, l'area del rettangolo si trova moltiplicando la base per l'altezza quindi chiamiamo $x$ o la base o l'altezza.
 
-[$$\text{base} = x$$]{.text-red} ora devo esprimere anche l'altezza mediante la $$x$$; se so che tutto il perimetro è $$2p$$ so anche che
+[$\text{base} = x$]{.text-red} ora devo esprimere anche l'altezza mediante la $x$; se so che tutto il perimetro è $2p$ so anche che
 
-[$$2 \cdot \text{base} + 2 \cdot \text{altezza} = 2p$$]{.text-red} essendo $$p$$ un numero assegnato, quindi posso dire che
+[$2 \cdot \text{base} + 2 \cdot \text{altezza} = 2p$]{.text-red} essendo $p$ un numero assegnato, quindi posso dire che
 
-[$$\text{base} + \text{altezza} = p$$]{.text-red} cioè
+[$\text{base} + \text{altezza} = p$]{.text-red} cioè
 
-[$$\text{altezza} = p - \text{base}$$]{.text-red}
-[$$\text{altezza} = p - x$$]{.text-red}
+[$\text{altezza} = p - \text{base}$]{.text-red}
+[$\text{altezza} = p - x$]{.text-red}
 
-La mia funzione da rendere massima sarà (essendo $$p$$ un numero positivo assegnato):
+La mia funzione da rendere massima sarà (essendo $p$ un numero positivo assegnato):
 
-[$$\text{area} = \text{base} \cdot \text{altezza}$$]{.text-red}
+[$\text{area} = \text{base} \cdot \text{altezza}$]{.text-red}
 
 $$
 [y = x(p - x)]{.text-red}
@@ -51,7 +51,7 @@ $$
 [x = \frac{p}{2}]{.text-red}
 $$
 
-Ottengo il valore della $$y$$ sostituendo $$\frac{p}{2}$$ alla $$x$$ nell'equazione di partenza:
+Ottengo il valore della $y$ sostituendo $\frac{p}{2}$ alla $x$ nell'equazione di partenza:
 
 $$
 [y = px - x^2]{.text-red}

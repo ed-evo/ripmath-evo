@@ -1,6 +1,6 @@
-# [Limiti in forma indeterminata del tipo $$\infty \cdot 0$$]{.text-red}
+# [Limiti in forma indeterminata del tipo $\infty \cdot 0$]{.text-red}
 
-Per risolverli basta ricordare che $$1/0 = \infty$$ e quindi trasformare in modo da tornare al caso precedente:
+Per risolverli basta ricordare che $1/0 = \infty$ e quindi trasformare in modo da tornare al caso precedente:
 
 esempio
 

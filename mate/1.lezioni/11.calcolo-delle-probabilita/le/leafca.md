@@ -1,0 +1,7 @@
+# Perché la distribuzione di Poisson
+
+Se consideriamo le probabilità di un evento che capita molto raramente, utilizzando la distribuzione binomiale (di Bernoulli), dovremo fare un numero enorme di calcoli considerando la probabilità dell'evento e la probabilità contraria; la distribuzione di Poisson ci permette invece di calcolare tale probabilità con un'ottima approssimazione senza dover fare eccessivi calcoli.
+
+L'importante per poter utilizzare la distribuzione di Poisson è il fatto che la probabilità dell'accadere dell'evento sia minuscola e sia molto elevato il numero dei dati considerati come universo: come orientamento pratico possiamo grosso modo dire che la distribuzione di Poisson è una buona approssimazione se il numero di casi possibili è superiore a $$100$$ e la probabilità dell'accadere dell'evento considerato è minore di almeno $$1/10$$.
+
+> Mi ricordo che quando insegnavo, l'esempio classico da cui partivo (e che penso sia stato usato da Poisson) era sul numero di soldati di $$10$$ reggimenti prussiani morti per il calcio di un mulo ogni anno per $$20$$ anni: la frequenza dell'evento coincide in pratica con il valore della probabilità dato dalla distribuzione di Poisson: nelle pagine seguenti riporto il calcolo delle varie probabilità confrontato con le frequenze effettivamente ottenute.

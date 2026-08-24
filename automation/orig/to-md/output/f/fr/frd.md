@@ -1,10 +1,10 @@
 # [Una prima determinazione della lunghezza della circonferenza]{.text-red}
 
-Cerchiamo, intuitivamente di capire quanto "grosso modo" può misurare la circonferenza di raggio dato $$r$$.
+Cerchiamo, intuitivamente di capire quanto "grosso modo" può misurare la circonferenza di raggio dato $r$.
 
-Considero una circonferenza di raggio $$r$$ e ne considero l'esagono regolare inscritto e il quadrato circoscritto.
+Considero una circonferenza di raggio $r$ e ne considero l'esagono regolare inscritto e il quadrato circoscritto.
 
-Il quadrato ha il lato di misura $$2r$$ essendo tale lato congruente al diametro della circonferenza.
+Il quadrato ha il lato di misura $2r$ essendo tale lato congruente al diametro della circonferenza.
 
 Quindi avremo che il perimetro del quadrato vale:
 
@@ -32,7 +32,7 @@ $$
 \textcolor{red}{6r < \text{numero} \cdot 2r < 8r}
 $$
 
-divido tutti i termini di questa disuguaglianza per $$2r$$, cioè per il diametro.
+divido tutti i termini di questa disuguaglianza per $2r$, cioè per il diametro.
 
 > vedi teoria della misura: equivale a dire "misuro la circonferenza rispetto al suo diametro"
 
@@ -42,7 +42,7 @@ $$
 \textcolor{red}{3 < \text{numero} < 4}
 $$
 
-Quindi la misura della circonferenza rispetto al suo diametro è un numero compreso fra $$3$$ e $$4$$: tale numero, per convenzione, verrà chiamato **pi greco** e, per indicarlo, verrà utilizzato il simbolo $$\pi$$.
+Quindi la misura della circonferenza rispetto al suo diametro è un numero compreso fra $3$ e $4$: tale numero, per convenzione, verrà chiamato **pi greco** e, per indicarlo, verrà utilizzato il simbolo $\pi$.
 
 $$
 \textcolor{red}{3 < \pi < 4}

@@ -4,7 +4,7 @@ Vediamo in questa pagina di fissare dei criteri che ci dicano quando due insiemi
 
 Consideriamo due insiemi, ad esempio consideriamo l'insieme dei numeri naturali, mettendo anche qualche numero ripetuto:
 
-$$\textcolor{red}{N = \{1, 2, 3, 4, 5, 6, 5, 3, 7, 8, \dots\}}$$
+$\textcolor{red}{N = \{1, 2, 3, 4, 5, 6, 5, 3, 7, 8, \dots\}}$
 
 E come corrispondente consideriamo l'insieme dei loro doppi, mettendo i numeri in corrispondenza:
 
@@ -16,7 +16,7 @@ $$
 \end{array}
 $$
 
-I due insiemi sono in proporzione secondo il rapporto $$2$$, cioè ogni numero della seconda classe diviso il numero corrispondente della prima classe ha come risultato $$2$$.
+I due insiemi sono in proporzione secondo il rapporto $2$, cioè ogni numero della seconda classe diviso il numero corrispondente della prima classe ha come risultato $2$.
 
 Vediamo un criterio per dire quando due insiemi sono in proporzione senza dover calcolare il rapporto fra due elementi corrispondenti.
 
@@ -29,12 +29,12 @@ Vediamolo su un esempio:
 1. **Ad elementi uguali nella prima classe corrispondono nella seconda elementi uguali**
 
    Significa che se sopra prendo due elementi uguali allora i corrispondenti sotto sono uguali:
-   Se ad esempio sopra prendo $$3$$ e $$3$$ che sono uguali, vedo che sotto corrispondono $$6$$ e $$6$$ che sono ancora uguali.
+   Se ad esempio sopra prendo $3$ e $3$ che sono uguali, vedo che sotto corrispondono $6$ e $6$ che sono ancora uguali.
 
 2. **Alla somma di elementi nella prima classe corrisponde nella seconda la somma degli elementi corrispondenti**
 
    Questo è un po' più difficile perché sembra uno scioglilingua, ma significa solamente che se sopra considero due numeri e la loro somma allora sotto i corrispondenti dei numeri mi danno la somma corrispondente a quella sopra:
-   Se ad esempio sopra prendo $$3$$ e $$4$$ e considero che la loro somma è $$7$$, sotto i corrispondenti sono $$6$$ e $$8$$ e la loro somma è $$14$$, e $$14$$ è il corrispondente di $$7$$.
+   Se ad esempio sopra prendo $3$ e $4$ e considero che la loro somma è $7$, sotto i corrispondenti sono $6$ e $8$ e la loro somma è $14$, e $14$ è il corrispondente di $7$.
 
 $$
 \begin{array}{ccccc}

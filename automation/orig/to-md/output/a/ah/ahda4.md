@@ -4,19 +4,19 @@
 
 **Problema:**
 
-[Considerate un numero di due cifre: il prodotto delle due cifre vale $$40$$; se si invertono le cifre il numero diminuisce di $$27$$. Trovare il numero]{.text-blue}
+[Considerate un numero di due cifre: il prodotto delle due cifre vale $40$; se si invertono le cifre il numero diminuisce di $27$. Trovare il numero]{.text-blue}
 
-Devo trovare due cifre, la cifra delle decine e quella delle unità; ne chiamerò una $$x$$ e l'altra $$y$$, cioè il numero da trovare sarà:
+Devo trovare due cifre, la cifra delle decine e quella delle unità; ne chiamerò una $x$ e l'altra $y$, cioè il numero da trovare sarà:
 
-$$\textcolor{red}{\text{numero} = 10x + y}$$
+$\textcolor{red}{\text{numero} = 10x + y}$
 
 Ho due relazioni:
 
-1. Il prodotto delle cifre vale $$40$$:
-   $$\textcolor{red}{xy = 40}$$
-2. Se si invertono le cifre il numero diminuisce di $$27$$:
-   cioè se scrivo $$10y + x$$ questo vale $$27$$ meno di $$10x + y$$:
-   $$\textcolor{red}{10y + x = 10x + y - 27}$$
+1. Il prodotto delle cifre vale $40$:
+   $\textcolor{red}{xy = 40}$
+2. Se si invertono le cifre il numero diminuisce di $27$:
+   cioè se scrivo $10y + x$ questo vale $27$ meno di $10x + y$:
+   $\textcolor{red}{10y + x = 10x + y - 27}$
 
 Faccio il sistema:
 
@@ -36,7 +36,7 @@ $$
 \end{cases}
 $$
 
-Divido la seconda per $$-3$$:
+Divido la seconda per $-3$:
 
 $$
 \begin{cases} 
@@ -45,7 +45,7 @@ $$
 \end{cases}
 $$
 
-È un sistema di secondo grado: risolvo con il metodo di sostituzione; ricavo la $$x$$ dalla seconda equazione e ne sostituisco il valore nella prima:
+È un sistema di secondo grado: risolvo con il metodo di sostituzione; ricavo la $x$ dalla seconda equazione e ne sostituisco il valore nella prima:
 
 $$
 \begin{cases} 
@@ -72,10 +72,10 @@ $$
 
 Risolvo la prima equazione ed ottengo:
 
-$$\textcolor{blue}{y_1 = -8}$$
-$$\textcolor{blue}{y_2 = +5}$$
+$\textcolor{blue}{y_1 = -8}$
+$\textcolor{blue}{y_2 = +5}$
 
-Essendo il numero cercato un numero naturale, potrò considerare valida solamente la soluzione $$\textcolor{blue}{y = 5}$$; la sostituisco nel sistema ed ottengo:
+Essendo il numero cercato un numero naturale, potrò considerare valida solamente la soluzione $\textcolor{blue}{y = 5}$; la sostituisco nel sistema ed ottengo:
 
 $$
 \begin{cases} 
@@ -86,4 +86,4 @@ $$
 
 Quindi il mio numero è:
 
-$$\textcolor{blue}{10x + y = 10 \cdot 8 + 5 = 85}$$
+$\textcolor{blue}{10x + y = 10 \cdot 8 + 5 = 85}$

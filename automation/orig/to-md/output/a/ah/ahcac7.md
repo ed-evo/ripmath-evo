@@ -2,27 +2,27 @@
 
 ---
 
-[In un triangolo isoscele la base è uguale all'altezza ad essa relativa; si sa che sottraendo $$10\text{ m}$$ alla base ed aggiungendo $$20\text{ m}$$ all'altezza l'area del triangolo aumenta di $$100\text{ m}^2$$. Determinare il perimetro del triangolo]{.text-blue}
+[In un triangolo isoscele la base è uguale all'altezza ad essa relativa; si sa che sottraendo $10\text{ m}$ alla base ed aggiungendo $20\text{ m}$ all'altezza l'area del triangolo aumenta di $100\text{ m}^2$. Determinare il perimetro del triangolo]{.text-blue}
 
 ---
 
 Sappiamo che
-$$\textcolor{red}{AH = BC}$$
+$\textcolor{red}{AH = BC}$
 
 Pongo:
-$$\textcolor{red}{AH = BC = x}$$
+$\textcolor{red}{AH = BC = x}$
 
 Ora interpreto:
-Togliendo $$10$$ alla base ed aggiungendo $$20$$ all'altezza la nuova area è uguale a quella vecchia aumentata di $$100$$.
+Togliendo $10$ alla base ed aggiungendo $20$ all'altezza la nuova area è uguale a quella vecchia aumentata di $100$.
 
 Trasformo in linguaggio matematico:
-Sottraendo $$10$$ alla base ($\textcolor{red}{BC - 10}$)
-ed aggiungendo $$20$$ all'altezza ($\textcolor{red}{AH + 20}$)
+Sottraendo $10$ alla base ($\textcolor{red}{BC - 10}$)
+ed aggiungendo $20$ all'altezza ($\textcolor{red}{AH + 20}$)
 
 La nuova area ($\textcolor{red}{(BC - 10) \cdot (AH + 20) / 2}$)
 è uguale ($\textcolor{red}{=}$)
 a quella vecchia ($\textcolor{red}{(BC \cdot AH) / 2}$)
-aumentata di $$100$$ ($\textcolor{red}{+ 100}$)
+aumentata di $100$ ($\textcolor{red}{+ 100}$)
 
 Quindi scrivo la relazione:
 
@@ -69,15 +69,15 @@ $$
 $$
 
 Quindi:
-$$\textcolor{blue}{AH = BC = 40}$$
+$\textcolor{blue}{AH = BC = 40}$
 
 ---
 
-Per trovare il perimetro devo trovare il valore di $$AC$$.
-Nel triangolo $$AHC$$ conosco $$AH = 40\text{m}$$ ed $$HC = 20\text{m}$$, per trovare $$AC$$ applico il teorema di Pitagora al triangolo $$AHC$$.
+Per trovare il perimetro devo trovare il valore di $AC$.
+Nel triangolo $AHC$ conosco $AH = 40\text{m}$ ed $HC = 20\text{m}$, per trovare $AC$ applico il teorema di Pitagora al triangolo $AHC$.
 
 Teorema di Pitagora:
-$$\textcolor{blue}{AC^2 = AH^2 + HC^2}$$
+$\textcolor{blue}{AC^2 = AH^2 + HC^2}$
 
 Calcolo:
 $$

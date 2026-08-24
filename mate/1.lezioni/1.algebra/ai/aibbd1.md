@@ -1,0 +1,1 @@
+> $$C_{1,2}$$ ha indice $$1 + 2 = 3$$, cioè dispari, e quindi il risultato del determinante va cambiato di segno.

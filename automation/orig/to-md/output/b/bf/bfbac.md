@@ -19,4 +19,4 @@ $$
 $$
 
 Cioè due frazioni sono equivalenti se moltiplicando il numeratore dell'una per il denominatore dell'altra si ottiene lo stesso risultato.
-Ogni insieme di frazioni equivalenti mi determina un numero in $$\mathbb{Q}$$ che è il rappresentante della classe di equivalenza cui appartengono.
+Ogni insieme di frazioni equivalenti mi determina un numero in $\mathbb{Q}$ che è il rappresentante della classe di equivalenza cui appartengono.

@@ -1,0 +1,2 @@
+> Immagino tu non sia troppo d'accordo a chiamarlo giocattolo, forse secondo te era più indicato chiamarlo marchingegno o diavoleria
+> Rilassati: la matematica non è solo fatica ma è anche divertente (se presa a piccole dosi): prova ad esempio a leggere qualcuno dei volumi di Martin Gardner dal titolo "Enigmi e giochi matematici" e vi troverai una miniera di fatti divertenti e stimolanti

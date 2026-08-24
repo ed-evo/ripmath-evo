@@ -1,6 +1,6 @@
 # [Relazione d'ordine lineare]{.text-red}
 
-Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine lineare** se è contemporaneamente:
+Diciamo che la relazione $R$ su $A \times A$ è **d'ordine lineare** se è contemporaneamente:
 
 - d'ordine stretto
 - d'ordine totale
@@ -14,4 +14,4 @@ Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine lineare** se è c
 > $$
 
 L'insieme su cui hai una relazione d'ordine lineare si dice "bene ordinato";
-$$N$$ è un insieme "bene ordinato"
+$N$ è un insieme "bene ordinato"

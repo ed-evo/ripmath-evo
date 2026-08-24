@@ -1,6 +1,6 @@
 # [Leggiamo con calma il testo cercando di capire bene tutti i termini]{.text-red}
 
-[Dato il triangolo $$ABC$$, isoscele sulla base $$BC$$ si prolunghi il lato $$BC$$ oltre $$B$$ e $$C$$ di due segmenti congruenti $$BD=CE$$. Dimostrare che il triangolo $$ADE$$ è isoscele]{.text-blue}
+[Dato il triangolo $ABC$, isoscele sulla base $BC$ si prolunghi il lato $BC$ oltre $B$ e $C$ di due segmenti congruenti $BD=CE$. Dimostrare che il triangolo $ADE$ è isoscele]{.text-blue}
 
 > Si dice base di un triangolo isoscele il lato che non è congruente agli altri
 >

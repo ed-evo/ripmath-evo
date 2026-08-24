@@ -2,17 +2,17 @@
 
 Come prima conseguenza possiamo dire che vale
 
-> **Se una successione numerica reale ammette limite maggiore di un numero reale $$c$$ allora, da un certo termine in poi, tutti i suoi termini sono maggiori di $$c$$**
+> **Se una successione numerica reale ammette limite maggiore di un numero reale $c$ allora, da un certo termine in poi, tutti i suoi termini sono maggiori di $c$**
 
-Facendo riferimento alla rappresentazione cartesiana è come se, rappresentato il teorema della permanenza del segno, ci mettessimo una retta orizzontale $$y = c$$, vedi ad esempio i primi grafici di questa pagina: $$c$$ potrebbe essere il bordo non marcato della striscia grigio-azzurra
+Facendo riferimento alla rappresentazione cartesiana è come se, rappresentato il teorema della permanenza del segno, ci mettessimo una retta orizzontale $y = c$, vedi ad esempio i primi grafici di questa pagina: $c$ potrebbe essere il bordo non marcato della striscia grigio-azzurra
 
 Abbiamo due possibilità:
-- la successione è decrescente: allora si trova più in alto di $$c$$ e quindi tutti i suoi termini sono maggiori di $$c$$
-- la successione è crescente: allora ha i primi termini minori di $$c$$, un termine che, se esiste, è uguale a $$c$$, e quindi tutti i suoi termini successivi che sono maggiori di $$c$$
+- la successione è decrescente: allora si trova più in alto di $c$ e quindi tutti i suoi termini sono maggiori di $c$
+- la successione è crescente: allora ha i primi termini minori di $c$, un termine che, se esiste, è uguale a $c$, e quindi tutti i suoi termini successivi che sono maggiori di $c$
 
 e vale, analogamente:
 
-> **Se una successione numerica reale ammette limite minore di un numero reale $$c$$ allora, da un certo termine in poi, tutti i suoi termini sono minori di $$c$$**
+> **Se una successione numerica reale ammette limite minore di un numero reale $c$ allora, da un certo termine in poi, tutti i suoi termini sono minori di $c$**
 
 ---
 

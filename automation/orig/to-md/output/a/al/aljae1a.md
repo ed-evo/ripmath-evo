@@ -37,7 +37,7 @@ $$
 \textcolor{blue}{4x^2 - 3x + 4 > 0}
 $$
 
-è vera per ogni valore di $$x$$.
+è vera per ogni valore di $x$.
 
 ---
 
@@ -69,8 +69,8 @@ $$
 \textcolor{blue}{x^2 + x + 1 > 0}
 $$
 
-è vera per ogni valore di $$x$$.
+è vera per ogni valore di $x$.
 
 ---
 
-Quindi il sistema è vero per ogni valore di $$x$$.
+Quindi il sistema è vero per ogni valore di $x$.

@@ -1,6 +1,6 @@
 Risolviamo l'equazione:
 
-$$\textcolor{blue}{2x^2 + 5x + 2 = 0}$$
+$\textcolor{blue}{2x^2 + 5x + 2 = 0}$
 
 Prendiamo la formula risolutiva:
 
@@ -10,9 +10,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 2}$$
-$$\textcolor{blue}{b = 5}$$
-$$\textcolor{blue}{c = 2}$$
+$\textcolor{blue}{a = 2}$
+$\textcolor{blue}{b = 5}$
+$\textcolor{blue}{c = 2}$
 
 Sostituiamo nella formula:
 

@@ -20,7 +20,7 @@ Allora distinguiamo:
 
 > **Esercizio:**
 >
-> Si vuole costituire un capitale di $$100\,000,00 \text{ €}$$ (centomila); sapendo che il tasso è $$i = 2\%$$ e che il soggetto andrà in pensione fra $$25$$ anni calcolare quanto deve versare oggi per poter disporre della somma al momento della pensione.
+> Si vuole costituire un capitale di $100\,000,00 \text{ €}$ (centomila); sapendo che il tasso è $i = 2\%$ e che il soggetto andrà in pensione fra $25$ anni calcolare quanto deve versare oggi per poter disporre della somma al momento della pensione.
 >
 > Abbiamo:
 >
@@ -40,14 +40,14 @@ Allora distinguiamo:
 > V = C v^t = C (1+i)^{-t} = 100\,000 \text{ €} \cdot (1,02)^{-25} =
 > $$
 >
-> Leggo sulle tavole $$v^n$$ il valore $$(1,02)^{-25} = 0,60953087$$
+> Leggo sulle tavole $v^n$ il valore $(1,02)^{-25} = 0,60953087$
 >
 > $$
 > 100\,000 \text{ €} \cdot 0,60953087 = 60\,953,087 \text{ €}
 > $$
 >
-> Approssimo a $$C = 60\,953,09 \text{ €}$$.
+> Approssimo a $C = 60\,953,09 \text{ €}$.
 >
-> La somma da pagare per poter disporre di centomila euro fra $$25$$ anni al tasso del $$2\%$$ è di euro $$60\,953,09$$.
+> La somma da pagare per poter disporre di centomila euro fra $25$ anni al tasso del $2\%$ è di euro $60\,953,09$.
 >
-> Quindi il **valore attuale** di $$100\,000,00 \text{ €}$$ al tasso del $$2\%$$ fra $$25$$ anni è di $$60\,953,09 \text{ €}$$.
+> Quindi il **valore attuale** di $100\,000,00 \text{ €}$ al tasso del $2\%$ fra $25$ anni è di $60\,953,09 \text{ €}$.

@@ -1,6 +1,6 @@
 # [Scomposizione di una somma di potenze pari]{.text-red}
 
-In genere una somma di potenze pari del tipo $$\textcolor{red}{x^4 + a^4}$$ non è scomponibile.
+In genere una somma di potenze pari del tipo $\textcolor{red}{x^4 + a^4}$ non è scomponibile.
 
 ***
 
@@ -28,8 +28,8 @@ $$
 
 Ora è come se avessi due termini al quadrato con il meno in mezzo; applico la scomposizione differenza di quadrati.
 
-$$\textcolor{red}{(x^2 + 2a^2)^2}$$ è il quadrato di $$\textcolor{red}{(x^2 + 2a^2)}$$
-$$\textcolor{red}{4a^2x^2}$$ è il quadrato di $$\textcolor{red}{2ax}$$
+$\textcolor{red}{(x^2 + 2a^2)^2}$ è il quadrato di $\textcolor{red}{(x^2 + 2a^2)}$
+$\textcolor{red}{4a^2x^2}$ è il quadrato di $\textcolor{red}{2ax}$
 
 quindi
 
@@ -49,4 +49,4 @@ $$
 \textcolor{red}{= (x^2 + 2ax + 2a^2)(x^2 - 2ax + 2a^2)}
 $$
 
-> Ho potuto fare la scomposizione solamente perché il termine che ho aggiunto e tolto $$\textcolor{red}{4a^2x^2}$$ è un quadrato, altrimenti non avrei potuto scomporre.
+> Ho potuto fare la scomposizione solamente perché il termine che ho aggiunto e tolto $\textcolor{red}{4a^2x^2}$ è un quadrato, altrimenti non avrei potuto scomporre.

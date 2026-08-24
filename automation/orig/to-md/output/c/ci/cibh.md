@@ -18,6 +18,6 @@ Fatta la derivata della funzione la si pone maggiore di zero: nell'intervallo do
 > $$
 > \textcolor{red}{x > 0}
 > $$
-> quindi da $$-\infty$$ fino a $$0$$ avremo che la funzione sarà decrescente (cioè il suo grafico va dall'alto verso il basso), mentre per $$x > 0$$ la funzione sarà crescente (il grafico andrà dal basso verso l'alto).
+> quindi da $-\infty$ fino a $0$ avremo che la funzione sarà decrescente (cioè il suo grafico va dall'alto verso il basso), mentre per $x > 0$ la funzione sarà crescente (il grafico andrà dal basso verso l'alto).
 
 Per una trattazione più approfondita si rimanda al [capitolo specifico](../cg/cgac.html).

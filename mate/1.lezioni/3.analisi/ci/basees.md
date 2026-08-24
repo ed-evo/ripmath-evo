@@ -1,0 +1,1 @@
+Trovare l'equazione degli asintoti per la funzione:

@@ -27,7 +27,7 @@ $$
   $$
   \textcolor{blue}{2x = 0}
   $$
-  Divido per $$2$$ da entrambe le parti dell'uguale ed ottengo
+  Divido per $2$ da entrambe le parti dell'uguale ed ottengo
   $$
   \textcolor{blue}{x = 0}
   $$
@@ -35,7 +35,7 @@ $$
   $$
   \textcolor{blue}{x - 5 = 0}
   $$
-  Porto il $$-5$$ dopo l'uguale cambiandolo di segno
+  Porto il $-5$ dopo l'uguale cambiandolo di segno
   $$
   \textcolor{blue}{x = 5}
   $$

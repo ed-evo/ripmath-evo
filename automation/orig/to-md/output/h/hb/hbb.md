@@ -20,7 +20,7 @@ Elenchiamo semplicemente le proprietà che ci interesseranno con un semplice ese
   3 + 0 = 0 + 3 = 3
   $$
 
-- **Esistenza dell'elemento inverso** (qui però siamo nell'insieme $$Z$$ dei numeri interi)
+- **Esistenza dell'elemento inverso** (qui però siamo nell'insieme $Z$ dei numeri interi)
   Dire che esiste l'elemento inverso significa che esiste un elemento che sommato ad un altro ha come risultato l'elemento neutro (lo zero): esempio
   $$
   (-3) + (+3) = (+3) + (-3) = 0

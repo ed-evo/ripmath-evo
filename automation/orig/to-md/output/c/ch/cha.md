@@ -6,8 +6,8 @@ Quindi se non sappiamo come si comporta una funzione all'infinito sappiamo però
 
 Una funzione può tendere all'infinito avvicinandosi ad una retta in tre modi diversi:
 
-- Asintoto verticale: quando la $$x$$ si avvicina ad un valore finito la funzione tende all'infinito avvicinandosi ad una retta verticale.
-- Asintoto orizzontale: quando la $$x$$ tende all'infinito la funzione si avvicina ad una retta orizzontale.
-- Asintoto obliquo: quando la $$x$$ tende all'infinito la funzione tende all'infinito avvicinandosi ad una retta obliqua.
+- Asintoto verticale: quando la $x$ si avvicina ad un valore finito la funzione tende all'infinito avvicinandosi ad una retta verticale.
+- Asintoto orizzontale: quando la $x$ tende all'infinito la funzione si avvicina ad una retta orizzontale.
+- Asintoto obliquo: quando la $x$ tende all'infinito la funzione tende all'infinito avvicinandosi ad una retta obliqua.
 
-> **Nota:** Da notare che l'asintoto orizzontale esclude l'asintoto obliquo e viceversa perché al crescere della $$x$$ la funzione può andare all'infinito in un solo modo.
+> **Nota:** Da notare che l'asintoto orizzontale esclude l'asintoto obliquo e viceversa perché al crescere della $x$ la funzione può andare all'infinito in un solo modo.

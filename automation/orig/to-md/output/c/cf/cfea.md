@@ -1,12 +1,12 @@
 # [Teorema di Rolle]{.text-red}
 
-Questo teorema afferma che se una funzione è continua in un intervallo chiuso e limitato e derivabile all'interno dell'intervallo stesso e se inoltre agli estremi dell'intervallo assume lo stesso valore allora esiste almeno un punto dell'intervallo in cui la derivata della funzione vale $$0$$.
+Questo teorema afferma che se una funzione è continua in un intervallo chiuso e limitato e derivabile all'interno dell'intervallo stesso e se inoltre agli estremi dell'intervallo assume lo stesso valore allora esiste almeno un punto dell'intervallo in cui la derivata della funzione vale $0$.
 
 Come si vede dalla figura in pratica vuol dire che se la funzione parte da un certo valore ed arriva allo stesso valore senza fare punte allora se è continua e se l'intervallo è chiuso e limitato ci deve essere un punto dove finisce di crescere (o di diminuire) e torna indietro (si può anche dire che la tangente in quel punto è orizzontale).
 
 Matematicamente:
 
-se $$\textcolor{red}{y=f(x)}$$ è una funzione continua in un intervallo chiuso e limitato $$\textcolor{red}{[a, b]}$$ e tale che $$\textcolor{red}{f(a) = f(b)}$$ allora esiste un punto $$\textcolor{red}{c}$$ appartenente ad $$\textcolor{red}{[a, b]}$$ tale che $$\textcolor{red}{f'(c)=0}$$
+se $\textcolor{red}{y=f(x)}$ è una funzione continua in un intervallo chiuso e limitato $\textcolor{red}{[a, b]}$ e tale che $\textcolor{red}{f(a) = f(b)}$ allora esiste un punto $\textcolor{red}{c}$ appartenente ad $\textcolor{red}{[a, b]}$ tale che $\textcolor{red}{f'(c)=0}$
 
 ---
 

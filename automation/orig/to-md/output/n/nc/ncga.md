@@ -4,7 +4,7 @@ Come abbiamo visto nell'osservazione è sempre possibile passare dal valore di u
 
 > Di conseguenza, nelle formule, calcolata la formula per un tipo di rendita potremo trovare le altre formule spostando nel tempo opportunamente il risultato trovato.
 
-Qui consideriamo solamente le rendite di periodo $$n$$ con $$n$$ numero di anni e con rata $$R$$ costante:
+Qui consideriamo solamente le rendite di periodo $n$ con $n$ numero di anni e con rata $R$ costante:
 
 - calcolo del montante
 - [calcolo del valore attuale di rendita immediata]{.text-red}

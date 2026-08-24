@@ -2,7 +2,7 @@
 
 Il teorema fondamentale del calcolo integrale dice che la derivata della funzione integrale è uguale alla funzione di partenza.
 
-Indicando la derivata rispetto a $$x$$ con $$D$$ avremo
+Indicando la derivata rispetto a $x$ con $D$ avremo
 
 $$
 D[F(x)] = D \left[ \int_{a}^{x} f(t) dt \right] = f(x)

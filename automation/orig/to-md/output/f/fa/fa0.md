@@ -1,3 +1,3 @@
 # [Euclide]{.text-red}
 
-Uomo politico greco, quando il suo partito politico perse il controllo della sua città fu condannato all'esilio (per un greco l'esilio corrispondeva alla pena capitale in quanto consideravano gli altri popoli come dei barbari). Cominciò così a studiare presso gli egizi ed i babilonesi le conoscenze geometriche del tempo, che erano argomenti slegati fra loro, e li fuse in un tutto unico scrivendo quel libro che ormai da $$2500$$ anni viene ristampato come testo scolastico
+Uomo politico greco, quando il suo partito politico perse il controllo della sua città fu condannato all'esilio (per un greco l'esilio corrispondeva alla pena capitale in quanto consideravano gli altri popoli come dei barbari). Cominciò così a studiare presso gli egizi ed i babilonesi le conoscenze geometriche del tempo, che erano argomenti slegati fra loro, e li fuse in un tutto unico scrivendo quel libro che ormai da $2500$ anni viene ristampato come testo scolastico

@@ -6,9 +6,9 @@ $$
 \textcolor{red}{x - 2 > \sqrt{x^2 - 16}}
 $$
 
-- Il radicando deve sempre essere maggiore o uguale a zero: $$x^2 - 16 \ge 0$$
-- Essendo il radicale definito positivo (o nullo) anche il primo termine (essendo maggiore del secondo) dovrà essere positivo: $$x - 2 > 0$$
-- Il quadrato del primo termine dovrà essere maggiore del quadrato del secondo termine: $$(x - 2)^2 > x^2 - 16$$
+- Il radicando deve sempre essere maggiore o uguale a zero: $x^2 - 16 \ge 0$
+- Essendo il radicale definito positivo (o nullo) anche il primo termine (essendo maggiore del secondo) dovrà essere positivo: $x - 2 > 0$
+- Il quadrato del primo termine dovrà essere maggiore del quadrato del secondo termine: $(x - 2)^2 > x^2 - 16$
 
 Devo quindi risolvere il sistema
 
@@ -30,9 +30,9 @@ $$
 \end{cases}
 $$
 
-- la prima $$\textcolor{blue}{x^2 - 16 \ge 0}$$ è verificata per $$\textcolor{blue}{x \le -4 \cup x \ge 4}$$ (calcoli)
-- la seconda $$\textcolor{blue}{x - 2 > 0}$$ è verificata per $$\textcolor{blue}{x > 2}$$
-- la terza è verificata per $$\textcolor{blue}{x < 5}$$
+- la prima $\textcolor{blue}{x^2 - 16 \ge 0}$ è verificata per $\textcolor{blue}{x \le -4 \cup x \ge 4}$ (calcoli)
+- la seconda $\textcolor{blue}{x - 2 > 0}$ è verificata per $\textcolor{blue}{x > 2}$
+- la terza è verificata per $\textcolor{blue}{x < 5}$
 
 Essendo un sistema devo prendere le soluzioni comuni.
 

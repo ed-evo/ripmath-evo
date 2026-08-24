@@ -1,6 +1,6 @@
 # [Ricerca delle soluzioni reali nelle equazioni binomie]{.text-red}
 
-Se cerchiamo solo le soluzioni reali non ci si fanno troppi problemi: si isola la $$x$$ e si fa la radice a destra ed a sinistra dell'uguale.
+Se cerchiamo solo le soluzioni reali non ci si fanno troppi problemi: si isola la $x$ e si fa la radice a destra ed a sinistra dell'uguale.
 
 ## Primo esempio con sole soluzioni reali
 
@@ -18,7 +18,7 @@ $$
 \textcolor{red}{x = \pm \sqrt[4]{16}}
 $$
 
-Soluzioni reali: $$\textcolor{red}{x_1 = -2}$$ e $$\textcolor{red}{x_2 = +2}$$
+Soluzioni reali: $\textcolor{red}{x_1 = -2}$ e $\textcolor{red}{x_2 = +2}$
 
 ## Secondo esempio con sole soluzioni reali
 
@@ -36,4 +36,4 @@ $$
 \textcolor{red}{x = \sqrt[3]{-27}}
 $$
 
-C'è una sola soluzione reale: $$\textcolor{red}{x_1 = -3}$$
+C'è una sola soluzione reale: $\textcolor{red}{x_1 = -3}$

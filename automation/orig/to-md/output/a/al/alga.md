@@ -54,7 +54,7 @@ $$
 x + y = \log_a(b \cdot c)
 $$
 
-quindi sostituendo ad $$x$$ ed $$y$$ i loro valori avremo la formula finale
+quindi sostituendo ad $x$ ed $y$ i loro valori avremo la formula finale
 
 $$
 \log_a b + \log_a c = \log_a(b \cdot c)
@@ -64,19 +64,19 @@ $$
 
 Quindi se dobbiamo fare un prodotto piuttosto complicato possiamo trasformare i fattori in logaritmi, farne la somma e poi fare l'antilogaritmo per trovarne il risultato.
 
-Facciamo un esempio molto banale, tanto per vedere il metodo: useremo i logaritmo in base $$2$$ anche se, di solito, per questi calcoli si usano i logaritmi decimali o di Briggs cioè a base $$10$$.
+Facciamo un esempio molto banale, tanto per vedere il metodo: useremo i logaritmo in base $2$ anche se, di solito, per questi calcoli si usano i logaritmi decimali o di Briggs cioè a base $10$.
 
 ---
 
 > Voglio calcolare
-> [$$16 \cdot 64 =$$]{.text-blue}
-> Trasformo in logaritmi, ad esempio in base $$2$$
-> [$$\log_2 16 = 4$$]{.text-red} $$\quad$$ [$$\log_2 64 = 6$$]{.text-red}
+> [$16 \cdot 64 =$]{.text-blue}
+> Trasformo in logaritmi, ad esempio in base $2$
+> [$\log_2 16 = 4$]{.text-red} $\quad$ [$\log_2 64 = 6$]{.text-red}
 > faccio la somma
-> [$$4 + 6 = 10$$]{.text-red}
+> [$4 + 6 = 10$]{.text-red}
 > questo è il logaritmo del risultato, per trovare il risultato devo metterlo come esponente alla base
-> [$$2^{10} = 1024$$]{.text-red}
+> [$2^{10} = 1024$]{.text-red}
 > quindi
-> [$$16 \cdot 64 = 1024$$]{.text-blue}
+> [$16 \cdot 64 = 1024$]{.text-blue}
 
 ---

@@ -31,13 +31,13 @@ $$
 > \textcolor{red}{(AB \cdot AB) : (A'B' \cdot A'B') = (AB \cdot AH) : (A'B' \cdot A'H')}
 > $$
 >
-> quindi, essendo $${AB \cdot AH}$$ la doppia area di $${ABC}$$ e $${A'B' \cdot A'H'}$$ la doppia area di $${A'B'C'}$$ avremo
+> quindi, essendo ${AB \cdot AH}$ la doppia area di ${ABC}$ e ${A'B' \cdot A'H'}$ la doppia area di ${A'B'C'}$ avremo
 >
 > $$
 > \textcolor{red}{(AB)^2 : (A'B')^2 = 2 \text{Area}(ABC) : 2 \text{Area}(A'B'C')}
 > $$
 >
-> Dopo l'uguale ho una frazione e questa non cambia il suo valore se divido numeratore e denominatore per lo stesso numero; divido quindi per $$2$$
+> Dopo l'uguale ho una frazione e questa non cambia il suo valore se divido numeratore e denominatore per lo stesso numero; divido quindi per $2$
 >
 > $$
 > \textcolor{red}{(AB)^2 : (A'B')^2 = \text{Area}(ABC) : \text{Area}(A'B'C')}

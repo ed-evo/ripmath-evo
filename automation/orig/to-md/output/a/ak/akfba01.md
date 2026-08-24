@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{4}{\sqrt{5} + \sqrt{3}}} =
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{\sqrt{5} - \sqrt{3}}$$
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{\sqrt{5} - \sqrt{3}}$
 
 $$
 \textcolor{blue}{\frac{4}{\sqrt{5} + \sqrt{3}} \cdot \frac{\sqrt{5} - \sqrt{3}}{\sqrt{5} - \sqrt{3}}} =

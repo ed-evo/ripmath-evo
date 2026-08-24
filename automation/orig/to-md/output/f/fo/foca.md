@@ -16,7 +16,7 @@ $$
 \textcolor{red}{2 \cdot 3 = 1 \cdot 6}
 $$
 
-$$2$$ e $$3$$ sono i medi ed $$1$$ e $$6$$ sono gli estremi; per indicare il prodotto ho preferito usare il simbolo $$\cdot$$ invece del simbolo specifico $$x$$.
+$2$ e $3$ sono i medi ed $1$ e $6$ sono gli estremi; per indicare il prodotto ho preferito usare il simbolo $\cdot$ invece del simbolo specifico $x$.
 
 > **Nota:** se pensi la proporzione come una frazione
 >
@@ -32,7 +32,7 @@ $$
 \textcolor{red}{5 : 2 = 15 : x}
 $$
 
-con quarto proporzionale $$x$$ termine incognito; per trovare il valore della $$x$$ applico la proprietà fondamentale
+con quarto proporzionale $x$ termine incognito; per trovare il valore della $x$ applico la proprietà fondamentale
 
 $$
 \textcolor{red}{2 \cdot 15 = 5 \cdot x}
@@ -44,7 +44,7 @@ $$
 \textcolor{red}{5x = 30}
 $$
 
-dividendo entrambi i termini per $$5$$ ottengo
+dividendo entrambi i termini per $5$ ottengo
 
 $$
 \textcolor{red}{\frac{5x}{5} = \frac{30}{5}}
@@ -56,7 +56,7 @@ $$
 \textcolor{red}{x = 6}
 $$
 
-quindi il quarto proporzionale vale $$6$$ e la mia proporzione è
+quindi il quarto proporzionale vale $6$ e la mia proporzione è
 
 $$
 \textcolor{red}{5 : 2 = 15 : 6}

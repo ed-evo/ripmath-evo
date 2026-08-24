@@ -10,7 +10,7 @@ Per leggere la regola devi cominciare prima dell'uguale leggendo l'operazione ch
 
 A questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo ([è uguale a]{.text-purple}).
 
-Ora devi leggere il secondo termine $$\textcolor{red}{a^2 + 2ab + b^2}$$; leggi i termini in successione partendo dal primo termine e cominciando dalle operazioni ([il quadrato]{.text-purple}) descrivendo fra chi è l'operazione ([del primo monomio]{.text-purple}), proseguendo col secondo termine ([più il doppio del prodotto del primo per il secondo]{.text-purple}) e continuando con il terzo termine ([più il quadrato del secondo monomio]{.text-purple}).
+Ora devi leggere il secondo termine $\textcolor{red}{a^2 + 2ab + b^2}$; leggi i termini in successione partendo dal primo termine e cominciando dalle operazioni ([il quadrato]{.text-purple}) descrivendo fra chi è l'operazione ([del primo monomio]{.text-purple}), proseguendo col secondo termine ([più il doppio del prodotto del primo per il secondo]{.text-purple}) e continuando con il terzo termine ([più il quadrato del secondo monomio]{.text-purple}).
 
 Se metti assieme il tutto ottieni la regola:
 

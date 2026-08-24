@@ -1,10 +1,10 @@
 # [Equazioni di grado superiore al secondo]{.text-red}
 
-> Sono equazioni in cui la $$x$$ compare a potenza $$3$$, $$4$$, $$5$$, ecc...
+> Sono equazioni in cui la $x$ compare a potenza $3$, $4$, $5$, ecc...
 >
 > Per quelle di terzo grado esiste una formula risolutiva che non considereremo.
 >
-> Noi tratteremo le soluzioni preferibilmente in campo complesso: se non hai fatto i [numeri complessi](../../b/be/be.html) devi considerare solo le soluzioni reali (qualche docente, purtroppo, le spiega solo in $$R$$).
+> Noi tratteremo le soluzioni preferibilmente in campo complesso: se non hai fatto i [numeri complessi](../../b/be/be.html) devi considerare solo le soluzioni reali (qualche docente, purtroppo, le spiega solo in $R$).
 
 Scegli l'argomento:
 

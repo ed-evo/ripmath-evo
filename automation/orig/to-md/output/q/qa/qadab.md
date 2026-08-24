@@ -14,9 +14,9 @@ $$
 
 otteniamo la successione dei numeri pari
 
-La successione dei numeri pari applica $$N$$ su una parte di sé stesso $$s: N \to N+N$$ o meglio $$s: N \to 2N$$ (essendo $$2N$$ il sottoinsieme di $$N$$ formato dai numeri pari), facendo corrispondere ad ogni numero il suo doppio;
+La successione dei numeri pari applica $N$ su una parte di sé stesso $s: N \to N+N$ o meglio $s: N \to 2N$ (essendo $2N$ il sottoinsieme di $N$ formato dai numeri pari), facendo corrispondere ad ogni numero il suo doppio;
 
-> Siccome la corrispondenza è biunivoca tale successione mostra che l'insieme $$N$$ è un insieme infinito (un insieme infinito è un insieme che è in corrispondenza biunivoca con una sua parte: in $$N$$ ad ogni numero corrisponde il suo doppio e ad ogni numero doppio [se è doppio è anche pari] corrisponde la sua metà)
+> Siccome la corrispondenza è biunivoca tale successione mostra che l'insieme $N$ è un insieme infinito (un insieme infinito è un insieme che è in corrispondenza biunivoca con una sua parte: in $N$ ad ogni numero corrisponde il suo doppio e ad ogni numero doppio [se è doppio è anche pari] corrisponde la sua metà)
 
 Potremmo indicare la successione con
 
@@ -42,7 +42,7 @@ $$
 6, 8, 10, \dots, 6+2n, 6+2n+2, \dots
 $$
 
-Anche negativo, ma in tal caso l'applicazione è $$s: N \to Z$$
+Anche negativo, ma in tal caso l'applicazione è $s: N \to Z$
 
 $$
 -8, -6, -4, \dots, -8+2n, -8+2n+2, \dots

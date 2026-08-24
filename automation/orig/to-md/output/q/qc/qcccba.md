@@ -6,13 +6,13 @@ La cosa deriva da due fatti:
 
    Se prendo l'insieme delle circonferenze passanti per un punto e, tenendo fisso il punto ne aumento il raggio ottengo la figura qui sopra: la circonferenza che corrisponde al cerchio nero ha il raggio infinito e coincide con la retta tangente a tutte le circonferenze.
 
-2. $$\infty$$ **può essere considerato un punto su una retta**
+2. $\infty$ **può essere considerato un punto su una retta**
 
-   Considero la retta $$\mathbf{t}$$ ed il punto $$\mathbf{P}$$ esterno ad essa.
-   Dal punto $$\mathbf{P}$$ posso tracciare delle rette come $$\mathbf{a}$$ che taglia $$\mathbf{t}$$ in $$\mathbf{P_a}$$; se faccio ruotare la retta $$\mathbf{a}$$ otterrò ad esempio $$\mathbf{b}$$ che taglia $$\mathbf{t}$$ in $$\mathbf{P_b}$$.
-   Continuando a ruotare vedo che il punto di intersezione si allontana verso destra finché la retta diventa parallela ed il punto sparisce; ma basta che io ruoti ancora leggermente la retta parallela perché il punto di intersezione ricompaia a sinistra: continuando a ruotare otterrò la retta $$\mathbf{e}$$ che taglia $$\mathbf{t}$$ in $$\mathbf{P_e}$$.
+   Considero la retta $\mathbf{t}$ ed il punto $\mathbf{P}$ esterno ad essa.
+   Dal punto $\mathbf{P}$ posso tracciare delle rette come $\mathbf{a}$ che taglia $\mathbf{t}$ in $\mathbf{P_a}$; se faccio ruotare la retta $\mathbf{a}$ otterrò ad esempio $\mathbf{b}$ che taglia $\mathbf{t}$ in $\mathbf{P_b}$.
+   Continuando a ruotare vedo che il punto di intersezione si allontana verso destra finché la retta diventa parallela ed il punto sparisce; ma basta che io ruoti ancora leggermente la retta parallela perché il punto di intersezione ricompaia a sinistra: continuando a ruotare otterrò la retta $\mathbf{e}$ che taglia $\mathbf{t}$ in $\mathbf{P_e}$.
 
-   Per questo motivo si dice che due rette parallele hanno in comune un punto all'infinito, e chiamerò tale punto $$\infty$$.
+   Per questo motivo si dice che due rette parallele hanno in comune un punto all'infinito, e chiamerò tale punto $\infty$.
 
    Ne segue che ogni retta possiede un punto all'infinito.
 

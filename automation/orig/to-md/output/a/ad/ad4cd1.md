@@ -1,6 +1,6 @@
 # [PASSAGGI PER CALCOLARE IL CUBO DEL BINOMIO]{.text-red}
 
-$$\textcolor{red}{(a+b)^3 = (a+b) \cdot (a+b) \cdot (a+b) =}$$
+$\textcolor{red}{(a+b)^3 = (a+b) \cdot (a+b) \cdot (a+b) =}$
 
 moltiplico fra loro i primi due
 
@@ -17,7 +17,7 @@ $$
 \textcolor{red}{b \cdot b = b^2}
 $$
 
-e poiché $$\textcolor{red}{ab + ab = 2ab}$$
+e poiché $\textcolor{red}{ab + ab = 2ab}$
 
 otterrò
 

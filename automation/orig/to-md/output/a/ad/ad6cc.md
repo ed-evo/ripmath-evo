@@ -26,10 +26,10 @@ $$
 $$
 
 È un polinomio di quattro termini e vi sono due cubi:
-$$\textcolor{red}{8x^3}$$ è il cubo di $$\textcolor{red}{2x}$$
-$$\textcolor{red}{27y^3}$$ è il cubo di $$\textcolor{red}{3y}$$
+$\textcolor{red}{8x^3}$ è il cubo di $\textcolor{red}{2x}$
+$\textcolor{red}{27y^3}$ è il cubo di $\textcolor{red}{3y}$
 
-Quindi proviamo a calcolare $$\textcolor{red}{(2x+3y)^3}$$.
+Quindi proviamo a calcolare $\textcolor{red}{(2x+3y)^3}$.
 
 > **Nota:** Ho messo il più perché i termini sono tutti positivi; se avessi avuto due positivi e due negativi avrei provato col segno meno.
 

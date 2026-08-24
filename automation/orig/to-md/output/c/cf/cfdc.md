@@ -54,7 +54,7 @@ $$
 \textcolor{red}{y' = \frac{1}{3}x^{-2/3}}
 $$
 
-Cambio di segno l'esponente e porto $$x$$ al denominatore
+Cambio di segno l'esponente e porto $x$ al denominatore
 
 $$
 \textcolor{red}{y' = \frac{1}{3x^{2/3}}}

@@ -7,12 +7,12 @@ $$
 $$
 
 > Per la regola: so che le parti letterali sono
-> [$$a^6, a^5b, a^4b^2, a^3b^3, a^2b^4, ab^5, b^6$$]{.text-red}
+> [$a^6, a^5b, a^4b^2, a^3b^3, a^2b^4, ab^5, b^6$]{.text-red}
 > so, dal [triangolo di Tartaglia](ad4cfaa.html) che i coefficienti sono
 > **1, 6, 15, 20, 15, 6, 1**
 > quindi vale la regola
-> [$$(a+b)^6 = a^6 + 6a^5b + 15a^4b^2 + 20a^3b^3 + 15a^2b^4 + 6ab^5 + b^6$$]{.text-red}
-> al posto di [$$a$$]{.text-red} ho [$$2x^2$$]{.text-red} ed al posto di [$$b$$]{.text-red} ho [$$y^3$$]{.text-red}
+> [$(a+b)^6 = a^6 + 6a^5b + 15a^4b^2 + 20a^3b^3 + 15a^2b^4 + 6ab^5 + b^6$]{.text-red}
+> al posto di [$a$]{.text-red} ho [$2x^2$]{.text-red} ed al posto di [$b$]{.text-red} ho [$y^3$]{.text-red}
 > quindi vado a sostituire nella regola
 
 $$

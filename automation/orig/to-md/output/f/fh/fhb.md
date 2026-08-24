@@ -1,6 +1,6 @@
 # [Parallelogramma]{.text-red}
 
-Prima abbiamo pensato a due lati paralleli, adesso pensiamo a $$4$$ lati paralleli due a due.
+Prima abbiamo pensato a due lati paralleli, adesso pensiamo a $4$ lati paralleli due a due.
 
 **Definizione**
 

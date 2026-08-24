@@ -1,0 +1,1 @@
+> Infatti il determinante della matrice incompleta è anche uno dei determinanti di ordine $$3$$ della matrice completa e quindi se il primo è diverso da $$0$$ anche la matrice completa ha rango $$3$$ come la matrice incompleta

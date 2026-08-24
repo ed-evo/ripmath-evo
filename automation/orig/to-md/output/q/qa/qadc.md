@@ -1,6 +1,6 @@
 # [Successioni generate da prodotti con fattori a segno alterno]{.text-red}
 
-Qui, considerando alternativamente il prodotto per $$+1$$ e per $$-1$$ possiamo avere delle successioni "oscillanti": vediamo un esempio per ogni tipo: convergente, divergente ed indeterminata.
+Qui, considerando alternativamente il prodotto per $+1$ e per $-1$ possiamo avere delle successioni "oscillanti": vediamo un esempio per ogni tipo: convergente, divergente ed indeterminata.
 
 Il problema che si pone è come far cambiare di segno un termine in modo alterno (cioè prima positivo, poi negativo, poi ancora positivo, eccetera);
 
@@ -10,8 +10,8 @@ $$
 (-1)^n
 $$
 
-infatti se $$n$$ è pari $$(-1)^n = +1$$
-mentre se $$n$$ è dispari $$(-1)^n = -1$$
+infatti se $n$ è pari $(-1)^n = +1$
+mentre se $n$ è dispari $(-1)^n = -1$
 
 - [successione oscillante convergente](qadca.html)
 - [successione oscillante divergente](qadcb.html)

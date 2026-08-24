@@ -1,0 +1,1 @@
+> Posso sempre trasformare in fattori di primo grado, a meno che l'equazione associata al trinomio abbia soluzioni complesse. In questo caso, essendo il discriminante dell'equazione minore di zero avremo che il polinomio sarà sempre positivo (naturalmente se $$a > 0$$)

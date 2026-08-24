@@ -2,7 +2,7 @@
 
 Facciamo un esercizio con segni diversi
 
-Trovare i due numeri $$x_1$$ e $$x_2$$ tali che
+Trovare i due numeri $x_1$ e $x_2$ tali che
 
 $$
 \textcolor{red}{x_1 + x_2 = 3\sqrt{3}} \quad \textcolor{red}{x_1 \cdot x_2 = 6}
@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{x^2 - sx + p = 0}
 $$
 
-con $$s$$ e $$p$$ somma e prodotto delle radici
+con $s$ e $p$ somma e prodotto delle radici
 
 $$
 \textcolor{blue}{s = x_1 + x_2 = 3\sqrt{3}}
@@ -73,7 +73,7 @@ $$
 \textcolor{blue}{x_2 = \frac{3\sqrt{3} + \sqrt{3}}{2} = 2\sqrt{3}}
 $$
 
-quindi i due numeri cercati sono (cerco sempre di ordinarli chiamando $$x_1$$ il minore)
+quindi i due numeri cercati sono (cerco sempre di ordinarli chiamando $x_1$ il minore)
 
 $$
 \textcolor{red}{x_1 = \sqrt{3}} \quad \textcolor{red}{x_2 = 2\sqrt{3}}

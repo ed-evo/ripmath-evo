@@ -36,13 +36,13 @@ $$
 \textcolor{red}{x^2-a^2 +5x+5a=}
 $$
 
-Scompongo i primi due termini come differenza di quadrati e fra il terzo ed il quarto termine raccolgo il $$\textcolor{red}{5}$$:
+Scompongo i primi due termini come differenza di quadrati e fra il terzo ed il quarto termine raccolgo il $\textcolor{red}{5}$:
 
 $$
 \textcolor{red}{=(x+a)(x-a)+5(x+a)=}
 $$
 
-Ora sono due termini e tra loro posso raccogliere $$\textcolor{red}{(x+a)}$$:
+Ora sono due termini e tra loro posso raccogliere $\textcolor{red}{(x+a)}$:
 
 $$
 \textcolor{

@@ -6,7 +6,7 @@ $$
 \textcolor{red}{f(x) = f(a) + \frac{(x-a)}{1}f'(a) + \frac{(x-a)^2}{1 \cdot 2}f''(a) + \frac{(x-a)^3}{1 \cdot 2 \cdot 3}f'''(a) + \frac{(x-a)^4}{1 \cdot 2 \cdot 3 \cdot 4}f^{IV}(c) + \dots}
 $$
 
-estendiamola alla derivata $$n$$ ma prima usiamo la [notazione fattoriale](../../l/lb/lbab.html)
+estendiamola alla derivata $n$ ma prima usiamo la [notazione fattoriale](../../l/lb/lbab.html)
 
 ***
 

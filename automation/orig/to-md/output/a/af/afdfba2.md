@@ -33,7 +33,7 @@ $$
 \textcolor{red}{x^2 = 4}
 $$
 
-$$2$$ soluzioni:
+$2$ soluzioni:
 
 $$
 \textcolor{red}{x_1 = -2 \quad x_2 = 2}
@@ -64,7 +64,7 @@ $$
 \end{array}
 $$
 
-Quindi saranno accettabili solo le soluzioni che siano uguali a $$-2$$ oppure maggiori od uguali a $$+2$$.
+Quindi saranno accettabili solo le soluzioni che siano uguali a $-2$ oppure maggiori od uguali a $+2$.
 
 > **Nota:** Le parentesi indicano che è accettabile anche il valore indicato.
 
@@ -110,4 +110,4 @@ $$
 \textcolor{red}{x = -\frac{8}{4} = -2}
 $$
 
-Ora la soluzione $$x = -2$$ essendo fra i valori accettabili è accettabile.
+Ora la soluzione $x = -2$ essendo fra i valori accettabili è accettabile.

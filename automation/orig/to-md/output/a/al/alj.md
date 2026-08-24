@@ -1,6 +1,6 @@
 # [Equazioni logaritmiche]{.text-red}
 
-Sono equazioni in cui la $$x$$ compare nell'argomento del logaritmo;
+Sono equazioni in cui la $x$ compare nell'argomento del logaritmo;
 
 Per risolverle si cerca di ottenere un solo logaritmo sia prima che dopo l'uguale in modo da poter uguagliare gli argomenti; però, uguagliando gli argomenti si potrebbero aggiungere soluzioni non possibili: infatti l'argomento del logaritmo deve sempre essere maggiore di zero.
 

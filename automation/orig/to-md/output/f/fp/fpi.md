@@ -6,10 +6,10 @@ Naturalmente questo concetto è solamente intuitivo e quindi dobbiamo trovare un
 
 > **[Due figure si dicono simili se, considerate punto a punto, le distanze di punti corrispondenti sono fra loro proporzionali]{.text-red}**
 
-In pratica se prendo dei punti sulla prima figura (tipo $$A$$, $$B$$, $$C$$) ed i punti sulla seconda figura che sono sugli stessi raggi di proiezione ($$A'$$, $$B'$$, $$C'$$) allora se le figure sono simili avremo:
+In pratica se prendo dei punti sulla prima figura (tipo $A$, $B$, $C$) ed i punti sulla seconda figura che sono sugli stessi raggi di proiezione ($A'$, $B'$, $C'$) allora se le figure sono simili avremo:
 
 $$
 \overline{AB} : \overline{A'B'} = \overline{BC} : \overline{B'C'}
 $$
 
-> Per semplicità di rappresentazione ho preso i punti $$A$$, $$B$$ e $$C$$ sul bordo, ma avrei potuto prenderli tranquillamente all'interno della figura: la proprietà delle distanze deve valere per **tutti** i punti delle figure.
+> Per semplicità di rappresentazione ho preso i punti $A$, $B$ e $C$ sul bordo, ma avrei potuto prenderli tranquillamente all'interno della figura: la proprietà delle distanze deve valere per **tutti** i punti delle figure.

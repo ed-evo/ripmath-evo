@@ -35,7 +35,7 @@
     - Relazione transitiva
     - Relazione di equivalenza
         - Insieme quoziente
-        - Generazione dell'insieme $$N$$
+        - Generazione dell'insieme $N$
     - Relazione d'ordine
         - Relazione d'ordine stretto
         - Relazione d'ordine totale

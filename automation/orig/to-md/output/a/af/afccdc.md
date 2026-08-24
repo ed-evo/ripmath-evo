@@ -8,8 +8,8 @@ $$
 
 con
 
-[$$\textcolor{red}{s}$$ somma delle radici]{.text-red}
-[$$\textcolor{red}{p}$$ prodotto delle radici]{.text-red}
+[$\textcolor{red}{s}$ somma delle radici]{.text-red}
+[$\textcolor{red}{p}$ prodotto delle radici]{.text-red}
 
 ---
 
@@ -19,13 +19,13 @@ $$
 \textcolor{blue}{ax^2 + bx + c = 0}
 $$
 
-divido tutto per $$a$$
+divido tutto per $a$
 
 $$
 \textcolor{blue}{x^2 + \frac{b}{a}x + \frac{c}{a} = 0}
 $$
 
-siccome $$\frac{b}{a}$$ è la somma delle radici cambiata di segno, mentre $$\frac{c}{a}$$ è il prodotto posso scrivere
+siccome $\frac{b}{a}$ è la somma delle radici cambiata di segno, mentre $\frac{c}{a}$ è il prodotto posso scrivere
 
 $$
 \textcolor{blue}{\frac{b}{a} = -s \quad \frac{c}{a} = p}

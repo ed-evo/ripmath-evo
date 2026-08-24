@@ -1,8 +1,8 @@
 # [Equazioni irrazionali con indice pari]{.text-red}
 
 La radice con il suo termine è sempre considerata positiva quindi 
-$$\textcolor{red}{\sqrt{x}}$$ è un numero positivo
-$$\textcolor{red}{-\sqrt{x}}$$ è un numero negativo
+$\textcolor{red}{\sqrt{x}}$ è un numero positivo
+$\textcolor{red}{-\sqrt{x}}$ è un numero negativo
 
 Per poterle risolvere dovremo eliminare le radici elevando i termini a potenza pari.
 Ciò può tuttavia dar luogo a qualche problema: elevando a potenza pari potrebbero comparire delle soluzioni aggiunte dovute solamente all'elevamento. Per riconoscere quali soluzioni siano valide abbiamo due strade diverse:

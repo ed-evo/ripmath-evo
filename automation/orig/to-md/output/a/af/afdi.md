@@ -12,7 +12,7 @@ $$
 \textcolor{red}{\log x + x = 0}
 $$
 
-per $$\log x$$ intendiamo il logaritmo naturale di $$x$$: $$\log x = \ln x = \log_e x$$
+per $\log x$ intendiamo il logaritmo naturale di $x$: $\log x = \ln x = \log_e x$
 
 cerchiamo di separare l'espressione in due funzioni di cui conosciamo i grafici una prima ed una dopo l'uguale
 
@@ -34,4 +34,4 @@ $$
 - La prima è la funzione logaritmo.
 - la seconda è la bisettrice del secondo e quarto quadrante.
 
-La soluzione (il punto blu più grosso) è compresa fra $$0$$ ed $$1$$ e vale circa $$0,4$$.
+La soluzione (il punto blu più grosso) è compresa fra $0$ ed $1$ e vale circa $0,4$.

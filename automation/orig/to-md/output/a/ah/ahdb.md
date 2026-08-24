@@ -7,13 +7,13 @@ Nei problemi di tipo geometrico vedremo che abbiamo due possibilità:
 
 ***
 
-[1) L'area di un rettangolo vale $$80\text{ cm}^2$$. Determinare le dimensioni del rettangolo sapendo che la differenza fra la base e l'altezza è $$11\text{ cm}$$.]{.text-blue}
+[1) L'area di un rettangolo vale $80\text{ cm}^2$. Determinare le dimensioni del rettangolo sapendo che la differenza fra la base e l'altezza è $11\text{ cm}$.]{.text-blue}
 
 [soluzione](ahdb1.html)
 
 ***
 
-[2) In un rettangolo la differenza fra il doppio dell'altezza e la misura della base vale $$18\text{ cm}$$. La misura della diagonale vale $$45\text{ cm}$$. Determinare l'area del rettangolo.]{.text-blue}
+[2) In un rettangolo la differenza fra il doppio dell'altezza e la misura della base vale $18\text{ cm}$. La misura della diagonale vale $45\text{ cm}$. Determinare l'area del rettangolo.]{.text-blue}
 
 [soluzione](ahdb2.html)
 

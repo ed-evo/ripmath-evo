@@ -21,7 +21,7 @@ $$
 ---
 
 In forma matematica dobbiamo invece dire:
-Se abbiamo due funzioni $$\textcolor{purple}{y = f(x)}$$ e $$\textcolor{purple}{y = g(x)}$$ tali che:
+Se abbiamo due funzioni $\textcolor{purple}{y = f(x)}$ e $\textcolor{purple}{y = g(x)}$ tali che:
 $$
 \textcolor{purple}{\lim_{x \to x_0} f(x) = l} \quad \text{e} \quad \textcolor{purple}{\lim_{x \to x_0} g(x) = m}
 $$

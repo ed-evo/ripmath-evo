@@ -9,4 +9,4 @@ $$
 \textcolor{red}{y = \frac{1}{x^2}}
 $$
 
-presenta una discontinuità di seconda specie nel punto $$0$$.
+presenta una discontinuità di seconda specie nel punto $0$.

@@ -2,7 +2,7 @@
 
 I postulati sono delle regole iniziali cui tutti gli oggetti geometrici debbono obbedire: Euclide li mise alla base della geometria per la loro intuitività.
 
-Possiamo dividerli in $$5$$ gruppi:
+Possiamo dividerli in $5$ gruppi:
 
 - Postulati dell'esistenza
 - Postulati dell'appartenenza

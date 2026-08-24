@@ -1,6 +1,6 @@
 # [Interesse semplice]{.text-red}
 
-Come abbiamo detto l' **Interesse $$I$$** è il compenso spettante a chi dà in uso il proprio denaro.
+Come abbiamo detto l' **Interesse $I$** è il compenso spettante a chi dà in uso il proprio denaro.
 
 - Determinazione della formula
 - Capitalizzazione semplice

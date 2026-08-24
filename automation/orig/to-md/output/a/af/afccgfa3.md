@@ -4,9 +4,9 @@ Data l'equazione
 $$
 \textcolor{blue}{(k+1)x^2 - 2kx + k - 2 = 0}
 $$
-trovare il valore di $$k$$ affinché l'equazione abbia radici inverse.
+trovare il valore di $k$ affinché l'equazione abbia radici inverse.
 
-> **Nota:** due radici sono inverse se sono, ad esempio, $$3$$ e $$1/3$$, cioè se il loro prodotto vale $$1$$, quindi
+> **Nota:** due radici sono inverse se sono, ad esempio, $3$ e $1/3$, cioè se il loro prodotto vale $1$, quindi
 > $$
 > \textcolor{blue}{\frac{c}{a} = 1}
 > $$
@@ -47,4 +47,4 @@ $$
 \textcolor{blue}{0 = 3}
 $$
 
-Equazione impossibile, quindi non esiste un valore di $$k$$ che verifichi la condizione richiesta.
+Equazione impossibile, quindi non esiste un valore di $k$ che verifichi la condizione richiesta.

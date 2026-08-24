@@ -15,7 +15,7 @@ Ad esempio, se considero il quadrato inscritto e poi l'ottagono regolare inscrit
 Per mostrare che la misura della circonferenza è maggiore della misura del perimetro di qualunque poligono inscritto basta ricordare che ogni corda è minore del suo arco.
 > **Esercizio:** Prova a dimostrarlo.
 
-Se considero il lato del quadrato $$AB$$ e i lati dell'ottagono $$AP$$ e $$PB$$, essi formano il triangolo $$APB$$ e in ogni triangolo ogni lato è minore della somma degli altri due, quindi:
+Se considero il lato del quadrato $AB$ e i lati dell'ottagono $AP$ e $PB$, essi formano il triangolo $APB$ e in ogni triangolo ogni lato è minore della somma degli altri due, quindi:
 
 $$
 AB < AP + PB

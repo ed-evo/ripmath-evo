@@ -1,9 +1,9 @@
 # [Esercizi]{.text-red}
 
-Ho la disequazione $$\textcolor{red}{x^2 + 5x + 6 \geq 0}$$
+Ho la disequazione $\textcolor{red}{x^2 + 5x + 6 \geq 0}$
 
 considero l'equazione associata:
-$$\textcolor{blue}{x^2 + 5x + 6 = 0}$$
+$\textcolor{blue}{x^2 + 5x + 6 = 0}$
 
 prendiamo la formula risolutiva:
 
@@ -12,9 +12,9 @@ $$
 $$
 
 abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 5}$$
-$$\textcolor{blue}{c = 6}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 5}$
+$\textcolor{blue}{c = 6}$
 
 sostituiamo nella formula:
 
@@ -48,8 +48,8 @@ $$
 
 Ho quindi le due soluzioni:
 
-$$\textcolor{red}{x_1 = -3} \quad \textcolor{red}{x_2 = -2}$$
+$\textcolor{red}{x_1 = -3} \quad \textcolor{red}{x_2 = -2}$
 
-Essendo $$\textcolor{red}{x^2 + 5x + 6 \geq 0}$$ dovrò prendere i valori [esterni]{.text-blue} all'intervallo delle radici più i valori agli estremi dell'intervallo stesso, quindi:
+Essendo $\textcolor{red}{x^2 + 5x + 6 \geq 0}$ dovrò prendere i valori [esterni]{.text-blue} all'intervallo delle radici più i valori agli estremi dell'intervallo stesso, quindi:
 
-$$\textcolor{red}{x \leq -3 \cup x \geq -2}$$
+$\textcolor{red}{x \leq -3 \cup x \geq -2}$

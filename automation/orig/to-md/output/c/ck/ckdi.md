@@ -6,9 +6,9 @@
 
 Facciamo un semplice esercizio, giusto per vedere applicare il metodo, su un integrale che già conosciamo.
 
-[$$\int \cos x \, dx =$$]{.text-blue}
+[$\int \cos x \, dx =$]{.text-blue}
 
-sviluppo $$\cos x$$ in [serie di potenze](../cj/cjgc.html)
+sviluppo $\cos x$ in [serie di potenze](../cj/cjgc.html)
 
 $$
 \textcolor{blue}{\cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \frac{x^8}{8!} - \dots}
@@ -36,9 +36,9 @@ $$
 \textcolor{red}{\int \frac{x^8}{8!} \, dx = \frac{x^9}{9 \cdot 8!} = \frac{x^9}{9!}}
 $$
 
-$$\dots$$
+$\dots$
 
-quindi, osservando che i termini che abbiamo ottenuto sono quelli dello sviluppo [in serie di $$\sin x$$](../cj/cjgb.html)
+quindi, osservando che i termini che abbiamo ottenuto sono quelli dello sviluppo [in serie di $\sin x$](../cj/cjgb.html)
 
 $$
 \textcolor{blue}{\int \cos x \, dx = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \frac{x^9}{9!} - \dots = \sin x}

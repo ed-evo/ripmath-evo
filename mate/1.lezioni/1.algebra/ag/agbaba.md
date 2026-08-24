@@ -1,0 +1,1 @@
+> Sarebbe perfettamente equivalente considerare sulla retta il verso che va da destra verso sinistra ma in matematica sono ormai centinaia di anni che si è scelto come prevalente il verso da sinistra verso destra ed essendo la matematica abbastanza immune da discussioni politiche perché cambiare?

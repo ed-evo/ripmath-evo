@@ -1,0 +1,1 @@
+> [Quando risolvo equazioni mi sento un po' killer con tutti i termini che devo eliminare!!!! ;-)]{.text-red}

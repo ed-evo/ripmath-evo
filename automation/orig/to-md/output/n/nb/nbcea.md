@@ -1,7 +1,7 @@
 ## [calcoli]{.text-red}
 
 Ho
-$$S = Vit$$
+$S = Vit$
 
 So che vale
 

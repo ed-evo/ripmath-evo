@@ -4,15 +4,15 @@ C'è da dire subito che una funzione continua non è sempre derivabile, infatti 
 
 ### Curva di Peano
 
-Per costruire la curva di Peano su un quadrato dividilo in $$4$$ parti e considera i centri dei sottoquadrati, congiungili con dei segmenti (prima figura); dividi poi ognuno dei sottoquadrati in $$4$$ sotto-sottoquadrati e congiungili come vedi nella seconda figura. Continuando il procedimento riempirai tutto il quadrato con una curva che non sarà derivabile in nessun punto.
+Per costruire la curva di Peano su un quadrato dividilo in $4$ parti e considera i centri dei sottoquadrati, congiungili con dei segmenti (prima figura); dividi poi ognuno dei sottoquadrati in $4$ sotto-sottoquadrati e congiungili come vedi nella seconda figura. Continuando il procedimento riempirai tutto il quadrato con una curva che non sarà derivabile in nessun punto.
 
 ### Curva di von Koch
 
-Prendi un segmento, dividilo in tre parti uguali e su quella in mezzo, al posto del segmento, prendi due lati di un triangolo equilatero; ripeti il procedimento su ognuno dei $$4$$ segmenti così ottenuti. Procedendo all'infinito, la curva che si ottiene non ha nessun punto derivabile.
+Prendi un segmento, dividilo in tre parti uguali e su quella in mezzo, al posto del segmento, prendi due lati di un triangolo equilatero; ripeti il procedimento su ognuno dei $4$ segmenti così ottenuti. Procedendo all'infinito, la curva che si ottiene non ha nessun punto derivabile.
 
 Dimostriamo, a completamento della pagina, che se una funzione è derivabile allora è anche continua.
 
-Ho per ipotesi che esiste la derivata finita $$f'(x_0)$$.
+Ho per ipotesi che esiste la derivata finita $f'(x_0)$.
 Devo dimostrare che allora la funzione è continua (tesi).
 
 La definizione di continuità è che:
@@ -41,7 +41,7 @@ $$
 > \textcolor{red}{\lim_{h \to 0} (f(x_0+h) - f(x_0))}
 > $$
 >
-> Devo dimostrare che vale zero. Moltiplico sopra e sotto per $$h$$:
+> Devo dimostrare che vale zero. Moltiplico sopra e sotto per $h$:
 >
 > $$
 > \textcolor{red}{\lim_{h \to 0} \frac{f(x_0+h) - f(x_0)}{h} \cdot h}

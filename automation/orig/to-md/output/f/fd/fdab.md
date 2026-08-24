@@ -28,6 +28,6 @@ $$
 
 ### Dimostrazione
 
-Trasporto il lato $$BC$$ sopra il lato $$B'C'$$ (posso farlo perché sono congruenti per ipotesi e potrei farlo in due modi diversi: o traslando il lato o ruotandolo; devo dire che lo porto sopra senza ruotarlo) in modo che l'angolo $$\widehat{ABC}$$ vada sopra l'angolo $$\widehat{A'B'C'}$$ e l'angolo $$\widehat{BCA}$$ vada sopra $$\widehat{B'C'A'}$$; in questo modo i due triangoli hanno $$AB$$ su $$A'B'$$, $$BC$$ su $$B'C'$$ e $$CA$$ su $$C'A'$$ quindi sono sovrapposti e coincidono punto per punto come volevamo dimostrare.
+Trasporto il lato $BC$ sopra il lato $B'C'$ (posso farlo perché sono congruenti per ipotesi e potrei farlo in due modi diversi: o traslando il lato o ruotandolo; devo dire che lo porto sopra senza ruotarlo) in modo che l'angolo $\widehat{ABC}$ vada sopra l'angolo $\widehat{A'B'C'}$ e l'angolo $\widehat{BCA}$ vada sopra $\widehat{B'C'A'}$; in questo modo i due triangoli hanno $AB$ su $A'B'$, $BC$ su $B'C'$ e $CA$ su $C'A'$ quindi sono sovrapposti e coincidono punto per punto come volevamo dimostrare.
 
 > **Nota:** Da notare che per la dimostrazione parto dall'elemento in mezzo agli altri due.

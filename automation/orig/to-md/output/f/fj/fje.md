@@ -12,7 +12,7 @@ Abbiamo sei possibilità.
 \overline{O_1 O_2} > r_1 + r_2 \quad d > r_1 + r_2
 $$]{.text-blue}
 
-Le circonferenze sono fra loro esterne se la distanza $$d$$ fra i due centri è superiore al valore della somma dei due raggi.
+Le circonferenze sono fra loro esterne se la distanza $d$ fra i due centri è superiore al valore della somma dei due raggi.
 
 Viceversa: se la distanza fra i due centri è superiore al valore della somma dei due raggi allora le circonferenze sono esterne fra loro.
 
@@ -22,7 +22,7 @@ Viceversa: se la distanza fra i due centri è superiore al valore della somma de
 \overline{O_1 O_2} = r_1 + r_2 \quad d = r_1 + r_2
 $$]{.text-blue}
 
-Le circonferenze sono fra loro tangenti esternamente se la distanza $$d$$ fra i due centri è uguale al valore della somma dei due raggi.
+Le circonferenze sono fra loro tangenti esternamente se la distanza $d$ fra i due centri è uguale al valore della somma dei due raggi.
 
 Viceversa: se la distanza fra i due centri è uguale al valore della somma dei due raggi allora le circonferenze sono tangenti esternamente fra loro.
 
@@ -32,11 +32,11 @@ Viceversa: se la distanza fra i due centri è uguale al valore della somma dei d
 r_1 + r_2 > \overline{O_1 O_2} > r_1 - r_2 \quad d < r_1 + r_2
 $$]{.text-blue}
 
-Le circonferenze sono fra loro secanti se la distanza $$d$$ fra i due centri è inferiore al valore della somma dei due raggi e superiore alla loro differenza.
+Le circonferenze sono fra loro secanti se la distanza $d$ fra i due centri è inferiore al valore della somma dei due raggi e superiore alla loro differenza.
 
 Viceversa: se la distanza fra i due centri è inferiore al valore della somma dei due raggi e superiore alla loro differenza allora le circonferenze sono fra loro secanti.
 
-> **Osservazione:** Deriva dalla proprietà dei triangoli per cui un lato $$\overline{O_1 O_2}$$ è minore della somma degli altri due lati $$PO_1 + PO_2$$ ed è anche maggiore della loro differenza $$PO_1 - PO_2$$.
+> **Osservazione:** Deriva dalla proprietà dei triangoli per cui un lato $\overline{O_1 O_2}$ è minore della somma degli altri due lati $PO_1 + PO_2$ ed è anche maggiore della loro differenza $PO_1 - PO_2$.
 
 ## 4. Circonferenze tangenti internamente
 
@@ -44,7 +44,7 @@ Viceversa: se la distanza fra i due centri è inferiore al valore della somma de
 \overline{O_1 O_2} = r_1 - r_2 \quad d = r_1 - r_2
 $$]{.text-blue}
 
-Le circonferenze sono fra loro tangenti internamente se la distanza $$d$$ fra i due centri è uguale al valore della differenza dei due raggi.
+Le circonferenze sono fra loro tangenti internamente se la distanza $d$ fra i due centri è uguale al valore della differenza dei due raggi.
 
 Viceversa: se la distanza fra i due centri è uguale al valore della differenza dei due raggi allora le circonferenze sono fra loro tangenti internamente.
 
@@ -54,7 +54,7 @@ Viceversa: se la distanza fra i due centri è uguale al valore della differenza 
 r_1 - r_2 > \overline{O_1 O_2} > 0 \quad r_1 - r_2 > d > 0
 $$]{.text-blue}
 
-Una circonferenza è interna rispetto all'altra se la distanza $$d$$ fra i due centri è inferiore al valore della differenza dei due raggi ma è maggiore di zero.
+Una circonferenza è interna rispetto all'altra se la distanza $d$ fra i due centri è inferiore al valore della differenza dei due raggi ma è maggiore di zero.
 
 Viceversa: se la distanza fra i due centri è inferiore al valore della differenza dei due raggi ed è maggiore di zero allora una circonferenza è interna rispetto all'altra.
 
@@ -64,6 +64,6 @@ Viceversa: se la distanza fra i due centri è inferiore al valore della differen
 \overline{O_1 O_2} = 0 \quad d = 0
 $$]{.text-blue}
 
-Le circonferenze sono concentriche se la distanza $$d$$ fra i due centri è uguale a zero.
+Le circonferenze sono concentriche se la distanza $d$ fra i due centri è uguale a zero.
 
-Viceversa: se la distanza $$d$$ fra i due centri è uguale a zero allora le circonferenze sono concentriche.
+Viceversa: se la distanza $d$ fra i due centri è uguale a zero allora le circonferenze sono concentriche.

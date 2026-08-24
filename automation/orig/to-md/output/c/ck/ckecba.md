@@ -1,16 +1,16 @@
 # [esercizio]{.text-red}
 
-Calcolare l'area della regione di piano compresa fra la parabola $$\textcolor{blue}{y = x^2 - 4}$$ e la retta $$\textcolor{blue}{y = 5}$$.
+Calcolare l'area della regione di piano compresa fra la parabola $\textcolor{blue}{y = x^2 - 4}$ e la retta $\textcolor{blue}{y = 5}$.
 
 Come prima cosa facciamo la rappresentazione grafica.
 
 L'area che devo trovare è quella indicata con il verde più scuro.
 
-Tale area è in parte sopra ed in parte sotto l'asse delle $$x$$, quindi studiamole nei particolari:
+Tale area è in parte sopra ed in parte sotto l'asse delle $x$, quindi studiamole nei particolari:
 
-Per fare l'area sotto l'asse $$x$$ basterà fare l'integrale della parabola da $$-2$$ a $$2$$ e cambiarlo di segno.
+Per fare l'area sotto l'asse $x$ basterà fare l'integrale della parabola da $-2$ a $2$ e cambiarlo di segno.
 
-Per fare l'area sopra l'asse delle $$x$$ prima faremo l'integrale da $$-3$$ a $$3$$ della retta e poi toglieremo l'area compresa fra la parabola e l'asse $$x$$ da $$-3$$ a $$-2$$ e anche da $$2$$ a $$3$$.
+Per fare l'area sopra l'asse delle $x$ prima faremo l'integrale da $-3$ a $3$ della retta e poi toglieremo l'area compresa fra la parabola e l'asse $x$ da $-3$ a $-2$ e anche da $2$ a $3$.
 
 Quindi per calcolare l'area devo fare:
 
@@ -32,6 +32,6 @@ $$
 \textcolor{blue}{= 16 - \frac{16}{3} + 30 + \frac{8}{3} - 5 + \frac{8}{3} - 5 = 36}
 $$
 
-Quindi l'area cercata vale $$36$$ unità quadrate del piano.
+Quindi l'area cercata vale $36$ unità quadrate del piano.
 
 > **Nota:** sviluppare bene i calcoli perché è facilissimo sbagliare un segno.

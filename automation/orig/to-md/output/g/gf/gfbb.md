@@ -7,12 +7,12 @@ In pratica dobbiamo ripetere gli stessi teoremi già visti nel piano considerand
 Le proprietà sono:
 
 - Il segmento di perpendicolare è minore di ogni segmento obliquo
-  Cioè devo dimostrare $$PH < PA$$
+  Cioè devo dimostrare $PH < PA$
 
 - Segmenti obliqui uguali hanno proiezioni uguali
-  Cioè devo dimostrare $$PB = PC$$
+  Cioè devo dimostrare $PB = PC$
 
 - A proiezione maggiore corrisponde lato obliquo maggiore
-  Cioè devo dimostrare che se $$HC > HA$$ allora $$PC > PA$$
+  Cioè devo dimostrare che se $HC > HA$ allora $PC > PA$
 
 I link ti rimandano alle dimostrazioni fatte sul piano

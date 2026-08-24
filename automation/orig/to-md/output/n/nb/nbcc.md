@@ -10,7 +10,7 @@ Posso cioè paragonare la somma scontata ad un capitale che impiegato un certo t
 
 Quindi lo sconto corrisponde all'interesse su tale prestito.
 
-> Se guardi la retta dei tempi il concetto ti sarà ancora più chiaro pensando a $$C$$ come alla somma scontata ed a $$M_t$$ come al valore nominale.
+> Se guardi la retta dei tempi il concetto ti sarà ancora più chiaro pensando a $C$ come alla somma scontata ed a $M_t$ come al valore nominale.
 
 Quindi avremo subito:
 

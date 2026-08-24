@@ -1,6 +1,6 @@
 # [Applicazioni della teoria della misura]{.text-red}
 
-Ora possiamo passare a trattare le figure piane come superfici da misurare; per indicare un'area, ad esempio del quadrilatero $$ABCD$$, scriveremo
+Ora possiamo passare a trattare le figure piane come superfici da misurare; per indicare un'area, ad esempio del quadrilatero $ABCD$, scriveremo
 
 $$
 \textcolor{red}{A_s(ABCD) = o}

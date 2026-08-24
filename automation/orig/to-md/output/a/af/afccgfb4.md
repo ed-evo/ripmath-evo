@@ -4,7 +4,7 @@ data l'equazione
 $$
 \textcolor{blue}{kx^2 - (k-2)x + 1 = 0}
 $$
-trovare il valore di $$k$$ affinché
+trovare il valore di $k$ affinché
 $$
 \textcolor{blue}{x_1 + 3x_2 = 7}
 $$
@@ -14,7 +14,7 @@ In questo caso non è possibile trasformare in modo semplice la relazione in som
 - la somma delle radici
 - il prodotto delle radici
 
-abbiamo le tre incognite $$x_1$$, $$x_2$$ e $$k$$ e quindi risolvendo ne troveremo il valore (è sufficiente trovare il solo valore di $$k$$)
+abbiamo le tre incognite $x_1$, $x_2$ e $k$ e quindi risolvendo ne troveremo il valore (è sufficiente trovare il solo valore di $k$)
 
 > **Nota:** [Questo metodo di utilizzare un sistema di tre equazioni in tre incognite è applicabile ad ogni problema e potrebbe essere utilizzato come metodo generale, però se guardi i calcoli vedi che sono piuttosto lunghi e complicati, quindi sarà usato solamente quando non si potrà fare diversamente]{.text-purple}
 
@@ -55,7 +55,7 @@ $$
 \begin{cases} \textcolor{red}{x_1 + 3x_2 = 7} \\ \textcolor{red}{kx_1 + kx_2 = k-2} \\ \textcolor{red}{kx_1 \cdot x_2 = 1} \end{cases}
 $$
 
-che per $$k$$ mi dà le soluzioni [calcoli](afccgfb4a.html)
+che per $k$ mi dà le soluzioni [calcoli](afccgfb4a.html)
 
 $$
 \textcolor{blue}{k_1 = \frac{-2 - \sqrt{2}}{2}} \quad \textcolor{blue}{k_2 = \frac{-2 + \sqrt{2}}{2}}

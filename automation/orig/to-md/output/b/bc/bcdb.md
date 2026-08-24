@@ -36,19 +36,19 @@ $$
 \textcolor{red}{\frac{1}{2} + \frac{1}{3} =}
 $$
 
-Il minimo comune multiplo fra $$2$$ e $$3$$ è $$6$$ quindi scrivo
+Il minimo comune multiplo fra $2$ e $3$ è $6$ quindi scrivo
 
 $$
 \textcolor{red}{\frac{1}{2} + \frac{1}{3} = \frac{\phantom{0}}{6}}
 $$
 
-Ora faccio $$6$$ diviso $$2$$, viene $$3$$ e moltiplico $$3$$ per il numeratore $$3 \cdot 1 = 3$$, lo scrivo sopra
+Ora faccio $6$ diviso $2$, viene $3$ e moltiplico $3$ per il numeratore $3 \cdot 1 = 3$, lo scrivo sopra
 
 $$
 \textcolor{red}{\frac{1}{2} + \frac{1}{3} = \frac{3 + \phantom{0}}{6}}
 $$
 
-Ora faccio $$6$$ diviso $$3$$, viene $$2$$ e moltiplico $$2$$ per il numeratore $$2 \cdot 1 = 2$$, lo scrivo sopra
+Ora faccio $6$ diviso $3$, viene $2$ e moltiplico $2$ per il numeratore $2 \cdot 1 = 2$, lo scrivo sopra
 
 $$
 \textcolor{red}{\frac{1}{2} + \frac{1}{3} = \frac{3 + 2}{6}}

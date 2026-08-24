@@ -26,7 +26,7 @@ p [Matematica per informatica]{.text-blue}
         - [codice ascii](p/pb/pbgc.html)
     - [Sistema ottale](p/pb/pbh.html)
     - [Sistema esadecimale](p/pb/pbi.html)
-        - [sistema di numerazione a base $$16$$](p/pb/pbia.html)
+        - [sistema di numerazione a base $16$](p/pb/pbia.html)
         - [relazioni fra sistema esadecimale e binario](p/pb/pbib.html)
         - [un esempio: il comando “debug”](p/pb/pbic.html)
 - [Cenni sull'algebra binaria di Boole](p/pc/pc.html)

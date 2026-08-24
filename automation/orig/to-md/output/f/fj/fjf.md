@@ -9,15 +9,15 @@ Nei teoremi fondamentali è invece essenziale conoscere bene anche la dimostrazi
 Insistere sullo stesso arco significa che il loro arco è lo stesso.
 
 **Ipotesi:**
-- $$\widehat{AOB}$$ = Angolo al centro
-- $$\widehat{ACB}$$ = Angolo alla circonferenza
+- $\widehat{AOB}$ = Angolo al centro
+- $\widehat{ACB}$ = Angolo alla circonferenza
 
 **Tesi:**
-- $$\widehat{AOB} = 2\widehat{ACB}$$
+- $\widehat{AOB} = 2\widehat{ACB}$
 
 ## Dimostrazione
 
-Traccio il diametro $$COD$$.
+Traccio il diametro $COD$.
 Dividiamo la dimostrazione in due parti:
 prima dimostriamo che:
 
@@ -31,8 +31,8 @@ $$
 \widehat{DOA} = 2\widehat{DCA}
 $$
 
-Considero il triangolo $$OCB$$, esso è isoscele perché $$OC$$ ed $$OB$$ sono raggi, quindi i due angoli $$\widehat{OCB}$$ ed $$\widehat{OBC}$$ sono congruenti.
-L'angolo $$\widehat{DOB}$$ è un angolo esterno rispetto al triangolo $$OCB$$ ed è quindi [congruente](fjf1.html) alla somma dei due angoli interni non adiacenti; siccome i due angoli sono congruenti ne segue che:
+Considero il triangolo $OCB$, esso è isoscele perché $OC$ ed $OB$ sono raggi, quindi i due angoli $\widehat{OCB}$ ed $\widehat{OBC}$ sono congruenti.
+L'angolo $\widehat{DOB}$ è un angolo esterno rispetto al triangolo $OCB$ ed è quindi [congruente](fjf1.html) alla somma dei due angoli interni non adiacenti; siccome i due angoli sono congruenti ne segue che:
 
 $$
 \widehat{DOB} = 2\widehat{OCB}

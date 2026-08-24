@@ -16,7 +16,7 @@ $$
 > \textcolor{red}{x + 5 \neq 0 \implies x \neq -5}
 > $$
 
-Cioè se troveremo come soluzione $$x = 5$$ o $$x = -5$$ diremo che l'equazione è impossibile.
+Cioè se troveremo come soluzione $x = 5$ o $x = -5$ diremo che l'equazione è impossibile.
 
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
 [$$\text{m.c.m.} = 3(x-5)(x+5)$]{.text-blue}
@@ -27,7 +27,7 @@ $$
 
 Elimino i denominatori.
 
-> Devo moltiplicare da entrambe le parti per $$3(x-5)(x+5)$$; posso farlo perché ho posto che è diverso da zero.
+> Devo moltiplicare da entrambe le parti per $3(x-5)(x+5)$; posso farlo perché ho posto che è diverso da zero.
 
 $$
 \textcolor{blue}{10(x-5)(x+5) - 3(x-5)^2 = 3(x+5)^2}
@@ -57,7 +57,7 @@ $$
 \textcolor{blue}{4x^2 - 400 = 0}
 $$
 
-divido entrambi i membri per il coefficiente di $$x^2$$:
+divido entrambi i membri per il coefficiente di $x^2$:
 
 $$
 \textcolor{blue}{\frac{4x^2}{4} = \frac{400}{4}}
@@ -75,7 +75,7 @@ $$
 \textcolor{blue}{\sqrt{x^2} = \pm\sqrt{100}}
 $$
 
-Semplifico le radici con gli esponenti ricordando che $$100 = 10^2$$:
+Semplifico le radici con gli esponenti ricordando che $100 = 10^2$:
 
 $$
 \textcolor{blue}{x = \pm 10}

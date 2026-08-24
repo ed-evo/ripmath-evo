@@ -16,7 +16,7 @@
 > \textcolor{red}{y = \frac{x^2 - 4}{x - 2}}
 > $$
 >
-> non esiste nel punto $$2$$ ed il suo limite in tale punto vale $$4$$; attribuendo $$4$$ al valore della funzione in quel punto la discontinuità è eliminata.
+> non esiste nel punto $2$ ed il suo limite in tale punto vale $4$; attribuendo $4$ al valore della funzione in quel punto la discontinuità è eliminata.
 
 ***
 
@@ -26,7 +26,7 @@
 > \textcolor{red}{y = \begin{cases} 1 & \text{per } x \neq 2 \\ 2 & \text{per } x = 2 \end{cases}}
 > $$
 >
-> Basterà assegnare alla funzione il valore $$1$$ anche nel punto $$2$$ per eliminare la discontinuità.
+> Basterà assegnare alla funzione il valore $1$ anche nel punto $2$ per eliminare la discontinuità.
 
 ***
 

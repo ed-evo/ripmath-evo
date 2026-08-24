@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{\frac{\sqrt{2}}{2}}
 $$
 
-non ho nessun problema perché posso dividere ogni cifra per $$2$$
+non ho nessun problema perché posso dividere ogni cifra per $2$
 
 $$
 \textcolor{blue}{\frac{1,41421356...}{2} = 0,70710678...}

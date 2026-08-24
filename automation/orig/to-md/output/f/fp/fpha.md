@@ -3,7 +3,7 @@
 **Definizione:**
 **Due poligoni sono simili se hanno tutti gli angoli uguali ed i lati corrispondenti in proporzione**
 
-> Se il rapporto di similitudine vale $$1$$ allora i due poligoni, oltre che simili, sono anche congruenti.
+> Se il rapporto di similitudine vale $1$ allora i due poligoni, oltre che simili, sono anche congruenti.
 
 > **Nota:** Secondo me migliore è la definizione:
 > Se congiungendo i vertici corrispondenti di due poligoni tutte le congiungenti si intersecano in un unico punto allora i due poligoni sono simili.

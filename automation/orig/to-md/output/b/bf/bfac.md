@@ -18,6 +18,6 @@ In Aritmetica invece si parte dai concetti di numero e successivo di un numero e
 - Il successivo di un numero è ancora un numero
 - Dati due numeri, se i loro successivi sono uguali allora i due numeri sono uguali
 - L'unità non è successivo di nessun numero
-- Se $$s$$ è una classe di numeri contenente l'unità e se la classe dei successivi degli elementi di $$s$$ è contenuta in $$s$$ allora ogni numero è contenuto in $$s$$ (principio di induzione)
+- Se $s$ è una classe di numeri contenente l'unità e se la classe dei successivi degli elementi di $s$ è contenuta in $s$ allora ogni numero è contenuto in $s$ (principio di induzione)
 
 > **Nota:** Caratteristica formale dei postulati è che debbono essere fra loro indipendenti e il loro numero deve essere il minore possibile. È logico che cambiando i postulati varia il tipo di matematica che si ottiene, così in geometria, variando il quinto postulato (di Euclide), otteniamo altre geometrie, diverse dalla Geometria Euclidea.

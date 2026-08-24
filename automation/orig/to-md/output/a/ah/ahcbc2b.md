@@ -6,7 +6,7 @@ $$
 \textcolor{red}{xy - x - y + 1 = xy - 15}
 $$
 
-Gli $$xy$$ si eliminano tra loro e porto $$1$$ dopo l'uguale
+Gli $xy$ si eliminano tra loro e porto $1$ dopo l'uguale
 
 $$
 \textcolor{red}{-x - y = -1 - 15}

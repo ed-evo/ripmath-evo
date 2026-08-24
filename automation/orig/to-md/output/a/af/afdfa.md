@@ -10,7 +10,7 @@ $$
 \textcolor{red}{x - \sqrt[3]{x^3 + 2x^2 - 1} = -1}
 $$
 
-Isolo la radice trasportandola dopo l'uguale (di solito si porta la radice dove il suo segno è positivo) e porto $$1$$ prima dell'uguale
+Isolo la radice trasportandola dopo l'uguale (di solito si porta la radice dove il suo segno è positivo) e porto $1$ prima dell'uguale
 
 $$
 \textcolor{red}{x + 1 = \sqrt[3]{x^3 + 2x^2 - 1}}

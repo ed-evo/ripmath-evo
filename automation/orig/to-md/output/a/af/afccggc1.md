@@ -1,5 +1,5 @@
 risolvo la prima equazione
-$$\textcolor{blue}{6x^2 - x\sqrt{3} - 6 = 0}$$
+$\textcolor{blue}{6x^2 - x\sqrt{3} - 6 = 0}$
 
 applico la formula 
 
@@ -8,9 +8,9 @@ $$
 $$
 
 abbiamo:
-- [$$\textcolor{blue}{a = 6}$$]{.text-blue}
-- [$$\textcolor{blue}{b = -\sqrt{3}$$]{.text-blue}
-- [$$\textcolor{blue}{c = -6}$$]{.text-blue}
+- [$\textcolor{blue}{a = 6}$]{.text-blue}
+- [$\textcolor{blue}{b = -\sqrt{3}$]{.text-blue}
+- [$\textcolor{blue}{c = -6}$]{.text-blue}
 
 sostituiamo nella formula
 

@@ -1,0 +1,3 @@
+Sai che la somma degli angoli interni di un triangolo vale un angolo piatto; se consideri l'angolo esterno con l'angolo interno adiacente ottieni ancora un angolo piatto; quindi...
+
+> **Esercizio:** Vedi la figura a lato e, per esercizio, fai una dimostrazione rigorosa.

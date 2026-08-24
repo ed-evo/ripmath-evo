@@ -12,9 +12,9 @@ $$
 \textcolor{blue}{e^{-iy} = \cos y - i \sin y}
 $$
 
-> **Nota:** Infatti $$\cos(-a) = \cos a$$ mentre $$\sin(-a) = -\sin a$$
+> **Nota:** Infatti $\cos(-a) = \cos a$ mentre $\sin(-a) = -\sin a$
 
-Facendo il sistema fra le due equazioni posso ricavare $$\cos y$$ e $$\sin y$$ in funzione di $$e^{iy}$$ ed $$e^{-iy}$$
+Facendo il sistema fra le due equazioni posso ricavare $\cos y$ e $\sin y$ in funzione di $e^{iy}$ ed $e^{-iy}$
 
 $$
 \textcolor{blue}{

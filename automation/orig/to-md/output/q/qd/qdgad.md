@@ -41,7 +41,7 @@ Similmente diremo:
 > $$
 > s_2 = \frac{1}{2} + \frac{1}{3} + \frac{1}{5} + \frac{1}{9} + \frac{1}{17} + \dots
 > $$
-> Infatti, in ogni addendo della seconda il denominatore della frazione è maggiore di $$1$$ del corrispondente della prima:
+> Infatti, in ogni addendo della seconda il denominatore della frazione è maggiore di $1$ del corrispondente della prima:
 > $$
 > s_2 = \frac{1}{1+1} + \frac{1}{2+1} + \frac{1}{4+1} + \frac{1}{8+1} + \frac{1}{16+1} + \dots
 > $$
@@ -63,4 +63,4 @@ Similmente diremo:
 > $$
 > s_2 = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \frac{1}{6} + \frac{1}{7} + \dots
 > $$
-> Infatti ogni termine della prima ha il numeratore aumentato di $$1$$ rispetto al termine corrispondente della serie armonica e quindi ogni addendo della prima ha valore maggiore del corrispondente addendo della seconda: essendo la serie armonica divergente ne segue che anche la prima serie è divergente.
+> Infatti ogni termine della prima ha il numeratore aumentato di $1$ rispetto al termine corrispondente della serie armonica e quindi ogni addendo della prima ha valore maggiore del corrispondente addendo della seconda: essendo la serie armonica divergente ne segue che anche la prima serie è divergente.

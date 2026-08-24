@@ -19,35 +19,35 @@ $$
 \widehat{aPb} + \widehat{bPc} > \widehat{aPc}
 $$
 
-Supponiamo che $$\widehat{aPc}$$ sia la faccia maggiore (altrimenti il teorema è evidente); su di essa prendiamo $$\widehat{cPd} = \widehat{cPb}$$.
+Supponiamo che $\widehat{aPc}$ sia la faccia maggiore (altrimenti il teorema è evidente); su di essa prendiamo $\widehat{cPd} = \widehat{cPb}$.
 
-Ora passiamo a costruire il triangolo di base $$ABC$$.
+Ora passiamo a costruire il triangolo di base $ABC$.
 
-Fissiamo sulla semiretta $$Pa$$ il punto $$A$$ e sulla semiretta $$Pc$$ il punto $$C$$. Il segmento $$AC$$ interseca la semiretta $$Pd$$ nel punto $$D$$. Dal punto $$P$$ riportiamo sulla semiretta $$b$$ il segmento $$PD = PB$$.
+Fissiamo sulla semiretta $Pa$ il punto $A$ e sulla semiretta $Pc$ il punto $C$. Il segmento $AC$ interseca la semiretta $Pd$ nel punto $D$. Dal punto $P$ riportiamo sulla semiretta $b$ il segmento $PD = PB$.
 
-In questo modo determino il punto $$B$$ ed ho costruito il triangolo $$ABC$$.
+In questo modo determino il punto $B$ ed ho costruito il triangolo $ABC$.
 
-Considero ora i triangoli $$PBC$$ e $$PCD$$; essi hanno:
-- $$BC = CD$$ per costruzione
-- $$\widehat{CPD} = \widehat{CPB}$$ sempre per costruzione
-- $$PC$$ in comune
+Considero ora i triangoli $PBC$ e $PCD$; essi hanno:
+- $BC = CD$ per costruzione
+- $\widehat{CPD} = \widehat{CPB}$ sempre per costruzione
+- $PC$ in comune
 
 Quindi i due triangoli sono congruenti per il primo criterio di congruenza dei triangoli.
 
-Considero ora il triangolo $$ABC$$; per le proprietà dei triangoli so che un lato è maggiore della differenza degli altri due lati, cioè:
+Considero ora il triangolo $ABC$; per le proprietà dei triangoli so che un lato è maggiore della differenza degli altri due lati, cioè:
 $$
 AB > AC - BC
 $$
-e siccome $$BC = CD$$ avrò:
+e siccome $BC = CD$ avrò:
 $$
 AB > AC - CD \text{ cioè } AB > AD
 $$
 
-Considero ora i triangoli $$PAB$$ e $$PAD$$; essi hanno:
-- $$PA$$ in comune
-- $$PB = PD$$ per costruzione
+Considero ora i triangoli $PAB$ e $PAD$; essi hanno:
+- $PA$ in comune
+- $PB = PD$ per costruzione
 
-Ma i due triangoli $$PAB$$ e $$PAD$$ non sono congruenti ed avendo disuguali i terzi lati avranno disuguali anche gli angoli opposti a tali lati, e, in particolare:
+Ma i due triangoli $PAB$ e $PAD$ non sono congruenti ed avendo disuguali i terzi lati avranno disuguali anche gli angoli opposti a tali lati, e, in particolare:
 $$
 \widehat{APB} > \widehat{APD}
 $$
@@ -62,7 +62,7 @@ $$
 \widehat{APB} + \widehat{BPC} > \widehat{APD} + \widehat{DPC}
 $$
 
-E quindi, essendo $$\widehat{APD} + \widehat{DPC} = \widehat{APC}$$, otteniamo:
+E quindi, essendo $\widehat{APD} + \widehat{DPC} = \widehat{APC}$, otteniamo:
 $$
 \widehat{APB} + \widehat{BPC} > \widehat{APC}
 $$

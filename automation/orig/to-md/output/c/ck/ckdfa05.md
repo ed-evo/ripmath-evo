@@ -4,7 +4,7 @@ $$
 \textcolor{blue}{\int \frac{1}{a^2 + x^2} \, dx}
 $$
 
-Sotto posso raccogliere $$\textcolor{blue}{a^2}$$
+Sotto posso raccogliere $\textcolor{blue}{a^2}$
 
 $$
 \textcolor{blue}{a^2 \left[ 1 + \left( \frac{x^2}{a^2} \right) \right]}
@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{\frac{dx}{a}} = \textcolor{red}{dt}
 $$
 
-ricavo $$dx$$
+ricavo $dx$
 
 $$
 \textcolor{blue}{dx} = \textcolor{red}{a \, dt}
@@ -40,7 +40,7 @@ $$
 \textcolor{red}{\frac{1}{a^2} \int \frac{1}{1 + t^2} \, a \, dt}
 $$
 
-Estraggo la costante $$\textcolor{red}{a}$$
+Estraggo la costante $\textcolor{red}{a}$
 
 $$
 = \textcolor{red}{\frac{a}{a^2} \int \frac{1}{1 + t^2} \, dt}
@@ -52,7 +52,7 @@ $$
 = \textcolor{red}{\frac{1}{a} \arctan(t)}
 $$
 
-Ora sostituisco a $$\textcolor{red}{t}$$ il suo valore ed ottengo il risultato finale
+Ora sostituisco a $\textcolor{red}{t}$ il suo valore ed ottengo il risultato finale
 
 $$
 = \textcolor{blue}{\frac{1}{a} \arctan\left( \frac{x}{a} \right) + c}

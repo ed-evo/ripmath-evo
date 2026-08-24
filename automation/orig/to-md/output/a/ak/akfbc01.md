@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\frac{2}{\sqrt[3]{2} + \sqrt[3]{3}}}
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{\sqrt[3]{2^2} - \sqrt[3]{6} + \sqrt[3]{3^2}}$$
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{\sqrt[3]{2^2} - \sqrt[3]{6} + \sqrt[3]{3^2}}$
 
 $$
 \textcolor{blue}{\frac{2}{\sqrt[3]{2} + \sqrt[3]{3}} \cdot \frac{\sqrt[3]{2^2} - \sqrt[3]{6} + \sqrt[3]{3^2}}{\sqrt[3]{2^2} - \sqrt[3]{6} + \sqrt[3]{3^2}}}

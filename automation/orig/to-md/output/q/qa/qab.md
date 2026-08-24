@@ -2,8 +2,8 @@
 
 > **Definiamo Successione** un insieme di numeri ordinato e numerabile
 
-- Un insieme è ordinato quando, presi due elementi $$a$$ e $$b$$, è sempre possibile dire se $$a$$ precede o segue $$b$$.
-- Un insieme è numerabile se è possibile stabilire una corrispondenza biunivoca degli elementi dell'insieme con l'insieme $$\mathbb{N}$$ dei numeri naturali.
+- Un insieme è ordinato quando, presi due elementi $a$ e $b$, è sempre possibile dire se $a$ precede o segue $b$.
+- Un insieme è numerabile se è possibile stabilire una corrispondenza biunivoca degli elementi dell'insieme con l'insieme $\mathbb{N}$ dei numeri naturali.
 
 > Possiamo anche considerare, oltre i numeri, anche grandezze matematiche o fisiche della stessa specie, ma qui limitiamoci solamente a numeri.
 
@@ -18,7 +18,7 @@ $$
 \textcolor{red}{1, 2, 3, 4, 5, 6, \dots}
 $$
 
-e viene detta successione dei numeri naturali $$\mathbb{N}$$.
+e viene detta successione dei numeri naturali $\mathbb{N}$.
 
 ***
 
@@ -67,7 +67,7 @@ $$
 \textcolor{red}{3, 4, 5, 6, 7, 8, \dots}
 $$
 
-Quindi la successione è formata dai numeri naturali (più piccoli) che hanno il numero di lettere del loro nome uguali a $$3, 4, 5, 6, 7, 8, \dots$$. Quando ho individuato la legge della successione ho individuato i termini della successione stessa: il prossimo termine sarà $$\textcolor{red}{29}$$ perché $$\textcolor{red}{\text{ventinove}}$$ è il numero naturale più basso il cui nome è formato da $$9$$ lettere.
+Quindi la successione è formata dai numeri naturali (più piccoli) che hanno il numero di lettere del loro nome uguali a $3, 4, 5, 6, 7, 8, \dots$. Quando ho individuato la legge della successione ho individuato i termini della successione stessa: il prossimo termine sarà $\textcolor{red}{29}$ perché $\textcolor{red}{\text{ventinove}}$ è il numero naturale più basso il cui nome è formato da $9$ lettere.
 
 Non possiamo esprimere la legge che genera questa successione in termini matematici; lasciando ai giornali di enigmistica successioni di questo tipo, noi ci occuperemo solamente di successioni la cui legge sia esprimibile mediante una formula matematica.
 
@@ -75,8 +75,8 @@ Non possiamo esprimere la legge che genera questa successione in termini matemat
 
 Come definizione quella sopra è molto "teorica"; per utilizzarla nella pratica ci vuole qualcosa di più efficace. Possiamo utilizzare il concetto di funzione dicendo:
 
-> **Definiamo successione** in un insieme $$K$$ qualunque applicazione (o funzione) da $$\mathbb{N}$$ a $$K$$ tale che ad ogni valore $$1, 2, \dots, n \in \mathbb{N}$$ faccia corrispondere un valore in $$K$$ in modo che, individuato il valore corrispondente al termine $$n$$, si sappia sempre individuare quale valore corrisponde al termine $$n+1$$.
+> **Definiamo successione** in un insieme $K$ qualunque applicazione (o funzione) da $\mathbb{N}$ a $K$ tale che ad ogni valore $1, 2, \dots, n \in \mathbb{N}$ faccia corrispondere un valore in $K$ in modo che, individuato il valore corrispondente al termine $n$, si sappia sempre individuare quale valore corrisponde al termine $n+1$.
 
 > È la stessa definizione, però così definiamo la successione mediante la regola di induzione e ci colleghiamo al concetto di funzione.
 
-Per le successioni che studieremo $$K$$ può essere $$\mathbb{N}$$, $$\mathbb{R}$$, o qualunque altro insieme numerico; naturalmente dovremo sempre dire di quale insieme si tratta: quindi diremo successione in $$\mathbb{N}$$, successione in $$\mathbb{R}$$, ...
+Per le successioni che studieremo $K$ può essere $\mathbb{N}$, $\mathbb{R}$, o qualunque altro insieme numerico; naturalmente dovremo sempre dire di quale insieme si tratta: quindi diremo successione in $\mathbb{N}$, successione in $\mathbb{R}$, ...

@@ -20,9 +20,9 @@ a^2 + b^2 = 12 \\
 }
 $$
 
-divido per $$\sqrt{3}$$ entrambi i termini della seconda equazione
+divido per $\sqrt{3}$ entrambi i termini della seconda equazione
 
-> [dividendo $$3$$ per $$\sqrt{3}$$ ottengo $$\sqrt{3}$$ perché $$(\sqrt{3})^2 = 3$${.text-blue}]
+> [dividendo $3$ per $\sqrt{3}$ ottengo $\sqrt{3}$ perché $(\sqrt{3})^2 = 3${.text-blue}]
 
 $$
 \textcolor{red}{
@@ -42,7 +42,7 @@ a = b\sqrt{3}
 }
 $$
 
-sostituisco ad [$$a$${.text-red}] nella prima equazione il valore [$$b\sqrt{3}$${.text-red}]
+sostituisco ad [$a${.text-red}] nella prima equazione il valore [$b\sqrt{3}${.text-red}]
 
 $$
 \textcolor{red}{

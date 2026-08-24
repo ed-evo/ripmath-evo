@@ -2,15 +2,15 @@
 
 In questo capitolo cercheremo di risolvere il problema classico della misura del cerchio (ciclo = cerchio metròs = misura) ed anche la rettificazione della circonferenza, cioè "stendere" la circonferenza su una retta e trovare la relazione tra tale segmento ed il raggio.
 
-Il problema della rettificazione della circonferenza, dato il raggio, è uno dei $$3$$ grandi problemi dell'antichità:
+Il problema della rettificazione della circonferenza, dato il raggio, è uno dei $3$ grandi problemi dell'antichità:
 
 > **Gli altri erano:**
 >
 > Con riga e compasso trovare:
-> - La trisezione di un angolo: come dividere un angolo in $$3$$ parti uguali.
+> - La trisezione di un angolo: come dividere un angolo in $3$ parti uguali.
 > - La duplicazione del cubo: dato un cubo trovare il lato di un altro cubo che abbia volume doppio del dato.
 
-Il primo problema è risolvibile solo in casi particolari perché equivale a risolvere un'equazione di $$3\text{-o}$$ grado e quindi non è sempre risolvibile con riga e compasso.
+Il primo problema è risolvibile solo in casi particolari perché equivale a risolvere un'equazione di $3\text{-o}$ grado e quindi non è sempre risolvibile con riga e compasso.
 
 Anche il secondo non è risolvibile con riga e compasso: l'uso di riga e compasso equivale a risolvere il problema mediante equazioni risolubili con le sole operazioni razionali ed anche radici quadrate: per risolvere il problema invece devo trovare la radice cubica di un numero.
 

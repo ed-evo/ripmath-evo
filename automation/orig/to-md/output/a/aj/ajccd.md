@@ -1,4 +1,4 @@
-# [Se moltiplico ogni elemento di una riga (colonna) per un numero reale $$C$$ allora il valore del determinante viene moltiplicato per $$C$$]{.text-red}
+# [Se moltiplico ogni elemento di una riga (colonna) per un numero reale $C$ allora il valore del determinante viene moltiplicato per $C$]{.text-red}
 
 Ad esempio si ha:
 
@@ -43,7 +43,7 @@ $$
 \textcolor{blue}{= Ca_{1,1} a_{2,2}a_{3,3} - Ca_{1,1}a_{2,3}a_{3,2} - Ca_{1,2}a_{2,1}a_{3,3} + Ca_{1,2}a_{2,3}a_{3,1} + Ca_{1,3}a_{2,1}a_{3,2} - Ca_{1,3}a_{2,2}a_{3,1} =}
 $$
 
-e raccogliendo $$C$$
+e raccogliendo $C$
 
 $$
 \textcolor{blue}{= C(a_{1,1}a_{2,2}a_{3,3} - a_{1,1}a_{2,3}a_{3,2} - a_{1,2}a_{2,1}a_{3,3} + a_{1,2}a_{2,3}a_{3,1} + a_{1,3}a_{2,1}a_{3,2} - a_{1,3}a_{2,2}a_{3,1}) =}

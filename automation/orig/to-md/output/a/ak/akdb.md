@@ -9,7 +9,7 @@ $$
 \textcolor{red}{5a + 4a + 7b = 9a + 7b}
 $$
 
-se al posto di $$a$$ metto $$\sqrt{2}$$ e al posto di $$b$$ metto $$\sqrt{3}$$ ottengo
+se al posto di $a$ metto $\sqrt{2}$ e al posto di $b$ metto $\sqrt{3}$ ottengo
 
 $$
 \textcolor{red}{5\sqrt{2} + 4\sqrt{2} + 7\sqrt{3} = 9\sqrt{2} + 7\sqrt{3}}

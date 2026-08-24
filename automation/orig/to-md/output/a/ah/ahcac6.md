@@ -2,19 +2,19 @@
 
 ***
 
-[L'ipotenusa di un triangolo rettangolo supera di metri $$4$$ un cateto e l'altro cateto vale $$8\text{ m}$$. Determinare il perimetro del triangolo]{.text-blue}
+[L'ipotenusa di un triangolo rettangolo supera di metri $4$ un cateto e l'altro cateto vale $8\text{ m}$. Determinare il perimetro del triangolo]{.text-blue}
 
 ***
 
 Scriviamo i dati
 
-$$\textcolor{red}{BC = AB + 4}$$
-$$\textcolor{red}{AC = 8\text{ m}}$$
+$\textcolor{red}{BC = AB + 4}$
+$\textcolor{red}{AC = 8\text{ m}}$
 
 Pongo:
-$$\textcolor{red}{AB = x}$$ [al solito mi conviene chiamare $$x$$ il termine che si trova dopo l'uguale]
-$$\textcolor{red}{BC = x + 4}$$
-$$\textcolor{red}{AC = 8}$$
+$\textcolor{red}{AB = x}$ [al solito mi conviene chiamare $x$ il termine che si trova dopo l'uguale]
+$\textcolor{red}{BC = x + 4}$
+$\textcolor{red}{AC = 8}$
 
 Stavolta ho tre segmenti diversi e il problema non mi fornisce nessuna relazione che li coinvolga. Significa che devo trovare io una relazione che sia valida e leghi i dati; essendo il triangolo rettangolo la relazione cercata sarà il teorema di Pitagora.
 
@@ -63,10 +63,10 @@ $$
 
 ***
 
-> Anche in questo problema è presente la terna pitagorica $$3, 4$$ e $$5$$, infatti i lati sono:
-> $$AB = 6 = 2 \cdot 3$$
-> $$BC = 10 = 2 \cdot 5$$
-> $$AC = 8 = 2 \cdot 4$$
-> Se stai bene attento la metà dei problemi sui triangoli rettangoli si basa sulla terna $$3, 4$$ e $$5$$.
+> Anche in questo problema è presente la terna pitagorica $3, 4$ e $5$, infatti i lati sono:
+> $AB = 6 = 2 \cdot 3$
+> $BC = 10 = 2 \cdot 5$
+> $AC = 8 = 2 \cdot 4$
+> Se stai bene attento la metà dei problemi sui triangoli rettangoli si basa sulla terna $3, 4$ e $5$.
 
 ***

@@ -9,9 +9,9 @@
 In proporzionalità diretta significa che si conservano l'uguaglianza e la somma: in particolare significa:
 
 - Se gli archi sono congruenti allora sono congruenti anche gli angoli al centro e viceversa. Esempio:
-  Essendo $$\textcolor{blue}{\text{AB}} = \textcolor{blue}{\text{CD}}$$, segue $$\textcolor{blue}{\angle\text{AOB}} = \textcolor{blue}{\angle\text{COD}}$$ e viceversa.
+  Essendo $\textcolor{blue}{\text{AB}} = \textcolor{blue}{\text{CD}}$, segue $\textcolor{blue}{\angle\text{AOB}} = \textcolor{blue}{\angle\text{COD}}$ e viceversa.
 
 - Se un arco è doppio, triplo, quadruplo... di un altro, anche l'angolo al centro corrispondente è doppio, triplo, quadruplo... dell'angolo al centro corrispondente. Esempio:
-  Essendo $$\textcolor{blue}{\text{AB}} = 2 \textcolor{blue}{\text{EF}}$$, segue che $$\textcolor{blue}{\angle\text{AOB}} = 2 \textcolor{blue}{\angle\text{EOF}}$$
+  Essendo $\textcolor{blue}{\text{AB}} = 2 \textcolor{blue}{\text{EF}}$, segue che $\textcolor{blue}{\angle\text{AOB}} = 2 \textcolor{blue}{\angle\text{EOF}}$
 
 > Se due insiemi di enti sono tra loro direttamente proporzionali allora le proprietà che valgono per il primo insieme valgono anche per il secondo.

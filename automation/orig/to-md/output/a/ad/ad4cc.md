@@ -12,14 +12,14 @@ Se hai bisogno di vedere i passaggi fai click [qui](ad4cc1.html).
 
 Se hai bisogno di aiuto per leggere la regola fai click [qui](ad4cc2.html).
 
-Allora ora prova a calcolare $$(2a^2b-3ab^2+6)^2 =$$
+Allora ora prova a calcolare $(2a^2b-3ab^2+6)^2 =$
 
-Devi fare il quadrato del primo monomio: $$(2a^2b)^2 = (2a^2b) \cdot (2a^2b) = 4a^4b^2$$
-poi il quadrato del secondo: $$(-3ab^2)^2 = (-3ab^2) \cdot (-3ab^2) = +9a^2b^4$$
-e il quadrato del terzo $$6^2 = 6 \cdot 6 = 36$$
-ora fai il primo per il secondo per due $$2a^2b \cdot (-3ab^2) \cdot 2 = -12a^3b^3$$
-poi il secondo per il terzo per due $$(-3ab^2) \cdot 6 \cdot 2 = -36ab^2$$
-infine il primo per il terzo per due $$2a^2b \cdot 6 \cdot 2 = 24a^2b$$
+Devi fare il quadrato del primo monomio: $(2a^2b)^2 = (2a^2b) \cdot (2a^2b) = 4a^4b^2$
+poi il quadrato del secondo: $(-3ab^2)^2 = (-3ab^2) \cdot (-3ab^2) = +9a^2b^4$
+e il quadrato del terzo $6^2 = 6 \cdot 6 = 36$
+ora fai il primo per il secondo per due $2a^2b \cdot (-3ab^2) \cdot 2 = -12a^3b^3$
+poi il secondo per il terzo per due $(-3ab^2) \cdot 6 \cdot 2 = -36ab^2$
+infine il primo per il terzo per due $2a^2b \cdot 6 \cdot 2 = 24a^2b$
 
 Metti ora assieme i risultati ed ottieni:
 

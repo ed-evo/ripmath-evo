@@ -1,7 +1,7 @@
-# [$$\textcolor{red}{(a+b)^5}$$]{.text-red}
+# [$\textcolor{red}{(a+b)^5}$]{.text-red}
 
 Devo calcolare
-$$\textcolor{red}{(a+b)^5 =}$$
+$\textcolor{red}{(a+b)^5 =}$
 
 Le potenze della parte letterale saranno
 $$
@@ -25,7 +25,7 @@ $$
 \textcolor{red}{(a+b)^4 = 1 \quad 4 \quad 6 \quad 4 \quad 1}
 $$
 
-Scriverò i numeri in mezzo sommando i due numeri che sono sopra e se sono all'inizio o alla fine metto solo $$1$$
+Scriverò i numeri in mezzo sommando i due numeri che sono sopra e se sono all'inizio o alla fine metto solo $1$
 $$
 \textcolor{red}{(a+b)^0 = 1}
 $$

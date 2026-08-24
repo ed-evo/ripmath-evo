@@ -12,7 +12,7 @@ $$
 A_s \text{ settore sferico} = \pi r h + \pi r_1 \text{ apotema}
 $$
 
-essendo $$h$$ dato dalla somma di $$r$$ e $$h_1$$ e siccome l'apotema del cono vale $$r$$:
+essendo $h$ dato dalla somma di $r$ e $h_1$ e siccome l'apotema del cono vale $r$:
 
 $$
 A_s \text{ settore sferico} = \pi r h + \pi r_1 r = \pi r (h + r_1)
@@ -20,7 +20,7 @@ $$
 
 ***
 
-Tale formula vale in generale, ricordando però che, nei casi come quello qui a fianco raffigurato, si tratta sempre della somma delle aree di una zona e di due coni, ma devi fare $$h = r - h_1$$ poiché $$h$$ è l'altezza della calotta sferica e stavolta il cono non è un buco.
+Tale formula vale in generale, ricordando però che, nei casi come quello qui a fianco raffigurato, si tratta sempre della somma delle aree di una zona e di due coni, ma devi fare $h = r - h_1$ poiché $h$ è l'altezza della calotta sferica e stavolta il cono non è un buco.
 
 ***
 

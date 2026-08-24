@@ -1,0 +1,1 @@
+> [Ricordati che la moltiplicazione vista al rovescio è una scomposizione, come una discesa vista dall'altra parte è una salita]{.text-blue}

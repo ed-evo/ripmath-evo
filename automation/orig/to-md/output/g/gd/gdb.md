@@ -12,8 +12,8 @@ Due piani nello spazio possono essere:
 
 Per dimostrarlo sarà sufficiente far vedere che i due piani hanno in comune un altro punto; per il postulato del piano sopra ricordato seguirà la tesi.
 
-> **[Ipotesi]{.text-blue}:** $$\textcolor{blue}{P \in \alpha}$$ e $$\textcolor{blue}{P \in \beta}$$
+> **[Ipotesi]{.text-blue}:** $\textcolor{blue}{P \in \alpha}$ e $\textcolor{blue}{P \in \beta}$
 >
-> **[Tesi]{.text-blue}:** Esiste $$\textcolor{blue}{Q \neq P}$$ tale che $$\textcolor{blue}{Q \in \alpha}$$ e $$\textcolor{blue}{Q \in \beta}$$
+> **[Tesi]{.text-blue}:** Esiste $\textcolor{blue}{Q \neq P}$ tale che $\textcolor{blue}{Q \in \alpha}$ e $\textcolor{blue}{Q \in \beta}$
 
-Dal punto $$P$$ sul piano $$\beta$$ traccio le semirette $$a$$ e $$b$$ da parti opposte rispetto al piano $$\alpha$$. Sulla semiretta $$a$$ scelgo un punto $$A$$ e sulla semiretta $$b$$ un punto $$B$$ (con $$A$$ e $$B$$ diversi da $$P$$); il segmento $$AB$$ sarà contenuto nel piano $$\beta$$ ed essendo $$A$$ e $$B$$ in semispazi opposti rispetto ad $$\alpha$$, per il postulato dello spazio, tale segmento taglierà il piano $$\alpha$$ in un punto $$Q$$; tale punto $$Q$$ apparterrà anche al piano $$\beta$$ perché è un punto del segmento $$AB$$ contenuto nel piano $$\beta$$, come volevamo dimostrare.
+Dal punto $P$ sul piano $\beta$ traccio le semirette $a$ e $b$ da parti opposte rispetto al piano $\alpha$. Sulla semiretta $a$ scelgo un punto $A$ e sulla semiretta $b$ un punto $B$ (con $A$ e $B$ diversi da $P$); il segmento $AB$ sarà contenuto nel piano $\beta$ ed essendo $A$ e $B$ in semispazi opposti rispetto ad $\alpha$, per il postulato dello spazio, tale segmento taglierà il piano $\alpha$ in un punto $Q$; tale punto $Q$ apparterrà anche al piano $\beta$ perché è un punto del segmento $AB$ contenuto nel piano $\beta$, come volevamo dimostrare.

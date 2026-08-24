@@ -10,13 +10,13 @@ $$
 \textcolor{red}{(3x) \cdot (3x) \cdot (3x) = 27x^3}
 $$
 
-Poi devi moltiplicare $$3$$ per il quadrato del primo e quello che viene per il secondo: per farlo prima facciamo il quadrato poi calcoliamo i prodotti
+Poi devi moltiplicare $3$ per il quadrato del primo e quello che viene per il secondo: per farlo prima facciamo il quadrato poi calcoliamo i prodotti
 
 $$
 \textcolor{red}{+3 \cdot (3x)^2 \cdot (-2y) = +3 \cdot (9x^2) \cdot (-2y) = -54x^2y}
 $$
 
-Poi devo moltiplicare $$3$$ per il primo monomio e quello che viene per il quadrato del secondo, anche qui prima facciamo il quadrato poi le moltiplicazioni
+Poi devo moltiplicare $3$ per il primo monomio e quello che viene per il quadrato del secondo, anche qui prima facciamo il quadrato poi le moltiplicazioni
 
 $$
 \textcolor{red}{+3 \cdot (3x) \cdot (-2y)^2 = +3 \cdot (3x) \cdot (+4y^2) = +36xy^2}

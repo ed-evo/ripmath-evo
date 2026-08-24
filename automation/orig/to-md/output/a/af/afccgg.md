@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{\frac{6x^2 - 2x - 8}{3x^2 + 8x - 16}}
 $$
 
-$$=$$ [soluzione](afccgga.html)
+$=$ [soluzione](afccgga.html)
 
 ---
 
@@ -22,7 +22,7 @@ $$
 \textcolor{blue}{\frac{(6x^2 - 5x + 1)(4x^2 - 9x + 2)}{(3x^2 - 7x + 2)(8x^2 - 6x + 1)}}
 $$
 
-$$=$$ [soluzione](afccggb.html)
+$=$ [soluzione](afccggb.html)
 
 ---
 
@@ -32,7 +32,7 @@ $$
 \textcolor{blue}{\frac{6x^2 - x\sqrt{3} - 6}{3x^2 + 4x\sqrt{3} - 12}}
 $$
 
-$$=$$ [soluzione](afccggc.html)
+$=$ [soluzione](afccggc.html)
 
 ---
 
@@ -42,4 +42,4 @@ $$
 \textcolor{blue}{\frac{6x^2 - ax - 2a^2}{3x^2 + 4ax - 4a^2}}
 $$
 
-$$=$$ [soluzione](afccggd.html)
+$=$ [soluzione](afccggd.html)

@@ -1,6 +1,6 @@
 # [Asintoto orizzontale]{.text-red}
 
-Si ha un asintoto orizzontale quando, al crescere della $$x$$ la $$y$$ si avvicina ad un valore ben determinato.
+Si ha un asintoto orizzontale quando, al crescere della $x$ la $y$ si avvicina ad un valore ben determinato.
 In pratica c'è l'asintoto se
 
 $$
@@ -21,13 +21,13 @@ $$
 \textcolor{red}{y = \frac{3x}{x - 1}}
 $$
 
-in pratica devo calcolarne il limite per $$x$$ tendente ad infinito
+in pratica devo calcolarne il limite per $x$ tendente ad infinito
 
 $$
 \textcolor{red}{\lim_{x \to \infty} \frac{3x}{x - 1} = \frac{\infty}{\infty} = 3}
 $$
 
-Infatti numeratore e denominatore hanno lo stesso grado ed il rapporto fra le $$x$$ di grado maggiore è $$3$$.
+Infatti numeratore e denominatore hanno lo stesso grado ed il rapporto fra le $x$ di grado maggiore è $3$.
 Se non hai capito bene come ho fatto ridai un'occhiata alle [forme indeterminate](../cd/cdgb.html) oppure puoi calcolare la derivata sopra e sotto e rifare il limite come abbiamo visto [nelle applicazioni sulle derivate](../cf/cfdg.html).
 
 quindi la retta

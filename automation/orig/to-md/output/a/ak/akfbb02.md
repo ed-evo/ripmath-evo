@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{3}{5 - 2\sqrt{2}}} =
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{5 + 2\sqrt{2}}$$
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{5 + 2\sqrt{2}}$
 
 $$
 \textcolor{blue}{\frac{3}{5 - 2\sqrt{2}} \cdot \frac{5 + 2\sqrt{2}}{5 + 2\sqrt{2}}} =

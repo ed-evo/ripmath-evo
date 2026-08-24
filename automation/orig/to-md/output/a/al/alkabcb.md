@@ -1,10 +1,10 @@
 Risolviamo la disequazione:
 
-[$$\textcolor{red}{x^2 - 6x + 10 > 0}$$]{.text-red}
+[$\textcolor{red}{x^2 - 6x + 10 > 0}$]{.text-red}
 
 considero l'equazione associata
 
-[$$\textcolor{blue}{x^2 - 6x + 10 = 0}$$]{.text-blue}
+[$\textcolor{blue}{x^2 - 6x + 10 = 0}$]{.text-blue}
 
 applico la formula risolutiva (ridotta)
 

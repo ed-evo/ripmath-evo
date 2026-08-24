@@ -18,7 +18,7 @@ $$
 \textcolor{red}{3x^2 - 6x + 3 = 0}
 $$
 
-Divido tutto per $$3$$:
+Divido tutto per $3$:
 
 $$
 \textcolor{red}{x^2 - 2x + 1 = 0}
@@ -38,7 +38,7 @@ $$
 \textcolor{red}{x = 1}
 $$
 
-Trovo il valore della $$y$$ corrispondente sostituendo $$1$$ al posto di $$x$$ nell'equazione di partenza:
+Trovo il valore della $y$ corrispondente sostituendo $1$ al posto di $x$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{y(1) = 1^3 - 3 \cdot 1^2 + 3 \cdot 1 - 1 = 0}
@@ -60,7 +60,7 @@ $$
 \textcolor{red}{(x - 1)^2 > 0}
 $$
 
-Essendo un quadrato sempre positivo (eccetto per $$1$$ per cui si annulla) avremo per il segno:
+Essendo un quadrato sempre positivo (eccetto per $1$ per cui si annulla) avremo per il segno:
 
 $$
 \textcolor{red}{y' \quad + \quad + \quad + \quad + \quad + \quad + \quad 1 \quad + \quad + \quad + \quad + \quad + \quad + \quad + \quad +}
@@ -70,4 +70,4 @@ $$
 \textcolor{red}{y \quad \text{crescente} \quad \quad \quad \quad \text{crescente}}
 $$
 
-Quindi $$A(1, 0)$$ è un punto di flesso orizzontale ascendente.
+Quindi $A(1, 0)$ è un punto di flesso orizzontale ascendente.

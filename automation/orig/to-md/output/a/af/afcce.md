@@ -1,10 +1,10 @@
 # [Regola di Cartesio]{.text-red}
 
-La regola di Cartesio mette in evidenza le relazioni esistenti tra i segni dei coefficienti $$a$$, $$b$$, $$c$$ ed i segni delle radici $$x_1$$ e $$x_2$$.
+La regola di Cartesio mette in evidenza le relazioni esistenti tra i segni dei coefficienti $a$, $b$, $c$ ed i segni delle radici $x_1$ e $x_2$.
 
 ---
 
-Cioè guardando i segni di $$a$$, $$b$$ e $$c$$ trovo i segni di $$x_1$$ e $$x_2$$.
+Cioè guardando i segni di $a$, $b$ e $c$ trovo i segni di $x_1$ e $x_2$.
 
 ---
 
@@ -21,9 +21,9 @@ $$
 
 Ad esempio:
 
-$$\textcolor{red}{2x^2 + 5x + 2 = 0}$$ ha $$2$$ permanenze
-$$\textcolor{red}{2x^2 - 5x + 2 = 0}$$ ha $$2$$ variazioni
-$$\textcolor{red}{x^2 + 3x - 4 = 0}$$ ha $$1$$ permanenza ed $$1$$ variazione
+$\textcolor{red}{2x^2 + 5x + 2 = 0}$ ha $2$ permanenze
+$\textcolor{red}{2x^2 - 5x + 2 = 0}$ ha $2$ variazioni
+$\textcolor{red}{x^2 + 3x - 4 = 0}$ ha $1$ permanenza ed $1$ variazione
 
 ---
 
@@ -33,9 +33,9 @@ $$\textcolor{red}{x^2 + 3x - 4 = 0}$$ ha $$1$$ permanenza ed $$1$$ variazione
 
 Quindi l'equazione:
 
-$$\textcolor{red}{2x^2 + 5x + 2 = 0}$$ ha $$2$$ permanenze cioè due soluzioni entrambe negative
-$$\textcolor{red}{2x^2 - 5x + 2 = 0}$$ ha $$2$$ variazioni cioè due soluzioni entrambe positive
-$$\textcolor{red}{x^2 + 3x - 4 = 0}$$ ha $$1$$ permanenza ed $$1$$ variazione cioè una soluzione negativa e l'altra positiva
+$\textcolor{red}{2x^2 + 5x + 2 = 0}$ ha $2$ permanenze cioè due soluzioni entrambe negative
+$\textcolor{red}{2x^2 - 5x + 2 = 0}$ ha $2$ variazioni cioè due soluzioni entrambe positive
+$\textcolor{red}{x^2 + 3x - 4 = 0}$ ha $1$ permanenza ed $1$ variazione cioè una soluzione negativa e l'altra positiva
 
 ---
 

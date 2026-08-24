@@ -4,13 +4,13 @@
 
 Utilizziamo il primo teorema di Euclide:
 
-Per il primo teorema di Euclide applicato al cateto $$AB$$ scrivo:
+Per il primo teorema di Euclide applicato al cateto $AB$ scrivo:
 
 $$
 AB^2 = BH \cdot BC
 $$
 
-Per il primo teorema di Euclide applicato al cateto $$AC$$ scrivo:
+Per il primo teorema di Euclide applicato al cateto $AC$ scrivo:
 
 $$
 AC^2 = HC \cdot BC
@@ -22,13 +22,13 @@ $$
 AB^2 + AC^2 = BH \cdot BC + HC \cdot BC
 $$
 
-Raccolgo $$BC$$ al secondo termine
+Raccolgo $BC$ al secondo termine
 
 $$
 AB^2 + AC^2 = BC \cdot (BH + HC)
 $$
 
-Ma $$BH + HC$$ vale $$BC$$, quindi
+Ma $BH + HC$ vale $BC$, quindi
 
 $$
 AB^2 + AC^2 = BC \cdot BC

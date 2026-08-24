@@ -2,7 +2,7 @@
 
 Per parlare di questo teorema dobbiamo parlare di Pitagora e della setta dei pitagorici. I pitagorici erano una specie di multinazionale del quinto secolo avanti Cristo, con sede centrale a Crotone, ma con le mani in pasta nei governi delle varie città della Magna Grecia, dove riuscivano a indirizzare le politiche dei vari tiranni utilizzando la loro magia-religione basata sulla numerologia.
 
-Erano persone piuttosto strane per l'epoca, vegetariani perché credevano alla trasmigrazione delle anime, dormivano meno di $$4$$ ore per notte e somigliavano più a dei monaci che a dei matematici.
+Erano persone piuttosto strane per l'epoca, vegetariani perché credevano alla trasmigrazione delle anime, dormivano meno di $4$ ore per notte e somigliavano più a dei monaci che a dei matematici.
 
 Pitagora ed i pitagorici erano guidati dalla fede che il numero fosse il principio di tutte le cose, cioè la Divinità stessa.
 

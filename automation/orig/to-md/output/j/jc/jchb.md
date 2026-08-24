@@ -1,6 +1,6 @@
 # [Relazione d'ordine totale]{.text-red}
 
-Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine totale** se tutti i suoi elementi appartengono alla relazione.
+Diciamo che la relazione $R$ su $A \times A$ è **d'ordine totale** se tutti i suoi elementi appartengono alla relazione.
 
 > In pratica significa che tutti gli elementi, nessuno escluso, sono nella relazione
 
@@ -12,7 +12,7 @@ $$
 $$
 con la relazione: [è multiplo di]{.text-red}
 
-Abbiamo visto che è una relazione d'ordine stretto. Siccome ci sono alcuni elementi non confrontabili (ad esempio $$20$$ non è multiplo di $$16$$) allora la relazione non è totale.
+Abbiamo visto che è una relazione d'ordine stretto. Siccome ci sono alcuni elementi non confrontabili (ad esempio $20$ non è multiplo di $16$) allora la relazione non è totale.
 
 ***
 

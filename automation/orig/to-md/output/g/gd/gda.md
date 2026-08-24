@@ -13,6 +13,6 @@ Una retta nello spazio rispetto ad un piano può essere:
 2. **Parallela ad una retta del piano**: in tal caso non ha nessun punto in comune con il piano.
 3. **Giacente sul piano**: in tal caso ha tutti i punti in comune con il piano.
 
-- la retta $$\textcolor{blue}{a}$$ giace sul piano
-- la retta $$\textcolor{red}{b}$$ è secante il piano
-- la retta $$\textcolor{green}{c}$$ è sopra il piano e parallela alla retta $$\textcolor{blue}{a}$$
+- la retta $\textcolor{blue}{a}$ giace sul piano
+- la retta $\textcolor{red}{b}$ è secante il piano
+- la retta $\textcolor{green}{c}$ è sopra il piano e parallela alla retta $\textcolor{blue}{a}$

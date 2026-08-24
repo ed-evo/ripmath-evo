@@ -60,7 +60,7 @@ $$
 \textcolor{blue}{= \frac{30\sqrt{3} + 40\sqrt{2} - 10\sqrt{42} - 10\sqrt{7}}{20}}
 $$
 
-Raccolgo il $$10$$ al numeratore per semplificarlo con il denominatore:
+Raccolgo il $10$ al numeratore per semplificarlo con il denominatore:
 
 $$
 \textcolor{blue}{= \frac{10(3\sqrt{3} + 4\sqrt{2} - \sqrt{42} - \sqrt{7})}{20}}

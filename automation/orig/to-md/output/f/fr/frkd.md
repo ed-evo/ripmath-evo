@@ -2,7 +2,7 @@
 
 I tre teoremi precedenti in pratica sono lo stesso teorema:
 
-Infatti considera il teorema delle corde e pensa alle corde come a degli elastici e immagina di tirare il punto $$P$$ fuori della circonferenza finché i segmenti non siano allineati: allora una figura si trasforma esattamente nell'altra.
+Infatti considera il teorema delle corde e pensa alle corde come a degli elastici e immagina di tirare il punto $P$ fuori della circonferenza finché i segmenti non siano allineati: allora una figura si trasforma esattamente nell'altra.
 
 > **Nota:** non far caso alle lettere: le ho messe disordinate, comunque se vuoi vedere l'esempio
 

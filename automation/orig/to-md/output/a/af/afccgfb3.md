@@ -4,12 +4,12 @@ data l'equazione
 $$
 \textcolor{blue}{kx^2 - (k-2)x + 1 = 0}
 $$
-trovare il valore di $$k$$ affinché la somma dei quadrati delle radici valga $$5$$
+trovare il valore di $k$ affinché la somma dei quadrati delle radici valga $5$
 significa
 $$
 \textcolor{blue}{x_1^2 + x_2^2 = 5}
 $$
-dobbiamo trasformare in somme e prodotti delle radici, quindi aggiungo e tolgo $$2x_1x_2$$
+dobbiamo trasformare in somme e prodotti delle radici, quindi aggiungo e tolgo $2x_1x_2$
 $$
 \textcolor{blue}{x_1^2 + x_2^2 + 2x_1x_2 - 2x_1x_2 = 5}
 $$
@@ -41,7 +41,7 @@ $$
 $$
 \textcolor{red}{\frac{(k-2)^2}{k^2} - \frac{2}{k} = 5}
 $$
-$$m.c.m. = k^2$$ supponendo che $$k$$ sia diverso da zero
+$m.c.m. = k^2$ supponendo che $k$ sia diverso da zero
 $$
 \textcolor{red}{\frac{(k-2)^2 - 2k}{k^2} = \frac{5k^2}{k^2}}
 $$
@@ -63,7 +63,7 @@ cambio di segno
 $$
 \textcolor{red}{4k^2 + 6k - 4 = 0}
 $$
-semplifico dividendo per $$2$$
+semplifico dividendo per $2$
 $$
 \textcolor{red}{2k^2 + 3k - 2 = 0}
 $$

@@ -2,7 +2,7 @@
 
 Il secondo principio di equivalenza delle equazioni dice che:
 
-[Moltiplicando o dividendo entrambi i membri di un'equazione per una stessa quantità $$\textcolor{blue}{\text{diversa da zero}}$$, l'equazione resta equivalente alla data.]{.text-pink}
+[Moltiplicando o dividendo entrambi i membri di un'equazione per una stessa quantità $\textcolor{blue}{\text{diversa da zero}}$, l'equazione resta equivalente alla data.]{.text-pink}
 
 ***
 
@@ -12,11 +12,11 @@ $$
 \textcolor{red}{3x = 6}
 $$
 
-Divido da entrambi i membri per $$3$$
+Divido da entrambi i membri per $3$
 
 ***
 
-> **Intendiamoci:** potrei dividere per qualunque numero che non fosse zero, ma io divido per il numero che c'è davanti alla $$x$$ per lasciare la $$x$$ da sola e così risolvere l'equazione.
+> **Intendiamoci:** potrei dividere per qualunque numero che non fosse zero, ma io divido per il numero che c'è davanti alla $x$ per lasciare la $x$ da sola e così risolvere l'equazione.
 
 ***
 

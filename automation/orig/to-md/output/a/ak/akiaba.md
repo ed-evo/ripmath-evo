@@ -60,7 +60,7 @@ x - 3 \ge 0 \\
 }
 $$
 
-Porto il $$-7$$ dopo il segno di disuguaglianza
+Porto il $-7$ dopo il segno di disuguaglianza
 
 $$
 \textcolor{blue}{
@@ -72,7 +72,7 @@ x - 3 \ge 0 \\
 }
 $$
 
-Divido la terza per $$3$$
+Divido la terza per $3$
 
 $$
 \textcolor{blue}{

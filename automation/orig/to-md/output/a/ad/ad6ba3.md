@@ -34,7 +34,7 @@ $$
 \textcolor{red}{(x-b^2); P(b^2) = (b^2)^3 - 3b^2(b^2)^2 + b^4(b^2) + b^6 = b^6 - 3b^6 + b^6 + b^6 = 0}
 $$
 
-Quindi $$\textcolor{red}{(x - b^2)}$$ è un divisore.
+Quindi $\textcolor{red}{(x - b^2)}$ è un divisore.
 
 $$
 \textcolor{red}{x^3 - 3b^2x^2 + b^4x + b^6 = (x-b^2)(x^2 - 2b^2x - b^4)}
@@ -52,7 +52,7 @@ $$
 \textcolor{red}{+1, -1, +b, -b, +b^2, -b^2, +b^3, -b^3, +b^4, -b^4}
 $$
 
-Però $$+1, -1, +b, -b$$ li abbiamo già provati; quindi ripartiamo da $$b^2$$.
+Però $+1, -1, +b, -b$ li abbiamo già provati; quindi ripartiamo da $b^2$.
 
 $$
 \textcolor{red}{(x-b^2); P(b^2) = (b^2)^2 - 2b^2(b^2) - b^4 = b^4 - 2b^4 - b^4 \neq 0}
@@ -88,4 +88,4 @@ $$
 > $$
 > \textcolor{red}{x^2 - (a+2b)x + 2ab =}
 > $$
-> notando che $$-(a+2b)$$ è un unico coefficiente.
+> notando che $-(a+2b)$ è un unico coefficiente.

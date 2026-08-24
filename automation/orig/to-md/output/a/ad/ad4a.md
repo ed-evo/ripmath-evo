@@ -32,4 +32,4 @@ Fai click [qui](ad4b1.html) se ti servono altri esercizi.
 
 > **Esercizio:** Prova ad inventare dei prodotti fra un monomio ed un polinomio di 3 termini, di 4 termini, di 5 termini.
 
-Quando moltiplichi puoi moltiplicare il monomio per il polinomio oppure il polinomio per il monomio, il risultato è identico perché per la moltiplicazione vale la proprietà [commutativa]{.text-red}, cioè $$3 \cdot 2 = 2 \cdot 3$$.
+Quando moltiplichi puoi moltiplicare il monomio per il polinomio oppure il polinomio per il monomio, il risultato è identico perché per la moltiplicazione vale la proprietà [commutativa]{.text-red}, cioè $3 \cdot 2 = 2 \cdot 3$.

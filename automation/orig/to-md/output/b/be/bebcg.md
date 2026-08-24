@@ -6,7 +6,7 @@ $$
 x^n = 1
 $$
 
-Infatti le soluzioni dell'equazione forniscono i vertici di un poligono regolare di $$n$$ lati sulla circonferenza di raggio $$1$$ con il primo vertice sull'intersezione fra la circonferenza e l'asse delle $$x$$.
+Infatti le soluzioni dell'equazione forniscono i vertici di un poligono regolare di $n$ lati sulla circonferenza di raggio $1$ con il primo vertice sull'intersezione fra la circonferenza e l'asse delle $x$.
 
 ***
 
@@ -16,7 +16,7 @@ $$
 x^6 = 1
 $$
 
-In questo caso possiamo risolverla o applicando la formula già applicata per le soluzioni di equazioni complesse (considerando $$1$$ come il numero complesso $$1+i0$$) oppure con il metodo di scomposizione dei polinomi, visto che il polinomio $$x^6 - 1$$ è facilmente [scomponibile](../../a/ad/ad6g.html).
+In questo caso possiamo risolverla o applicando la formula già applicata per le soluzioni di equazioni complesse (considerando $1$ come il numero complesso $1+i0$) oppure con il metodo di scomposizione dei polinomi, visto che il polinomio $x^6 - 1$ è facilmente [scomponibile](../../a/ad/ad6g.html).
 
 $$
 x^6-1 = (x^3-1)(x^3+ 1)= (x-1)(x^2+x+1)(x+1)(x^2-x+1)

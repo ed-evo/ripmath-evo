@@ -8,7 +8,7 @@
 > \textcolor{red}{\sqrt{-25}} =
 > $$
 >
-> Non posso fare la radice perché non esiste nessun numero reale che elevato al quadrato mi dia $$-25$$
+> Non posso fare la radice perché non esiste nessun numero reale che elevato al quadrato mi dia $-25$
 > infatti
 >
 > $$

@@ -28,13 +28,13 @@ $$
 
 ### Dimostrazione
 
-Trasporto il triangolo $$\textcolor{red}{ABC}$$ da banda opposta rispetto al triangolo $$\textcolor{red}{A'B'C'}$$ in modo che il lato $$\textcolor{red}{BC}$$ vada sopra il lato $$\textcolor{red}{B'C'}$$; allora il punto $$\textcolor{red}{A}$$ va in $$\textcolor{red}{A''}$$.
+Trasporto il triangolo $\textcolor{red}{ABC}$ da banda opposta rispetto al triangolo $\textcolor{red}{A'B'C'}$ in modo che il lato $\textcolor{red}{BC}$ vada sopra il lato $\textcolor{red}{B'C'}$; allora il punto $\textcolor{red}{A}$ va in $\textcolor{red}{A''}$.
 
-Considero il triangolo $$\textcolor{red}{A'B'A''}$$: esso ha due lati uguali ($$\textcolor{red}{A'B' = A''B'}$$) quindi ha anche due angoli uguali cioè $$\textcolor{red}{B'A'H = B'A''H}$$ (quelli indicati in azzurro).
+Considero il triangolo $\textcolor{red}{A'B'A''}$: esso ha due lati uguali ($\textcolor{red}{A'B' = A''B'}$) quindi ha anche due angoli uguali cioè $\textcolor{red}{B'A'H = B'A''H}$ (quelli indicati in azzurro).
 
-Considero ora il triangolo $$\textcolor{red}{A'C'A''}$$: esso ha due lati uguali ($$\textcolor{red}{A'C' = A''C'}$$) quindi ha anche due angoli uguali cioè $$\textcolor{red}{C'A'H = C'A''H}$$ (quelli indicati in viola).
+Considero ora il triangolo $\textcolor{red}{A'C'A''}$: esso ha due lati uguali ($\textcolor{red}{A'C' = A''C'}$) quindi ha anche due angoli uguali cioè $\textcolor{red}{C'A'H = C'A''H}$ (quelli indicati in viola).
 
-Considero ora i triangoli $$\textcolor{red}{A'B'C'}$$ ed $$\textcolor{red}{A''B'C'}$$ essi hanno:
+Considero ora i triangoli $\textcolor{red}{A'B'C'}$ ed $\textcolor{red}{A''B'C'}$ essi hanno:
 
 $$
 \textcolor{red}{A'B' = A''B'}
@@ -48,7 +48,7 @@ $$
 
 sempre per ipotesi (come sopra)
 
-Gli angoli $$\textcolor{red}{B'A'C' = B'A''C'}$$ sono uguali perché somme di angoli uguali (quelli colorati).
+Gli angoli $\textcolor{red}{B'A'C' = B'A''C'}$ sono uguali perché somme di angoli uguali (quelli colorati).
 
 Quindi i due triangoli sono uguali per il primo criterio come volevamo dimostrare.
 

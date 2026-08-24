@@ -1,4 +1,4 @@
-# [Numero di Nepero $$\textcolor{red}{e = 2,71828182845904523536...}$$]{.text-red}
+# [Numero di Nepero $\textcolor{red}{e = 2,71828182845904523536...}$]{.text-red}
 
 È il valore del limite
 

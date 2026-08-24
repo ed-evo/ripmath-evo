@@ -1,4 +1,4 @@
-# [Regola della somma di $$2$$ monomi per la loro differenza]{.text-red}
+# [Regola della somma di $2$ monomi per la loro differenza]{.text-red}
 
 $$
 \textcolor{red}{(a+b) \cdot (a-b) = a^2 - b^2}
@@ -10,7 +10,7 @@ Per leggere la regola devi cominciare prima dell'uguale leggendo l'operazione ch
 
 a questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo ([è uguale a]{.text-purple})
 
-ora devi leggere il secondo termine $$\textcolor{red}{a^2 - b^2}$$; leggi l'operazione ([la differenza]{.text-purple}) descrivendo fra chi è l'operazione ([fra il quadrato del primo monomio ed il quadrato del secondo]{.text-purple})
+ora devi leggere il secondo termine $\textcolor{red}{a^2 - b^2}$; leggi l'operazione ([la differenza]{.text-purple}) descrivendo fra chi è l'operazione ([fra il quadrato del primo monomio ed il quadrato del secondo]{.text-purple})
 
 se metti assieme il tutto ottieni la regola:
 

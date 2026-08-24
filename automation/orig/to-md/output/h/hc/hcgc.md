@@ -1,6 +1,6 @@
 # [La moltiplicazione sui numeri complessi]{.text-red}
 
-Consideriamo un numero complesso, cioè $$a+ib$$ formato da una parte reale più una parte immaginaria e consideriamo l'operazione di moltiplicazione.
+Consideriamo un numero complesso, cioè $a+ib$ formato da una parte reale più una parte immaginaria e consideriamo l'operazione di moltiplicazione.
 
 Se moltiplico un numero complesso per un numero reale tale numero si trasforma in modo che la parte reale resta reale e la parte immaginaria resta immaginaria.
 

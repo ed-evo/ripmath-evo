@@ -4,10 +4,10 @@
 >
 > In un angoloide ogni faccia è minore della somma di tutte le altre.
 >
-> Anche qui la dimostrazione è semplice: prendiamo come esempio per la dimostrazione un angoloide a $$5$$ facce.
+> Anche qui la dimostrazione è semplice: prendiamo come esempio per la dimostrazione un angoloide a $5$ facce.
 >
 > **[Ipotesi]{.text-blue}**
-> $$P(a,b,c,d,e)$$ è un angoloide.
+> $P(a,b,c,d,e)$ è un angoloide.
 >
 > **[Tesi]{.text-blue}**
 > $$

@@ -10,4 +10,4 @@ $$
 >
 > Concettualmente potresti fare la differenza fra i volumi dei segmenti sferici ad una base di cui il segmento sferico a due basi è il risultato.
 >
-> Notare la possibilità di applicare il teorema di Pitagora fra il raggio $$r$$ della sfera, i raggi di base $$r_1$$ ed $$r_2$$ e i segmenti $$h$$ ed $$r - (h + k)$$.
+> Notare la possibilità di applicare il teorema di Pitagora fra il raggio $r$ della sfera, i raggi di base $r_1$ ed $r_2$ e i segmenti $h$ ed $r - (h + k)$.

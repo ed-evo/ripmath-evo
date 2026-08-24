@@ -21,13 +21,13 @@ $$
 
 [Se hai bisogno di un ripasso](../ag/agcab.html)
 
-[.text-red]Numeratore:[/.text-red] [.text-blue]$$x^2 - 5x + 6 > 0$$ [Calcoli](alkabca.html)
-[.text-red]Denominatore:[/.text-red] [.text-blue]$$x - 4 > 0$$
+[.text-red]Numeratore:[/.text-red] [.text-blue]$x^2 - 5x + 6 > 0$ [Calcoli](alkabca.html)
+[.text-red]Denominatore:[/.text-red] [.text-blue]$x - 4 > 0$
 
 Ottengo:
 
-[.text-red]Numeratore positivo:[/.text-red] [.text-blue]$$x < 2 \lor x > 3$$
-[.text-red]Denominatore positivo:[/.text-red] [.text-blue]$$x > 4$$
+[.text-red]Numeratore positivo:[/.text-red] [.text-blue]$x < 2 \lor x > 3$
+[.text-red]Denominatore positivo:[/.text-red] [.text-blue]$x > 4$
 
 Faccio il grafico.
 
@@ -35,7 +35,7 @@ Indico i valori positivi con una linea continua ed indico i negativi con una lin
 
 Siccome cerco dove la frazione è maggiore di zero ho come risultato:
 
-[.text-red]$$2 < x < 3 \lor x > 4$$
+[.text-red]$2 < x < 3 \lor x > 4$
 
 ---
 
@@ -45,7 +45,7 @@ $$
 \frac{x^2 - 5x + 6}{x - 4} < 1
 $$
 
-cioè spostando $$1$$ prima dell'uguale
+cioè spostando $1$ prima dell'uguale
 
 > **Nota bene!** [Nota bene!](alkabb.html)
 
@@ -71,13 +71,13 @@ $$
 
 [Se hai bisogno di un ripasso](../ag/agcab.html)
 
-[.text-red]Numeratore:[/.text-red] [.text-blue]$$x^2 - 6x + 10 > 0$$ [Calcoli](alkabcb.html)
-[.text-red]Denominatore:[/.text-red] [.text-blue]$$x - 4 > 0$$
+[.text-red]Numeratore:[/.text-red] [.text-blue]$x^2 - 6x + 10 > 0$ [Calcoli](alkabcb.html)
+[.text-red]Denominatore:[/.text-red] [.text-blue]$x - 4 > 0$
 
 Ottengo:
 
 [.text-red]Numeratore positivo:[/.text-red] [.text-blue]sempre positivo
-[.text-red]Denominatore positivo:[/.text-red] [.text-blue]$$x > 4$$
+[.text-red]Denominatore positivo:[/.text-red] [.text-blue]$x > 4$
 
 Faccio il grafico.
 
@@ -85,7 +85,7 @@ Ripeto ancora (poi non lo dirò più) che indico i valori positivi con una linea
 
 Siccome cerco dove la frazione è minore di zero ho come risultato:
 
-[.text-red]$$x < 4$$
+[.text-red]$x < 4$
 
 ---
 
@@ -102,4 +102,4 @@ Faccio il grafico (è un sistema quindi devo prendere le soluzioni comuni ad ent
 
 Ottengo come risultato:
 
-[.text-red]$$2 < x < 3$$
+[.text-red]$2 < x < 3$

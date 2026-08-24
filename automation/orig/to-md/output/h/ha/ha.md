@@ -1,6 +1,6 @@
 # [Introduzione]{.text-red}
 
-Abbiamo visto come dai numeri $$\text{Naturali}$$ siamo passati ai numeri $$\text{Interi}$$ poi ai numeri $$\text{razionali}$$ e quindi ai numeri $$\text{reali}$$ e $$\text{complessi}$$ costruendo strutture via via più complicate.
+Abbiamo visto come dai numeri $\text{Naturali}$ siamo passati ai numeri $\text{Interi}$ poi ai numeri $\text{razionali}$ e quindi ai numeri $\text{reali}$ e $\text{complessi}$ costruendo strutture via via più complicate.
 
 Vediamo ora di studiare tali strutture per vedere se possiamo individuarle anche su altri oggetti matematici diversi dai numeri.
 

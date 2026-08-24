@@ -18,8 +18,8 @@ come esercizio dimostriamo che:
 >
 > converga a due numeri, cioè:
 >
-> $$\lim_{x \to \infty} a_n = a$$ e $$\lim_{x \to \infty} a_n = b$$ con $$a$$ e $$b$$ distinti.
+> $\lim_{x \to \infty} a_n = a$ e $\lim_{x \to \infty} a_n = b$ con $a$ e $b$ distinti.
 >
-> Se i due numeri sono distinti allora avremo che i due valori $$a$$ e $$b$$ distano, sulla retta reale, per un valore $$\eta$$ (eta).
+> Se i due numeri sono distinti allora avremo che i due valori $a$ e $b$ distano, sulla retta reale, per un valore $\eta$ (eta).
 >
-> Ma questo va contro il fatto che per $$\epsilon$$ io possa scegliere un numero piccolo a piacere: infatti non posso scegliere come $$\epsilon$$ un numero minore di $$\frac{\eta}{2}$$, cioè minore della metà della distanza fra $$a$$ e $$b$$ perché allora il termine $$a_n$$ o cade nell'intorno di $$a$$ oppure cade nell'intorno di $$b$$ e questo è assurdo: come volevamo.
+> Ma questo va contro il fatto che per $\epsilon$ io possa scegliere un numero piccolo a piacere: infatti non posso scegliere come $\epsilon$ un numero minore di $\frac{\eta}{2}$, cioè minore della metà della distanza fra $a$ e $b$ perché allora il termine $a_n$ o cade nell'intorno di $a$ oppure cade nell'intorno di $b$ e questo è assurdo: come volevamo.

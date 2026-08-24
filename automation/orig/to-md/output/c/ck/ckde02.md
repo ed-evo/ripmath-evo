@@ -4,7 +4,7 @@ $$
 \int (\sqrt[5]{x^4} + 5x\sqrt[4]{x^3} - x^2\sqrt[3]{x^2}) \, dx
 $$
 
-Trasformiamo in una somma di integrali ed estraiamo la costante $$5$$:
+Trasformiamo in una somma di integrali ed estraiamo la costante $5$:
 
 $$
 \int \sqrt[5]{x^4} \, dx + 5 \int x\sqrt[4]{x^3} \, dx - \int x^2\sqrt[3]{x^2} \, dx

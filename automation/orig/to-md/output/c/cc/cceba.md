@@ -4,7 +4,7 @@ $$
 \textcolor{red}{y = x}
 $$
 
-trasforma ogni valore sull'asse $$x$$ nello stesso valore sull'asse delle $$y$$ (ad esempio trasforma $$3$$ in $$3$$, $$7$$ in $$7$$, $$-1$$ in $$-1$$, ...) e quindi del suo grafico faranno parte tutti i punti che hanno uguali la $$x$$ e la $$y$$ come
+trasforma ogni valore sull'asse $x$ nello stesso valore sull'asse delle $y$ (ad esempio trasforma $3$ in $3$, $7$ in $7$, $-1$ in $-1$, ...) e quindi del suo grafico faranno parte tutti i punti che hanno uguali la $x$ e la $y$ come
 
 $$
 \textcolor{red}{(0 ; 0)}

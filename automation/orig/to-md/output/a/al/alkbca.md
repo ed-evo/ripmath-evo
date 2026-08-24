@@ -19,13 +19,13 @@ $$
 
 è una frazione maggiore di zero: pongo numeratore e denominatore maggiori di zero e considero gli intervalli dove i segni sono concordi
 
-[Numeratore: $${3 - x > 0}$${.text-red}]
-[Denominatore: $${2x + 6 > 0}$${.text-red}]
+[Numeratore: ${3 - x > 0}${.text-red}]
+[Denominatore: ${2x + 6 > 0}${.text-red}]
 
 ottengo
 
-[Numeratore positivo: $${x < 3}$${.text-red}]
-[Denominatore positivo: $${x > -3}$${.text-red}]
+[Numeratore positivo: ${x < 3}${.text-red}]
+[Denominatore positivo: ${x > -3}${.text-red}]
 
 Faccio il grafico
 
@@ -33,7 +33,7 @@ Indico i valori positivi con una linea continua ed indico i negativi con una lin
 
 Siccome cerco dove la frazione è maggiore di zero ho come risultato:
 
-[$$-3 < x < 3$${.text-red}]
+[$-3 < x < 3${.text-red}]
 
 ---
 
@@ -43,7 +43,7 @@ $$
 \frac{3 - x}{2x + 6} < 1
 $$
 
-cioè spostando $$1$$ prima dell'uguale
+cioè spostando $1$ prima dell'uguale
 
 > **Nota bene!**
 
@@ -73,13 +73,13 @@ $$
 
 è una frazione maggiore di zero: pongo numeratore e denominatore maggiori di zero e considero gli intervalli dove i segni sono concordi
 
-[Numeratore: $${3x + 3 > 0}$${.text-red}]
-[Denominatore: $${2x + 6 > 0}$${.text-red}]
+[Numeratore: ${3x + 3 > 0}${.text-red}]
+[Denominatore: ${2x + 6 > 0}${.text-red}]
 
 ottengo
 
-[Numeratore positivo: $${x > -1}$${.text-red}]
-[Denominatore positivo: $${x > -3}$${.text-red}]
+[Numeratore positivo: ${x > -1}${.text-red}]
+[Denominatore positivo: ${x > -3}${.text-red}]
 
 Faccio il grafico
 
@@ -87,7 +87,7 @@ indico i valori positivi con una linea continua ed indico i negativi con una lin
 
 Siccome cerco dove la frazione è maggiore di zero ho come risultato:
 
-[$${x < -3 \lor x > -1}$${.text-red}]
+[${x < -3 \lor x > -1}${.text-red}]
 
 ---
 
@@ -104,4 +104,4 @@ Faccio il grafico (è un sistema quindi devo prendere le soluzioni comuni ad ent
 
 Ottengo come risultato:
 
-[$$-1 < x < 3$${.text-red}]
+[$-1 < x < 3${.text-red}]

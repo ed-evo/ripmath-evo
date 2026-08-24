@@ -60,13 +60,13 @@ $$
 \textcolor{red}{x = -1}
 $$
 
-Calcolo il valore della funzione di partenza nel punto $$-1$$:
+Calcolo il valore della funzione di partenza nel punto $-1$:
 
 $$
 \textcolor{red}{f(-1) = -3 \cdot (-1)^2 - 6 \cdot (-1) - 8 = -5}
 $$
 
-Il punto $$\textcolor{red}{A(-1, -5)}$$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
+Il punto $\textcolor{red}{A(-1, -5)}$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
 
 Trovo la derivata seconda:
 
@@ -74,7 +74,7 @@ $$
 \textcolor{red}{y'' = -6}
 $$
 
-Ora dovrei calcolare il valore della derivata seconda sostituendo ad $$x$$ il valore $$-1$$, ma in questo caso il valore della derivata seconda è costante:
+Ora dovrei calcolare il valore della derivata seconda sostituendo ad $x$ il valore $-1$, ma in questo caso il valore della derivata seconda è costante:
 
 $$
 \textcolor{red}{y''(-1) = -6 < 0}
@@ -113,13 +113,13 @@ $$
 \textcolor{red}{x = 0}
 $$
 
-Calcolo il valore della funzione di partenza nel punto $$0$$:
+Calcolo il valore della funzione di partenza nel punto $0$:
 
 $$
 \textcolor{red}{f(0) = 0^4 = 0}
 $$
 
-Il punto $$\textcolor{red}{O(0, 0)}$$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
+Il punto $\textcolor{red}{O(0, 0)}$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
 
 Trovo la derivata seconda:
 
@@ -127,7 +127,7 @@ $$
 \textcolor{red}{y'' = 12x^2}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y''(0) = 12 \cdot 0^2 = 0}
@@ -139,7 +139,7 @@ $$
 \textcolor{red}{y''' = 24x}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y'''(0) = 24 \cdot 0 = 0}
@@ -151,13 +151,13 @@ $$
 \textcolor{red}{y^{IV} = 24}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y^{IV}(0) = 24 > 0}
 $$
 
-Il punto $$\textcolor{red}{O(0,0)}$$ è un minimo perché la derivata quarta (ordine pari) è nel punto maggiore di zero.
+Il punto $\textcolor{red}{O(0,0)}$ è un minimo perché la derivata quarta (ordine pari) è nel punto maggiore di zero.
 
 ---
 
@@ -190,13 +190,13 @@ $$
 \textcolor{red}{x = 0}
 $$
 
-Calcolo il valore della funzione di partenza nel punto $$0$$:
+Calcolo il valore della funzione di partenza nel punto $0$:
 
 $$
 \textcolor{red}{f(0) = 0^5 = 0}
 $$
 
-Il punto $$\textcolor{red}{O(0, 0)}$$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
+Il punto $\textcolor{red}{O(0, 0)}$ è un punto estremante, devo vedere se è un massimo, un minimo o un flesso.
 
 Trovo la derivata seconda:
 
@@ -204,7 +204,7 @@ $$
 \textcolor{red}{y'' = 20x^3}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y''(0) = 20 \cdot 0^3 = 0}
@@ -216,7 +216,7 @@ $$
 \textcolor{red}{y''' = 60x^2}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y'''(0) = 60 \cdot 0^2 = 0}
@@ -228,7 +228,7 @@ $$
 \textcolor{red}{y^{IV} = 120x}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y^{IV}(0) = 120 \cdot 0 = 0}
@@ -240,10 +240,10 @@ $$
 \textcolor{red}{y^V = 120}
 $$
 
-La calcolo per $$x=0$$:
+La calcolo per $x=0$:
 
 $$
 \textcolor{red}{y^V(0) = 120 > 0}
 $$
 
-Il punto $$\textcolor{red}{O(0,0)}$$ è un flesso orizzontale ascendente perché la derivata quinta (ordine dispari) è nel punto maggiore di zero.
+Il punto $\textcolor{red}{O(0,0)}$ è un flesso orizzontale ascendente perché la derivata quinta (ordine dispari) è nel punto maggiore di zero.

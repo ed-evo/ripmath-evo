@@ -7,9 +7,9 @@ $$
 \textcolor{blue}{x_{1,2} = \frac{-\beta \pm \sqrt{\beta^2 - ac}}{a}}
 $$
 abbiamo:
-$$ \textcolor{blue}{a = 3} $$
-$$ \textcolor{blue}{b = -4\sqrt{3}} \quad \textcolor{blue}{\beta = -2\sqrt{3}} $$
-$$ \textcolor{blue}{c = -12} $$
+$\textcolor{blue}{a = 3}$
+$\textcolor{blue}{b = -4\sqrt{3}} \quad \textcolor{blue}{\beta = -2\sqrt{3}}$
+$\textcolor{blue}{c = -12}$
 sostituiamo nella formula
 $$
 \textcolor{blue}{x_{1,2} = \frac{-(-2\sqrt{3}) \pm \sqrt{(-2\sqrt{3})^2 - 3(-12)}}{3}}

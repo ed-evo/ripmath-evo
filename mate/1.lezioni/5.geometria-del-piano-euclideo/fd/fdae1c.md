@@ -1,0 +1,3 @@
+# Partiamo dalla tesi e risaliamo fino ai dati
+
+> La tesi è $$DE=BC$$. Per dimostrare che sono congruenti considero due triangoli di cui facciano parte $$DE$$ e $$BC$$ e vedo se sono congruenti: considero i triangoli $$ABC$$ ed $$ADE$$. So che hanno due lati uguali, mi manca un altro lato oppure un angolo: osservo che gli angoli in $$A$$ dei due triangoli sono opposti al vertice (so che gli angoli opposti al vertice sono uguali), quindi ho due lati e l'angolo compreso congruenti (primo criterio).

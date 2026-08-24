@@ -18,8 +18,8 @@ $$
 
 poniamo:
 
-$$\textcolor{blue}{x = \log_a b}$$
-$$\textcolor{blue}{y = \log_a c}$$
+$\textcolor{blue}{x = \log_a b}$
+$\textcolor{blue}{y = \log_a c}$
 
 allora per definizione di logaritmo abbiamo:
 
@@ -48,7 +48,7 @@ $$
 \textcolor{blue}{x - y = \log_a \left( \frac{b}{c} \right)}
 $$
 
-quindi sostituendo ad $$x$$ ed $$y$$ i loro valori avremo la formula finale:
+quindi sostituendo ad $x$ ed $y$ i loro valori avremo la formula finale:
 
 $$
 \textcolor{blue}{\log_a b - \log_a c = \log_a \frac{b}{c}}
@@ -66,23 +66,23 @@ $$
 
 Quindi se dobbiamo fare un quoziente piuttosto complicato possiamo trasformare i fattori in logaritmi, farne la differenza e poi fare l'antilogaritmo per trovarne il risultato.
 
-Anche qui facciamo un esempio molto banale, tanto per vedere il metodo: useremo i logaritmi in base $$2$$ anche se, di solito, per questi calcoli si usano i logaritmi decimali o di Briggs cioè a base $$10$$.
+Anche qui facciamo un esempio molto banale, tanto per vedere il metodo: useremo i logaritmi in base $2$ anche se, di solito, per questi calcoli si usano i logaritmi decimali o di Briggs cioè a base $10$.
 
 ---
 
 Voglio calcolare:
-$$\textcolor{blue}{1024 : 64}$$
+$\textcolor{blue}{1024 : 64}$
 
-Trasformo in logaritmi, nel nostro caso in base $$2$$:
-$$\textcolor{red}{\log_2 1024 = 10 \quad \log_2 64 = 6}$$
+Trasformo in logaritmi, nel nostro caso in base $2$:
+$\textcolor{red}{\log_2 1024 = 10 \quad \log_2 64 = 6}$
 
 faccio la differenza:
-$$\textcolor{red}{10 - 6 = 4}$$
+$\textcolor{red}{10 - 6 = 4}$
 
 questo è il logaritmo del risultato; per trovare il risultato devo metterlo come esponente alla base:
-$$\textcolor{red}{2^4 = 16}$$
+$\textcolor{red}{2^4 = 16}$
 
 quindi:
-$$\textcolor{blue}{1024 : 64 = 16}$$
+$\textcolor{blue}{1024 : 64 = 16}$
 
 ---

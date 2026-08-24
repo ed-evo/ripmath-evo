@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{2x^2 - 8x + 8 - 7x = x^2 - 6x + 9 - 1}
 $$
 
-Porto le $$x$$ prima dell'uguale e i termini noti dopo l'uguale:
+Porto le $x$ prima dell'uguale e i termini noti dopo l'uguale:
 
 $$
 \textcolor{blue}{2x^2 - x^2 - 8x - 7x + 6x = 9 - 1 - 8}
@@ -30,7 +30,7 @@ $$
 \textcolor{blue}{x^2 - 9x = 0}
 $$
 
-Raccolgo a fattor comune la $$x$$:
+Raccolgo a fattor comune la $x$:
 
 $$
 \textcolor{blue}{x(x - 9) = 0}
@@ -47,7 +47,7 @@ $$
 
 La prima è già risolta, risolvo la seconda:
 
-Porto il $$-9$$ dopo l'uguale cambiandolo di segno:
+Porto il $-9$ dopo l'uguale cambiandolo di segno:
 
 $$
 \textcolor{blue}{x = 9}

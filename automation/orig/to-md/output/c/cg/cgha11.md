@@ -1,4 +1,4 @@
-Quando scriverò $$\log x$$ intenderò $$\ln x$$ cioè il logaritmo naturale di $$x$$.
+Quando scriverò $\log x$ intenderò $\ln x$ cioè il logaritmo naturale di $x$.
 
 Determinare i punti di massimo e minimo per la seguente funzione nell'intervallo a fianco segnato:
 
@@ -9,8 +9,8 @@ $$
 ***
 
 La prima cosa da dire è che l'intervallo esatto è:
-$$\textcolor{red}{0 < x \le 2 \text{ con } x \neq 1}$$
-perché $$\log x$$ non è definito per $$x = 0$$ e il denominatore della funzione si annulla per $$x = 1$$.
+$\textcolor{red}{0 < x \le 2 \text{ con } x \neq 1}$
+perché $\log x$ non è definito per $x = 0$ e il denominatore della funzione si annulla per $x = 1$.
 
 ***
 
@@ -20,20 +20,20 @@ $$
 \textcolor{red}{y' = \frac{\log x - 1}{\log^2 x}}
 $$
 
-$$\textcolor{red}{\log x - 1 = 0}$$
-$$\textcolor{red}{\log x = 1}$$
-$$\textcolor{red}{x = e}$$
+$\textcolor{red}{\log x - 1 = 0}$
+$\textcolor{red}{\log x = 1}$
+$\textcolor{red}{x = e}$
 
-Trovo il valore della $$y$$ corrispondente sostituendo $$e$$ al posto di $$x$$ nell'equazione di partenza:
+Trovo il valore della $y$ corrispondente sostituendo $e$ al posto di $x$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{y(e) = \frac{e}{\log e} = e}
 $$
 
 Il punto estremante è:
-$$\textcolor{red}{A(e, e)}$$
+$\textcolor{red}{A(e, e)}$
 
-Siccome io devo considerare i valori della funzione all'interno dell'intervallo $$\textcolor{red}{0 < x \le 2 \text{ con } x \neq 1}$$, non posso considerare il punto $$A$$ perché esterno (il numero $$e$$ vale circa $$2,7$$); quindi il massimo e il minimo della funzione saranno legati ai valori estremi dell'intervallo: $$0$$, $$1$$, $$2$$.
+Siccome io devo considerare i valori della funzione all'interno dell'intervallo $\textcolor{red}{0 < x \le 2 \text{ con } x \neq 1}$, non posso considerare il punto $A$ perché esterno (il numero $e$ vale circa $2,7$); quindi il massimo e il minimo della funzione saranno legati ai valori estremi dell'intervallo: $0$, $1$, $2$.
 
 ***
 
@@ -41,7 +41,7 @@ Siccome io devo considerare i valori della funzione all'interno dell'intervallo 
 
 ***
 
-Nel punto $$0$$ dovrò fare il limite destro, mentre nel punto $$2$$ trovo il valore della $$y$$ corrispondente sostituendo $$2$$ al posto di $$x$$ nell'equazione di partenza; infine, nel punto $$1$$ calcolerò il limite della funzione:
+Nel punto $0$ dovrò fare il limite destro, mentre nel punto $2$ trovo il valore della $y$ corrispondente sostituendo $2$ al posto di $x$ nell'equazione di partenza; infine, nel punto $1$ calcolerò il limite della funzione:
 
 - $$
 \textcolor{red}{\lim_{x \to 0^+} \frac{x}{\log x} = \frac{0}{-\infty} = 0}

@@ -4,13 +4,13 @@ $$
 \textcolor{red}{(\log x^2)^2 - 2 \log x^3 + 2 = 0}
 $$ [nota](aljaf1a.html)
 
-Stavolta, prima di procedere alla soluzione, conviene cercare di rendere l'equazione più semplice. Come prima cosa estraiamo dal primo quadrato la potenza $$2$$ interna e dal secondo la potenza $$3$$ (regola del logaritmo di una [potenza](algc.html)):
+Stavolta, prima di procedere alla soluzione, conviene cercare di rendere l'equazione più semplice. Come prima cosa estraiamo dal primo quadrato la potenza $2$ interna e dal secondo la potenza $3$ (regola del logaritmo di una [potenza](algc.html)):
 
 $$
 \textcolor{blue}{(2\log x)^2 - 2 \cdot 3 \log x + 2 = 0}
 $$
 
-Ora porto il $$2$$ fuori del quadrato: diventa $$4$$
+Ora porto il $2$ fuori del quadrato: diventa $4$
 
 $$
 \textcolor{blue}{4(\log x)^2 - 6 \log x + 2 = 0}
@@ -22,7 +22,7 @@ Siccome il logaritmo è definito solamente se l'argomento è maggiore di zero do
 > \textcolor{blue}{x > 0}
 > $$
 
-Adesso passo a risolvere l'equazione. Osservo che il logaritmo compare a potenza $$1$$ ed a potenza $$2$$, quindi è come se fosse un'equazione di secondo grado; per meglio evidenziarlo pongo:
+Adesso passo a risolvere l'equazione. Osservo che il logaritmo compare a potenza $1$ ed a potenza $2$, quindi è come se fosse un'equazione di secondo grado; per meglio evidenziarlo pongo:
 
 $$
 \textcolor{blue}{\log x = y}
@@ -34,7 +34,7 @@ $$
 \textcolor{blue}{4y^2 - 6y + 2 = 0}
 $$
 
-divido per $$2$$ per renderla più semplice:
+divido per $2$ per renderla più semplice:
 
 $$
 \textcolor{blue}{2y^2 - 3y + 1 = 0}
@@ -66,7 +66,7 @@ $$
 \textcolor{blue}{\log x = 1 \quad \log x = \frac{1}{2}}
 $$
 
-- risolvo la prima: siccome ho la L maiuscola il logaritmo è in base $$10$$ e posso scrivere ricordando che $$1 = \log 10$$
+- risolvo la prima: siccome ho la L maiuscola il logaritmo è in base $10$ e posso scrivere ricordando che $1 = \log 10$
   $$
   \textcolor{blue}{\log x = \log 10}
   $$
@@ -80,11 +80,11 @@ $$
   $$
   \textcolor{blue}{\log x = \frac{1}{2}}
   $$
-  Moltiplico per $$2$$ entrambi i termini:
+  Moltiplico per $2$ entrambi i termini:
   $$
   \textcolor{blue}{2 \log x = 1}
   $$
-  Porto il $$2$$ all'interno dell'argomento e trasformo in logaritmo il termine dopo l'uguale:
+  Porto il $2$ all'interno dell'argomento e trasformo in logaritmo il termine dopo l'uguale:
   $$
   \textcolor{blue}{\log x^2 = \log 10}
   $$

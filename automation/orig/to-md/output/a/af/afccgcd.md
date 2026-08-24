@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{3x - \frac{x^2 - 3x - 10}{3} + \frac{x^2 - 4x + 4}{2} = 0}
 $$
 
-ora facciamo il minimo comune multiplo che è $$6$$
+ora facciamo il minimo comune multiplo che è $6$
 
 $$
 \textcolor{blue}{\frac{18x - 2(x^2 - 3x - 10) + 3(x^2 - 4x + 4)}{6} = \frac{0}{6}}
@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{\frac{18x - 2x^2 + 6x + 20 + 3x^2 - 12x + 12}{6} = \frac{0}{6}}
 $$
 
-adesso, essendo un'equazione posso moltiplicare prima e dopo l'uguale per $$6$$, cioè posso togliere i denominatori per il [secondo principio di equivalenza](../af/afbc.html)
+adesso, essendo un'equazione posso moltiplicare prima e dopo l'uguale per $6$, cioè posso togliere i denominatori per il [secondo principio di equivalenza](../af/afbc.html)
 
 $$
 \textcolor{blue}{18x - 2x^2 + 6x + 20 + 3x^2 - 12x + 12 = 0}
@@ -52,9 +52,9 @@ $$
 
 abbiamo:
 
-[$$a = 1$$]{.text-blue}
-[$$b = 12$$]{.text-blue}
-[$$c = 32$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = 12$]{.text-blue}
+[$c = 32$]{.text-blue}
 
 sostituiamo nella formula
 
@@ -88,13 +88,13 @@ $$
 
 Ho quindi le due soluzioni
 
-[$$x_1 = -4$$]{.text-red} \quad [$$x_2 = -8$$]{.text-red}
+[$x_1 = -4$]{.text-red} \quad [$x_2 = -8$]{.text-red}
 
 ---
 
 [torna su](#su)
 
-consideriamo la formula risolutiva ridotta ricordando che $$\beta = b/2$$
+consideriamo la formula risolutiva ridotta ricordando che $\beta = b/2$
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-\beta \pm \sqrt{\beta^2 - ac}}{a}}
@@ -102,9 +102,9 @@ $$
 
 abbiamo:
 
-[$$a = 1$$]{.text-blue}
-[$$b = 12$$]{.text-blue} \quad [$$\beta = 6$$]{.text-blue}
-[$$c = 32$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = 12$]{.text-blue} \quad [$\beta = 6$]{.text-blue}
+[$c = 32$]{.text-blue}
 
 sostituiamo nella formula
 
@@ -128,12 +128,12 @@ $$
 
 adesso devo prendere una volta il più ed una volta il meno
 
-[$$-6 + 2 = -4$$]{.text-blue}
-[$$-6 - 2 = -8$$]{.text-blue}
+[$-6 + 2 = -4$]{.text-blue}
+[$-6 - 2 = -8$]{.text-blue}
 
 Ho quindi le due soluzioni
 
-[$$x_1 = -4$$]{.text-red} \quad [$$x_2 = -8$$]{.text-red}
+[$x_1 = -4$]{.text-red} \quad [$x_2 = -8$]{.text-red}
 
 [torna su](#su)
 

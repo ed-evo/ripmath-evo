@@ -13,12 +13,12 @@ $$
 $$
 
 avendo posto:
-- [$$\textcolor{blue}{N(x)}$$]{.text-blue} numeratore
-- [$$\textcolor{blue}{D(x)}$$]{.text-blue} denominatore
-- [$$\textcolor{blue}{Q(x)}$$]{.text-blue} quoziente
-- [$$\textcolor{blue}{R(x)}$$]{.text-blue} resto
+- [$\textcolor{blue}{N(x)}$]{.text-blue} numeratore
+- [$\textcolor{blue}{D(x)}$]{.text-blue} denominatore
+- [$\textcolor{blue}{Q(x)}$]{.text-blue} quoziente
+- [$\textcolor{blue}{R(x)}$]{.text-blue} resto
 
-$$Q(x)$$ sarà un polinomio quindi sappiamo integrarlo; il nostro problema è ora saper integrare il termine
+$Q(x)$ sarà un polinomio quindi sappiamo integrarlo; il nostro problema è ora saper integrare il termine
 
 $$
 \textcolor{blue}{\frac{R(x)}{D(x)}}
@@ -44,8 +44,8 @@ $$
 \textcolor{blue}{-4x^2 - 6x + 7}
 $$
 
-Il quoziente vale [$$x^2 - 2$$]{.text-blue}
-il resto vale [$$-4x^2 - 6x + 7$$]{.text-blue}
+Il quoziente vale [$x^2 - 2$]{.text-blue}
+il resto vale [$-4x^2 - 6x + 7$]{.text-blue}
 
 quindi, invece dell'integrale iniziale, posso calcolare gli integrali:
 

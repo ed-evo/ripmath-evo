@@ -4,7 +4,7 @@ $$
 
 Questa è la regola in linguaggio "matematico"; per fare la traduzione devi seguire questa procedura:
 
-Per leggere la regola devi cominciare prima dell'uguale $$\textcolor{red}{(a \cdot b \cdot c)^n}$$ leggendo l'operazione che coinvolge tutti in termini ([la potenza]{.text-purple}), poi devi dire fra chi è quest'operazione ([di un prodotto]{.text-purple}) descrivendo i termini ([di fattori]{.text-purple}).
+Per leggere la regola devi cominciare prima dell'uguale $\textcolor{red}{(a \cdot b \cdot c)^n}$ leggendo l'operazione che coinvolge tutti in termini ([la potenza]{.text-purple}), poi devi dire fra chi è quest'operazione ([di un prodotto]{.text-purple}) descrivendo i termini ([di fattori]{.text-purple}).
 
 A questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo ([è uguale a]{.text-purple}).
 

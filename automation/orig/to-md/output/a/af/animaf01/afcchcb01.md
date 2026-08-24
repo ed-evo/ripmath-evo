@@ -1,1 +1,1 @@
-# intersezioni n° $$\textcolor{red}{2}$$
+# intersezioni n° $\textcolor{red}{2}$

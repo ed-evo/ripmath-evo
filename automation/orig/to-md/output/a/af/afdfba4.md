@@ -1,10 +1,10 @@
 # [Esercizio]{.text-red}
 
 Risolvere:
-$$\textcolor{red}{x + 2 + \sqrt{x + 2} = 0}$$
+$\textcolor{red}{x + 2 + \sqrt{x + 2} = 0}$
 
 isolo la radice portando gli altri termini dopo l'uguale
-$$\textcolor{red}{\sqrt{x + 2} = -x - 2}$$
+$\textcolor{red}{\sqrt{x + 2} = -x - 2}$
 
 Pongo le condizioni iniziali: il termine sotto radice deve essere maggiore od uguale a zero e l'altro termine deve avere lo stesso segno del radicale
 
@@ -26,26 +26,26 @@ $$
 
 quindi la soluzione è
 
-$$\textcolor{red}{x = -2}$$
+$\textcolor{red}{x = -2}$
 
-Quindi saranno accettabili solo le soluzioni che siano uguali a $$-2$$
+Quindi saranno accettabili solo le soluzioni che siano uguali a $-2$
 
 Ora procedo normalmente:
 
 Elevo a quadrato da una parte e dall'altra
-$$\textcolor{red}{[\sqrt{x + 2}]^2 = (-x - 2)^2}$$
+$\textcolor{red}{[\sqrt{x + 2}]^2 = (-x - 2)^2}$
 
 Eseguo il quadrato dopo l'uguale. Prima dell'uguale semplifico il quadrato con la radice
-$$\textcolor{red}{x + 2 = x^2 + 4x + 4}$$
+$\textcolor{red}{x + 2 = x^2 + 4x + 4}$
 
 Trasporto tutto prima dell'uguale
-$$\textcolor{red}{x + 2 - x^2 - 4x - 4 = 0}$$
+$\textcolor{red}{x + 2 - x^2 - 4x - 4 = 0}$
 
 Sommo
-$$\textcolor{red}{-x^2 - 3x - 2 = 0}$$
+$\textcolor{red}{-x^2 - 3x - 2 = 0}$
 
 Cambio segno
-$$\textcolor{red}{x^2 + 3x + 2 = 0}$$
+$\textcolor{red}{x^2 + 3x + 2 = 0}$
 
 Risolvo
 
@@ -62,7 +62,7 @@ $$
 $$
 
 Le radici sono:
-$$\textcolor{red}{x_1 = \frac{-3 - 1}{2} = -2}$$
-$$\textcolor{red}{x_2 = \frac{-3 + 1}{2} = -1}$$
+$\textcolor{red}{x_1 = \frac{-3 - 1}{2} = -2}$
+$\textcolor{red}{x_2 = \frac{-3 + 1}{2} = -1}$
 
-La prima soluzione $$x = -2$$ è accettabile, la seconda $$x = -1$$ non è accettabile
+La prima soluzione $x = -2$ è accettabile, la seconda $x = -1$ non è accettabile

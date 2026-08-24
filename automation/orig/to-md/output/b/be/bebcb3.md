@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{a + ib = \rho \cos \theta + i \rho \sin \theta}
 $$
 
-raccolgo $$\rho$$ ed ottengo
+raccolgo $\rho$ ed ottengo
 
 $$
 \textcolor{blue}{a + ib = \rho (\cos \theta + i \sin \theta)}

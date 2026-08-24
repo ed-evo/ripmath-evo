@@ -14,7 +14,7 @@ $$
 Quando i numeri complessi sono in forma trigonometrica per eseguire il quoziente si ha la
 
 > **[Regola:]{.text-red}**
-> [Per eseguire il quoziente fra due numeri complessi in forma trigonometrica basta dividere fra loro i moduli $$\textcolor{red}{\rho_1}$$ e $$\textcolor{red}{\rho_2}$$ e sottrarre gli angoli $$\textcolor{red}{\theta_1}$$ e $$\textcolor{red}{\theta_2}$$ cioè]{.text-red}
+> [Per eseguire il quoziente fra due numeri complessi in forma trigonometrica basta dividere fra loro i moduli $\textcolor{red}{\rho_1}$ e $\textcolor{red}{\rho_2}$ e sottrarre gli angoli $\textcolor{red}{\theta_1}$ e $\textcolor{red}{\theta_2}$ cioè]{.text-red}
 > 
 > $$
 > \textcolor{red}{\rho_1 (\cos \theta_1 + i \sin \theta_1) : \rho_2 (\cos \theta_2 + i \sin \theta_2) = \frac{\rho_1}{\rho_2} [\cos (\theta_1 - \theta_2) + i \sin (\theta_1 - \theta_2)]}

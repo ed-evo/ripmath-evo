@@ -7,7 +7,7 @@ $$
 \textcolor{red}{AD = HO + OK = r + r = 2r}
 $$
 
-Noto il valore del lato del quadrato, per trovare il valore del raggio del cerchio inscrito al quadrato basta applicare la formula inversa: infatti, noto il valore $$l$$ del lato $$AB$$ avremo:
+Noto il valore del lato del quadrato, per trovare il valore del raggio del cerchio inscrito al quadrato basta applicare la formula inversa: infatti, noto il valore $l$ del lato $AB$ avremo:
 
 $$
 l = 2r

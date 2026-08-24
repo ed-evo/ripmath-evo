@@ -4,7 +4,7 @@ $$
 \textcolor{blue}{\int x \arctan x \, dx =}
 $$
 
-Questa volta c'è poco da scegliere: di $$\arctan x$$ conosco solo la derivata e non l'integrale, quindi considero $$x$$ come funzione di cui trovare l'integrale e $$\arctan x$$ come funzione di cui trovare la derivata, cioè dalla formula:
+Questa volta c'è poco da scegliere: di $\arctan x$ conosco solo la derivata e non l'integrale, quindi considero $x$ come funzione di cui trovare l'integrale e $\arctan x$ come funzione di cui trovare la derivata, cioè dalla formula:
 
 $$
 \textcolor{red}{\int f \cdot g = f \cdot \int g - \int \left( f' \cdot \int g \right)}
@@ -32,7 +32,7 @@ $$
 \textcolor{blue}{= \frac{x^2}{2} \arctan x - \frac{1}{2} \int \frac{x^2}{1+x^2} \, dx}
 $$
 
-Nel secondo integrale aggiungo e tolgo $$1$$ al numeratore [Integrali per scomposizione](ckdea.html)
+Nel secondo integrale aggiungo e tolgo $1$ al numeratore [Integrali per scomposizione](ckdea.html)
 
 $$
 \textcolor{blue}{= \frac{x^2}{2} \arctan x - \frac{1}{2} \int \frac{x^2 + 1 - 1}{1 + x^2} \, dx}

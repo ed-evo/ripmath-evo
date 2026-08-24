@@ -1,12 +1,12 @@
 # [Relazione simmetrica]{.text-red}
 
-- Diciamo che una relazione $$\textcolor{red}{R}$$ è **simmetrica** se come sottoinsieme del prodotto cartesiano $$\textcolor{red}{A \times A}$$ è formata da un insieme simmetrico rispetto alla diagonale principale.
+- Diciamo che una relazione $\textcolor{red}{R}$ è **simmetrica** se come sottoinsieme del prodotto cartesiano $\textcolor{red}{A \times A}$ è formata da un insieme simmetrico rispetto alla diagonale principale.
 
 > cioè ribaltando attorno alla diagonale principale la parte sopra la diagonale si ottiene la parte sotto la diagonale.
 > 
 > **Nota:** In verde la diagonale principale; in nero gli elementi della relazione simmetrica.
 
-- Diciamo che la relazione $$\textcolor{red}{R}$$ su $$\textcolor{red}{A \times A}$$ è **simmetrica** se ogni volta che si ha $$\textcolor{red}{a R b}$$ si ha anche $$\textcolor{red}{b R a}$$.
+- Diciamo che la relazione $\textcolor{red}{R}$ su $\textcolor{red}{A \times A}$ è **simmetrica** se ogni volta che si ha $\textcolor{red}{a R b}$ si ha anche $\textcolor{red}{b R a}$.
 
 > $$
 > \textcolor{red}{a R b \implies b R a}

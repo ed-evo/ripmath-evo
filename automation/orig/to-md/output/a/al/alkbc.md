@@ -40,7 +40,7 @@ $$
 \textcolor{blue}{\log_{1/3} \left( \frac{3-x}{2x+6} \right) > 0}
 $$
 
-Confrontando con il grafico della funzione logaritmo vedo che, essendo il logaritmo maggiore di zero (sopra l'asse delle $$x$$), devo porre l'argomento compreso fra zero ed 1
+Confrontando con il grafico della funzione logaritmo vedo che, essendo il logaritmo maggiore di zero (sopra l'asse delle $x$), devo porre l'argomento compreso fra zero ed 1
 
 $$
 \textcolor{blue}{0 < \frac{3-x}{2x+6} < 1}

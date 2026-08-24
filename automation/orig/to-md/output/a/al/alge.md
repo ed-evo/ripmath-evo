@@ -8,7 +8,7 @@ $$
 \textcolor{blue}{\sqrt[3]{\frac{2\sqrt[4]{8} \cdot (0,125)^4}{0,5 \cdot \sqrt[4]{0,5} \cdot (0,25)^6}}}
 $$
 
-I numeri sono tutti potenze di $$2$$, quindi trasformiamoli in logaritmo in base $$2$$:
+I numeri sono tutti potenze di $2$, quindi trasformiamoli in logaritmo in base $2$:
 
 $$
 \textcolor{blue}{\log_2 \sqrt[3]{\frac{2\sqrt[4]{8} \cdot (0,125)^4}{0,5 \cdot \sqrt[4]{0,5} \cdot (0,25)^6}}}
@@ -69,7 +69,7 @@ $$
 \textcolor{blue}{\frac{1}{3} \cdot \frac{12}{4} = 1}
 $$
 
-Ora calcoliamo l'antilogaritmo, calcolando la potenza a base $$2$$ con esponente il numero trovato:
+Ora calcoliamo l'antilogaritmo, calcolando la potenza a base $2$ con esponente il numero trovato:
 
 $$
 \textcolor{blue}{2^1 = 2}

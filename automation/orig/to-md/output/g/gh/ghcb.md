@@ -7,10 +7,10 @@
 > Stavolta la dimostrazione è quasi immediata:
 > 
 > [**Ipotesi**]{.text-blue}
-> $$P(a, b, c)$$ triedro
+> $P(a, b, c)$ triedro
 > 
 > [**Tesi**]{.text-blue}
-> $$\widehat{aPb} > \widehat{aPc} - \widehat{bPc}$$
+> $\widehat{aPb} > \widehat{aPc} - \widehat{bPc}$
 
 Partiamo dalla disuguaglianza appena dimostrata (valida per tutti i triedri):
 
@@ -18,7 +18,7 @@ $$
 \widehat{aPb} + \widehat{bPc} > \widehat{aPc}
 $$
 
-Sottraiamo da entrambi i membri della disuguaglianza la stessa quantità $$\widehat{bPc}$$:
+Sottraiamo da entrambi i membri della disuguaglianza la stessa quantità $\widehat{bPc}$:
 
 $$
 \widehat{aPb} + \widehat{bPc} - \widehat{bPc} > \widehat{aPc} - \widehat{bPc}

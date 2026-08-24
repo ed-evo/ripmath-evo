@@ -10,30 +10,30 @@ Siccome vale il teorema che la somma degli angoli di un angoloide deve sempre es
 
 ***
 
-Il triangolo equilatero ci fornirà $$3$$ possibilità: infatti essendo l'angolo di $$60^\circ$$ potremo costruire i $$3$$ angoloidi:
-- triedro $$60^\circ \times 3 = 180^\circ$$
-- angoloide a $$4$$ facce $$60^\circ \times 4 = 240^\circ$$
-- angoloide a $$5$$ facce $$60^\circ \times 5 = 300^\circ$$
+Il triangolo equilatero ci fornirà $3$ possibilità: infatti essendo l'angolo di $60^\circ$ potremo costruire i $3$ angoloidi:
+- triedro $60^\circ \times 3 = 180^\circ$
+- angoloide a $4$ facce $60^\circ \times 4 = 240^\circ$
+- angoloide a $5$ facce $60^\circ \times 5 = 300^\circ$
 
-Non possiamo usare più facce perché raggiungiamo e superiamo i $$360^\circ$$.
+Non possiamo usare più facce perché raggiungiamo e superiamo i $360^\circ$.
 
-Il quadrato ci darà una possibilità, infatti, avendo l'angolo di $$90^\circ$$:
-- triedro $$90^\circ \times 3 = 270^\circ$$
+Il quadrato ci darà una possibilità, infatti, avendo l'angolo di $90^\circ$:
+- triedro $90^\circ \times 3 = 270^\circ$
 
-Con $$4$$ facce poi raggiungo i $$360^\circ$$.
+Con $4$ facce poi raggiungo i $360^\circ$.
 
-Anche il pentagono regolare ci darà una possibilità: infatti un pentagono regolare ha la somma degli angoli interni di $$540^\circ$$ e quindi l'angolo vale $$108^\circ$$, quindi:
-- triedro $$108^\circ \times 3 = 324^\circ$$
+Anche il pentagono regolare ci darà una possibilità: infatti un pentagono regolare ha la somma degli angoli interni di $540^\circ$ e quindi l'angolo vale $108^\circ$, quindi:
+- triedro $108^\circ \times 3 = 324^\circ$
 
-Con $$4$$ facce poi supero i $$360^\circ$$.
+Con $4$ facce poi supero i $360^\circ$.
 
-L'esagono regolare ha gli angoli ai vertici di $$120^\circ$$ e quindi il solo triedro vale $$360^\circ$$.
+L'esagono regolare ha gli angoli ai vertici di $120^\circ$ e quindi il solo triedro vale $360^\circ$.
 
 Tutti gli altri poligoni regolari hanno angoli di valore superiore e quindi non è possibile formare i triedri.
 
 ***
 
-Avremo quindi le $$5$$ possibilità (i $$5$$ corpi platonici):
+Avremo quindi le $5$ possibilità (i $5$ corpi platonici):
 
 - Tetraedro regolare
 - Ottaedro regolare

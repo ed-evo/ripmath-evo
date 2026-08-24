@@ -12,9 +12,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 6}$$
-$$\textcolor{blue}{b = -5}$$
-$$\textcolor{blue}{c = -50}$$
+$\textcolor{blue}{a = 6}$
+$\textcolor{blue}{b = -5}$
+$\textcolor{blue}{c = -50}$
 
 Sostituiamo nella formula:
 

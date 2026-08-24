@@ -1,6 +1,6 @@
 # Esercizio
 
-[$$(6x^2 - 5x + 4) : (2x + 3) =$$]{.text-red}
+[$(6x^2 - 5x + 4) : (2x + 3) =$]{.text-red}
 
 Impostiamo la divisione:
 
@@ -24,14 +24,14 @@ $$
 
 ***
 
-Il quoziente vale [$$3x - 7$$]{.text-blue}
-Il resto vale [$$25$$]{.text-blue}
+Il quoziente vale [$3x - 7$]{.text-blue}
+Il resto vale [$25$]{.text-blue}
 
 Puoi controllare se hai fatto giusto facendone la prova con la regola:
-[$$\text{Divisore} \cdot \text{Quoziente} + \text{Resto} = \text{polinomio di partenza}$$]{.text-blue}
+[$\text{Divisore} \cdot \text{Quoziente} + \text{Resto} = \text{polinomio di partenza}$]{.text-blue}
 
 Quindi fai:
-[$$(2x + 3)(3x - 7) + 25 =$$]{.text-blue}
+[$(2x + 3)(3x - 7) + 25 =$]{.text-blue}
 
 E, se hai fatto giusto e non fai nessun errore, troverai come risultato:
-[$$6x^2 - 5x + 4$$]{.text-blue}
+[$6x^2 - 5x + 4$]{.text-blue}

@@ -1,6 +1,6 @@
 Ti faccio un esempio semplice:
 
-> [Dato il rettangolo di base $$8$$ cm e diagonale $$10$$ cm trovarne l'area.]{.text-red}
+> [Dato il rettangolo di base $8$ cm e diagonale $10$ cm trovarne l'area.]{.text-red}
 >
 > Devo trovare l'area
 >

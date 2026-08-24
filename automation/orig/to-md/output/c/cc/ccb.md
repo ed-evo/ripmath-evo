@@ -2,7 +2,7 @@
 
 # [Funzioni matematiche]{.text-red}
 
-Sono quelle funzioni tali che le operazioni che permettono di passare dal valore della $$x$$ al valore della $$y$$ sono di tipo matematico.
+Sono quelle funzioni tali che le operazioni che permettono di passare dal valore della $x$ al valore della $y$ sono di tipo matematico.
 
 ***
 
@@ -15,7 +15,7 @@ $$
 
 In caso contrario la funzione si dice [Trascendente]{.text-red-darken-1}
 
-esempio $$\textcolor{red}{y=\log x}$$ oppure $$\textcolor{red}{y=\sin x + \cos x}$$
+esempio $\textcolor{red}{y=\log x}$ oppure $\textcolor{red}{y=\sin x + \cos x}$
 
 ***
 

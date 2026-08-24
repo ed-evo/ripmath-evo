@@ -6,16 +6,16 @@ Non è possibile definire l'insieme: essendo uno dei concetti primitivi della ma
 
 Useremo le lettere minuscole dell'alfabeto per indicare gli oggetti (elementi) di un insieme:
 
-$$a \quad b \quad c \quad d \dots$$
+$a \quad b \quad c \quad d \dots$
 
 Useremo le lettere maiuscole per indicare un insieme, ad esempio:
 
-$$A$$ sarà l'insieme $$A$$
+$A$ sarà l'insieme $A$
 
 Per indicare un insieme utilizzeremo talvolta le parentesi graffe, come ad esempio:
 
-$$\{a, b\}$$ insieme formato dagli elementi $$a$$ e $$b$$
+$\{a, b\}$ insieme formato dagli elementi $a$ e $b$
 
-Per indicare che un elemento appartiene ad un insieme useremo il simbolo $$\in$$:
+Per indicare che un elemento appartiene ad un insieme useremo il simbolo $\in$:
 
-$$a \in A$$ l'elemento $$a$$ appartiene all'insieme $$A$$
+$a \in A$ l'elemento $a$ appartiene all'insieme $A$

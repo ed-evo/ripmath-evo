@@ -2,9 +2,9 @@
 
 Vediamo come trovare il volume della sfera:
 
-Consideriamo la circonferenza di centro l'origine e raggio $$r$$ $$\textcolor{red}{x^2 + y^2 = r^2}$$ e consideriamo sull'asse $$x$$ l'intervallo da $$-r$$ a $$r$$; troveremo il volume della sfera di raggio $$r$$.
+Consideriamo la circonferenza di centro l'origine e raggio $r$ $\textcolor{red}{x^2 + y^2 = r^2}$ e consideriamo sull'asse $x$ l'intervallo da $-r$ a $r$; troveremo il volume della sfera di raggio $r$.
 
-Esplicitiamo la $$y$$:
+Esplicitiamo la $y$:
 $$
 \textcolor{red}{y^2 = r^2 - x^2}
 $$
@@ -13,7 +13,7 @@ $$
 \textcolor{red}{y = \pm \sqrt{r^2 - x^2}}
 $$
 
-Il più e meno significa che sono considerate sia la semicirconferenza sopra l'asse $$x$$ che quella sotto l'asse $$x$$: a noi ne basta una; consideriamo la semicirconferenza sopra l'asse delle $$x$$:
+Il più e meno significa che sono considerate sia la semicirconferenza sopra l'asse $x$ che quella sotto l'asse $x$: a noi ne basta una; consideriamo la semicirconferenza sopra l'asse delle $x$:
 
 $$
 \textcolor{red}{y = \sqrt{r^2 - x^2}}

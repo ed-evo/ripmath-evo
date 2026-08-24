@@ -35,7 +35,7 @@ $$
 \textcolor{blue}{z = \rho (\cos \theta + i \sin \theta)}
 $$
 
-Devo trovare il valore di $$\rho$$ e $$\theta$$.
+Devo trovare il valore di $\rho$ e $\theta$.
 
 - Dalla relazione:
   $$
@@ -62,7 +62,7 @@ Devo trovare il valore di $$\rho$$ e $$\theta$$.
   $$
   \textcolor{blue}{\tan \theta = 1/1 = 1}
   $$
-  L'angolo minore la cui tangente vale $$1$$ è $$45^\circ$$ o preferibilmente $$\pi/4$$.
+  L'angolo minore la cui tangente vale $1$ è $45^\circ$ o preferibilmente $\pi/4$.
 
 Ottengo:
 $$
@@ -103,7 +103,7 @@ $$
   \textcolor{blue}{\tan \theta = \frac{\sqrt{3}}{3}}
   $$
 
-L'angolo minore la cui tangente vale $$\sqrt{3}/3$$ è $$30^\circ$$ o preferibilmente $$\pi/6$$.
+L'angolo minore la cui tangente vale $\sqrt{3}/3$ è $30^\circ$ o preferibilmente $\pi/6$.
 
 Ottengo:
 $$

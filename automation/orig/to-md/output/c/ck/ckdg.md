@@ -19,7 +19,7 @@ Intuitivamente, dovendo fare l'integrale del prodotto di due funzioni, di una de
 
 ***
 
-> Molto spesso di una funzione conosci sia l'integrale che la derivata, in questo caso devi scegliere in modo che il risultato sia un integrale più semplice di quello di partenza: ad esempio se considero $$x^3$$ da derivare ottengo $$3x^2$$ cioè un grado più basso, mentre se la considero da integrare ottengo $$x^4/4$$ cioè un grado più alto; di solito devo cercare di trovare dei gradi più bassi: l'esempio qui sotto fa eccezione.
+> Molto spesso di una funzione conosci sia l'integrale che la derivata, in questo caso devi scegliere in modo che il risultato sia un integrale più semplice di quello di partenza: ad esempio se considero $x^3$ da derivare ottengo $3x^2$ cioè un grado più basso, mentre se la considero da integrare ottengo $x^4/4$ cioè un grado più alto; di solito devo cercare di trovare dei gradi più bassi: l'esempio qui sotto fa eccezione.
 
 ***
 
@@ -29,7 +29,7 @@ $$
 \textcolor{red}{\int x \log x \, dx}
 $$
 
-Si tratta di un prodotto di funzioni: della funzione logaritmo conosco bene la derivata ($$\frac{1}{x}$$), della funzione $$x$$ conosco bene l'integrale. Quindi pongo:
+Si tratta di un prodotto di funzioni: della funzione logaritmo conosco bene la derivata ($\frac{1}{x}$), della funzione $x$ conosco bene l'integrale. Quindi pongo:
 
 $$
 \textcolor{red}{f(x) = \log x}
@@ -44,13 +44,13 @@ $$
 \textcolor{red}{\int x \log x \, dx = \log x \int x \, dx - \int \left( \frac{1}{x} \int x \, dx \right) dx =}
 $$
 
-ricordando che l'integrale di $$x$$ è $$x^2/2$$ avrò:
+ricordando che l'integrale di $x$ è $x^2/2$ avrò:
 
 $$
 \textcolor{red}{\frac{x^2}{2} \log x - \int \frac{1}{x} \cdot \frac{x^2}{2} \, dx =}
 $$
 
-Semplifico ed estraggo $$1/2$$ dall'integrale:
+Semplifico ed estraggo $1/2$ dall'integrale:
 
 $$
 \textcolor{red}{\frac{x^2}{2} \log x - \frac{1}{2} \int x \, dx =}
@@ -62,7 +62,7 @@ $$
 \textcolor{red}{\frac{x^2}{2} \log x - \frac{1}{2} \cdot \frac{x^2}{2} = \frac{x^2}{2} \log x - \frac{x^2}{4} + c}
 $$
 
-Per presentare la soluzione in modo più elegante raccogliamo $$x^2/2$$:
+Per presentare la soluzione in modo più elegante raccogliamo $x^2/2$:
 
 $$
 \textcolor{red}{\frac{x^2}{2} \left( \log x - \frac{1}{2} \right) + c}

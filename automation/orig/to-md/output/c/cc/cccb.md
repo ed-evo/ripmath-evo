@@ -1,6 +1,6 @@
 # [Campo di esistenza per funzioni irrazionali]{.text-red}
 
-Si definisce funzione irrazionale una funzione in cui la $$x$$ compaia sotto il segno di radice
+Si definisce funzione irrazionale una funzione in cui la $x$ compaia sotto il segno di radice
 
 ---
 
@@ -28,7 +28,7 @@ $$
 \textcolor{red}{\text{C.E.} = \{x \in \mathbb{R} \mid x \geq 3\}}
 $$
 
-Il campo di esistenza è l'insieme delle $$x$$ appartenenti a $$\mathbb{R}$$ tali che $$x$$ è maggiore o uguale a $$3$$
+Il campo di esistenza è l'insieme delle $x$ appartenenti a $\mathbb{R}$ tali che $x$ è maggiore o uguale a $3$
 
 oppure in altra notazione
 
@@ -36,4 +36,4 @@ $$
 \textcolor{red}{\text{C.E.} = [3, +\infty)}
 $$
 
-Il campo di esistenza è l'insieme di tutti i punti della retta reale maggiori o uguali a $$3$$
+Il campo di esistenza è l'insieme di tutti i punti della retta reale maggiori o uguali a $3$

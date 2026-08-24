@@ -1,15 +1,15 @@
 # [Prodotto di successioni]{.text-red}
 
-Date la successione $$a$$
+Date la successione $a$
 $$
 a_1, a_2, a_3, a_4, \dots, a_n, \dots
 $$
-e la successione $$b$$
+e la successione $b$
 $$
 b_1, b_2, b_3, b_4, \dots, b_n, \dots
 $$
 
-Chiameremo **successione prodotto** delle successioni $$a$$ e $$b$$ la successione $$a \cdot b$$ data da
+Chiameremo **successione prodotto** delle successioni $a$ e $b$ la successione $a \cdot b$ data da
 $$
 a_1 \cdot b_1, a_2 \cdot b_2, a_3 \cdot b_3, a_4 \cdot b_4, \dots, a_n \cdot b_n, \dots
 $$

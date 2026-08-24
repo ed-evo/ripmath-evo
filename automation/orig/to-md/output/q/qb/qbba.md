@@ -10,16 +10,16 @@ Definiamo **progressione geometrica** una successione in cui è costante il quoz
 > 3, 6, 12, 24, 48, \dots, a_n, \dots
 > $$
 >
-> Il termine generico si indica con $$a_n$$.
+> Il termine generico si indica con $a_n$.
 
-Il quoziente, nelle progressioni geometriche, viene indicato con il simbolo $$q$$ (iniziale di quoziente) e si chiama **ragione**.
+Il quoziente, nelle progressioni geometriche, viene indicato con il simbolo $q$ (iniziale di quoziente) e si chiama **ragione**.
 Nella nostra progressione abbiamo che la ragione è:
 
 $$
 q = 2
 $$
 
-> Infatti abbiamo $$3$$; per ottenere gli altri termini moltiplico $$2$$ (la ragione) col primo termine e poi con ogni termine successivo:
+> Infatti abbiamo $3$; per ottenere gli altri termini moltiplico $2$ (la ragione) col primo termine e poi con ogni termine successivo:
 >
 > $$
 > 3 \cdot 2 = 6

@@ -1,6 +1,6 @@
 # [La retta dei numeri reali]{.text-red}
 
-Facciamo ora la conoscenza di un ente che ci accompagnerà lungo tutta l'analisi matematica e la geometria cartesiana: la retta reale $$\textcolor{red}{R}$$
+Facciamo ora la conoscenza di un ente che ci accompagnerà lungo tutta l'analisi matematica e la geometria cartesiana: la retta reale $\textcolor{red}{R}$
 
 In questa retta ad ogni punto corrisponde un numero reale e ad ogni numero reale corrisponde un punto.
 

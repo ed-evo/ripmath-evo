@@ -4,7 +4,7 @@
 
 ## Scomporre il seguente numero in fattori primi
 
-[$$7056 =$$]{.text-red-darken-1}
+[$7056 =$]{.text-red-darken-1}
 
 Facciamo riferimento alla scomposizione in colonna che trovi a destra della pagina:
 
@@ -22,9 +22,9 @@ $$
 \end{array}
 $$
 
-Siccome termina per cifra pari posso iniziare a scomporre per $$2$$; scrivo $$2$$ nella colonna di destra ed il numero $$7056$$ nella colonna a sinistra.
+Siccome termina per cifra pari posso iniziare a scomporre per $2$; scrivo $2$ nella colonna di destra ed il numero $7056$ nella colonna a sinistra.
 
-Nel numero $$7056$$ inizio da sinistra: ho $$\textcolor{red}{7}$$ siccome $$\textcolor{red}{7:2 \text{ dà } 3 \text{ con resto di } 1}$$ scrivo $$3$$ sotto il $$\textcolor{red}{7}$$ e metto mentalmente $$1$$ davanti all'altra cifra $$\textcolor{red}{10}$$; siccome $$\textcolor{red}{10:2=5}$$ allora scrivo $$5$$ sotto lo $$\textcolor{red}{0}$$ e passo all'altra cifra $$\textcolor{red}{5}$$; siccome $$\textcolor{red}{5:2 \text{ dà } 2 \text{ con resto di } 1}$$ allora scrivo $$2$$ sotto il $$\textcolor{red}{5}$$ e metto mentalmente $$1$$ davanti all'altra cifra $$\textcolor{red}{16}$$; siccome $$\textcolor{red}{16:2=8}$$ scrivo $$8$$ sotto il $$6$$ ed ho ottenuto:
+Nel numero $7056$ inizio da sinistra: ho $\textcolor{red}{7}$ siccome $\textcolor{red}{7:2 \text{ dà } 3 \text{ con resto di } 1}$ scrivo $3$ sotto il $\textcolor{red}{7}$ e metto mentalmente $1$ davanti all'altra cifra $\textcolor{red}{10}$; siccome $\textcolor{red}{10:2=5}$ allora scrivo $5$ sotto lo $\textcolor{red}{0}$ e passo all'altra cifra $\textcolor{red}{5}$; siccome $\textcolor{red}{5:2 \text{ dà } 2 \text{ con resto di } 1}$ allora scrivo $2$ sotto il $\textcolor{red}{5}$ e metto mentalmente $$1$$ davanti all'altra cifra $$\textcolor{red}{16}$$; siccome $$\textcolor{red}{16:2=8}$$ scrivo $$8$$ sotto il $$6$$ ed ho ottenuto:
 
 [$$7056 = 2 \times 3528 =$$]{.text-red}
 

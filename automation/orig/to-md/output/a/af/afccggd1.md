@@ -12,9 +12,9 @@ $$
 
 abbiamo:
 
-[$$a = 6$$]{.text-blue}
-[$$b = -a$$]{.text-blue}
-[$$c = -2a^2$$]{.text-blue}
+[$a = 6$]{.text-blue}
+[$b = -a$]{.text-blue}
+[$c = -2a^2$]{.text-blue}
 
 > **Nota:** Attenzione a non confondere i simboli prima dell'uguale con quelli dopo l'uguale
 

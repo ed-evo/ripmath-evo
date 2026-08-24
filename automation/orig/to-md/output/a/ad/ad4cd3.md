@@ -10,13 +10,13 @@ $$
 \textcolor{red}{(2x) \cdot (2x) \cdot (2x) = 8x^3}
 $$
 
-Poi devi moltiplicare $$3$$ per il quadrato del primo e quello che viene per il secondo: per farlo prima facciamo il quadrato poi calcoliamo i prodotti:
+Poi devi moltiplicare $3$ per il quadrato del primo e quello che viene per il secondo: per farlo prima facciamo il quadrato poi calcoliamo i prodotti:
 
 $$
 \textcolor{red}{+3 \cdot (2x)^2 \cdot (3y) = +3 \cdot (4x^2) \cdot (3y) = +36x^2y}
 $$
 
-Poi devo moltiplicare $$3$$ per il primo monomio e quello che viene per il quadrato del secondo; anche qui prima facciamo il quadrato poi le moltiplicazioni:
+Poi devo moltiplicare $3$ per il primo monomio e quello che viene per il quadrato del secondo; anche qui prima facciamo il quadrato poi le moltiplicazioni:
 
 $$
 \textcolor{red}{+3 \cdot (2x) \cdot (3y)^2 = +3 \cdot (2x) \cdot (9y^2) = +54xy^2}

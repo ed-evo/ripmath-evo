@@ -12,10 +12,10 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -4}$$
-$$\textcolor{blue}{\beta = -2}$$
-$$\textcolor{blue}{c = 3}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -4}$
+$\textcolor{blue}{\beta = -2}$
+$\textcolor{blue}{c = 3}$
 
 Sostituiamo nella formula:
 
@@ -35,4 +35,4 @@ $$
 
 Adesso devo prendere una volta il più e una volta il meno, e ottengo le due soluzioni:
 
-$$\textcolor{red}{x_1 = 1} \quad \textcolor{red}{x_2 = 3}$$
+$\textcolor{red}{x_1 = 1} \quad \textcolor{red}{x_2 = 3}$

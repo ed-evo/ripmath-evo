@@ -12,9 +12,9 @@
 >
 > Abbiamo:
 >
-> $$\textcolor{blue}{a = 1}$$
-> $$\textcolor{blue}{b = 8}$$
-> $$\textcolor{blue}{c = 19}$$
+> $\textcolor{blue}{a = 1}$
+> $\textcolor{blue}{b = 8}$
+> $\textcolor{blue}{c = 19}$
 >
 > $$
 > \textcolor{blue}{t_{1,2} = \frac{-8 \pm \sqrt{(8)^2 - 4(1)(19)}}{2(1)}}

@@ -2,7 +2,7 @@ $$
 \textcolor{blue}{2^y = x}
 $$
 
-Sostituisco a $$\textcolor{blue}{y}$$ il valore $$4$$ ed ottengo
+Sostituisco a $\textcolor{blue}{y}$ il valore $4$ ed ottengo
 
 $$
 \textcolor{blue}{x = 2^4 = 16}

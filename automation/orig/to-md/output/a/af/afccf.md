@@ -4,7 +4,7 @@ Come nome è un po' macabro, ma è il suo; qualcuno la chiama scomposizione, per
 
 ## Il trinomio
 
-$$\textcolor{red}{ax^2 + bx + c}$$
+$\textcolor{red}{ax^2 + bx + c}$
 
 è scomponibile come:
 
@@ -12,7 +12,7 @@ $$
 \textcolor{red}{ax^2 + bx + c = a(x - x_1)(x - x_2)}
 $$
 
-essendo $$\textcolor{red}{x_1}$$ e $$\textcolor{red}{x_2}$$ le radici dell'equazione di secondo grado associata al polinomio:
+essendo $\textcolor{red}{x_1}$ e $\textcolor{red}{x_2}$ le radici dell'equazione di secondo grado associata al polinomio:
 
 $$
 \textcolor{red}{ax^2 + bx + c = 0}
@@ -22,7 +22,7 @@ $$
 
 ### Esempio: scomporre
 
-$$\textcolor{red}{2x^2 + 5x + 2}$$
+$\textcolor{red}{2x^2 + 5x + 2}$
 
 Considero l'equazione associata:
 
@@ -58,7 +58,7 @@ $$
 \textcolor{red}{x_2 = \frac{-5 + 3}{4} = -\frac{1}{2}}
 $$
 
-Ora essendo $$\textcolor{red}{x_1 = -2}$$, $$\textcolor{red}{x_2 = -1/2}$$ ed $$\textcolor{red}{a = 2}$$ applico la formula per la scomposizione:
+Ora essendo $\textcolor{red}{x_1 = -2}$, $\textcolor{red}{x_2 = -1/2}$ ed $\textcolor{red}{a = 2}$ applico la formula per la scomposizione:
 
 $$
 \textcolor{red}{a(x - x_1)(x - x_2)}

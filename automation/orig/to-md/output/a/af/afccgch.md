@@ -12,13 +12,13 @@ $$
 \textcolor{blue}{a \neq 0 \quad b \neq 0}
 $$
 
-ora facciamo il minimo comune multiplo $$2ab$$:
+ora facciamo il minimo comune multiplo $2ab$:
 
 $$
 \textcolor{blue}{\frac{2b(a - 3x) + b(a + 3x)}{2ab} = \frac{2a(x^2 - ax)}{2ab}}
 $$
 
-tolgo i denominatori per il secondo principio di equivalenza: posso farlo perché ho supposto che $$a$$ e $$b$$ siano diversi da zero.
+tolgo i denominatori per il secondo principio di equivalenza: posso farlo perché ho supposto che $a$ e $b$ siano diversi da zero.
 
 $$
 \textcolor{blue}{2b(a - 3x) + b(a + 3x) = 2a(x^2 - ax)}
@@ -64,7 +64,7 @@ abbiamo:
 - [2° coefficiente = $$3b - 2a^2$]{.text-blue}
 - [3° coefficiente = $$-3ab$]{.text-blue}
 
-> **Attenzione:** a non confondere le $$a$$ e la $$b$$ della formula con quelle dell'equazione: le prime indicano i coefficienti generici dell'equazione, mentre $$a$$ e $$b$$ nell'equazione sono dei numeri; avrei dovuto usare simboli diversi, ma renderei più complicata la simbologia.
+> **Attenzione:** a non confondere le $a$ e la $b$ della formula con quelle dell'equazione: le prime indicano i coefficienti generici dell'equazione, mentre $a$ e $b$ nell'equazione sono dei numeri; avrei dovuto usare simboli diversi, ma renderei più complicata la simbologia.
 
 sostituiamo nella formula:
 
@@ -110,4 +110,4 @@ $$
 \textcolor{red}{x_1 = a \quad x_2 = -\frac{3b}{2a}}
 $$
 
-> **Nota:** Da notare che, anche se abbiamo diviso per $$4a$$, non abbiamo posto ulteriori condizioni perché per la possibilità dell'equazione avevamo posto $$a$$ diverso da zero.
+> **Nota:** Da notare che, anche se abbiamo diviso per $4a$, non abbiamo posto ulteriori condizioni perché per la possibilità dell'equazione avevamo posto $a$ diverso da zero.

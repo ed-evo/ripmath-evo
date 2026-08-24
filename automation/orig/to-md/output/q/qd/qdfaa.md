@@ -4,7 +4,7 @@ $$
 \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \dots
 $$
 
-esso tende a $$1$$, infatti, se considero le ridotte
+esso tende a $1$, infatti, se considero le ridotte
 
 $$
 s_1, s_2, s_3, s_4, \dots
@@ -34,4 +34,4 @@ $$
 \frac{1}{2}, \frac{3}{4}, \frac{7}{8}, \frac{15}{16}, \dots, \frac{n-1}{n}, \dots
 $$
 
-che tende al valore $$1$$
+che tende al valore $1$

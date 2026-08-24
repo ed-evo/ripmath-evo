@@ -1,1 +1,1 @@
-> intersezioni n° [$$2$$]{.text-red} un limite
+> intersezioni n° [$2$]{.text-red} un limite

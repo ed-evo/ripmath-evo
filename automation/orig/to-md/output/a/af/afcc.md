@@ -35,9 +35,9 @@ $$
 
 I coefficienti sono:
 
-- $$\textcolor{red}{a = 1}$$
-- $$\textcolor{red}{b = -5}$$
-- $$\textcolor{red}{c = 6}$$
+- $\textcolor{red}{a = 1}$
+- $\textcolor{red}{b = -5}$
+- $\textcolor{red}{c = 6}$
 
 Sostituisco nella formula:
 
@@ -63,5 +63,5 @@ $$
 
 Ora devo fare un bivio scegliendo una volta il meno e l'altra il più:
 
-- $$\textcolor{red}{x_1 = \frac{5 - 1}{2} = \frac{4}{2} = 2}$$
-- $$\textcolor{red}{x_2 = \frac{5 + 1}{2} = \frac{6}{2} = 3}$$
+- $\textcolor{red}{x_1 = \frac{5 - 1}{2} = \frac{4}{2} = 2}$
+- $\textcolor{red}{x_2 = \frac{5 + 1}{2} = \frac{6}{2} = 3}$

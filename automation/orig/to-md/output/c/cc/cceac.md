@@ -6,13 +6,13 @@ $$
 
 > la funzione è una parabola quindi è suriettiva ma non iniettiva e di conseguenza per invertirla dobbiamo fare delle restrizioni. Possiamo anche dire che è continua, ma non è monotona perché è in parte crescente ed in parte decrescente: considerando il vertice ed una metà della parabola la funzione sarà invertibile.
 
-Scambiamo fra loro la $$x$$ e la $$y$$
+Scambiamo fra loro la $x$ e la $y$
 
 $$
 x = y^2 - 5
 $$
 
-esplicito la $$y$$
+esplicito la $y$
 
 $$
 -y^2 = -x - 5

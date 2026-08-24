@@ -4,7 +4,7 @@ Data l'equazione
 $$
 \textcolor{blue}{(k+1)x^2 - 2kx + k - 2 = 0}
 $$
-trovare il valore di $$k$$ affinché l'equazione abbia radici coincidenti.
+trovare il valore di $k$ affinché l'equazione abbia radici coincidenti.
 
 Radici coincidenti significa che il delta è uguale a zero, cioè:
 $$
@@ -43,7 +43,7 @@ $$
 $$
 \textcolor{blue}{k = -2}
 $$
-Quindi l'equazione che soddisfa la condizione si ottiene per $$k = -2$$, cioè:
+Quindi l'equazione che soddisfa la condizione si ottiene per $k = -2$, cioè:
 $$
 \textcolor{blue}{(-2+1)x^2 - 2(-2)x + (-2) - 2 = 0}
 $$

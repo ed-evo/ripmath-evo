@@ -1,6 +1,6 @@
 # [esempio]{.text-red}
 
-È sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $$2 \times 2$$ con termini generici
+È sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $2 \times 2$ con termini generici
 
 termine prima dell'uguale
 
@@ -27,7 +27,7 @@ $$
 
 **[= eccetera]{.text-red}**
 
-> come vedi i calcoli sono chilometrici; io non ho pazienza, quindi ti mostro che la regola è valida su delle matrici $$2 \times 2$$ con termini numerici; questa quindi non è una dimostrazione ma un esempio
+> come vedi i calcoli sono chilometrici; io non ho pazienza, quindi ti mostro che la regola è valida su delle matrici $2 \times 2$ con termini numerici; questa quindi non è una dimostrazione ma un esempio
 
 Mostriamo, come esempio, che vale
 

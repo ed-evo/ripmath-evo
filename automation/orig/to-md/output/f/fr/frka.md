@@ -2,12 +2,12 @@
 
 Se due corde di una circonferenza si tagliano allora i due segmenti di una corda formano i medi e i due segmenti della seconda corda formano gli estremi di una proporzione.
 
-**[Ipotesi]{.text-blue}:** $$AB$$ e $$CD$$ corde
-**[Tesi]{.text-blue}:** $$AP : DP = CP : BP$$
+**[Ipotesi]{.text-blue}:** $AB$ e $CD$ corde
+**[Tesi]{.text-blue}:** $AP : DP = CP : BP$
 
 > **Dimostrazione**
 >
-> Considero i triangoli $$APC$$ e $$BPD$$, essi hanno:
+> Considero i triangoli $APC$ e $BPD$, essi hanno:
 >
 > $$
 > \textcolor{red}{\widehat{APC} = \widehat{BPD}}
@@ -19,9 +19,9 @@ Se due corde di una circonferenza si tagliano allora i due segmenti di una corda
 > \textcolor{red}{\widehat{CAB} = \widehat{CDB}}
 > $$
 >
-> perché angoli alla circonferenza che insistono sullo stesso arco $$BC$$.
+> perché angoli alla circonferenza che insistono sullo stesso arco $BC$.
 >
-> Quindi i due triangoli $$CAP$$ e $$BPD$$ sono simili per il primo criterio di similitudine e posso scrivere:
+> Quindi i due triangoli $CAP$ e $BPD$ sono simili per il primo criterio di similitudine e posso scrivere:
 >
 > **Nota:** li ordino secondo gli angoli per scrivere meglio la proporzione:
 >

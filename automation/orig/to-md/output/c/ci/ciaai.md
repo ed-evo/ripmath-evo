@@ -9,7 +9,7 @@ Consideriamo solo il caso delle radici quadrate: distinguiamo due sottocasi:
 
 ## 1) Sotto radice abbiamo un polinomio di primo grado
 
-Si tratta di una parabola rovesciata con asse sull'asse delle $$x$$, in tal caso basta considerare solamente il ramo superiore della parabola stessa.
+Si tratta di una parabola rovesciata con asse sull'asse delle $x$, in tal caso basta considerare solamente il ramo superiore della parabola stessa.
 
 Facciamo un esempio, consideriamo
 
@@ -23,7 +23,7 @@ $$
 \textcolor{red}{y^2 = x + 1}
 $$
 
-> **Nota:** Cioè la parabola riferita all'asse $$x$$ (io preferisco dire rovesciata anche se è un termine non usato; è comunque la parabola che ottieni scambiando la $$x$$ con la $$y$$ nell'equazione normale).
+> **Nota:** Cioè la parabola riferita all'asse $x$ (io preferisco dire rovesciata anche se è un termine non usato; è comunque la parabola che ottieni scambiando la $x$ con la $y$ nell'equazione normale).
 
 $$
 \textcolor{red}{x = y^2 - 1}
@@ -35,7 +35,7 @@ $$
 
 ## 2) Sotto la radice abbiamo un polinomio di secondo grado
 
-Si tratta di una circonferenza con centro sull'asse delle $$x$$, in tal caso basta considerare solamente la parte superiore della circonferenza stessa.
+Si tratta di una circonferenza con centro sull'asse delle $x$, in tal caso basta considerare solamente la parte superiore della circonferenza stessa.
 
 Facciamo un semplice esempio, consideriamo
 
@@ -49,7 +49,7 @@ $$
 \textcolor{red}{y^2 = 1 - x^2}
 $$
 
-Cioè la circonferenza di centro l'origine e raggio $$1$$
+Cioè la circonferenza di centro l'origine e raggio $1$
 
 $$
 \textcolor{red}{x^2 + y^2 = 1}

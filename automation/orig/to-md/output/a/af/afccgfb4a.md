@@ -10,7 +10,7 @@ $$
 \end{cases}
 $$
 
-Ricavo $$x_1$$ dalla prima e sostituisco nella seconda e nella terza
+Ricavo $x_1$ dalla prima e sostituisco nella seconda e nella terza
 
 $$
 \begin{cases}
@@ -38,7 +38,7 @@ $$
 \end{cases}
 $$
 
-divido la seconda equazione per $$-2$$
+divido la seconda equazione per $-2$
 
 $$
 \begin{cases}
@@ -48,7 +48,7 @@ $$
 \end{cases}
 $$
 
-ricavo $$x_2$$ dalla seconda e sostituisco nella terza (conviene lasciare per ultima la $$k$$ perché a noi interessa solo quella e la troviamo subito; non siamo interessati ai valori di $$x_1$$ ed $$x_2$$)
+ricavo $x_2$ dalla seconda e sostituisco nella terza (conviene lasciare per ultima la $k$ perché a noi interessa solo quella e la troviamo subito; non siamo interessati ai valori di $x_1$ ed $x_2$)
 
 $$
 \begin{cases}
@@ -58,7 +58,7 @@ $$
 \end{cases}
 $$
 
-essendo interessato solamente ai valori di $$k$$ considero solamente la terza equazione
+essendo interessato solamente ai valori di $k$ considero solamente la terza equazione
 
 > in futuro fare link "voglio risolvere tutto il sistema"
 
@@ -66,13 +66,13 @@ $$
 \textcolor{red}{-3k \frac{(3k + 1)^2}{k^2} + 7k \frac{(3k + 1)}{k} = 1}
 $$
 
-semplifico i $$k$$ al numeratore e al denominatore
+semplifico i $k$ al numeratore e al denominatore
 
 $$
 \textcolor{red}{-3 \frac{(3k + 1)^2}{k} + 7(3k + 1) = 1}
 $$
 
-supponendo $$k$$ diverso da zero faccio il minimo comune multiplo poi tolgo i denominatori uguali
+supponendo $k$ diverso da zero faccio il minimo comune multiplo poi tolgo i denominatori uguali
 
 $$
 \textcolor{red}{\frac{-3(3k + 1)^2 + 7k(3k + 1)}{k} = \frac{k}{k}}
@@ -96,7 +96,7 @@ $$
 \textcolor{red}{-6k^2 - 12k - 3 = 0}
 $$
 
-divido tutto per $$-3$$
+divido tutto per $-3$
 
 $$
 \textcolor{red}{2k^2 + 4k + 1 = 0}

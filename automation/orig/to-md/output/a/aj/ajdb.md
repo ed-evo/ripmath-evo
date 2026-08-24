@@ -2,7 +2,7 @@
 
 Definiamo l'operazione di somma fra matrici quadrate dello stesso ordine come l'operazione che somma ad ogni termine della prima matrice il termine della seconda che si trovi nella stessa posizione.
 
-Indichiamo l'operazione di somma fra matrici con il simbolo $$\oplus$$.
+Indichiamo l'operazione di somma fra matrici con il simbolo $\oplus$.
 
 $$
 \textcolor{red}{

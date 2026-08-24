@@ -1,6 +1,6 @@
 # [PRODOTTO DI POTENZE CON LA STESSA BASE]{.text-red}
 
-Se devo moltiplicare $$\textcolor{red}{2^3 \times 2^4}$$
+Se devo moltiplicare $\textcolor{red}{2^3 \times 2^4}$
 poiché
 
 $$
@@ -26,7 +26,7 @@ $$
 \textcolor{red}{a^r \cdot a^s = \textcolor{magenta}{(a \cdot a \cdot ... \cdot a)} \cdot \textcolor{magenta}{(a \cdot a \cdot a \cdot ... \cdot a)} = a \cdot a \cdot ... \cdot a \cdot a \cdot a \cdot a \cdot ... \cdot a = a^{r+s}}
 $$
 
-I primi sono $$r$$, gli altri sono $$s$$, in totale saranno $$r+s$$.
+I primi sono $r$, gli altri sono $s$, in totale saranno $r+s$.
 
 Per trovare la regola basta leggere il primo termine e l'ultimo termine dell'uguaglianza:
 

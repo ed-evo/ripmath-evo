@@ -12,7 +12,7 @@ $$
 \textcolor{red}{x > 2}
 $$
 
-In pratica devo vedere quali valori assegnare a $$k$$ affinché la soluzione sia maggiore di $$2$$.
+In pratica devo vedere quali valori assegnare a $k$ affinché la soluzione sia maggiore di $2$.
 
 Trovo la soluzione:
 $$
@@ -25,7 +25,7 @@ $$
 \textcolor{blue}{x = \frac{1 - k}{2}}
 $$
 
-Ora pongo la soluzione maggiore di $$2$$:
+Ora pongo la soluzione maggiore di $2$:
 $$
 \textcolor{blue}{\frac{1 - k}{2} > 2}
 $$
@@ -44,4 +44,4 @@ $$
 \textcolor{red}{k < -3}
 $$
 
-Quindi se prendiamo $$k$$ minore di $$-3$$ avremo che la soluzione $$x$$ sarà maggiore di $$2$$.
+Quindi se prendiamo $k$ minore di $-3$ avremo che la soluzione $x$ sarà maggiore di $2$.

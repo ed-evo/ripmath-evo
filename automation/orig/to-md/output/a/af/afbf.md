@@ -5,8 +5,8 @@ Un'equazione si dice letterale quando oltre ai numeri ed alle incognite vi compa
 ***
 
 Va fatta subito una convenzione:
-useremo le ultime lettere minuscole dell'alfabeto per indicare le incognite: $$\textcolor{red}{x, y, z, t, u, v, w, \dots}$$
-useremo invece le prime lettere per indicare dei parametri, cioè dei simboli che possono essere sostituiti da numeri $$\textcolor{red}{a, b, c, d, e, f, g, \dots}$$
+useremo le ultime lettere minuscole dell'alfabeto per indicare le incognite: $\textcolor{red}{x, y, z, t, u, v, w, \dots}$
+useremo invece le prime lettere per indicare dei parametri, cioè dei simboli che possono essere sostituiti da numeri $\textcolor{red}{a, b, c, d, e, f, g, \dots}$
 
 ***
 
@@ -18,10 +18,10 @@ Sia da risolvere l'equazione
 $$
 \textcolor{red}{ax = 3}
 $$
-Per risolverla dovrei applicare il secondo principio, ma esso è applicabile solo se $$\textcolor{red}{a \neq 0}$$
+Per risolverla dovrei applicare il secondo principio, ma esso è applicabile solo se $\textcolor{red}{a \neq 0}$
 allora distinguo i due casi:
 
-- $$\textcolor{red}{a \neq 0}$$ posso applicare il secondo principio quindi:
+- $\textcolor{red}{a \neq 0}$ posso applicare il secondo principio quindi:
 $$
 \textcolor{red}{\frac{ax}{a} = \frac{3}{a}}
 $$
@@ -30,7 +30,7 @@ $$
 \textcolor{red}{x = \frac{3}{a}}
 $$
 
-- $$\textcolor{red}{a = 0}$$ non posso applicare il secondo principio, ma sostituendo ad $$\textcolor{red}{a}$$ il suo valore l'equazione mi diventa:
+- $\textcolor{red}{a = 0}$ non posso applicare il secondo principio, ma sostituendo ad $\textcolor{red}{a}$ il suo valore l'equazione mi diventa:
 $$
 \textcolor{red}{0 \cdot x = 3}
 $$
@@ -40,8 +40,8 @@ $$
 equazione impossibile
 
 Raccogliendo i risultati:
-se $$\textcolor{red}{a \neq 0} \quad \textcolor{red}{x = 3/a}$$;
-se $$\textcolor{red}{a = 0} \quad \textcolor{red}{\text{equazione impossibile}}$$
+se $\textcolor{red}{a \neq 0} \quad \textcolor{red}{x = 3/a}$;
+se $\textcolor{red}{a = 0} \quad \textcolor{red}{\text{equazione impossibile}}$
 
 ***
 

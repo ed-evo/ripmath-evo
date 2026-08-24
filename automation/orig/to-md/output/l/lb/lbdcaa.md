@@ -14,4 +14,4 @@ $$
 \textcolor{blue}{\binom{10}{0} = \frac{10!}{0!(10-0)!} = \frac{10!}{1 \cdot 10!} = 1}
 $$
 
-> Ricordati che $$0! = 1$$
+> Ricordati che $0! = 1$
