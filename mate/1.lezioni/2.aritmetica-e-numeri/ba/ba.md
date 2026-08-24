@@ -1,4 +1,4 @@
-# Insieme $$N$$ dei numeri naturali
+# Insieme $N$ dei numeri naturali
 
 - Generalità sui numeri naturali
 - I numeri naturali
@@ -6,4 +6,4 @@
 - Addizione fra numeri naturali
 - Moltiplicazione fra numeri naturali
 - Sottrazione fra numeri naturali
-- Necessità di ampliare l'insieme $$N$$
+- Necessità di ampliare l'insieme $N$

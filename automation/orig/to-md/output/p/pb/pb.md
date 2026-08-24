@@ -1,6 +1,6 @@
 # [Sistemi di numerazione]{.text-red}
 
-> Per approfondire dal punto di vista matematico i sistemi di numerazione vedi anche [insieme dei resti modulo $$p$$](../../../h/hc/hcdc.html)
+> Per approfondire dal punto di vista matematico i sistemi di numerazione vedi anche [insieme dei resti modulo $p$](../../../h/hc/hcdc.html)
 
 - [Contare](pba.html)
 - [Cos'è un sistema di numerazione](pbb.html)

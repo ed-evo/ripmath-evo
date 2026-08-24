@@ -1,6 +1,6 @@
 # [Soluzione generale di un sistema simmetrico]{.text-red}
 
-Per risolverlo in modo automatico trasformiamo tutti i termini in gruppi del tipo $$x+y$$ ed $$xy$$, magari utilizzando anche le formule di Waring; una volta fatto ciò consideriamo due nuove variabili:
+Per risolverlo in modo automatico trasformiamo tutti i termini in gruppi del tipo $x+y$ ed $xy$, magari utilizzando anche le formule di Waring; una volta fatto ciò consideriamo due nuove variabili:
 
 $$
 \textcolor{red}{\begin{cases} 
@@ -20,7 +20,7 @@ x^3 + x^2y + xy^2 + y^3 = 85
 \end{cases}}
 $$
 
-Cerchiamo di evidenziare i gruppi $$x+y$$ ed $$xy$$; nella seconda equazione raccolgo $$xy$$ fra il secondo ed il terzo termine.
+Cerchiamo di evidenziare i gruppi $x+y$ ed $xy$; nella seconda equazione raccolgo $xy$ fra il secondo ed il terzo termine.
 
 $$
 \textcolor{red}{\begin{cases} 
@@ -65,7 +65,7 @@ s^3 - 2sp = 85
 \end{cases}}
 $$
 
-Mi conviene ricavare $$2p$$ da sopra e sostituirne il valore nella seconda equazione:
+Mi conviene ricavare $2p$ da sopra e sostituirne il valore nella seconda equazione:
 
 $$
 \textcolor{red}{\begin{cases} 
@@ -90,7 +90,7 @@ s^2 - 22s + 85 = 0
 \end{cases}}
 $$
 
-La seconda equazione è un'equazione di secondo grado in $$s$$:
+La seconda equazione è un'equazione di secondo grado in $s$:
 
 $$
 \textcolor{red}{s^2 - 22s + 85 = 0}
@@ -102,16 +102,16 @@ $$
 \textcolor{red}{s = 5 \quad s = 17}
 $$
 
-Ora sostituisco ad $$s$$ nella prima equazione una volta $$5$$ ed una volta $$17$$:
+Ora sostituisco ad $s$ nella prima equazione una volta $5$ ed una volta $17$:
 
-- Sostituisco $$5$$:
+- Sostituisco $5$:
   $$
   \textcolor{red}{\begin{cases} 
   2p = 5^2 + 5 - 22 = 8 \\ 
   s = 5 
   \end{cases}}
   $$
-  Divido per $$2$$ per ottenere $$p$$:
+  Divido per $2$ per ottenere $p$:
   $$
   \textcolor{red}{\begin{cases} 
   p = 4 \\ 
@@ -119,14 +119,14 @@ Ora sostituisco ad $$s$$ nella prima equazione una volta $$5$$ ed una volta $$17
   \end{cases}}
   $$
 
-- Sostituisco $$17$$:
+- Sostituisco $17$:
   $$
   \textcolor{red}{\begin{cases} 
   2p = 17^2 + 17 - 22 = 284 \\ 
   s = 17 
   \end{cases}}
   $$
-  Divido per $$2$$ per ottenere $$p$$:
+  Divido per $2$ per ottenere $p$:
   $$
   \textcolor{red}{\begin{cases} 
   p = 142 \\ 
@@ -134,7 +134,7 @@ Ora sostituisco ad $$s$$ nella prima equazione una volta $$5$$ ed una volta $$17
   \end{cases}}
   $$
 
-Ora, sostituendo ad $$s$$ e $$p$$ le loro espressioni ottengo i due sistemi:
+Ora, sostituendo ad $s$ e $p$ le loro espressioni ottengo i due sistemi:
 
 $$
 \textcolor{red}{\begin{cases} 
@@ -205,7 +205,7 @@ $$
 
 Quindi non ho soluzioni reali.
 
-Raccogliendo ho le $$2$$ soluzioni reali:
+Raccogliendo ho le $2$ soluzioni reali:
 
 $$
 \textcolor{blue}{\begin{cases} 

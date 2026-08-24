@@ -1,4 +1,4 @@
-# Determinanti $$2 \times 2$$ estraibili dalla matrice completa
+# Determinanti $2 \times 2$ estraibili dalla matrice completa
 
 > **Nota:** Per determinare gli elementi tengo fissa una riga: la terza, poi la seconda e poi la prima e fissando l'ultima colonna faccio scorrere la penultima colonna verso l'inizio.
 

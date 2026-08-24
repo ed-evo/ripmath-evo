@@ -21,7 +21,7 @@ $$
 \end{bmatrix}
 $$
 
-La prima colonna contiene i coefficienti della $$x$$, la seconda i coefficienti della $$y$$ e la terza i termini noti.
+La prima colonna contiene i coefficienti della $x$, la seconda i coefficienti della $y$ e la terza i termini noti.
 
 In entrambe le soluzioni considererò al denominatore il seguente numero detto determinante (ho preso le prime due colonne):
 
@@ -41,7 +41,7 @@ $$
 \end{vmatrix} = \textcolor{red}{2 \cdot (-1) - 3 \cdot 3 = -2 - 9 = -11}
 $$
 
-Per trovare la $$x$$ devo prendere il determinante considerato, cancellare la colonna delle $$x$$ e al suo posto mettere i termini noti:
+Per trovare la $x$ devo prendere il determinante considerato, cancellare la colonna delle $x$ e al suo posto mettere i termini noti:
 
 $$
 \begin{vmatrix}
@@ -50,13 +50,13 @@ $$
 \end{vmatrix} = \textcolor{red}{12 \cdot (-1) - 3 \cdot 7 = -12 - 21 = -33}
 $$
 
-Per calcolare il valore della $$x$$ devo scrivere al denominatore il determinante ottenuto dalle prime due colonne ed al numeratore cancello la colonna delle $$x$$ ed al suo posto metto i termini noti:
+Per calcolare il valore della $x$ devo scrivere al denominatore il determinante ottenuto dalle prime due colonne ed al numeratore cancello la colonna delle $x$ ed al suo posto metto i termini noti:
 
 $$
 x = \frac{\begin{vmatrix} \textcolor{red}{12} & \textcolor{red}{3} \\ \textcolor{red}{7} & \textcolor{red}{-1} \end{vmatrix}}{\begin{vmatrix} \textcolor{red}{2} & \textcolor{red}{3} \\ \textcolor{red}{3} & \textcolor{red}{-1} \end{vmatrix}} = \frac{\textcolor{red}{12 \cdot (-1) - 3 \cdot 7}}{\textcolor{red}{2 \cdot (-1) - 3 \cdot 3}} = \frac{\textcolor{red}{-12 - 21}}{\textcolor{red}{-2 - 9}} = \frac{\textcolor{red}{-33}}{\textcolor{red}{-11}} = 3
 $$
 
-Per calcolare la $$y$$ metto al denominatore le prime due colonne mentre al numeratore cancello la colonna delle $$y$$ e ci metto i termini noti:
+Per calcolare la $y$ metto al denominatore le prime due colonne mentre al numeratore cancello la colonna delle $y$ e ci metto i termini noti:
 
 $$
 \begin{vmatrix}
@@ -82,9 +82,9 @@ $$
 > **Per risolvere un sistema col metodo di Cramer**
 > - Scrivo la matrice del sistema
 > - Calcolo il determinante delle prime due colonne
-> - per la $$x$$ scrivo al denominatore il determinante trovato ed al numeratore riscrivo il determinante mettendo al posto della colonna delle $$x$$ i termini noti
-> - per la $$y$$ scrivo al denominatore il determinante trovato ed al numeratore riscrivo il determinante mettendo al posto della colonna delle $$y$$ i termini noti
-> - Scrivo la parentesi graffa con la $$x$$ al primo posto e la $$y$$ al secondo posto
+> - per la $x$ scrivo al denominatore il determinante trovato ed al numeratore riscrivo il determinante mettendo al posto della colonna delle $x$ i termini noti
+> - per la $y$ scrivo al denominatore il determinante trovato ed al numeratore riscrivo il determinante mettendo al posto della colonna delle $y$ i termini noti
+> - Scrivo la parentesi graffa con la $x$ al primo posto e la $y$ al secondo posto
 
 ***
 

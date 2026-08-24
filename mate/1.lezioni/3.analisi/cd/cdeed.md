@@ -32,7 +32,7 @@ $$
 \textcolor{purple}{\lim_{x \to 0} \frac{\cos x}{x} =}
 $$
 
-non avrei potuto applicare questo teorema perché al limite il denominatore vale $$0$$
+non avrei potuto applicare questo teorema perché al limite il denominatore vale $0$
 
 ***
 
@@ -56,4 +56,4 @@ $$
 \textcolor{purple}{\lim_{x \to x_0} \frac{f(x)}{g(x)} = \frac{l}{m}}
 $$
 
-> **Nota:** Notare bene quel $$\textcolor{purple}{m \neq 0}$$ nell'ipotesi.
+> **Nota:** Notare bene quel $\textcolor{purple}{m \neq 0}$ nell'ipotesi.

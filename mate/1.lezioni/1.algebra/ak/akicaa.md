@@ -2,7 +2,7 @@ $$
 \begin{cases} \textcolor{red}{-x - 4 \geq 0} \\ \textcolor{red}{(-x - 4)^2 < 4(x^2 + 5x + 6)} \end{cases}
 $$
 
-Nella prima equazione cambio di segno e verso, nella seconda eseguo il quadrato e moltiplico per $$4$$
+Nella prima equazione cambio di segno e verso, nella seconda eseguo il quadrato e moltiplico per $4$
 
 $$
 \begin{cases} \textcolor{red}{x + 4 \leq 0} \\ \textcolor{red}{x^2 + 8x + 16 < 4x^2 + 20x + 24} \end{cases}

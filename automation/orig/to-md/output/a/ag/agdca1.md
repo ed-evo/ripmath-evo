@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-Calcolare i valori di $$\textcolor{red}{x}$$ per cui si ha:
+Calcolare i valori di $\textcolor{red}{x}$ per cui si ha:
 
 $$
 \textcolor{red}{x^2 - 7x + 10 > 0}
@@ -48,17 +48,17 @@ $$
 
 oppure in altra notazione
 
-In pratica significa che se sostituisco alla $$\textcolor{red}{x}$$ un valore minore di $$2$$ o maggiore di $$5$$ tutta l'espressione vale un numero maggiore di zero; se invece sostituisco un numero compreso fra $$2$$ e $$5$$ otterrò un risultato negativo: Proviamolo per esercizio:
+In pratica significa che se sostituisco alla $\textcolor{red}{x}$ un valore minore di $2$ o maggiore di $5$ tutta l'espressione vale un numero maggiore di zero; se invece sostituisco un numero compreso fra $2$ e $5$ otterrò un risultato negativo: Proviamolo per esercizio:
 
-- sostituisco ad esempio $$-3$$
+- sostituisco ad esempio $-3$
   $$
   \textcolor{red}{(-3)^2 - 7(-3) + 10 = 9 + 21 + 10 > 0}
   $$
-- sostituisco $$+8$$
+- sostituisco $+8$
   $$
   \textcolor{red}{8^2 - 7(8) + 10 = 64 - 56 + 10 > 0}
   $$
-- sostituisco $$3$$
+- sostituisco $3$
   $$
   \textcolor{red}{3^2 - 7(3) + 10 = 9 - 21 + 10 = -2 < 0}
   $$

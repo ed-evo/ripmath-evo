@@ -1,4 +1,4 @@
-Risolviamo: $$y^2 + 9y + 8 = 0$$
+Risolviamo: $y^2 + 9y + 8 = 0$
 
 Applico la formula risolutiva
 
@@ -26,5 +26,5 @@ $$
 \textcolor{blue}{y_{1,2} = \frac{-9 \pm 7}{2}}
 $$
 
-- $$\textcolor{blue}{y_1 = \frac{-9 + 7}{2} = \frac{-2}{2} = -1}$$
-- $$\textcolor{blue}{y_2 = \frac{-9 - 7}{2} = \frac{-16}{2} = -8}$$
+- $\textcolor{blue}{y_1 = \frac{-9 + 7}{2} = \frac{-2}{2} = -1}$
+- $\textcolor{blue}{y_2 = \frac{-9 - 7}{2} = \frac{-16}{2} = -8}$

@@ -17,7 +17,7 @@ $$
 > $$
 > \textcolor{red}{(a+b)^5 = a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + b^5}
 > $$
-> al posto di $$\textcolor{red}{a}$$ ho $$\textcolor{red}{2x}$$ ed al posto di $$\textcolor{red}{b}$$ ho $$\textcolor{red}{y}$$, quindi vado a sostituire nella regola.
+> al posto di $\textcolor{red}{a}$ ho $\textcolor{red}{2x}$ ed al posto di $\textcolor{red}{b}$ ho $\textcolor{red}{y}$, quindi vado a sostituire nella regola.
 
 $$
 (2x+y)^5 =

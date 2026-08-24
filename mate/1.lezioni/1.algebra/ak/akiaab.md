@@ -20,9 +20,9 @@ $$
 $$
 
 Ho quindi le due soluzioni
-$$\textcolor{red}{x_1 = -4}$$ $$\textcolor{red}{x_2 = 4}$$
+$\textcolor{red}{x_1 = -4}$ $\textcolor{red}{x_2 = 4}$
 
-Essendo $$\textcolor{red}{x^2 - 16 \geq 0}$$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
+Essendo $\textcolor{red}{x^2 - 16 \geq 0}$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
 $$
 \textcolor{red}{x \leq -4 \cup x \geq 4}
 $$

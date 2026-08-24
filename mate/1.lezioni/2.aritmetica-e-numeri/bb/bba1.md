@@ -10,8 +10,8 @@ Venne il Medio Evo ed attorno al 1100 a Firenze divennero una potenza i banchier
 
 Attorno al 1170, Federico Barbarossa, per ridare autorità all'impero fra gli altri editti ne emise uno che riservava il colore rosso solamente per gli editti imperiali e non poteva essere usato per altri documenti, ai trasgressori sarebbe stata tagliata la testa.
 
-Disperazione dei banchieri i quali dovettero quindi trovare un sistema diverso per tenere i conti e sembra che qualcuno propose di mettere davanti ai numeri un segno $$+$$ per le cifre da avere ed un segno $$-$$ per le cifre da pagare.
+Disperazione dei banchieri i quali dovettero quindi trovare un sistema diverso per tenere i conti e sembra che qualcuno propose di mettere davanti ai numeri un segno $+$ per le cifre da avere ed un segno $-$ per le cifre da pagare.
 
 Infine, vista la facilità con cui si potevano falsificare i conti, prevalse il sistema di utilizzare due colonne: una per le cifre da pagare e l'altra per le cifre da ricevere (la partita doppia).
 
-Comunque era nata la rappresentazione dei numeri interi che conosciamo noi, anche se prima di utilizzare tale rappresentazione dovranno passare altri $$4$$ secoli.
+Comunque era nata la rappresentazione dei numeri interi che conosciamo noi, anche se prima di utilizzare tale rappresentazione dovranno passare altri $4$ secoli.

@@ -12,37 +12,37 @@ $$
 
 Vediamo quali sono effettivamente fattori applicando il [teorema del resto di Ruffini](../ad/ad5c.html)
 
-- trovo il resto dividendo per $$\textcolor{red}{(x - 1)}$$
+- trovo il resto dividendo per $\textcolor{red}{(x - 1)}$
   $$
   \textcolor{red}{P(1) = 1^3 - 6 \cdot 1^2 + 11 \cdot 1 - 6 = 1 - 6 + 11 - 6 = 0}
   $$
-  $$\textcolor{red}{(x - 1)}$$ è un fattore
+  $\textcolor{red}{(x - 1)}$ è un fattore
 
-- trovo il resto dividendo per $$\textcolor{red}{(x + 1)}$$
+- trovo il resto dividendo per $\textcolor{red}{(x + 1)}$
   $$
   \textcolor{red}{P(-1) = (-1)^3 - 6 \cdot (-1)^2 + 11 \cdot (-1) - 6 = -1 - 6 - 11 - 6 \neq 0}
   $$
-  $$\textcolor{red}{(x + 1)}$$ non è un fattore
+  $\textcolor{red}{(x + 1)}$ non è un fattore
 
-- trovo il resto dividendo per $$\textcolor{red}{(x - 2)}$$
+- trovo il resto dividendo per $\textcolor{red}{(x - 2)}$
   $$
   \textcolor{red}{P(2) = 2^3 - 6 \cdot 2^2 + 11 \cdot 2 - 6 = 8 - 24 + 22 - 6 = 0}
   $$
-  $$\textcolor{red}{(x - 2)}$$ è un fattore
+  $\textcolor{red}{(x - 2)}$ è un fattore
 
-- trovo il resto dividendo per $$\textcolor{red}{(x + 2)}$$
+- trovo il resto dividendo per $\textcolor{red}{(x + 2)}$
   $$
   \textcolor{red}{P(-2) = (-2)^3 - 6 \cdot (-2)^2 + 11 \cdot (-2) - 6 = -8 - 24 - 22 - 6 \neq 0}
   $$
-  $$\textcolor{red}{(x + 2)}$$ non è un fattore
+  $\textcolor{red}{(x + 2)}$ non è un fattore
 
-- trovo il resto dividendo per $$\textcolor{red}{(x - 3)}$$
+- trovo il resto dividendo per $\textcolor{red}{(x - 3)}$
   $$
   \textcolor{red}{P(3) = 3^3 - 6 \cdot 3^2 + 11 \cdot 3 - 6 = 27 - 54 + 33 - 6 = 0}
   $$
-  $$\textcolor{red}{(x - 3)}$$ è un fattore
+  $\textcolor{red}{(x - 3)}$ è un fattore
 
-- mi fermo perché ho trovato $$3$$ fattori e il polinomio è di terzo grado
+- mi fermo perché ho trovato $3$ fattori e il polinomio è di terzo grado
 
 Quindi posso risolvere le tre equazioni
 $$

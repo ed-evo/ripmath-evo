@@ -1,6 +1,6 @@
 # Differenza di potenze dispari
 
-Cercheremo la regola per scomporre tutte quelle potenze del tipo $$x^n - a^n$$ per $$n$$ dispari, cioè ad esempio:
+Cercheremo la regola per scomporre tutte quelle potenze del tipo $x^n - a^n$ per $n$ dispari, cioè ad esempio:
 
 $$
 x^3 - a^3 =
@@ -12,7 +12,7 @@ $$
 x^7 - a^7 =
 $$
 
-dove al posto di $$a$$ possiamo pensare un numero; per trovare la regola di scomposizione proviamo a scomporre con Ruffini e vediamo se riusciamo ad individuare delle regolarità.
+dove al posto di $a$ possiamo pensare un numero; per trovare la regola di scomposizione proviamo a scomporre con Ruffini e vediamo se riusciamo ad individuare delle regolarità.
 
 Iniziamo a scomporre:
 
@@ -20,14 +20,14 @@ $$
 x^3 - a^3 =
 $$
 
-essendo il termine noto $$a^3$$ il possibile divisore di Ruffini sarà del tipo $$(x-a); (x+a)$$.
-Provo a dividere per $$(x-a)$$:
+essendo il termine noto $a^3$ il possibile divisore di Ruffini sarà del tipo $(x-a); (x+a)$.
+Provo a dividere per $(x-a)$:
 
 $$
 (x-a); P(a) = a^3 - a^3 = 0
 $$
 
-Essendo il resto zero $$(x-a)$$ è un divisore; eseguo la divisione e ottengo:
+Essendo il resto zero $(x-a)$ è un divisore; eseguo la divisione e ottengo:
 
 $$
 x^3 - a^3 = (x-a)(x^2 + ax + a^2)
@@ -45,7 +45,7 @@ $$
 (x-a); P(a) = a^5 - a^5 = 0
 $$
 
-Essendo il resto zero $$(x-a)$$ è un divisore; eseguo la divisione e ottengo:
+Essendo il resto zero $(x-a)$ è un divisore; eseguo la divisione e ottengo:
 
 $$
 x^5 - a^5 = (x-a)(x^4 + ax^3 + a^2x^2 + a^3x + a^4)
@@ -68,13 +68,13 @@ $$
 x^7 - a^7 =
 $$
 
-Intanto il divisore sarà $$(x-a)$$:
+Intanto il divisore sarà $(x-a)$:
 
 $$
 x^7 - a^7 = (x-a)(\dots)
 $$
 
-osserviamo che dentro parentesi al posto dei puntini devo mettere il primo termine abbassato di un grado, cioè $$x^6$$, poi man mano devo fare un polinomio ordinato abbassando la potenza della $$x$$ ed aumentando la potenza della $$a$$ ed i segni sono tutti positivi.
+osserviamo che dentro parentesi al posto dei puntini devo mettere il primo termine abbassato di un grado, cioè $x^6$, poi man mano devo fare un polinomio ordinato abbassando la potenza della $x$ ed aumentando la potenza della $a$ ed i segni sono tutti positivi.
 
 Quindi:
 

@@ -1,4 +1,4 @@
-Questa è l'implicazione materiale ($$se\ p\ allora\ q$$ ; $$p \Rightarrow q$$);
+Questa è l'implicazione materiale ($se\ p\ allora\ q$ ; $p \Rightarrow q$);
 
 equivale a
 
@@ -8,12 +8,12 @@ $$
 
 Mostro l'equivalenza delle due proposizioni
 
-| $$p$$ | $$q$$ | $$p \Rightarrow q$$ | $$\bar{p}$$ | $$\bar{p} \lor q$$ |
+| $p$ | $q$ | $p \Rightarrow q$ | $\bar{p}$ | $\bar{p} \lor q$ |
 | :---: | :---: | :---: | :---: | :---: |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ |
 
 > cioè la proposizione composta è falsa solamente se è falsa la prima e vera la seconda
 

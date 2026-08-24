@@ -6,4 +6,4 @@ $$
 
 si legge:
 
-[Differenze da $$b$$ ad $$a$$ della funzione $$F(x)$]{.text-blue}
+[Differenze da $b$ ad $a$ della funzione $$F(x)$]{.text-blue}

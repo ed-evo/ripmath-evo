@@ -1,5 +1,5 @@
 Risolviamo l'equazione
-$$\textcolor{red}{z^2 - 17z + 16 = 0}$$
+$\textcolor{red}{z^2 - 17z + 16 = 0}$
 applichiamo la formula
 
 $$
@@ -7,9 +7,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -17}$$
-$$\textcolor{blue}{c = 16}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -17}$
+$\textcolor{blue}{c = 16}$
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-17) \pm \sqrt{(-17)^2 - 4(1)(16)}}{2(1)}}
@@ -38,4 +38,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-$$\textcolor{red}{z_1 = 3 \quad z_2 = 4}$$
+$\textcolor{red}{z_1 = 3 \quad z_2 = 4}$

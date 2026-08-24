@@ -9,9 +9,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 3}$$
-$$\textcolor{blue}{c = -40}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 3}$
+$\textcolor{blue}{c = -40}$
 
 $$
 \textcolor{blue}{y_{1,2} = \frac{-3 \pm \sqrt{3^2 - 4(1)(-40)}}{2}}

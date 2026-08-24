@@ -45,7 +45,7 @@ Vediamo come esempio la soluzione di una disequazione.
 ***
 
 Risolvere:
-$$\textcolor{red}{(x-3)(x^2 - 6x + 5) < 0}$$
+$\textcolor{red}{(x-3)(x^2 - 6x + 5) < 0}$
 
 Anche se devo trovare i valori minori di zero pongo entrambi i fattori maggiori di zero:
 
@@ -56,8 +56,8 @@ x^2 - 6x + 5 > 0
 \end{cases}}
 $$
 
-- la prima $$\textcolor{blue}{x - 3 > 0}$$ è verificata per $$\textcolor{blue}{x > 3}$$
-- la seconda $$\textcolor{blue}{x^2 - 6x + 5 > 0}$$ è verificata per $$\textcolor{blue}{x < 1 \cup x > 5}$$ [Calcoli](agecb.html)
+- la prima $\textcolor{blue}{x - 3 > 0}$ è verificata per $\textcolor{blue}{x > 3}$
+- la seconda $\textcolor{blue}{x^2 - 6x + 5 > 0}$ è verificata per $\textcolor{blue}{x < 1 \cup x > 5}$ [Calcoli](agecb.html)
 
 quindi il mio sistema è equivalente al sistema:
 
@@ -78,13 +78,13 @@ Ora faccio il calcolo dei segni: siccome devo prendere dove l'espressione è neg
 
 La soluzione è:
 
-$$\textcolor{blue}{x < 1 \cup 3 < x < 5}$$
+$\textcolor{blue}{x < 1 \cup 3 < x < 5}$
 
 ***
 
 > **Importante!**
 >
-> Un caso da prendere bene in considerazione è quando abbiamo la frazione $$\ge 0$$ oppure $$\le 0$$, vediamolo su alcuni esercizi.
+> Un caso da prendere bene in considerazione è quando abbiamo la frazione $\ge 0$ oppure $\le 0$, vediamolo su alcuni esercizi.
 
 $$
 \textcolor{blue}{\frac{x^2 - 9}{x - 2} \ge 0}

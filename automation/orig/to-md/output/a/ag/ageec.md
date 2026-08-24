@@ -10,10 +10,10 @@ Se vado a risolverla senza riflettere, al momento di fare il grafico vedo che i 
 
 Per semplificare [scomponiamo](../af/afccf.html) i fattori cercando di ridurli tutti a fattori di primo grado (quelli che non si riducono non ci debbono preoccupare, possiamo lasciarli come sono, tanto non saranno semplificabili):
 
-[$$\textcolor{blue}{x^2 - 4x + 3 = (x-1)(x - 3)}$$]{.text-blue}
-[$$\textcolor{blue}{x^2 - 4x + 4 = (x - 2)^2}$$]{.text-blue}
-[$$\textcolor{blue}{x^2 + 1 = \text{non si scompone}}$$]{.text-blue}
-[$$\textcolor{blue}{x^2 - 5x + 6 = (x - 2)(x - 3)}$$]{.text-blue}
+[$\textcolor{blue}{x^2 - 4x + 3 = (x-1)(x - 3)}$]{.text-blue}
+[$\textcolor{blue}{x^2 - 4x + 4 = (x - 2)^2}$]{.text-blue}
+[$\textcolor{blue}{x^2 + 1 = \text{non si scompone}}$]{.text-blue}
+[$\textcolor{blue}{x^2 - 5x + 6 = (x - 2)(x - 3)}$]{.text-blue}
 
 Quindi la mia disequazione iniziale diventa
 
@@ -29,7 +29,7 @@ $$
 
 o meglio
 
-[$$\textcolor{blue}{(x - 1)(x^2 + 1) \geq 0}$$]{.text-blue}
+[$\textcolor{blue}{(x - 1)(x^2 + 1) \geq 0}$]{.text-blue}
 
 È un prodotto, pongo ogni fattore maggiore o uguale a zero:
 
@@ -37,8 +37,8 @@ $$
 \textcolor{blue}{\begin{cases} x - 1 \geq 0 \\ x^2 + 1 \geq 0 \end{cases}}
 $$
 
-- la prima $$\textcolor{blue}{x - 1 \geq 0}$$ è verificata per $$\textcolor{blue}{x \geq 1}$$
-- la seconda $$\textcolor{blue}{x^2 + 1 \geq 0}$$ è sempre verificata [Calcoli](ageeca.html)
+- la prima $\textcolor{blue}{x - 1 \geq 0}$ è verificata per $\textcolor{blue}{x \geq 1}$
+- la seconda $\textcolor{blue}{x^2 + 1 \geq 0}$ è sempre verificata [Calcoli](ageeca.html)
 
 quindi il mio sistema è equivalente al sistema
 
@@ -52,4 +52,4 @@ Ora faccio il calcolo dei segni: siccome devo prendere dove l'espressione è pos
 
 La soluzione è:
 
-[$$\textcolor{red}{x \geq 1}$$]{.text-red}
+[$\textcolor{red}{x \geq 1}$]{.text-red}

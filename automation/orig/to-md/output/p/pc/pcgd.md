@@ -10,7 +10,7 @@ $$
 (a + b) + c = a + (b + c)
 $$
 
-1. aggiungiamo $$a$$ a entrambi i termini dell'uguaglianza e dimostriamo prima che vale 
+1. aggiungiamo $a$ a entrambi i termini dell'uguaglianza e dimostriamo prima che vale 
    $$
    a + (a + b) + c = a 
    $$
@@ -18,7 +18,7 @@ $$
    $$
    a + a + (b + c) = a 
    $$
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $a'$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
    a' + (a + b) + c = a' + (b \cdot c) 
    $$
@@ -56,14 +56,14 @@ a + (a \cdot b) = a
 $$
 come volevamo
 
-> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $$0$$ in $$1$$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
+> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $0$ in $1$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
 
 Voglio dimostrare che 
 $$
 (a \cdot b) \cdot c = a \cdot (b \cdot c) 
 $$
 
-1. aggiungiamo $$a$$ a entrambi i termini dell'uguaglianza e dimostriamo prima che vale 
+1. aggiungiamo $a$ a entrambi i termini dell'uguaglianza e dimostriamo prima che vale 
    $$
    a + (a \cdot b) \cdot c = a 
    $$
@@ -71,7 +71,7 @@ $$
    $$
    a + a \cdot (b \cdot c) = a 
    $$
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $a'$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
    a' + (a \cdot b) \cdot c = a' + (b \cdot c) 
    $$
@@ -85,7 +85,7 @@ seguirà la tesi
 
 Eseguiamo i calcoli
 
-1. aggiungo $$a$$ al primo termine 
+1. aggiungo $a$ al primo termine 
    $$
    a + (a \cdot b) \cdot c = a 
    $$ 
@@ -93,7 +93,7 @@ Eseguiamo i calcoli
    $$
    a + (a \cdot b) \cdot c = a 
    $$
-   Parto da $$a + (a \cdot b) \cdot c$$
+   Parto da $a + (a \cdot b) \cdot c$
 
    $$
    a + (a \cdot b) \cdot c = a + ((a \cdot b) \cdot c)
@@ -112,7 +112,7 @@ Eseguiamo i calcoli
    $$
    a + a \cdot (b \cdot c) = a 
    $$
-   Parto da $$a + a \cdot (b \cdot c) =$$
+   Parto da $a + a \cdot (b \cdot c) =$
 
    $$
    a + a \cdot (b \cdot c) = (a + a) \cdot (a + (b \cdot c))
@@ -133,7 +133,7 @@ Eseguiamo i calcoli
    a \cdot (a + c) = a
    $$ (seconda legge dell'assorbimento dimostrata prima)
 
-3. poi aggiungeremo $$a'$$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
+3. poi aggiungeremo $a'$ a entrambi i termini dell'uguaglianze e mostreremo che vale 
    $$
    a' + (a \cdot b) \cdot c = a' + (b \cdot c) 
    $$

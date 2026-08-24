@@ -2,10 +2,10 @@
 
 La tabella per eseguire le operazioni di prodotto è la seguente:
 
-| $\cdot$ | $$0$$ | $$1$$ |
+| $\cdot$ | $0$ | $1$ |
 | :---: | :---: | :---: |
-| $$0$$ | $$0$$ | $$0$$ |
-| $$1$$ | $$0$$ | $$1$$ |
+| $0$ | $0$ | $0$ |
+| $1$ | $0$ | $1$ |
 
 Cioè:
 
@@ -22,14 +22,14 @@ $$
 1 \cdot 1 = 1
 $$
 
-> **Nota:** Lo $$0$$ è detto anche "elemento assorbente" perché moltiplicato per qualunque numero lo "assorbe" facendolo diventare uguale a sé stesso: $$numero \cdot 0 = 0 \cdot numero = 0$$.
+> **Nota:** Lo $0$ è detto anche "elemento assorbente" perché moltiplicato per qualunque numero lo "assorbe" facendolo diventare uguale a sé stesso: $numero \cdot 0 = 0 \cdot numero = 0$.
 
 ***
 
 Vediamo su un semplice esempio come si esegue un prodotto fra numeri binari.
 
-Moltiplicare: $$1100101$$ e $$1001$$.
-Prima notiamo che se moltiplichiamo il numero sopra per $$1$$ otteniamo sempre il numero di sopra; quindi basta riportare il numero sopra per ogni cifra $$1$$ (opportunamente posizionato) e una fila di zeri per ogni cifra $$0$$.
+Moltiplicare: $1100101$ e $1001$.
+Prima notiamo che se moltiplichiamo il numero sopra per $1$ otteniamo sempre il numero di sopra; quindi basta riportare il numero sopra per ogni cifra $1$ (opportunamente posizionato) e una fila di zeri per ogni cifra $0$.
 
 $$
 \begin{array}{r}
@@ -58,11 +58,11 @@ $$
 
 ***
 
-Nel caso preso in esame abbiamo solo due $$1$$ per il moltiplicatore ($$1001$$); se invece gli $$1$$ sono $$3, 4, 5$$, è piuttosto difficile eseguire tutta assieme la somma delle righe ottenute, quindi conviene sommare a parte la prima con la seconda, il risultato con la terza, il risultato con la quarta eccetera.
+Nel caso preso in esame abbiamo solo due $1$ per il moltiplicatore ($1001$); se invece gli $1$ sono $3, 4, 5$, è piuttosto difficile eseguire tutta assieme la somma delle righe ottenute, quindi conviene sommare a parte la prima con la seconda, il risultato con la terza, il risultato con la quarta eccetera.
 
-Vediamo un esempio con $$3$$ unità.
+Vediamo un esempio con $3$ unità.
 
-Moltiplicare: $$1100111$$ e $$10110$$.
+Moltiplicare: $1100111$ e $10110$.
 
 $$
 \begin{array}{r}
@@ -85,7 +85,7 @@ $$
 
 Esegui i seguenti prodotti fra numeri binari:
 
-- $$101001 \cdot 1010 =$$ [Svolgimento](pbffda.html)
-- $$10010 \cdot 1001100 =$$ [Svolgimento](pbffdb.html)
-- $$101010 \cdot 1001100 =$$ [Svolgimento](pbffdc.html)
-- $$1010110 \cdot 1001110 =$$ [Svolgimento](pbffdd.html)
+- $101001 \cdot 1010 =$ [Svolgimento](pbffda.html)
+- $10010 \cdot 1001100 =$ [Svolgimento](pbffdb.html)
+- $101010 \cdot 1001100 =$ [Svolgimento](pbffdc.html)
+- $1010110 \cdot 1001110 =$ [Svolgimento](pbffdd.html)

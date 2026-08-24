@@ -1,6 +1,6 @@
 # [Disgiunzione inversa]{.text-red}
 
-È la disgiunzione inversa o incompatibilità $$(ab)'$$
+È la disgiunzione inversa o incompatibilità $(ab)'$
 
 corrisponde alla [disgiunzione inversa in logica](../../k/kb/kblae.html)
 
@@ -20,9 +20,9 @@ $$
 $$
 = a' + b' = (a' + b')(a + a')
 $$
-> moltiplico per $$(a + a') = 1$$ per la [prima legge del complemento](../pc/pcd.html)
+> moltiplico per $(a + a') = 1$ per la [prima legge del complemento](../pc/pcd.html)
 
 $$
 = a'a + a'a' + ab' + a'b'
 $$
-> sviluppo; $$a'a' = a'$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$a'a = 0$$ per la [second
+> sviluppo; $a'a' = a'$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $a'a = 0$ per la [second

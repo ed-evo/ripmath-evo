@@ -68,18 +68,18 @@ $$
 
 Non è finita! Devo fare la verifica
 
-- Verifica soluzione $$x = -2$$
-  Sostituisco nell'equazione di partenza $$-2$$ al posto di $$x$$
+- Verifica soluzione $x = -2$
+  Sostituisco nell'equazione di partenza $-2$ al posto di $x$
   $$
   \textcolor{red}{-2 + 2 + \sqrt{-2 + 2} = 0}
   $$
   $$
   \textcolor{red}{0 = 0}
   $$
-  L'uguaglianza è valida e la soluzione $$x = -2$$ è accettabile.
+  L'uguaglianza è valida e la soluzione $x = -2$ è accettabile.
 
-- Verifica soluzione $$x = -1$$
-  Sostituisco nell'equazione di partenza $$-1$$ al posto di $$x$$
+- Verifica soluzione $x = -1$
+  Sostituisco nell'equazione di partenza $-1$ al posto di $x$
   $$
   \textcolor{red}{-1 + 2 + \sqrt{-1 + 2} = 0}
   $$
@@ -89,6 +89,6 @@ Non è finita! Devo fare la verifica
   $$
   \textcolor{red}{2 = 0}
   $$
-  L'uguaglianza non è valida e la soluzione $$x = -1$$ non è accettabile.
+  L'uguaglianza non è valida e la soluzione $x = -1$ non è accettabile.
 
-[Una sola soluzione $$x = -2$$]{.text-red}
+[Una sola soluzione $x = -2$]{.text-red}

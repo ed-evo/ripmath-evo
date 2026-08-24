@@ -4,7 +4,7 @@ $$
 \textcolor{red}{\begin{cases} a^2 + b^2 = 2 \\ b = a \end{cases}}
 $$
 
-Sostituisco a $$\textcolor{red}{b}$$ nella prima equazione il valore $$\textcolor{red}{a}$$
+Sostituisco a $\textcolor{red}{b}$ nella prima equazione il valore $\textcolor{red}{a}$
 
 $$
 \textcolor{red}{\begin{cases} a^2 + a^2 = 2 \\ b = a \end{cases}}
@@ -14,7 +14,7 @@ $$
 \textcolor{red}{\begin{cases} 2a^2 = 2 \\ b = a \end{cases}}
 $$
 
-Divido la prima equazione per $$2$$
+Divido la prima equazione per $2$
 
 $$
 \textcolor{red}{\begin{cases} a^2 = 1 \\ b = a \end{cases}}

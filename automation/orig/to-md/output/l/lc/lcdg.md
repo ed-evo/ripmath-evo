@@ -8,11 +8,11 @@ La teoria classica della probabilità è una teoria "a priori", cioè indica qua
 >
 > Sarà sufficiente che un tavolo di una roulette sia leggermente non in orizzontale, oppure che la ruota sia leggermente deformata per avere la maggior uscita di certi numeri piuttosto che di certi altri.
 >
-> Osservate un'estrazione di numeri al lotto: vedrete che in certe ruote escono di più i numeri bassi ed in altre di più i numeri alti; questo penso sia dovuto al fatto che nel primo caso sono stati introdotti i numeri partendo dal $$90$$ fino ad arrivare all' $$1$$, mentre nel secondo caso i numeri sono stati introdotti nell'urna in ordine crescente e, per quanto si mescoli, qualcosa resta.
+> Osservate un'estrazione di numeri al lotto: vedrete che in certe ruote escono di più i numeri bassi ed in altre di più i numeri alti; questo penso sia dovuto al fatto che nel primo caso sono stati introdotti i numeri partendo dal $90$ fino ad arrivare all' $1$, mentre nel secondo caso i numeri sono stati introdotti nell'urna in ordine crescente e, per quanto si mescoli, qualcosa resta.
 
 **Esistono problemi per cui non è possibile applicare la probabilità classica:**
 
-> Ad esempio, se dico che la squadra $$A$$ ha il doppio di possibilità di vincere una determinata partita rispetto alla squadra $$B$$, non si capisce come tale probabilità sia ricavata.
+> Ad esempio, se dico che la squadra $A$ ha il doppio di possibilità di vincere una determinata partita rispetto alla squadra $B$, non si capisce come tale probabilità sia ricavata.
 >
 > Se parlo di colpire un piattello con un colpo di fucile non posso applicare la probabilità classica.
 >

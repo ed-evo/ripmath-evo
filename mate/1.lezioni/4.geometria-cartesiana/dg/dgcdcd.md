@@ -2,7 +2,7 @@
 
 Dobbiamo vedere in che forma si presenta l'iperbole:
 
-- Se l'iperbole è in forma canonica oppure anche come iperbole equilatera (quindi espressa come equazione di secondo grado in $$x$$ e $$y$$) otterremo sempre come equazione risolvente un'equazione di quarto grado
+- Se l'iperbole è in forma canonica oppure anche come iperbole equilatera (quindi espressa come equazione di secondo grado in $x$ e $y$) otterremo sempre come equazione risolvente un'equazione di quarto grado
 
 > **Esercizio:** disegna i possibili casi di intersezione fra una parabola con asse verticale ed un'iperbole in forma canonica [Soluzione](dgcdcda.html)
 

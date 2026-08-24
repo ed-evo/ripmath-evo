@@ -1,6 +1,6 @@
 # Somma
 
-È la [somma](../../p/pc/pce.html) definita nell'algebra di Boole $$a+b$$
+È la [somma](../../p/pc/pce.html) definita nell'algebra di Boole $a+b$
 
 corrisponde alla [disgiunzione inclusiva in logica](../../k/kb/kblab.html)
 
@@ -16,17 +16,17 @@ $$
 
 Per esercizio dimostriamolo algebricamente
 
-> $$a+b = (a+b)(a+à) =$$ [moltiplico per $$(a+à)=1$$ per la [prima legge del complemento](../pc/pcd.html)]
+> $a+b = (a+b)(a+à) =$ [moltiplico per $(a+à)=1$ per la [prima legge del complemento](../pc/pcd.html)]
 >
-> $$= aa + aà + ab + ab' =$$ [sviluppo; $$aa=a$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$aà=0$$ per la [seconda legge del complemento](../pc/pcd.html)]
+> $= aa + aà + ab + ab' =$ [sviluppo; $aa=a$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $aà=0$ per la [seconda legge del complemento](../pc/pcd.html)]
 >
-> $$= a + ab + àb =$$ [so che $$a+ab=a$$ per la [prima legge di assorbimento](../pc/pcg.html)]
+> $= a + ab + àb =$ [so che $a+ab=a$ per la [prima legge di assorbimento](../pc/pcg.html)]
 >
-> $$= a + àb =$$
+> $= a + àb =$
 >
-> $$= a(b+b') + àb =$$ [moltiplico per $$(b+b')=1$$ il primo termine ed ottengo]
+> $= a(b+b') + àb =$ [moltiplico per $(b+b')=1$ il primo termine ed ottengo]
 >
-> $$= ab + ab' + àb$$
+> $= ab + ab' + àb$
 >
 > cioè ordinando come avevamo già visto nella pagina della tabella
 >

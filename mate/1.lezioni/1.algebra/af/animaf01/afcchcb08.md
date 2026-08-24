@@ -1,1 +1,1 @@
-# Intersezioni n° [$$1$$]{.text-red}
+# Intersezioni n° [$1$]{.text-red}

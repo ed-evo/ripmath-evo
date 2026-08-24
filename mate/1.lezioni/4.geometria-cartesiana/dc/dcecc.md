@@ -8,15 +8,15 @@ $$
 
 che è detta [forma implicita]{.text-purple} della retta o equazione della retta in forma implicita.
 
-Possiamo trasformare la retta dalla forma implicita alla forma esplicita: basta risolvere l'equazione rispetto alla $$y$$:
+Possiamo trasformare la retta dalla forma implicita alla forma esplicita: basta risolvere l'equazione rispetto alla $y$:
 
-$$\textcolor{blue}{ax + by + c = 0}$$
+$\textcolor{blue}{ax + by + c = 0}$
 
-isolo la $$y$$
+isolo la $y$
 
-$$\textcolor{blue}{by = -ax - c}$$
+$\textcolor{blue}{by = -ax - c}$
 
-divido tutto per $$b$$
+divido tutto per $b$
 
 $$
 \textcolor{blue}{y = -\frac{a}{b}x - \frac{c}{b}}
@@ -24,7 +24,7 @@ $$
 
 Confrontando questa funzione con la forma esplicita della retta
 
-$$\textcolor{blue}{y = mx + q}$$
+$\textcolor{blue}{y = mx + q}$
 
 avrò che perché siano uguali deve essere
 
@@ -44,13 +44,13 @@ $$
 
 alla forma esplicita:
 
-isolo la $$y$$
+isolo la $y$
 
 $$
 \textcolor{red}{3y = -2x + 6}
 $$
 
-divido per $$3$$
+divido per $3$
 
 $$
 \textcolor{red}{y = -\frac{2}{3}x + \frac{6}{3}}
@@ -70,7 +70,7 @@ $$
 
 alla forma implicita:
 
-basta fare il minimo comune multiplo, cioè moltiplico tutto per $$6$$ per eliminare il denominatore
+basta fare il minimo comune multiplo, cioè moltiplico tutto per $6$ per eliminare il denominatore
 
 $$
 \textcolor{red}{6y = 2x + 15}

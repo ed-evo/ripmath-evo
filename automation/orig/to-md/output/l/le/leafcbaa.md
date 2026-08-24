@@ -4,7 +4,7 @@ $$
 \textcolor{red}{-\frac{\mu}{n} =}
 $$
 
-la considero come rapporto fra i numeri razionali $$1$$ e $$\frac{n}{-\mu}$$
+la considero come rapporto fra i numeri razionali $1$ e $\frac{n}{-\mu}$
 
 $$
 \textcolor{red}{= \frac{1}{\frac{n}{-\mu}} =}

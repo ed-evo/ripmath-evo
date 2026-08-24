@@ -8,4 +8,4 @@ $$
 \textcolor{red}{\cot \alpha = \frac{1}{\tan \alpha}}
 $$
 
-La maniera più semplice per trattarla è sostituire a cotangente ogni volta che la troveremo il valore $$1$$ fratto tangente.
+La maniera più semplice per trattarla è sostituire a cotangente ogni volta che la troveremo il valore $1$ fratto tangente.

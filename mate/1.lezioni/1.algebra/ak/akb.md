@@ -2,11 +2,11 @@
 
 Quando non ci interessa sapere che segno otteniamo estraendo la radice parliamo di radicali aritmetici, cioè di radicali senza segno.
 
-Così ad esempio $$\sqrt{25} = 5$$ è un radicale aritmetico.
+Così ad esempio $\sqrt{25} = 5$ è un radicale aritmetico.
 
 ***
 
-Una delle applicazioni più interessanti per i radicali aritmetici è il concetto di modulo. Possiamo infatti definire il modulo di un numero $$a$$ anche come la radice aritmetica del quadrato di $$a$$ stesso:
+Una delle applicazioni più interessanti per i radicali aritmetici è il concetto di modulo. Possiamo infatti definire il modulo di un numero $a$ anche come la radice aritmetica del quadrato di $a$ stesso:
 
 $$
 \textcolor{red}{| a | = \sqrt{(a^2)}}

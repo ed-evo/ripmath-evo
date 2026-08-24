@@ -7,24 +7,24 @@ Cioè funzione crescente e derivata positiva sono due cose equivalenti (in matem
 
 ## Dimostrazione del Minimo
 
-Dimostriamo che se la derivata prima è nulla ($$y' = 0$$) e la derivata seconda è positiva ($$y'' > 0$$) in un punto, allora quel punto è di minimo per la funzione:
+Dimostriamo che se la derivata prima è nulla ($y' = 0$) e la derivata seconda è positiva ($y'' > 0$) in un punto, allora quel punto è di minimo per la funzione:
 
-La figura va letta dal basso verso l'alto: se la derivata seconda è positiva ($$y'' > 0$$) ne segue che la derivata prima è crescente, ma essendo zero in un punto, prima del punto sarà negativa e dopo il punto sarà positiva; allora la funzione sarà prima decrescente e poi crescente, quindi ho un minimo.
+La figura va letta dal basso verso l'alto: se la derivata seconda è positiva ($y'' > 0$) ne segue che la derivata prima è crescente, ma essendo zero in un punto, prima del punto sarà negativa e dopo il punto sarà positiva; allora la funzione sarà prima decrescente e poi crescente, quindi ho un minimo.
 
 ---
 
-> Questa dimostrazione mi è stata chiesta all'orale dell'esame di maturità nel lontano $$1966$$. Tra noi studenti circolava la voce che l'esaminatore fosse l'autore di questo teorema.
+> Questa dimostrazione mi è stata chiesta all'orale dell'esame di maturità nel lontano $1966$. Tra noi studenti circolava la voce che l'esaminatore fosse l'autore di questo teorema.
 
 ---
 
 ## Dimostrazione del Massimo
 
-Dimostriamo che se la derivata prima è nulla ($$y' = 0$$) e la derivata seconda è negativa ($$y'' < 0$$) in un punto, allora quel punto è di massimo per la funzione:
+Dimostriamo che se la derivata prima è nulla ($y' = 0$) e la derivata seconda è negativa ($y'' < 0$) in un punto, allora quel punto è di massimo per la funzione:
 
-La figura va letta dal basso verso l'alto: se la derivata seconda è negativa ($$y'' < 0$$) ne segue che la derivata prima è decrescente, ma essendo zero in un punto, prima del punto sarà positiva e dopo il punto sarà negativa; allora la funzione sarà prima crescente e poi decrescente, quindi ho un massimo.
+La figura va letta dal basso verso l'alto: se la derivata seconda è negativa ($y'' < 0$) ne segue che la derivata prima è decrescente, ma essendo zero in un punto, prima del punto sarà positiva e dopo il punto sarà negativa; allora la funzione sarà prima crescente e poi decrescente, quindi ho un massimo.
 
 ---
 
 ## Dimostrazione del Flesso Orizzontale
 
-Per finire dimostriamo che se la derivata prima è nulla ($$y' = 0$$) come la derivata seconda ($$y'' = 0$$) e la derivata terza è
+Per finire dimostriamo che se la derivata prima è nulla ($y' = 0$) come la derivata seconda ($y'' = 0$) e la derivata terza è

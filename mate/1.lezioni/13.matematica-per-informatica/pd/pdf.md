@@ -6,17 +6,17 @@ Vediamo ora di puntualizzare che le operazioni fondamentali sugli insiemi, sulle
 
 Le operazioni fondamentali sono le operazioni di base da cui derivano tutte le altre: esse sono:
 
-Nella teoria degli insiemi: il passaggio al complementare ($$\overline{A}$$), l'unione ($$\cup$$) e l'intersezione ($$\cap$$).
+Nella teoria degli insiemi: il passaggio al complementare ($\overline{A}$), l'unione ($\cup$) e l'intersezione ($\cap$).
 
-In logica: la negazione logica (**not**), la disgiunzione inclusiva (**vel** $$\lor$$) e la congiunzione logica (**and** $$\land$$).
+In logica: la negazione logica (**not**), la disgiunzione inclusiva (**vel** $\lor$) e la congiunzione logica (**and** $\land$).
 
-Nell'algebra di Boole: la negazione ($$à$$), la somma ($$a+b$$) ed il prodotto ($$a \cdot b$$).
+Nell'algebra di Boole: la negazione ($à$), la somma ($a+b$) ed il prodotto ($a \cdot b$).
 
 In informatica: la negazione (porta **not**), la somma (porta **or**) ed il prodotto (porta **and**).
 
 | [Ambito]{.text-red} | | | |
 | :--- | :--- | :--- | :--- |
-| [Insiemistica]{.text-red} | Complementare $$\overline{A}$$ | Unione $$\cup$$ | Intersezione $$\cap$$ |
-| [Logica]{.text-red} | Negazione logica $$\overline{p}$$ | Disgiunzione inclusiva $$\lor$$ | Congiunzione logica $$\land$$ |
-| [Algebra di Boole]{.text-red} | Complementare $$à$$ | Somma $$a+b$$ | Prodotto $$a \cdot b$$ |
+| [Insiemistica]{.text-red} | Complementare $\overline{A}$ | Unione $\cup$ | Intersezione $\cap$ |
+| [Logica]{.text-red} | Negazione logica $\overline{p}$ | Disgiunzione inclusiva $\lor$ | Congiunzione logica $\land$ |
+| [Algebra di Boole]{.text-red} | Complementare $à$ | Somma $a+b$ | Prodotto $a \cdot b$ |
 | [Informatica]{.text-red} | Porta not | Porta or | Porta and |

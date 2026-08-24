@@ -2,9 +2,9 @@
 
 Risolvere la disequazione
 
-$$\textcolor{blue}{\sqrt{3} \sin x + 3 \cos x < 3}$$
+$\textcolor{blue}{\sqrt{3} \sin x + 3 \cos x < 3}$
 
-È un'equazione di primo grado [lineare non omogenea](iccbb.html) in seno e coseno; la trasformo mediante le [formule parametriche](icadd.html). $$t$$ vale $$\tan \frac{x}{2}$$
+È un'equazione di primo grado [lineare non omogenea](iccbb.html) in seno e coseno; la trasformo mediante le [formule parametriche](icadd.html). $t$ vale $\tan \frac{x}{2}$
 
 $$
 \textcolor{red}{\frac{2t\sqrt{3}}{1+t^2} + \frac{3(1-t^2)}{1+t^2} < 3}
@@ -34,7 +34,7 @@ $$
 \textcolor{red}{-6t^2 + 2t\sqrt{3} < 0}
 $$
 
-Cambio segno, verso e divido per $$2$$ per renderla più semplice
+Cambio segno, verso e divido per $2$ per renderla più semplice
 
 $$
 \textcolor{red}{3t^2 - t\sqrt{3} > 0}
@@ -54,24 +54,24 @@ $$
 $$
 
 - Risolvo la prima
-  $$\textcolor{red}{\tan \frac{x}{2} > 0}$$
-  So che la tangente è positiva tra $$0^\circ$$ e $$90^\circ$$, quindi
-  $$\textcolor{red}{0^\circ < \frac{x}{2} < 90^\circ}$$
-  Però io cerco l'angolo $$x$$ e quindi moltiplichiamo per $$2$$
-  $$\textcolor{red}{0^\circ < x < 180^\circ}$$
+  $\textcolor{red}{\tan \frac{x}{2} > 0}$
+  So che la tangente è positiva tra $0^\circ$ e $90^\circ$, quindi
+  $\textcolor{red}{0^\circ < \frac{x}{2} < 90^\circ}$
+  Però io cerco l'angolo $x$ e quindi moltiplichiamo per $2$
+  $\textcolor{red}{0^\circ < x < 180^\circ}$
   A destra la rappresentazione grafica.
 
 - Risolvo la seconda
-  $$\textcolor{red}{3 \tan \frac{x}{2} - \sqrt{3} > 0}$$
-  Ricavo $$\tan \frac{x}{2}$$
-  $$\textcolor{red}{3 \tan \frac{x}{2} > \sqrt{3}}$$
+  $\textcolor{red}{3 \tan \frac{x}{2} - \sqrt{3} > 0}$
+  Ricavo $\tan \frac{x}{2}$
+  $\textcolor{red}{3 \tan \frac{x}{2} > \sqrt{3}}$
   $$
   \textcolor{red}{\tan \frac{x}{2} > \frac{\sqrt{3}}{3}}
   $$
-  So che la tangente è superiore a $$\frac{\sqrt{3}}{3}$$ per gli angoli tra $$30^\circ$$ e $$90^\circ$$, quindi posso scrivere
-  $$\textcolor{red}{30^\circ < \frac{x}{2} < 90^\circ}$$
-  Però io cerco l'angolo $$x$$ e quindi moltiplichiamo per $$2$$
-  $$\textcolor{red}{60^\circ < x < 180^\circ}$$
+  So che la tangente è superiore a $\frac{\sqrt{3}}{3}$ per gli angoli tra $30^\circ$ e $90^\circ$, quindi posso scrivere
+  $\textcolor{red}{30^\circ < \frac{x}{2} < 90^\circ}$
+  Però io cerco l'angolo $x$ e quindi moltiplichiamo per $2$
+  $\textcolor{red}{60^\circ < x < 180^\circ}$
   A destra la soluzione grafica.
 
 ***
@@ -82,4 +82,4 @@ Ora cerco le soluzioni concordi della prima e della seconda disequazione: riport
 
 Raccogliendo ho quindi le soluzioni
 
-$$\textcolor{blue}{60^\circ < x < 360^\circ}$$
+$\textcolor{blue}{60^\circ < x < 360^\circ}$

@@ -7,9 +7,9 @@ y = h \\
 z = k
 \end{cases}
 $$]{.text-blue}
-[con $$h$$ e $$k$$ numeri reali]{.text-blue}
+[con $h$ e $k$ numeri reali]{.text-blue}
 
-proviamo a dare ad $$y=h$$ il valore $$2$$: otteniamo
+proviamo a dare ad $y=h$ il valore $2$: otteniamo
 
 [$$
 \begin{cases}
@@ -18,7 +18,7 @@ y = 2 \\
 z = k
 \end{cases}
 $$]{.text-blue}
-[con $$h=2$$ e $$k$$ numero reale]{.text-blue}
+[con $h=2$ e $k$ numero reale]{.text-blue}
 
-e questi sono infiniti valori perché a $$z=k$$ posso dare il valore che voglio
+e questi sono infiniti valori perché a $z=k$ posso dare il valore che voglio
 Ad

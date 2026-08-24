@@ -6,7 +6,7 @@ $$
 $$
 Quindi un numero complesso al denominatore sarà da trattare come abbiamo trattato la razionalizzazione e precisamente la razionalizzazione a due termini; in tal modo il quoziente si ridurrà ad un prodotto perché sparirà la radice al denominatore.
 
-Vediamo un esempio: eseguire la divisione fra i due numeri complessi [$$Z_1 = 4 + 3i$$ e $$Z_2 = 3 - 2i$$]{.text-blue}
+Vediamo un esempio: eseguire la divisione fra i due numeri complessi [$Z_1 = 4 + 3i$ e $Z_2 = 3 - 2i$]{.text-blue}
 
 $$
 \frac{Z_1}{Z_2} = \frac{4 + 3i}{3 - 2i}
@@ -32,7 +32,7 @@ $$
 
 ---
 
-Altro esempio; eseguire la divisione fra i due numeri complessi [$$Z_1 = 3 - 2i$$ e $$Z_2 = 2 + i$$]{.text-blue}
+Altro esempio; eseguire la divisione fra i due numeri complessi [$Z_1 = 3 - 2i$ e $Z_2 = 2 + i$]{.text-blue}
 
 $$
 \frac{Z_1}{Z_2} = \frac{3 - 2i}{2 + i}

@@ -17,13 +17,13 @@ $$
 \textcolor{red}{z = x^5 + 4x^4y - 3xy^4 + 6y^5}
 $$
 
-La sua derivata prima rispetto ad $$x$$ (devo considerare $$y$$ come una costante) sarà
+La sua derivata prima rispetto ad $x$ (devo considerare $y$ come una costante) sarà
 
 $$
 \textcolor{red}{\frac{\partial z}{\partial x} = 5x^4 + 16x^3y - 3y^4}
 $$
 
-mentre la derivata prima rispetto ad $$y$$ sarà
+mentre la derivata prima rispetto ad $y$ sarà
 
 $$
 \textcolor{red}{\frac{\partial z}{\partial y} = 4x^4 - 12xy^3 + 30y^4}
@@ -43,4 +43,4 @@ $$
 \textcolor{red}{\partial x^2 = \partial x \cdot \partial x}
 $$
 
-Cioè se derivo prima due volte rispetto ad $$x$$ e poi derivo rispetto ad $$y$$ ottengo lo stesso risultato che otterrei derivando prima rispetto ad $$x$$ poi ad $$y$$ poi ancora rispetto ad $$x$$ oppure derivando prima rispetto ad $$y$$ e poi due volte rispetto ad $$x$$.
+Cioè se derivo prima due volte rispetto ad $x$ e poi derivo rispetto ad $y$ ottengo lo stesso risultato che otterrei derivando prima rispetto ad $x$ poi ad $y$ poi ancora rispetto ad $x$ oppure derivando prima rispetto ad $y$ e poi due volte rispetto ad $x$.

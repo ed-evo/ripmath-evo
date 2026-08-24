@@ -24,13 +24,13 @@ $$
 \textcolor{blue}{10\log_3 x = 10}
 $$
 
-semplifico per $$10$$
+semplifico per $10$
 
 $$
 \textcolor{blue}{\log_3 x = 1}
 $$
 
-so che $$1 = \log_3 3$$, perché $$3$$ elevato ad $$1$$ dà $$3$$, quindi
+so che $1 = \log_3 3$, perché $3$ elevato ad $1$ dà $3$, quindi
 
 $$
 \textcolor{blue}{\log_3 x = \log_3 3}
@@ -42,4 +42,4 @@ $$
 \textcolor{red}{x = 3}
 $$
 
-essendo $$3$$ maggiore di zero la soluzione è accettabile
+essendo $3$ maggiore di zero la soluzione è accettabile

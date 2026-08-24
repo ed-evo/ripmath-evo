@@ -1,6 +1,6 @@
 > L'equazione è reciproca cioè le soluzioni devono essere reciproche fra loro
 >
-> Il numero $$0$$ non ha reciproco (e quindi non può essere soluzione) perché non esiste nessun numero che moltiplicato per zero dia risultato $$1$$
+> Il numero $0$ non ha reciproco (e quindi non può essere soluzione) perché non esiste nessun numero che moltiplicato per zero dia risultato $1$
 >
 > se infatti esistesse avremmo
 >

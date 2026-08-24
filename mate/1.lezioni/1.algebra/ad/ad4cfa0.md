@@ -2,7 +2,7 @@
 
 ---
 
-I numeri sotto sono la somma dei $$2$$ numeri sopra oppure, se sopra c'è un solo numero valgono $$1$$
+I numeri sotto sono la somma dei $2$ numeri sopra oppure, se sopra c'è un solo numero valgono $1$
 infatti:
 
 $$

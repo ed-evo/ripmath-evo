@@ -2,13 +2,13 @@
 
 > Anche questa è interessante soprattutto per i calcoli che ci introducono poi alla distribuzione più "gettonata" (legge di Gauss)
 
-Consideriamo la variabile casuale $$X$$ che assume tutti i valori nell'intervallo $$[0; +\infty]$$ con funzione densità:
+Consideriamo la variabile casuale $X$ che assume tutti i valori nell'intervallo $[0; +\infty]$ con funzione densità:
 
 $$
 f(x) = k e^{-\alpha x}
 $$
 
-con $$\alpha$$ valore dato e $$k$$ valore da determinare. Essendo la probabilità totale su $$[0; +\infty]$$ uguale ad $$1$$, possiamo trovare il valore di $$k$$ impostando l'equazione:
+con $\alpha$ valore dato e $k$ valore da determinare. Essendo la probabilità totale su $[0; +\infty]$ uguale ad $1$, possiamo trovare il valore di $k$ impostando l'equazione:
 
 $$
 \int_{0}^{+\infty} k e^{-\alpha x} dx = 1
@@ -38,11 +38,11 @@ $$
 f(x) = \alpha e^{-\alpha x}
 $$
 
-Il grafico di tale funzione, essendo una funzione di tipo esponenziale con esponente negativo, parte dal valore $$\alpha$$ sull'asse $$y$$ (infatti ponendo $$x = 0$$ abbiamo $$y = \alpha e^{0} = \alpha \cdot 1 = \alpha$$) e si avvicina asintoticamente all'asse delle $$x$$ (per $$x \to +\infty$$ abbiamo $$y \to \alpha e^{-\infty} = \alpha \cdot 0 = 0$$).
+Il grafico di tale funzione, essendo una funzione di tipo esponenziale con esponente negativo, parte dal valore $\alpha$ sull'asse $y$ (infatti ponendo $x = 0$ abbiamo $y = \alpha e^{0} = \alpha \cdot 1 = \alpha$) e si avvicina asintoticamente all'asse delle $x$ (per $x \to +\infty$ abbiamo $y \to \alpha e^{-\infty} = \alpha \cdot 0 = 0$).
 
 ***
 
-Otterremo la funzione di ripartizione calcolando l'integrale da $$0$$ a $$x$$ della funzione densità:
+Otterremo la funzione di ripartizione calcolando l'integrale da $0$ a $x$ della funzione densità:
 
 $$
 F(x) = \int_{0}^{x} \alpha e^{-\alpha t} dt = \left[ -e^{-\alpha t} \right]_{0}^{x} = -e^{-\alpha x} + 1 = 1 - e^{-\alpha x}

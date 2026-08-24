@@ -2,8 +2,8 @@ L'effettiva rappresentatività del valore medio è affidata al fatto di aver un 
 
 > Se ad esempio dico che
 >
-> - il signor Rossi mangia $$10$$ polli
-> - ed il signor Bianchi $$0$$ polli
+> - il signor Rossi mangia $10$ polli
+> - ed il signor Bianchi $0$ polli
 >
 > il valore medio
 >
@@ -15,11 +15,11 @@ L'effettiva rappresentatività del valore medio è affidata al fatto di aver un 
 >
 > Mentre se dicessi:
 >
-> - Bianchi mangia $$10$$ polli
-> - Rossi mangia $$8$$ polli
-> - Verdi mangia $$12$$ polli
-> - Gialli mangia $$9$$ polli
-> - Neri mangia $$11$$ polli
+> - Bianchi mangia $10$ polli
+> - Rossi mangia $8$ polli
+> - Verdi mangia $12$ polli
+> - Gialli mangia $9$ polli
+> - Neri mangia $11$ polli
 >
 > Allora il valore medio
 >

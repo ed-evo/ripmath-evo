@@ -12,9 +12,9 @@
 > \textcolor{red}{c = a \cos \beta + b \cos \alpha}
 > $$
 >
-> moltiplichiamo la prima relazione per $$\textcolor{red}{-a}$$
-> moltiplichiamo la seconda relazione per $$\textcolor{red}{b}$$
-> moltiplichiamo la terza relazione per $$\textcolor{red}{-c}$$
+> moltiplichiamo la prima relazione per $\textcolor{red}{-a}$
+> moltiplichiamo la seconda relazione per $\textcolor{red}{b}$
+> moltiplichiamo la terza relazione per $\textcolor{red}{-c}$
 >
 > $$
 > \textcolor{red}{-a^2 = -ab \cos \gamma - ac \cos \beta}

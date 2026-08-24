@@ -6,7 +6,7 @@ $$
 \textcolor{red}{y = \frac{x + 2}{x^2 - 1}}
 $$
 
-Devo sostituire ad $$x$$ la coordinata trovata
+Devo sostituire ad $x$ la coordinata trovata
 
 $$
 \textcolor{red}{x = -2 - \sqrt{3}}
@@ -52,8 +52,8 @@ $$
 
 Coordinate del minimo
 
-- $$ \textcolor{blue}{x = -2 - \sqrt{3}} $$ [valore approssimato circa $$-3,7$$]{.text-blue}
-- $$ \textcolor{blue}{y = \frac{\sqrt{3} - 2}{2}} $$ [valore approssimato circa $$0,15$$]{.text-blue}
+- $\textcolor{blue}{x = -2 - \sqrt{3}}$ [valore approssimato circa $-3,7$]{.text-blue}
+- $\textcolor{blue}{y = \frac{\sqrt{3} - 2}{2}}$ [valore approssimato circa $0,15$]{.text-blue}
 
 ## Massimo
 
@@ -61,7 +61,7 @@ $$
 \textcolor{red}{y = \frac{x + 2}{x^2 - 1}}
 $$
 
-Devo sostituire ad $$x$$ la coordinata trovata
+Devo sostituire ad $x$ la coordinata trovata
 
 $$
 \textcolor{red}{x = -2 + \sqrt{3}}
@@ -113,5 +113,5 @@ $$
 
 Coordinate del Massimo
 
-- $$ \textcolor{blue}{x = -2 + \sqrt{3}} $$ [valore approssimato circa $$-0,3$$]{.text-blue}
-- $$ \textcolor{blue}{y = \frac{-2 - \sqrt{3}}{2}} $$ [valore approssimato circa $$-1,8$$]{.text-blue}
+- $\textcolor{blue}{x = -2 + \sqrt{3}}$ [valore approssimato circa $-0,3$]{.text-blue}
+- $\textcolor{blue}{y = \frac{-2 - \sqrt{3}}{2}}$ [valore approssimato circa $-1,8$]{.text-blue}

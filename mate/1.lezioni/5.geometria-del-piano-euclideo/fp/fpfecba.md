@@ -1,4 +1,4 @@
-> Senza scomodare il teorema di Pitagora si può considerare la terna pitagorica $$3$$, $$4$$, $$5$$: hai
+> Senza scomodare il teorema di Pitagora si può considerare la terna pitagorica $3$, $4$, $5$: hai
 >
 > $$
 > \textcolor{red}{HN = \frac{3}{5}x = 3 \cdot \frac{1}{5}x}

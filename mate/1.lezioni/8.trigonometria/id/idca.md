@@ -13,7 +13,7 @@ $$
 \textcolor{red}{\sin \alpha = \frac{a}{c}}
 $$
 
-ricavo $$a$$:
+ricavo $a$:
 
 $$
 \textcolor{red}{c \sin \alpha = a}
@@ -27,7 +27,7 @@ $$
 
 ***
 
-Ora posso ribaltare il triangolo in modo che nel punto $$O$$ vada l'angolo $$\beta$$.
+Ora posso ribaltare il triangolo in modo che nel punto $O$ vada l'angolo $\beta$.
 
 Dopo il ribaltamento ho cambiato le lettere ai vertici mantenendo inalterati invece i nomi degli angoli e dei lati.
 Dalla definizione di seno abbiamo:
@@ -42,7 +42,7 @@ $$
 \textcolor{red}{\sin \beta = \frac{b}{c}}
 $$
 
-ricavo $$b$$:
+ricavo $b$:
 
 $$
 \textcolor{red}{c \sin \beta = b}

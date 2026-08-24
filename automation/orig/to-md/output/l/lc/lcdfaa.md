@@ -14,7 +14,7 @@ $$
 \frac{58599024 + 59257440 + 59930820 + 60619680 + 61324560}{5273912160} = \frac{299731524}{5273912160} = 0,056832862
 $$
 
-Approssimo alla terza cifra decimale, siccome la quarta cifra è $$8$$ approssimo per eccesso a $$0,057$$
+Approssimo alla terza cifra decimale, siccome la quarta cifra è $8$ approssimo per eccesso a $0,057$
 
 $$
 \text{Probabilità totale} \approx 0,057 \approx 5,7\%

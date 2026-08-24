@@ -2,7 +2,7 @@
 
 Trasformare in binario il seguente numero decimale
 
-$$1024_{10} =$$
+$1024_{10} =$
 
 > Vicino al numero scrivo il resto mentre il quoziente lo scrivo sotto il numero stesso
 

@@ -5,9 +5,9 @@ $$
 $$
 
 Indico:
-- $$(M -- A)$$ la premessa maggiore
-- $$(M -- B)$$ la premessa minore
-- $$(B -- A)$$ la conclusione
+- $(M -- A)$ la premessa maggiore
+- $(M -- B)$ la premessa minore
+- $(B -- A)$ la conclusione
 
 Considerando i predicati avremo la terza figura quando il termine medio compare al primo ed al terzo posto, cioè:
 

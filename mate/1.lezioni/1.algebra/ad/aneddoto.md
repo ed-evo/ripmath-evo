@@ -18,6 +18,6 @@ All'esame Riccardo, piuttosto abbacchiato, capitò proprio a dare l'esame da Vil
 
 "Prendo il tegamino, apro il credenzino, vi metto dentro il tegamino poi procedo come prima!"
 
-Villa diede a Riccardo $$18$$ in quell'esame! Infatti Riccardo aveva dimostrato di conoscere una delle principali regole della matematica:
+Villa diede a Riccardo $18$ in quell'esame! Infatti Riccardo aveva dimostrato di conoscere una delle principali regole della matematica:
 
 > Se possibile fai riferimento a qualcosa che hai già fatto

@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{(a_1 - a_2)x + (b_1 - b_2)y + c_1 - c_2 = 0}
 $$
 
-ed è l'equazione di una retta perché è di primo grado nelle incognite $$x$$ e $$y$$.
+ed è l'equazione di una retta perché è di primo grado nelle incognite $x$ e $y$.
 
 Viene da chiedersi cosa rappresenta questa retta:
 

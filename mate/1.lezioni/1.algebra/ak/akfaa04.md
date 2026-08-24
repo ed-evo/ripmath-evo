@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{3\sqrt{2}}{5\sqrt{3}}} =
 $$
 
-Moltiplico sopra e sotto per $$\sqrt{3}$$
+Moltiplico sopra e sotto per $\sqrt{3}$
 
 $$
 \textcolor{blue}{\frac{3\sqrt{2}}{5\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{3\sqrt{6}}{5\sqrt{3^2}} =}

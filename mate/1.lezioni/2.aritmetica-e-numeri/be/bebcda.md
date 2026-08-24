@@ -28,13 +28,13 @@ $$
 \textcolor{blue}{\frac{\rho_1 (\cos \theta_1 \cos \theta_2 - i \cos \theta_1 \sin \theta_2 + i \sin \theta_1 \cos \theta_2 - i^2 \sin \theta_1 \sin \theta_2)}{\rho_2 (\cos^2 \theta_2 - i^2 \sin^2 \theta_2)}}
 $$
 
-Ricordando che $$i^2 = -1$$ posso scrivere:
+Ricordando che $i^2 = -1$ posso scrivere:
 
 $$
 \textcolor{blue}{\frac{\rho_1 (\cos \theta_1 \cos \theta_2 - i \cos \theta_1 \sin \theta_2 + i \sin \theta_1 \cos \theta_2 + \sin \theta_1 \sin \theta_2)}{\rho_2 (\cos^2 \theta_2 + \sin^2 \theta_2)}}
 $$
 
-Al numeratore raggruppo le parti reali e le parti immaginarie e poiché per la prima relazione fondamentale della trigonometria si ha $$\cos^2 \theta_2 + \sin^2 \theta_2 = 1$$ posso scrivere:
+Al numeratore raggruppo le parti reali e le parti immaginarie e poiché per la prima relazione fondamentale della trigonometria si ha $\cos^2 \theta_2 + \sin^2 \theta_2 = 1$ posso scrivere:
 
 $$
 \textcolor{blue}{\frac{\rho_1 [(\cos \theta_1 \cos \theta_2 + \sin \theta_1 \sin \theta_2) + i (\sin \theta_1 \cos \theta_2 - \cos \theta_1 \sin \theta_2)]}{\rho_2}}

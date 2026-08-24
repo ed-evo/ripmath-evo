@@ -1,9 +1,9 @@
 # Esercizi
 
-Ho la disequazione $$\textcolor{red}{x^2 - 5x + 6 > 0}$$
+Ho la disequazione $\textcolor{red}{x^2 - 5x + 6 > 0}$
 
 Considero l'equazione associata:
-$$\textcolor{blue}{x^2 - 5x + 6 = 0}$$
+$\textcolor{blue}{x^2 - 5x + 6 = 0}$
 
 Prendiamo la formula risolutiva:
 
@@ -12,9 +12,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -5}$$
-$$\textcolor{blue}{c = 6}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -5}$
+$\textcolor{blue}{c = 6}$
 
 Sostituiamo nella formula:
 
@@ -47,7 +47,7 @@ $$
 $$
 
 Ho quindi le due soluzioni:
-$$\textcolor{red}{x_1 = 2} \quad \textcolor{red}{x_2 = 3}$$
+$\textcolor{red}{x_1 = 2} \quad \textcolor{red}{x_2 = 3}$
 
-Essendo $$\textcolor{red}{x^2 - 5x + 6 > 0}$$, dovrò prendere i valori esterni all'intervallo delle radici, quindi:
-$$\textcolor{red}{x < 2 \cup x > 3}$$
+Essendo $\textcolor{red}{x^2 - 5x + 6 > 0}$, dovrò prendere i valori esterni all'intervallo delle radici, quindi:
+$\textcolor{red}{x < 2 \cup x > 3}$

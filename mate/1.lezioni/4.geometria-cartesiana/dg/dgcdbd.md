@@ -1,6 +1,6 @@
 # esercizio
 
-Trovare l'equazione della parabola con asse verticale che passa per i punti $$\textcolor{red}{A = (0, -4)}$$, $$\textcolor{red}{B = (3, -1)}$$ ed ha come asse la retta $$\textcolor{red}{x = 2}$$.
+Trovare l'equazione della parabola con asse verticale che passa per i punti $\textcolor{red}{A = (0, -4)}$, $\textcolor{red}{B = (3, -1)}$ ed ha come asse la retta $\textcolor{red}{x = 2}$.
 
 L'equazione generica della parabola con asse verticale è:
 
@@ -8,8 +8,8 @@ $$
 \textcolor{blue}{y = ax^2 + bx + c}
 $$
 
-- Condizione di passaggio per il punto $$\textcolor{blue}{A = (0, -4)}$$:
-  Sostituisco a $$x$$ il valore $$0$$ ed a $$y$$ il valore $$-4$$:
+- Condizione di passaggio per il punto $\textcolor{blue}{A = (0, -4)}$:
+  Sostituisco a $x$ il valore $0$ ed a $y$ il valore $-4$:
   $$
   \textcolor{blue}{-4 = a \cdot 0^2 + b \cdot 0 + c}
   $$
@@ -18,8 +18,8 @@ $$
   \textcolor{red}{c = -4}
   $$
 
-- Condizione di passaggio per il punto $$\textcolor{blue}{B = (3, -1)}$$:
-  Sostituisco a $$x$$ il valore $$3$$ ed a $$y$$ il valore $$-1$$:
+- Condizione di passaggio per il punto $\textcolor{blue}{B = (3, -1)}$:
+  Sostituisco a $x$ il valore $3$ ed a $y$ il valore $-1$:
   $$
   \textcolor{blue}{-1 = a \cdot 3^2 + b \cdot 3 + c}
   $$
@@ -28,7 +28,7 @@ $$
   \textcolor{red}{9a + 3b + c = -1}
   $$
 
-- L'asse vale $$\textcolor{red}{x = 2}$$.
+- L'asse vale $\textcolor{red}{x = 2}$.
   L'asse della generica parabola vale:
   $$
   \textcolor{blue}{x = -\frac{b}{2a}}
@@ -45,7 +45,7 @@ $$
   \textcolor{red}{4a + b = 0}
   $$
 
-Poiché le tre condizioni devono valere [contemporaneamente](../../a/ai/aia.html) facciamo il [sistema](../../a/ai/aibb.html) per trovare le incognite $$\textcolor{red}{a}$$, $$\textcolor{red}{b}$$ e $$\textcolor{red}{c}$$:
+Poiché le tre condizioni devono valere [contemporaneamente](../../a/ai/aia.html) facciamo il [sistema](../../a/ai/aibb.html) per trovare le incognite $\textcolor{red}{a}$, $\textcolor{red}{b}$ e $\textcolor{red}{c}$:
 
 $$
 \begin{cases}
@@ -55,7 +55,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore di $$c$$ ricavato dalla prima equazione nella seconda e terza equazione; al posto della prima equazione mettiamo una linea.
+Sostituisco il valore di $c$ ricavato dalla prima equazione nella seconda e terza equazione; al posto della prima equazione mettiamo una linea.
 
 > **Nota:** conviene farlo perché una volta usata un'equazione non devi più usarla sino alla soluzione altrimenti il sistema diventa indeterminato.
 
@@ -75,7 +75,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco $$b$$, ricavato dalla terza equazione, nella seconda:
+Sostituisco $b$, ricavato dalla terza equazione, nella seconda:
 
 $$
 \begin{cases}
@@ -101,7 +101,7 @@ $$
 \end{cases}
 $$
 
-Divido da entrambe le parti per $$-3$$ ed ottengo:
+Divido da entrambe le parti per $-3$ ed ottengo:
 
 $$
 \begin{cases}
@@ -111,7 +111,7 @@ $$
 \end{cases}
 $$
 
-Riscrivo la terza e vi sostituisco il valore di $$a$$:
+Riscrivo la terza e vi sostituisco il valore di $a$:
 
 $$
 \begin{cases}

@@ -5,7 +5,7 @@
 - Poligoni regolari circoscritti ad una circonferenza
 - Una prima determinazione della lunghezza della circonferenza
 - Lunghezza della circonferenza
-- Utilizzo del "numero" $$\pi$$
+- Utilizzo del "numero" $\pi$
 - Area del cerchio
 - Misura dell'arco di circonferenza
 - Radiante

@@ -1,6 +1,6 @@
 # [Coordinate del fuoco]{.text-red}
 
-Siccome nella parabola $$\textcolor{blue}{y = ax^2}$$
+Siccome nella parabola $\textcolor{blue}{y = ax^2}$
 il fuoco è nel punto
 
 $$
@@ -16,7 +16,7 @@ $$
 \end{cases}
 $$
 
-otterremo le coordinate del fuoco sostituendo $$0$$ ad $$X$$ e $$-\frac{1}{4a}$$ ad $$Y$$, quindi avremo
+otterremo le coordinate del fuoco sostituendo $0$ ad $X$ e $-\frac{1}{4a}$ ad $Y$, quindi avremo
 
 $$
 \textcolor{red}{F = \left( -\frac{b}{2a}, -\frac{1}{4a} - \frac{b^2 - 4ac}{4a} \right)}

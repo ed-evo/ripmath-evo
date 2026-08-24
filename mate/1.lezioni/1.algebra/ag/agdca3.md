@@ -1,6 +1,6 @@
 # Esercizio
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{x^2 - 6x + 9 \ge 0}
@@ -22,6 +22,6 @@ $$
 \textcolor{red}{x_{1,2} = \frac{6 \pm \sqrt{36 - 36}}{2} = 3}
 $$
 
-Il $$\Delta$$ è uguale a zero pertanto il polinomio è sempre positivo eccetto per il valore $$-b/2a = 3$$ per cui si annulla, ma qui devo anche considerare il valore per cui si annulla perché la disequazione è maggiore ed uguale a zero: quindi avremo
+Il $\Delta$ è uguale a zero pertanto il polinomio è sempre positivo eccetto per il valore $-b/2a = 3$ per cui si annulla, ma qui devo anche considerare il valore per cui si annulla perché la disequazione è maggiore ed uguale a zero: quindi avremo
 
-[Verificata per ogni valore di $$x$$]{.text-red}
+[Verificata per ogni valore di $x$]{.text-red}

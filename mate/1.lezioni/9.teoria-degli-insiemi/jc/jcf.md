@@ -1,11 +1,11 @@
 # Relazione transitiva
 
-Diciamo che la relazione $$\textcolor{red}{R}$$ su $$\textcolor{red}{A \times A}$$ è **transitiva** se ogni volta che si ha $$\textcolor{red}{aRb}$$ e $$\textcolor{red}{bRc}$$ allora segue che $$\textcolor{red}{aRc}$$.
+Diciamo che la relazione $\textcolor{red}{R}$ su $\textcolor{red}{A \times A}$ è **transitiva** se ogni volta che si ha $\textcolor{red}{aRb}$ e $\textcolor{red}{bRc}$ allora segue che $\textcolor{red}{aRc}$.
 
 > $$
 > \textcolor{red}{aRb} \text{ e } \textcolor{red}{bRc} \Rightarrow \textcolor{red}{aRc}
 > $$
-> Se $$\textcolor{red}{a}$$ è in relazione con $$\textcolor{red}{b}$$ e $$\textcolor{red}{b}$$ è in relazione con $$\textcolor{red}{c}$$ allora $$\textcolor{red}{a}$$ è in relazione con $$\textcolor{red}{c}$$.
+> Se $\textcolor{red}{a}$ è in relazione con $\textcolor{red}{b}$ e $\textcolor{red}{b}$ è in relazione con $\textcolor{red}{c}$ allora $\textcolor{red}{a}$ è in relazione con $\textcolor{red}{c}$.
 
 Vediamone alcuni esempi:
 

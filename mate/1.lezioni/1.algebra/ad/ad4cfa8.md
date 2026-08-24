@@ -1,17 +1,17 @@
 # Esercizio
 
 Calcolare la seguente potenza
-$$ (x - 2y)^6 = $$
+$(x - 2y)^6 =$
 
 Per la regola: so che le parti letterali sono
-$$\textcolor{red}{a^6}, \textcolor{red}{a^5b}, \textcolor{red}{a^4b^2}, \textcolor{red}{a^3b^3}, \textcolor{red}{a^2b^4}, \textcolor{red}{ab^5}, \textcolor{red}{b^6}$$
+$\textcolor{red}{a^6}, \textcolor{red}{a^5b}, \textcolor{red}{a^4b^2}, \textcolor{red}{a^3b^3}, \textcolor{red}{a^2b^4}, \textcolor{red}{ab^5}, \textcolor{red}{b^6}$
 so, dal triangolo di Tartaglia che i coefficienti sono
-$$1, 6, 15, 20, 15, 6, 1$$
+$1, 6, 15, 20, 15, 6, 1$
 quindi vale la regola
 $$
 (a+b)^6 = a^6 + 6a^5b + 15a^4b^2 + 20a^3b^3 + 15a^2b^4 + 6ab^5 + b^6
 $$
-al posto di $$\textcolor{red}{a}$$ ho $$\textcolor{red}{x}$$ ed al posto di $$\textcolor{red}{b}$$ ho $$\textcolor{red}{-2y}$$, quindi vado a sostituire nella regola.
+al posto di $\textcolor{red}{a}$ ho $\textcolor{red}{x}$ ed al posto di $\textcolor{red}{b}$ ho $\textcolor{red}{-2y}$, quindi vado a sostituire nella regola.
 
 $$
 (x-2y)^6 = [x+(-2y)]^6 =

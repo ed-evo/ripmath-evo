@@ -1,6 +1,6 @@
 # Applicazione alle forme indeterminate (regola di De L'Hôpital)
 
-Questa regola è molto utile e si può applicare a tutte le forme indeterminate del tipo $$0/0$$ ed $$\infty/\infty$$.
+Questa regola è molto utile e si può applicare a tutte le forme indeterminate del tipo $0/0$ ed $\infty/\infty$.
 
 ***
 
@@ -16,7 +16,7 @@ $$
 \textcolor{red}{= \lim_{x \to c} \frac{f'(x)}{g'(x)}}
 $$
 
-stessa cosa con $$0/0$$, d'altra parte lo zero è l'inverso di infinito.
+stessa cosa con $0/0$, d'altra parte lo zero è l'inverso di infinito.
 
 ***
 
@@ -26,11 +26,11 @@ $$
 \textcolor{red}{\lim_{x \to 2} \frac{x^2-4}{x-2} =}
 $$
 
-Tale limite si presenta nella forma $$0/0$$.
+Tale limite si presenta nella forma $0/0$.
 Sostituiamo al numeratore ed al denominatore le loro derivate:
 
-La derivata di $$\textcolor{red}{x^2-4}$$ è $$\textcolor{red}{2x}$$
-la derivata di $$\textcolor{red}{x-2}$$ è $$\textcolor{red}{1}$$
+La derivata di $\textcolor{red}{x^2-4}$ è $\textcolor{red}{2x}$
+la derivata di $\textcolor{red}{x-2}$ è $\textcolor{red}{1}$
 
 quindi posso calcolare
 

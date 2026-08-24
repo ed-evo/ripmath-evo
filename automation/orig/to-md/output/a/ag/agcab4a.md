@@ -1,7 +1,7 @@
 ## Scomponiamo i polinomi
 
-[$$x^2 - 5x + 6$$]{.text-blue}
-[$$x^2 - 4x - 5$$]{.text-blue}
+[$x^2 - 5x + 6$]{.text-blue}
+[$x^2 - 4x - 5$]{.text-blue}
 
 Facciamolo col metodo delle equazioni di secondo grado
 
@@ -10,7 +10,7 @@ Facciamolo col metodo delle equazioni di secondo grado
 Scomponiamo la prima:
 Consideriamo l'equazione associata:
 
-[$$x^2 - 5x + 6 = 0$$]{.text-blue}
+[$x^2 - 5x + 6 = 0$]{.text-blue}
 
 Trovo le soluzioni dell'equazione, quindi applico la decomposizione del trinomio usando la formula completa:
 
@@ -49,7 +49,7 @@ $$
 Scomponiamo la seconda:
 Consideriamo l'equazione associata:
 
-[$$x^2 - 4x - 5 = 0$$]{.text-blue}
+[$x^2 - 4x - 5 = 0$]{.text-blue}
 
 Trovo le soluzioni dell'equazione, quindi applico la decomposizione del trinomio usando la formula completa:
 

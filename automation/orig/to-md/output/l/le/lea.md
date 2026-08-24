@@ -4,11 +4,11 @@ Parleremo di variabili aleatorie discrete quando l'insieme dei valori possibili 
 
 > **Esempio:** nel lancio di una moneta ho due probabilità relative a due eventi diversi:
 >
-> testa con $$p_1 = 1/2$$
+> testa con $p_1 = 1/2$
 >
-> croce con $$p_2 = 1/2$$
+> croce con $p_2 = 1/2$
 >
-> quindi il lancio di una moneta ha un numero discreto ($$2$$) di probabilità.
+> quindi il lancio di una moneta ha un numero discreto ($2$) di probabilità.
 
 - [Variabile aleatoria](leaa.html)
 - [funzione di ripartizione](leab.html)

@@ -9,6 +9,6 @@ d. dipendenti dalla cotangente
 e. riepilogo
 f. [esercizi]{.text-red}
 
-> ricordo che nel triangolo rettangolo conosciamo a priori il valore di un angolo ($$90^\circ$$), quindi potremo risolvere il triangolo conoscendone semplicemente
+> ricordo che nel triangolo rettangolo conosciamo a priori il valore di un angolo ($90^\circ$), quindi potremo risolvere il triangolo conoscendone semplicemente
 > - un lato ed un angolo
 > - due lati

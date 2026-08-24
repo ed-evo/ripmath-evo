@@ -11,15 +11,15 @@ $$
 \end{cases}
 $$
 
-In entrambe le equazioni la $$x$$ e la $$y$$ devono avere lo stesso valore, allora posso ricavare da una delle due equazioni il valore della $$x$$ (o della $$y$$) e sostituirla alla $$x$$ (alla $$y$$) nell'altra equazione.
+In entrambe le equazioni la $x$ e la $y$ devono avere lo stesso valore, allora posso ricavare da una delle due equazioni il valore della $x$ (o della $y$) e sostituirla alla $x$ (alla $y$) nell'altra equazione.
 
 In questo modo ottengo un'equazione in una sola incognita che so risolvere.
 
-Sostituire $$x$$ o $$y$$ è indifferente e dipende dal sistema: nel nostro caso conviene ricavare la $$y$$ dalla seconda equazione e sostituirla nella prima.
+Sostituire $x$ o $y$ è indifferente e dipende dal sistema: nel nostro caso conviene ricavare la $y$ dalla seconda equazione e sostituirla nella prima.
 
 > Io farò tutti i passaggi; tu puoi abbreviare
 
-Isolo la $$y$$ nella seconda equazione
+Isolo la $y$ nella seconda equazione
 
 $$
 \begin{cases}
@@ -37,7 +37,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ nella prima equazione. Senza scrivere la seconda equazione si mette una linea per indicare che c'è
+Sostituisco il valore della $y$ nella prima equazione. Senza scrivere la seconda equazione si mette una linea per indicare che c'è
 
 $$
 \begin{cases}
@@ -73,7 +73,7 @@ $$
 \end{cases}
 $$
 
-Ricavo $$x$$ dividendo per $$11$$ prima e dopo l'uguale
+Ricavo $x$ dividendo per $11$ prima e dopo l'uguale
 
 $$
 \begin{cases}
@@ -91,7 +91,7 @@ $$
 \end{cases}
 $$
 
-Nell'equazione di sotto al posto di $$x$$ sostituisco il valore trovato
+Nell'equazione di sotto al posto di $x$ sostituisco il valore trovato
 
 $$
 \begin{cases}
@@ -116,7 +116,7 @@ $$
 
 ## Verifica
 
-Ora controllo se ho fatto giusto sostituendo nel sistema di partenza ad $$x$$ ed $$y$$ i valori trovati
+Ora controllo se ho fatto giusto sostituendo nel sistema di partenza ad $x$ ed $y$ i valori trovati
 
 $$
 \begin{cases}

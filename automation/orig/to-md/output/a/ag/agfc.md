@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{(x-2), \quad P(2) = 2^4 + 2^3 - 3 \cdot 2^2 - 4 \cdot 2 - 4 = 16 + 8 - 12 - 8 - 4 = 0}
 $$
 
-Quindi $$(x-2)$$ è un fattore: divido per $$(x-2)$$ effettuando la divisione di Ruffini:
+Quindi $(x-2)$ è un fattore: divido per $(x-2)$ effettuando la divisione di Ruffini:
 
 $$
 \begin{array}{c|rrrrr}
@@ -61,7 +61,7 @@ $$
 \textcolor{blue}{(x+2), \quad P(-2) = (-2)^3 + 3 \cdot (-2)^2 + 3 \cdot (-2) + 2 = -8 + 12 - 6 + 2 = 0}
 $$
 
-Quindi $$(x+2)$$ è un fattore; divido per $$(x+2)$$:
+Quindi $(x+2)$ è un fattore; divido per $(x+2)$:
 
 $$
 \begin{array}{c|rrrr}
@@ -82,7 +82,7 @@ Ora provo a scomporre l'ultimo fattore:
 
 > - Non è il quadrato di un binomio
 > - Non è un trinomio notevole
-> - Non si può scomporre con Ruffini (i fattori possibili sono $$+1$$ e $$-1$$, che abbiamo già provato)
+> - Non si può scomporre con Ruffini (i fattori possibili sono $+1$ e $-1$, che abbiamo già provato)
 
 L'ultimo fattore non è scomponibile.
 
@@ -115,13 +115,13 @@ $$
 
 Poniamo ogni fattore maggiore di zero:
 
-- $$\textcolor{blue}{x - 2 > 0 \implies x > 2}$$
-- $$\textcolor{blue}{x + 2 > 0 \implies x > -2}$$
-- $$\textcolor{blue}{x^2 + x + 1 > 0 \quad \text{(sempre verificato, } \Delta < 0)}$$
-- $$\textcolor{blue}{x + 3 > 0 \implies x > -3}$$
-- $$\textcolor{blue}{x^2 + 1 > 0 \quad \text{(sempre verificato, } \Delta < 0)}$$
+- $\textcolor{blue}{x - 2 > 0 \implies x > 2}$
+- $\textcolor{blue}{x + 2 > 0 \implies x > -2}$
+- $\textcolor{blue}{x^2 + x + 1 > 0 \quad \text{(sempre verificato, } \Delta < 0)}$
+- $\textcolor{blue}{x + 3 > 0 \implies x > -3}$
+- $\textcolor{blue}{x^2 + 1 > 0 \quad \text{(sempre verificato, } \Delta < 0)}$
 
-Riporto i risultati su un grafico indicando con un $$+$$ dove ogni disequazione è verificata e con un $$-$$ dove non è verificata, e calcolo i segni. Devo prendere gli intervalli dove il prodotto e il quoziente dei segni dei fattori (cioè il segno dell'espressione) risulta negativo.
+Riporto i risultati su un grafico indicando con un $+$ dove ogni disequazione è verificata e con un $-$ dove non è verificata, e calcolo i segni. Devo prendere gli intervalli dove il prodotto e il quoziente dei segni dei fattori (cioè il segno dell'espressione) risulta negativo.
 
 Ottengo come risultato:
 

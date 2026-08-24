@@ -12,12 +12,12 @@ $$
 
 Basta che una delle due proposizioni sia vera (anche entrambe) perché il risultato sia falso; o meglio, è vera solamente se entrambe le proposizioni componenti sono false.
 
-| $$p$$ | $$q$$ | $$p \lor q$$ | $$\overline{p \lor q}$$ |
+| $p$ | $q$ | $p \lor q$ | $\overline{p \lor q}$ |
 | :---: | :---: | :---: | :---: |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
 
 Mostriamo, con le tavole di verità, l'equivalenza delle due proposizioni:
 
@@ -27,11 +27,11 @@ $$
 \overline{p \lor q} \quad \text{e} \quad \bar{p} \land \bar{q}
 $$
 
-| $$p$$ | $$q$$ | $$p \lor q$$ | $$\overline{p \lor q}$$ | $$\bar{p}$$ | $$\bar{q}$$ | $$\bar{p} \land \bar{q}$$ |
+| $p$ | $q$ | $p \lor q$ | $\overline{p \lor q}$ | $\bar{p}$ | $\bar{q}$ | $\bar{p} \land \bar{q}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ |
 
 [se vuoi la pagina sulla disgiunzione inclusiva](kbc.html)

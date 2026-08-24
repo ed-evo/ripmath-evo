@@ -17,10 +17,10 @@ $$
 \end{cases}
 $$
 
-- la prima $$\textcolor{red}{x + 3 > 0}$$ è verificata per $$\textcolor{red}{x > -3}$$
-- la seconda $$\textcolor{red}{x - 4 < 0}$$ è verificata per $$\textcolor{red}{x < 4}$$
-- la terza $$\textcolor{red}{x^2 - 2x - 3 > 0}$$ è verificata per $$\textcolor{red}{x < -1 \cup x > 3}$$ [Calcoli](ageba.html)
-- la quarta $$\textcolor{red}{x^2 - 4 < 0}$$ è verificata per $$\textcolor{red}{-2 < x < 2}$$ [Calcoli](agebb.html)
+- la prima $\textcolor{red}{x + 3 > 0}$ è verificata per $\textcolor{red}{x > -3}$
+- la seconda $\textcolor{red}{x - 4 < 0}$ è verificata per $\textcolor{red}{x < 4}$
+- la terza $\textcolor{red}{x^2 - 2x - 3 > 0}$ è verificata per $\textcolor{red}{x < -1 \cup x > 3}$ [Calcoli](ageba.html)
+- la quarta $\textcolor{red}{x^2 - 4 < 0}$ è verificata per $\textcolor{red}{-2 < x < 2}$ [Calcoli](agebb.html)
 
 Quindi il mio sistema è equivalente al sistema
 

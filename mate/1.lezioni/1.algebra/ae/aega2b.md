@@ -8,8 +8,8 @@ $$
 
 Calcolo il minimo comune multiplo
 
-Nella prima parentesi $$\textcolor{red}{\text{m.c.m.} = (x - 1)(x + 1)}$$
-Nella seconda parentesi $$\textcolor{red}{\text{m.c.m.} = (x + 1)}$$
+Nella prima parentesi $\textcolor{red}{\text{m.c.m.} = (x - 1)(x + 1)}$
+Nella seconda parentesi $\textcolor{red}{\text{m.c.m.} = (x + 1)}$
 
 Eseguo l'operazione
 

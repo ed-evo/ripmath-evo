@@ -1,6 +1,6 @@
-# Forme indeterminate del tipo $$1^{\infty}$$ e $$\infty^0$$
+# Forme indeterminate del tipo $1^{\infty}$ e $\infty^0$
 
-È piuttosto raro che capiti di calcolare forme di questo genere (ho visto farlo solo in un liceo scientifico), però per risolverle basta ricordare che il logaritmo è funzione inversa dell'esponenziale e che valgono le seguenti uguaglianze (indico con $$\log x$$ il logaritmo naturale di $$x$$):
+È piuttosto raro che capiti di calcolare forme di questo genere (ho visto farlo solo in un liceo scientifico), però per risolverle basta ricordare che il logaritmo è funzione inversa dell'esponenziale e che valgono le seguenti uguaglianze (indico con $\log x$ il logaritmo naturale di $x$):
 
 $$
 \textcolor{red}{\lim_{x \to c} f(x)^{g(x)} =}
@@ -19,7 +19,7 @@ ed all'esponente avrò una delle forme già viste.
 
 ---
 
-Esempio: $$\textcolor{red}{\lim_{x \to \infty} (x^2)^{1/x} = \infty^0}$$
+Esempio: $\textcolor{red}{\lim_{x \to \infty} (x^2)^{1/x} = \infty^0}$
 
 Applichiamo la regola vista prima:
 
@@ -38,7 +38,7 @@ $$
 
 ---
 
-Con le uguaglianze scritte sopra possiamo anche (quasi) provare un'affermazione fatta sulle potenze: cioè che qualunque numero elevato a zero vale $$1$$, e quindi anche $$0^0 = 1$$ (e non è una forma indeterminata):
+Con le uguaglianze scritte sopra possiamo anche (quasi) provare un'affermazione fatta sulle potenze: cioè che qualunque numero elevato a zero vale $1$, e quindi anche $0^0 = 1$ (e non è una forma indeterminata):
 
 provate a calcolare il limite:
 
@@ -61,4 +61,4 @@ $$
 \textcolor{red}{= e^{\lim_{x \to 0} (\log x) / (1/x)} = e^0 = 1}
 $$
 
-> **Nota:** Il problema è che il logaritmo è definito solamente quando l'argomento è maggiore di zero, quindi il limite precedente effettivamente è un limite destro, mentre non posso fare il limite sinistro; inoltre la funzione $$\textcolor{red}{x^x}$$ è definita solo per valori positivi delle $$x$$ perché non possiamo considerare potenze con base negativa in quanto non hanno significato. Per questo ho messo quel quasi.
+> **Nota:** Il problema è che il logaritmo è definito solamente quando l'argomento è maggiore di zero, quindi il limite precedente effettivamente è un limite destro, mentre non posso fare il limite sinistro; inoltre la funzione $\textcolor{red}{x^x}$ è definita solo per valori positivi delle $x$ perché non possiamo considerare potenze con base negativa in quanto non hanno significato. Per questo ho messo quel quasi.

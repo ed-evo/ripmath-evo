@@ -11,7 +11,7 @@ $$
 }
 $$
 
-Risolviamo per sostituzione; ricavo $$y$$ dalla prima equazione
+Risolviamo per sostituzione; ricavo $y$ dalla prima equazione
 
 $$
 \textcolor{blue}{

@@ -1,6 +1,6 @@
-# Angolo di 72 gradi ($$2\pi / 5$$)
+# Angolo di 72 gradi ($2\pi / 5$)
 
-Per l'angolo di $$72^\circ$$ basta ricordare che a $$90^\circ$$ seno e coseno si scambiano di valore quindi avremo
+Per l'angolo di $72^\circ$ basta ricordare che a $90^\circ$ seno e coseno si scambiano di valore quindi avremo
 
 $$
 \textcolor{blue}{\text{sen } 72^\circ = \cos 18^\circ}

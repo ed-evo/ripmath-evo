@@ -1,4 +1,4 @@
-# Proprietà della parabola con asse parallelo all'asse $$y$$
+# Proprietà della parabola con asse parallelo all'asse $y$
 
 Consideriamo l'equazione
 

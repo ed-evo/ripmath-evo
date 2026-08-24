@@ -22,8 +22,8 @@ $$
 \textcolor{red}{\log y = -\int p(x) \, dx + k}
 $$
 
-con $$k$$ costante e $$\log y$$ logaritmo naturale di $$y$$
-per ricavare la $$y$$ applico l'esponenziale ad entrambi i membri
+con $k$ costante e $\log y$ logaritmo naturale di $y$
+per ricavare la $y$ applico l'esponenziale ad entrambi i membri
 
 $$
 \textcolor{red}{e^{\log y} = e^{-\int p(x) \, dx + k}}
@@ -36,10 +36,10 @@ $$
 $$
 
 ho usato la proprietà delle potenze per passare dalla somma degli esponenti al prodotto delle potenze
-e ponendo $$e^k = c$$ otteniamo la formula finale.
+e ponendo $e^k = c$ otteniamo la formula finale.
 
 $$
 \textcolor{red}{y = c e^{-\int p(x) \, dx}}
 $$
 
-> Non so se hai notato, ma abbiamo posto la costante uguale a $$k$$ in modo da poter usare $$c$$ nella formula finale: in matematica spesso si cerca di arrivare ad una formula finale con lettere prefissate ed in tal caso le lettere che servono prima del risultato finale contano poco e si usano solo per l'occasione
+> Non so se hai notato, ma abbiamo posto la costante uguale a $k$ in modo da poter usare $c$ nella formula finale: in matematica spesso si cerca di arrivare ad una formula finale con lettere prefissate ed in tal caso le lettere che servono prima del risultato finale contano poco e si usano solo per l'occasione

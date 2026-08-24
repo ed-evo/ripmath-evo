@@ -1,10 +1,10 @@
 # [Retta parallela ad una retta data e passante per un punto dato]{.text-red}
 
-Ho le coordinate di un punto $$\textcolor{blue}{A = (x_1, y_1)}$$ e l'equazione di una retta (non passante per il punto) $$\textcolor{blue}{y = m_1x + q}$$ voglio trovare l'equazione della retta passante per il punto e parallela alla retta data.
+Ho le coordinate di un punto $\textcolor{blue}{A = (x_1, y_1)}$ e l'equazione di una retta (non passante per il punto) $\textcolor{blue}{y = m_1x + q}$ voglio trovare l'equazione della retta passante per il punto e parallela alla retta data.
 
-Prima facciamo il fascio di rette che passa per il punto $$\textcolor{blue}{A = (x_1, y_1)}$$
-$$\textcolor{blue}{y - y_1 = m(x - x_1)}$$
-poi tra tutte queste scegliamo quella che ha lo stesso coefficiente angolare della retta $$\textcolor{blue}{y = m_1x + q}$$ cioè che ha la stessa $$\textcolor{blue}{m_1}$$.
+Prima facciamo il fascio di rette che passa per il punto $\textcolor{blue}{A = (x_1, y_1)}$
+$\textcolor{blue}{y - y_1 = m(x - x_1)}$
+poi tra tutte queste scegliamo quella che ha lo stesso coefficiente angolare della retta $\textcolor{blue}{y = m_1x + q}$ cioè che ha la stessa $\textcolor{blue}{m_1}$.
 
 Quindi la formula finale è:
 

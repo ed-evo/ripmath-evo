@@ -6,9 +6,9 @@ $$
 \textcolor{red}{\begin{cases} x + 3y - 6 = 6 - x \\ x - 2y = 7 - 2x - y \end{cases}}
 $$
 
-prima di risolvere il sistema devo metterlo in forma normale, cioè mettere i termini con la $$x$$ e con la $$y$$ prima dell'uguale e i termini noti dopo l'uguale.
+prima di risolvere il sistema devo metterlo in forma normale, cioè mettere i termini con la $x$ e con la $y$ prima dell'uguale e i termini noti dopo l'uguale.
 
-Porto le $$x$$ e $$y$$ prima dell'uguale e gli altri numeri dopo l'uguale
+Porto le $x$ e $y$ prima dell'uguale e gli altri numeri dopo l'uguale
 
 $$
 \textcolor{red}{\begin{cases} x + x + 3y = 6 + 6 \\ x + 2x - 2y + y = 7 \end{cases}}

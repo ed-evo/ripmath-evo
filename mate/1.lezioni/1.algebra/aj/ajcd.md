@@ -63,16 +63,16 @@ $$
 \end{vmatrix}}
 $$
 
-> **Nota:** Ho messo il segno più perché il $$2$$ ha posto $$_{4,2}$$ (quarta riga seconda colonna) quindi posto pari.
+> **Nota:** Ho messo il segno più perché il $2$ ha posto $_{4,2}$ (quarta riga seconda colonna) quindi posto pari.
 
 ***
 
-Ora dovremmo sviluppare: nei determinanti di ordine $$3$$ di solito non conviene semplificare, conviene calcolare immediatamente o con il [metodo di Sarrus](../ai/aibbbd.html) o con il metodo normale.
+Ora dovremmo sviluppare: nei determinanti di ordine $3$ di solito non conviene semplificare, conviene calcolare immediatamente o con il [metodo di Sarrus](../ai/aibbbd.html) o con il metodo normale.
 Comunque essendo questo un esercizio procediamo a semplificare.
 
 ***
 
-Dalla seconda riga [sottraggo la terza moltiplicata per $$2$$](ajcda.html), poi sviluppo lungo la seconda riga ed ottengo
+Dalla seconda riga [sottraggo la terza moltiplicata per $2$](ajcda.html), poi sviluppo lungo la seconda riga ed ottengo
 
 $$
 \textcolor{red}{\begin{vmatrix}
@@ -94,7 +94,7 @@ $$
 \end{vmatrix})}
 $$
 
-> **Nota:** Ho messo il segno più perché il $$2$$ ha posto $$_{2,2}$$ (seconda riga seconda colonna) quindi posto pari.
+> **Nota:** Ho messo il segno più perché il $2$ ha posto $_{2,2}$ (seconda riga seconda colonna) quindi posto pari.
 > Potevo anche sottrarre la terza colonna dalla seconda, come vedi ci sono tante possibilità; un buon numero di esercizi ti consentirà di trovare sempre la strada migliore.
 
 $$

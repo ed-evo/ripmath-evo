@@ -15,6 +15,6 @@ Se ti è sufficiente la formula, senza tutto il ragionamento, te la scrivo qui s
 > 4\pi r^2
 > $$
 
-**L'area della superficie di una sfera equivale a $$4$$ volte l'area del suo cerchio massimo**
+**L'area della superficie di una sfera equivale a $4$ volte l'area del suo cerchio massimo**
 
 > **Nota:** cerchio massimo = uno dei cerchi della superficie sferica con centro il centro della sfera

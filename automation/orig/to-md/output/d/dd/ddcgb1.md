@@ -5,9 +5,9 @@ $$
 applico la formula risolutiva
 
 i coefficienti sono
-- [$$1^\circ \text{ coeff.} = 1$$]{.text-blue}
-- [$$2^\circ \text{ coeff.} = -8$$]{.text-blue}
-- [$$3^\circ \text{ coeff.} = 16$$]{.text-blue}
+- [$1^\circ \text{ coeff.} = 1$]{.text-blue}
+- [$2^\circ \text{ coeff.} = -8$]{.text-blue}
+- [$3^\circ \text{ coeff.} = 16$]{.text-blue}
 
 $$
 \textcolor{blue}{a_{1,2} = \frac{-(-8) \pm \sqrt{(-8)^2 - 4(1)(16)}}{2(1)}}

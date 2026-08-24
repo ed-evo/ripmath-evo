@@ -1,6 +1,6 @@
 # [Sistemi simmetrici]{.text-red}
 
-Diremo che un sistema è simmetrico se quando scambiamo fra loro le $$x$$ e le $$y$$ il sistema non cambia.
+Diremo che un sistema è simmetrico se quando scambiamo fra loro le $x$ e le $y$ il sistema non cambia.
 
 Sono ad esempio simmetrici i sistemi:
 

@@ -1,4 +1,4 @@
-Calcoliamo solo il numeratore perché il denominatore è già calcolato e vale $$-1$$
+Calcoliamo solo il numeratore perché il denominatore è già calcolato e vale $-1$
 
 $$
 \textcolor{red}{\begin{vmatrix} 1 & 1 & 2 \\ 0 & 1 & 3 \\ 0 & 1 & 2-t \end{vmatrix}}

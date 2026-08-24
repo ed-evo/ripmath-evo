@@ -6,14 +6,14 @@ $$
 \textcolor{red}{\cos(2x) = 2\cos^2(x) - 1}
 $$
 
-poniamo $$2x = \alpha$$ e quindi $$x = \frac{\alpha}{2}$$
+poniamo $2x = \alpha$ e quindi $x = \frac{\alpha}{2}$
 Otteniamo
 
 $$
 \textcolor{red}{\cos \alpha = 2\cos^2\left(\frac{\alpha}{2}\right) - 1}
 $$
 
-Devo ricavare $$\cos\left(\frac{\alpha}{2}\right)$$
+Devo ricavare $\cos\left(\frac{\alpha}{2}\right)$
 
 $$
 \textcolor{red}{2\cos^2\left(\frac{\alpha}{2}\right) = 1 + \cos \alpha}

@@ -12,11 +12,11 @@ $$
 \textcolor{blue}{\begin{cases} x^2 - 4x + 3 > 0 \\ x^2 + x + 1 > 0 \\ x + 4 > 0 \\ x - 2 > 0 \\ x^2 + 9 > 0 \end{cases}}
 $$
 
-- la prima $$\textcolor{blue}{x^2 - 4x + 3 > 0}$$ è verificata per $$\textcolor{blue}{x < 1 \cup x > 3}$$ (Calcoli)
-- la seconda $$\textcolor{blue}{x^2 + x + 1 > 0}$$ è sempre verificata (Calcoli)
-- la terza $$\textcolor{blue}{x + 4 > 0}$$ è verificata per $$\textcolor{blue}{x > -4}$$
-- la quarta $$\textcolor{blue}{x - 2 > 0}$$ è verificata per $$\textcolor{blue}{x > 2}$$
-- la quinta $$\textcolor{blue}{x^2 + 9 > 0}$$ è sempre verificata (Calcoli)
+- la prima $\textcolor{blue}{x^2 - 4x + 3 > 0}$ è verificata per $\textcolor{blue}{x < 1 \cup x > 3}$ (Calcoli)
+- la seconda $\textcolor{blue}{x^2 + x + 1 > 0}$ è sempre verificata (Calcoli)
+- la terza $\textcolor{blue}{x + 4 > 0}$ è verificata per $\textcolor{blue}{x > -4}$
+- la quarta $\textcolor{blue}{x - 2 > 0}$ è verificata per $\textcolor{blue}{x > 2}$
+- la quinta $\textcolor{blue}{x^2 + 9 > 0}$ è sempre verificata (Calcoli)
 
 Quindi il mio sistema è equivalente al sistema:
 

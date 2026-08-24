@@ -10,7 +10,7 @@ $$
 \textcolor{red}{1 : 2 = 3 : 6}
 $$
 
-$$1$$ e $$3$$ sono gli antecedenti e $$2$$ e $$6$$ sono i loro conseguenti
+$1$ e $3$ sono gli antecedenti e $2$ e $6$ sono i loro conseguenti
 
 avremo valida anche la proporzione
 

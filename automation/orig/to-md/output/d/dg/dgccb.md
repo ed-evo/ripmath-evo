@@ -8,9 +8,9 @@ $$
 
 vediamo che dipende da tre parametri indipendenti
 
-$$\textcolor{blue}{a}$$ $$\textcolor{blue}{b}$$ $$\textcolor{blue}{c}$$
+$\textcolor{blue}{a}$ $\textcolor{blue}{b}$ $\textcolor{blue}{c}$
 
-pertanto per determinarne l'equazione dovremo considerare $$3$$ condizioni scelte fra le seguenti:
+pertanto per determinarne l'equazione dovremo considerare $3$ condizioni scelte fra le seguenti:
 
 - passaggio per un punto
 - tangenza ad una retta

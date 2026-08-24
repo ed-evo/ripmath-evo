@@ -1,7 +1,7 @@
 # [Delta del polinomio uguale a zero]{.text-red}
 
 Se il discriminante dell'equazione è uguale a zero allora ho due soluzioni
-$$\textcolor{red}{x_1 = x_2}$$ reali e coincidenti
+$\textcolor{red}{x_1 = x_2}$ reali e coincidenti
 e in questo caso la decomposizione del trinomio diventerà
 $$
 \textcolor{red}{ax^2 + bx + c = a(x - x_1)(x - x_1) = a(x - x_1)^2}
@@ -14,9 +14,9 @@ Quindi avremo:
 
 Se il delta è uguale a zero il trinomio è positivo per tutti i valori eccetto il valore per cui si annulla.
 
-Quando il delta vale zero le soluzioni dell'equazione di secondo grado valgono $$-b/2a$$.
+Quando il delta vale zero le soluzioni dell'equazione di secondo grado valgono $-b/2a$.
 
-**Caso: $$\textcolor{blue}{\Delta = 0}$$ e $$\textcolor{blue}{a > 0}$$**
+**Caso: $\textcolor{blue}{\Delta = 0}$ e $\textcolor{blue}{a > 0}$**
 
-- Per $$\textcolor{blue}{ax^2 + bx + c > 0}$$: [tutti i valori eccetto $$-b/2a$$ per cui si annulla]{.text-red}
-- Per $$\textcolor{blue}{ax^2 + bx + c < 0}$$: [nessun valore]{.text-red}
+- Per $\textcolor{blue}{ax^2 + bx + c > 0}$: [tutti i valori eccetto $-b/2a$ per cui si annulla]{.text-red}
+- Per $\textcolor{blue}{ax^2 + bx + c < 0}$: [nessun valore]{.text-red}

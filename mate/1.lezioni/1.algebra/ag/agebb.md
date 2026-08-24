@@ -20,9 +20,9 @@ $$
 $$
 
 Ho quindi le due soluzioni
-$$\textcolor{red}{x_1 = -2}$$ $$\textcolor{red}{x_2 = 2}$$
+$\textcolor{red}{x_1 = -2}$ $\textcolor{red}{x_2 = 2}$
 
-Essendo $$\textcolor{red}{x^2 - 4 < 0}$$ dovrò prendere i valori interni all'intervallo delle radici, quindi
+Essendo $\textcolor{red}{x^2 - 4 < 0}$ dovrò prendere i valori interni all'intervallo delle radici, quindi
 $$
 \textcolor{red}{-2 < x < 2}
 $$

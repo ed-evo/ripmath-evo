@@ -6,7 +6,7 @@ Le espressioni sono il banco di prova delle nozioni che hai sin qui apprese: se 
 
 > Per risolverle occorre tenere presenti alcune semplici regole:
 > 
-> quando si rovescia una frazione occorre rovesciare sempre a livello del simbolo vicino ($$ + - \cdot : = $$)
+> quando si rovescia una frazione occorre rovesciare sempre a livello del simbolo vicino ($+ - \cdot : =$)
 > 
 > ad esempio, se ho:
 > 
@@ -32,7 +32,7 @@ Le espressioni sono il banco di prova delle nozioni che hai sin qui apprese: se 
 > \textcolor{red}{\frac{3}{1} \cdot \frac{5}{4} = \frac{15}{4}}
 > $$
 
-Altra regola da tener presente è che per contenere le espressioni nella pagina si può sostituire il segno diviso ($$ : $$) con una linea di frazione cioè invece di
+Altra regola da tener presente è che per contenere le espressioni nella pagina si può sostituire il segno diviso ($:$) con una linea di frazione cioè invece di
 
 $$
 \textcolor{red}{\left[ \frac{x}{x+3} + \frac{x^2+4x+4}{(x+3)^2} \right] : \left[ \frac{2x}{x+2} + \frac{x^2-9}{x^2+4x+4} \right]}

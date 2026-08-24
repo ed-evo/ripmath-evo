@@ -6,7 +6,7 @@ $$
 \textcolor{red}{x^2+6x+8 +ax+4a=}
 $$
 
-Raggruppo i primi tre termini e fra il quarto ed il quinto raccolgo $$\textcolor{red}{a}$$
+Raggruppo i primi tre termini e fra il quarto ed il quinto raccolgo $\textcolor{red}{a}$
 
 $$
 \textcolor{red}{=(x^2 + 6x+8) +a(x+4)=}

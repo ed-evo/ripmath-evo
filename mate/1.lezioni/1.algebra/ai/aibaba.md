@@ -6,9 +6,9 @@ $$
 \begin{cases} \textcolor{red}{x + y = 3} \\ \textcolor{red}{x - y = 1} \end{cases}
 $$
 
-[La somma di due numeri è $$3$$ e la loro differenza è $$1$$]{.text-red}
+[La somma di due numeri è $3$ e la loro differenza è $1$]{.text-red}
 
-Con un po' di logica dico che i numeri sono $$2$$ e $$1$$: infatti $$2 + 1 = 3$$ e $$2 - 1 = 1$$ e le due equazioni sono compatibili.
+Con un po' di logica dico che i numeri sono $2$ e $1$: infatti $2 + 1 = 3$ e $2 - 1 = 1$ e le due equazioni sono compatibili.
 
 Il risultato è:
 

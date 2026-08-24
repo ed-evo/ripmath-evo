@@ -2,9 +2,9 @@
 
 È una relazione tra il seno e il coseno con la tangente.
 
-Consideriamo una circonferenza trigonometrica (cioè di raggio $$\textcolor{red}{1}$$) e su di essa prendiamo un punto $$\textcolor{red}{P}$$ cui corrisponda l'angolo $$\alpha$$.
-Consideriamo la tangente corrispondente $$\textcolor{red}{AT}$$.
-I triangoli $$\textcolor{red}{OAT}$$ ed $$\textcolor{red}{OHP}$$ sono simili per il primo criterio di similitudine (2 angoli uguali: uno in comune e l'altro retto), quindi posso scrivere la proporzione:
+Consideriamo una circonferenza trigonometrica (cioè di raggio $\textcolor{red}{1}$) e su di essa prendiamo un punto $\textcolor{red}{P}$ cui corrisponda l'angolo $\alpha$.
+Consideriamo la tangente corrispondente $\textcolor{red}{AT}$.
+I triangoli $\textcolor{red}{OAT}$ ed $\textcolor{red}{OHP}$ sono simili per il primo criterio di similitudine (2 angoli uguali: uno in comune e l'altro retto), quindi posso scrivere la proporzione:
 
 $$
 \textcolor{red}{AT : PH = AO : OH}

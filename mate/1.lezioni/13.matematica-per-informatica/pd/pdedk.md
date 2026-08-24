@@ -1,6 +1,6 @@
 # Contro-indipendenza inversa
 
-È la contro-indipendenza inversa $$à$$
+È la contro-indipendenza inversa $à$
 
 Corrisponde alla [contro-indipendenza inversa in logica](../../k/kb/kblak.html)
 
@@ -10,7 +10,7 @@ $$
 à = àb' + àb
 $$
 
-> **Dimostrazione:** Per dimostrarlo algebricamente basta moltiplicare per $$(b' + b) = 1$$ e, per la [prima legge del complemento](../pc/pcd.html), otteniamo:
+> **Dimostrazione:** Per dimostrarlo algebricamente basta moltiplicare per $(b' + b) = 1$ e, per la [prima legge del complemento](../pc/pcd.html), otteniamo:
 >
 > $$
 > à = à (b' + b) = àb' + àb =

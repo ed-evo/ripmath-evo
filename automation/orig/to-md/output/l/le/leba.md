@@ -4,10 +4,10 @@ Esistono vari tipi di problemi in cui l'insieme dei valori possibili è continuo
 
 Esempi:
 - **la probabilità di caduta di un satellite su una zona dell'Europa**
-  So solamente che cadrà in una certa zona con probabilità $$p$$, ma non posso indicare un punto o un numero finito di punti in cui può cadere.
+  So solamente che cadrà in una certa zona con probabilità $p$, ma non posso indicare un punto o un numero finito di punti in cui può cadere.
 - **l'usura di un cilindro ruotante in un meccanismo**
   Posso indicare il raggio massimo ed il raggio minimo che mi permette di usarlo, ma non posso suddividere la differenza dei raggi in un numero finito di punti.
-- **La probabilità di morire di una persona di sesso maschile di $$50$$ anni da oggi al $$2070$$**
+- **La probabilità di morire di una persona di sesso maschile di $50$ anni da oggi al $2070$**
   Serve per calcolare le tabelle assicurative, ma non posso indicare il valore preciso della probabilità di morte istante per istante.
 
 Quelli sopra sono tutti esempi di probabilità continua; in alcuni casi si può ovviare, come nel caso delle assicurazioni, dividendo l'intervallo in anni, però è un'approssimazione: la probabilità di morte di una persona a gennaio sarà diversa dalla probabilità per la stessa persona a dicembre dello stesso anno.
@@ -17,7 +17,7 @@ Allora dovrò sostituire al concetto di punto il solito concetto di intervallo p
 Se considero un intervallo, anche se infinitesimo, allora per esso potrò parlare della probabilità di impatto con l'oggetto che cade.
 
 Per sapere come comportarci intuitivamente riferiamoci ad un esempio classico:
-**lanciando una moneta ho due possibilità: o testa o croce entrambe con probabilità $$p = \frac{1}{2}$$**
+**lanciando una moneta ho due possibilità: o testa o croce entrambe con probabilità $p = \frac{1}{2}$**
 Abbiamo già studiato questo caso e visto la distribuzione di questo fenomeno (vedi l'esempio).
 Se aumentiamo il numero delle prove avremo che al posto dei rettangoli avremo dei rettangoli sempre più snelli sino ad arrivare a basi infinitesime e quindi ad avere, per i valori delle probabilità, una curva indistinguibile da una curva continua.
 

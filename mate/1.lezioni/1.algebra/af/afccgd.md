@@ -5,16 +5,16 @@ Come esercizi sono molto semplici quindi ci limiteremo a quattro casi diversi
 
 #### esercizio 1
 
-$$\textcolor{blue}{x_1 = 3}$$ $$\textcolor{blue}{x_2 = 4}$$ [soluzione](afccgda.html)
+$\textcolor{blue}{x_1 = 3}$ $\textcolor{blue}{x_2 = 4}$ [soluzione](afccgda.html)
 
 #### esercizio 2
 
-$$\textcolor{blue}{x_1 = 3}$$ $$\textcolor{blue}{x_2 = -2}$$ [soluzione](afccgdb.html)
+$\textcolor{blue}{x_1 = 3}$ $\textcolor{blue}{x_2 = -2}$ [soluzione](afccgdb.html)
 
 #### esercizio 3
 
-$$\textcolor{blue}{x_1 = \sqrt{3}}$$ $$\textcolor{blue}{x_2 = 2\sqrt{3}}$$ [soluzione](afccgdc.html)
+$\textcolor{blue}{x_1 = \sqrt{3}}$ $\textcolor{blue}{x_2 = 2\sqrt{3}}$ [soluzione](afccgdc.html)
 
 #### esercizio 4
 
-$$\textcolor{blue}{x_1 = b - a}$$ $$\textcolor{blue}{x_2 = -b}$$ [soluzione](afccgdd.html)
+$\textcolor{blue}{x_1 = b - a}$ $\textcolor{blue}{x_2 = -b}$ [soluzione](afccgdd.html)

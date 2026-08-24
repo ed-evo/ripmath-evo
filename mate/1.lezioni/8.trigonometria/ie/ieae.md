@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\frac{a}{\sin \alpha} = \frac{b}{\sin \beta} = \frac{c}{\sin \gamma} = 2r}
 $$
 
-e quindi ricavando $$r$$ avremo le formule
+e quindi ricavando $r$ avremo le formule
 
 $$
 \textcolor{blue}{r = \frac{a}{2 \sin \alpha}}

@@ -1,5 +1,5 @@
 Risolviamo l'equazione
-[$$x^2 + x - 20 = 0$$]{.text-red}
+[$x^2 + x - 20 = 0$]{.text-red}
 applichiamo la formula
 
 $$
@@ -7,9 +7,9 @@ $$
 $$
 
 Abbiamo:
-[$$a = 1$$]{.text-blue}
-[$$b = 1$$]{.text-blue}
-[$$c = -20$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = 1$]{.text-blue}
+[$c = -20$]{.text-blue}
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-1 \pm \sqrt{1^2 - 4(1)(-20)}}{2}}
@@ -38,4 +38,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-[$$x_1 = -5$$]{.text-red} [$$x_2 = 4$$]{.text-red}
+[$x_1 = -5$]{.text-red} [$x_2 = 4$]{.text-red}

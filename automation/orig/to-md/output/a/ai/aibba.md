@@ -1,4 +1,4 @@
-## [Sistema di $$3$$ equazioni a tre incognite: metodo di sostituzione]{.text-red}
+## [Sistema di $3$ equazioni a tre incognite: metodo di sostituzione]{.text-red}
 
 Si tratta di adattare il metodo di sostituzione già visto per il sistema di due equazioni a due incognite.
 Sceglieremo un'equazione per ricavare una incognita e sostituiremo il suo valore nelle altre due equazioni; in questo modo avremo due equazioni in due incognite e procederemo come già visto.
@@ -15,7 +15,7 @@ $$
 \end{cases}
 $$
 
-Ricavo la $$z$$ dalla prima equazione e sostituisco nella seconda e nella terza (posso ricavare chi mi pare):
+Ricavo la $z$ dalla prima equazione e sostituisco nella seconda e nella terza (posso ricavare chi mi pare):
 
 $$
 \begin{cases}
@@ -46,7 +46,7 @@ $$
 $$
 
 Da notare che ho un sistema di due equazioni in due incognite.
-Ora ricavo la $$x$$ dalla terza equazione:
+Ora ricavo la $x$ dalla terza equazione:
 
 $$
 \begin{cases}
@@ -56,7 +56,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$x$$ trovato nella seconda equazione:
+Sostituisco il valore della $x$ trovato nella seconda equazione:
 
 $$
 \begin{cases

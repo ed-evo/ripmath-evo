@@ -12,9 +12,9 @@ I vertici dei poligoni si chiamano **Vertici** del poliedro
 
 Il tipo di poliedro è individuato dal numero di facce della superficie poliedrica:
 
-- **Tetraedro**: poliedro con $$4$$ facce
-- **Pentaedro**: poliedro con $$5$$ facce
-- **Esaedro**: poliedro con $$6$$ facce
-- **Icosaedro**: poliedro con $$20$$ facce
+- **Tetraedro**: poliedro con $4$ facce
+- **Pentaedro**: poliedro con $5$ facce
+- **Esaedro**: poliedro con $6$ facce
+- **Icosaedro**: poliedro con $20$ facce
 
 > **Nota:** A lato un esaedro. I lati nascosti dietro la figura sono tratteggiati.

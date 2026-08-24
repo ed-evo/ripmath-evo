@@ -11,8 +11,8 @@ $$
 $$
 
 [Sviluppo secondo la prima colonna]{.text-red}
-Il primo termine della colonna ha posto $$a_{1,1}$$, cioè prima riga e prima colonna, quindi è di posto pari ($$1+1=2$$) e quindi mantiene il segno.
-Il quinto termine della prima colonna ha posto $$a_{5,1}$$, cioè quinta riga e prima colonna, quindi è di posto pari ($$5+1=6$$) e quindi mantiene il segno.
+Il primo termine della colonna ha posto $a_{1,1}$, cioè prima riga e prima colonna, quindi è di posto pari ($1+1=2$) e quindi mantiene il segno.
+Il quinto termine della prima colonna ha posto $a_{5,1}$, cioè quinta riga e prima colonna, quindi è di posto pari ($5+1=6$) e quindi mantiene il segno.
 Dove c'è zero non devo sviluppare perché zero per numero uguale zero.
 
 $$
@@ -48,7 +48,7 @@ $$
 \end{vmatrix} =
 $$
 
-Sviluppo secondo la prima colonna perché ho solo un termine diverso da zero; il termine ha posto $$1,1$$, cioè prima riga e prima colonna ($$1+1=2$$), posto pari.
+Sviluppo secondo la prima colonna perché ho solo un termine diverso da zero; il termine ha posto $1,1$, cioè prima riga e prima colonna ($1+1=2$), posto pari.
 
 $$
 \begin{vmatrix}
@@ -85,7 +85,7 @@ $$
 \end{vmatrix} =
 $$
 
-Sviluppo secondo la prima colonna. Il primo termine (prima riga prima colonna) ha posto $$1+1=2$$ pari, il secondo termine (seconda riga prima colonna) ha posto $$2+1=3$$ dispari.
+Sviluppo secondo la prima colonna. Il primo termine (prima riga prima colonna) ha posto $1+1=2$ pari, il secondo termine (seconda riga prima colonna) ha posto $2+1=3$ dispari.
 
 $$
 \begin{vmatrix}

@@ -20,7 +20,7 @@ $$
 3 \cdot 1 = 1 \cdot 3 = 3
 $$
 
-- **Esistenza dell'elemento inverso** (qui però siamo nell'insieme $$\mathbb{Q}$$ dei numeri Razionali)
+- **Esistenza dell'elemento inverso** (qui però siamo nell'insieme $\mathbb{Q}$ dei numeri Razionali)
 Dire che esiste l'elemento inverso significa che esiste un elemento che moltiplicato ad un altro ha come risultato l'elemento neutro (l'uno): esempio
 $$
 3 \cdot \frac{1}{3} = \frac{1}{3} \cdot 3 = 1

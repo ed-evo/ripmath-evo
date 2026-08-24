@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{\frac{4 + \sqrt{9}}{2} + \frac{4 - \sqrt{9}}{2} =}
 $$
 
-Estraggo la radice essendo $$9 = 3^2$$
+Estraggo la radice essendo $9 = 3^2$
 
 $$
 \textcolor{blue}{\frac{4 + 3}{2} + \frac{4 - 3}{2} =}

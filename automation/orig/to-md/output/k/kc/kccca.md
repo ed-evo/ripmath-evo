@@ -3,7 +3,7 @@
 Mediante la teoria degli insiemi, è possibile mostrare la verità o meno del giudizio particolare affermativo:
 
 Partiamo dal nostro giudizio:
-**Esiste un $$x$$ tale che $$x$$ è un uomo ed $$x$$ ha $$90$$ anni**
+**Esiste un $x$ tale che $x$ è un uomo ed $x$ ha $90$ anni**
 
 Considero gli insiemi:
 
@@ -21,7 +21,7 @@ $$
 \textcolor{red}{\exists x, P(x) \land Q(x)}
 $$
 
-implica che l'intersezione fra gli insiemi $$P(x)$$ e $$Q(x)$$ non è vuota
+implica che l'intersezione fra gli insiemi $P(x)$ e $Q(x)$ non è vuota
 
 $$
 \textcolor{red}{P(x) \cap Q(x) \neq \emptyset}

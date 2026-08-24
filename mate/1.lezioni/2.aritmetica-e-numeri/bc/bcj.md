@@ -1,4 +1,4 @@
-# Esistenza di numeri non razionali e necessità di ampliare l'insieme $$Q$$
+# Esistenza di numeri non razionali e necessità di ampliare l'insieme $Q$
 
 Sin dai primordi i numeri razionali furono usati per misurare, ma già dal quinto secolo avanti Cristo ci si accorse che esistevano grandezze la cui misura non poteva essere rappresentata da un numero razionale:
 

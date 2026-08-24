@@ -1,8 +1,8 @@
 # Forma trigonometrica dei numeri complessi
 
-Considero il numero complesso $$\textcolor{red}{a + ib}$$
+Considero il numero complesso $\textcolor{red}{a + ib}$
 
-Sul piano complesso posso tracciare una circonferenza con raggio la distanza del numero complesso dall'origine: in tal modo i numeri $$a$$ e $$b$$ sono [proporzionali](bebcb1.html) al seno e al coseno dell'angolo $$\Theta$$ formato dall'asse delle $$x$$ e dal segmento che congiunge il numero complesso con l'origine.
+Sul piano complesso posso tracciare una circonferenza con raggio la distanza del numero complesso dall'origine: in tal modo i numeri $a$ e $b$ sono [proporzionali](bebcb1.html) al seno e al coseno dell'angolo $\Theta$ formato dall'asse delle $x$ e dal segmento che congiunge il numero complesso con l'origine.
 
 Valgono le relazioni:
 

@@ -11,7 +11,7 @@ $$
 \textcolor{blue}{\begin{cases} xy = 15 \\ (x+y)^2 - 2xy = 34 \end{cases}}
 $$
 
-Sostituisco il valore di $$xy$$ dalla prima equazione nella seconda:
+Sostituisco il valore di $xy$ dalla prima equazione nella seconda:
 
 $$
 \textcolor{blue}{\begin{cases} xy = 15 \\ (x+y)^2 - 2(15) = 34 \end{cases}}
@@ -31,7 +31,7 @@ $$
 \textcolor{blue}{\begin{cases} xy = 15 \\ (x+y)^2 = 64 \end{cases}}
 $$
 
-Adesso, siccome ho $$(x+y)^2$$, posso fare la radice per trovare $$(x+y)$$ ed, siccome le radici di $$64$$ sono $$-8$$ e $$+8$$, ottengo i due sistemi equivalenti al sistema di partenza:
+Adesso, siccome ho $(x+y)^2$, posso fare la radice per trovare $(x+y)$ ed, siccome le radici di $64$ sono $-8$ e $+8$, ottengo i due sistemi equivalenti al sistema di partenza:
 
 $$
 \textcolor{red}{\begin{cases} xy = 15 \\ x + y = -8 \end{cases}} \quad \textcolor{red}{\begin{cases} xy = 15 \\ x + y = 8 \end{cases}}
@@ -97,7 +97,7 @@ $$
 
 ***
 
-Raccogliendo ho le $$4$$ soluzioni:
+Raccogliendo ho le $4$ soluzioni:
 
 $$
 \textcolor{red}{\begin{cases} x_1 = -3 \\ y_1 = -5 \end{cases}} \quad \textcolor{red}{\begin{cases} x_2 = -5 \\ y_2 = -3 \end{cases}} \quad \textcolor{red}{\begin{cases} x_3 = 3 \\ y_3 = 5 \end{cases}} \quad \textcolor{red}{\begin{cases} x_4 = 5 \\ y_4 = 3 \end{cases}}

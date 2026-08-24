@@ -17,7 +17,7 @@ $$
 \textcolor{red}{(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3}
 $$
 
-Possiamo subito osservare che tutti i risultati sono [polinomi ordinati](ad1c.html) secondo la potenza decrescente della lettera $$\textcolor{red}{a}$$ e secondo la potenza crescente della lettera $$\textcolor{red}{b}$$, sono anche [completi](ad1d.html) ed infine la potenza del primo termine corrisponde alla potenza del binomio; quindi se devo calcolare:
+Possiamo subito osservare che tutti i risultati sono [polinomi ordinati](ad1c.html) secondo la potenza decrescente della lettera $\textcolor{red}{a}$ e secondo la potenza crescente della lettera $\textcolor{red}{b}$, sono anche [completi](ad1d.html) ed infine la potenza del primo termine corrisponde alla potenza del binomio; quindi se devo calcolare:
 
 $$
 \textcolor{red}{(a+b)^4 =}
@@ -98,7 +98,7 @@ $$
 \textcolor{red}{(a+b)^4 = a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4}
 $$
 
-al posto di $$\textcolor{red}{a}$$ ho $$\textcolor{red}{2x}$$ ed al posto di $$\textcolor{red}{b}$$ ho $$\textcolor{red}{3y}$$, quindi vado a sostituire:
+al posto di $\textcolor{red}{a}$ ho $\textcolor{red}{2x}$ ed al posto di $\textcolor{red}{b}$ ho $\textcolor{red}{3y}$, quindi vado a sostituire:
 
 $$
 \textcolor{red}{(2x+3y)^4 = (2x)^4 + 4(2x)^3(3y) + 6(2x)^2(3y)^2 + 4(2x)(3y)^3 + (3y)^4}
@@ -116,9 +116,9 @@ $$
 
 Fai i seguenti esercizi poi confronta con quelli che ho sviluppato io:
 
-- $$\textcolor{red}{(x-2y)^4 =}$$ [soluzione](ad4cfa4.html)
-- $$\textcolor{red}{(2x+y)^5 =}$$ [soluzione](ad4cfa5.html)
-- $$\textcolor{red}{(3x-y)^5 =}$$ [soluzione](ad4cfa6.html)
-- $$\textcolor{red}{(2a^2-3b)^5 =}$$ [soluzione](ad4cfa7.html)
-- $$\textcolor{red}{(x-2y)^6 =}$$ [soluzione](ad4cfa8.html)
-- $$\textcolor{red}{(2x^2+y^3)^6 =}$$ [soluzione](ad4cfa9.html)
+- $\textcolor{red}{(x-2y)^4 =}$ [soluzione](ad4cfa4.html)
+- $\textcolor{red}{(2x+y)^5 =}$ [soluzione](ad4cfa5.html)
+- $\textcolor{red}{(3x-y)^5 =}$ [soluzione](ad4cfa6.html)
+- $\textcolor{red}{(2a^2-3b)^5 =}$ [soluzione](ad4cfa7.html)
+- $\textcolor{red}{(x-2y)^6 =}$ [soluzione](ad4cfa8.html)
+- $\textcolor{red}{(2x^2+y^3)^6 =}$ [soluzione](ad4cfa9.html)

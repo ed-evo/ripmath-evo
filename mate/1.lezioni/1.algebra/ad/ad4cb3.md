@@ -1,6 +1,6 @@
 # COME FACEVANO I GRECI A CALCOLARE IL QUADRATO DELLA SOMMA DI DUE ENTI
 
-Semplice: i Greci lavoravano solo con la geometria, quindi invece dei monomi usavano i segmenti: osserva quest'illustrazione: Il lato del quadrato grosso è ottenuto sommando i due segmenti $$a$$ e $$b$$, quindi vale $$a+b$$ ed è composto da un quadrato di lato $$a$$, da un quadrato di lato $$b$$ e da $$2$$ rettangoli di area $$ab$$, quindi
+Semplice: i Greci lavoravano solo con la geometria, quindi invece dei monomi usavano i segmenti: osserva quest'illustrazione: Il lato del quadrato grosso è ottenuto sommando i due segmenti $a$ e $b$, quindi vale $a+b$ ed è composto da un quadrato di lato $a$, da un quadrato di lato $b$ e da $2$ rettangoli di area $ab$, quindi
 
 $$
 \textcolor{red}{(a+b)^2=a^2+2ab+b^2}

@@ -1,6 +1,6 @@
 # [Cambiamento di segno e verso nelle disequazioni]{.text-red}
 
-Consideriamo la retta reale: su di essa possiamo sempre fissare un verso per cui i numeri a destra sono sempre superiori ai numeri a sinistra. Consideriamo ora due numeri qualunque, ad esempio $$2$$ e $$5$$.
+Consideriamo la retta reale: su di essa possiamo sempre fissare un verso per cui i numeri a destra sono sempre superiori ai numeri a sinistra. Consideriamo ora due numeri qualunque, ad esempio $2$ e $5$.
 
 e la disuguaglianza corrispondente
 
@@ -8,7 +8,7 @@ $$
 \textcolor{red}{2 < 5}
 $$
 
-Se moltiplico per $$-1$$ ottengo i due valori $$-2$$ e $$-5$$ che nella retta reale sono
+Se moltiplico per $-1$ ottengo i due valori $-2$ e $-5$ che nella retta reale sono
 
 e la disuguaglianza corrispondente è
 

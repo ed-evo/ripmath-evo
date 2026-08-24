@@ -2,24 +2,24 @@
 
 qui non diamo la definizione mediante prodotto cartesiano perché piuttosto complicata
 
-Diciamo che la relazione $$R$$ su $$A \times A$$ è **antisimmetrica** se ogni volta che si ha $$\textcolor{red}{aRb}$$ e $$\textcolor{red}{bRa}$$ ne segue che $$\textcolor{red}{a=b}$$.
+Diciamo che la relazione $R$ su $A \times A$ è **antisimmetrica** se ogni volta che si ha $\textcolor{red}{aRb}$ e $\textcolor{red}{bRa}$ ne segue che $\textcolor{red}{a=b}$.
 
-Qualcuno preferisce dire, in modo equivalente, che per $$\textcolor{red}{a \neq b}$$, $$\textcolor{red}{aRb}$$ esclude $$\textcolor{red}{bRa}$$.
+Qualcuno preferisce dire, in modo equivalente, che per $\textcolor{red}{a \neq b}$, $\textcolor{red}{aRb}$ esclude $\textcolor{red}{bRa}$.
 
 > $$
 > \textcolor{red}{aRb \text{ e } bRa \implies a=b}
 > $$
-> Se $$a$$ in relazione con $$b$$ e $$b$$ in relazione con $$a$$ allora $$a=b$$
+> Se $a$ in relazione con $b$ e $b$ in relazione con $a$ allora $a=b$
 >
 > oppure
 >
 > $$
 > \textcolor{red}{a \neq b \implies aRb \iff \neg bRa}
 > $$
-> Se $$a$$ è diverso da $$b$$ allora $$a$$ in relazione con $$b$$ esclude $$b$$ in relazione con $$a$$
+> Se $a$ è diverso da $b$ allora $a$ in relazione con $b$ esclude $b$ in relazione con $a$
 >
 > leggendo termine a termine:
-> $$a$$ diverso da $$b$$ implica che $$a$$ è in relazione con $$b$$ se e solo se $$b$$ non è in relazione con $$a$$.
+> $a$ diverso da $b$ implica che $a$ è in relazione con $b$ se e solo se $b$ non è in relazione con $a$.
 
 Vediamone un esempio:
 

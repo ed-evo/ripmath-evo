@@ -32,7 +32,7 @@ $$
 \textcolor{red}{2\sqrt{x(x+1)} = 2\sqrt{2x}}
 $$
 
-Divido per $$2$$ da entrambe le parti e moltiplico dentro radice.
+Divido per $2$ da entrambe le parti e moltiplico dentro radice.
 
 > **Nota:** Siccome quasi sempre è possibile semplificare, per rendere più semplici i calcoli è necessario appena possibile semplificare i termini.
 
@@ -60,20 +60,20 @@ $$
 \textcolor{red}{x^2 - x = 0}
 $$
 
-È un'equazione spuria: raccolgo la $$x$$:
+È un'equazione spuria: raccolgo la $x$:
 
 $$
 \textcolor{red}{x(x - 1) = 0}
 $$
 
 Ottengo le soluzioni:
-- $$\textcolor{red}{x = 0}$$
-- $$\textcolor{red}{x - 1 = 0 \quad x = 1}$$
+- $\textcolor{red}{x = 0}$
+- $\textcolor{red}{x - 1 = 0 \quad x = 1}$
 
 Ora devo verificare se le soluzioni vanno bene nell'equazione di partenza o sono dovute all'elevamento a quadrato.
 
-- [Verifica per $$x = 0$${.text-purple}]
-Sostituisco nell'equazione iniziale alla $$x$$ il valore $$0$$:
+- [Verifica per $x = 0${.text-purple}]
+Sostituisco nell'equazione iniziale alla $x$ il valore $0$:
 
 $$
 \textcolor{red}{\sqrt{0+1} + \sqrt{0} = \sqrt{2 \cdot 0 + 1}}
@@ -83,10 +83,10 @@ $$
 \textcolor{red}{1 = 1}
 $$
 
-Avendo ottenuto un'uguaglianza la soluzione $$x=0$$ è accettabile.
+Avendo ottenuto un'uguaglianza la soluzione $x=0$ è accettabile.
 
-- [Verifica per $$x = 1$${.text-purple}]
-Sostituisco nell'equazione iniziale alla $$x$$ il valore $$1$$:
+- [Verifica per $x = 1${.text-purple}]
+Sostituisco nell'equazione iniziale alla $x$ il valore $1$:
 
 $$
 \textcolor{red}{\sqrt{1+1} + \sqrt{1} = \sqrt{2 \cdot 1 + 1}}
@@ -96,4 +96,4 @@ $$
 \textcolor{red}{\sqrt{2} + 1 = \sqrt{2} + 1}
 $$
 
-Essendo questa un'uguaglianza valida anche la soluzione $$x=1$$ è accettabile.
+Essendo questa un'uguaglianza valida anche la soluzione $x=1$ è accettabile.

@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\cos 2x = 1 - 2\text{sen}^2 x}
 $$
 
-poniamo $$\textcolor{red}{2x = \alpha}$$ e quindi $$\textcolor{red}{x = \frac{\alpha}{2}}$$
+poniamo $\textcolor{red}{2x = \alpha}$ e quindi $\textcolor{red}{x = \frac{\alpha}{2}}$
 
 Otteniamo
 
@@ -14,7 +14,7 @@ $$
 \textcolor{red}{\cos \alpha = 1 - 2\text{sen}^2 \frac{\alpha}{2}}
 $$
 
-Devo ricavare $$\text{sen} \frac{\alpha}{2}$$
+Devo ricavare $\text{sen} \frac{\alpha}{2}$
 
 $$
 \textcolor{red}{2\text{sen}^2 \frac{\alpha}{2} = 1 - \cos \alpha}

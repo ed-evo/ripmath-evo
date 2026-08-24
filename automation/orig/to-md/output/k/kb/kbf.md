@@ -7,37 +7,37 @@
 > "Ho più di due braccia"
 > "Le rose sono blu"
 
-L'implicazione materiale (**se..., allora**) è un'operazione di composizione binaria che si applica su due proposizioni $$p, q$$ restituendo la proposizione $$r$$ nel seguente modo:
+L'implicazione materiale (**se..., allora**) è un'operazione di composizione binaria che si applica su due proposizioni $p, q$ restituendo la proposizione $r$ nel seguente modo:
 
 $$
 r = \text{se } p \text{ allora } q
 $$
 
-Si usa anche il simbolo $$\rightarrow$$ e restituisce i seguenti valori di verità:
+Si usa anche il simbolo $\rightarrow$ e restituisce i seguenti valori di verità:
 
-| $$p$$ | $$q$$ | $$p \rightarrow q$$ |
+| $p$ | $q$ | $p \rightarrow q$ |
 | :---: | :---: | :---: |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ |
 
 Cioè la proposizione composta è falsa solo se la prima è vera e la seconda è falsa.
 
 > Quindi non sottolineiamo nessun nesso di causa-effetto nelle parole **se ... allora** ma semplicemente un collegamento dato dalle tavole di verità.
 
 Ritornando all'esempio preso sopra per esercizio vediamo la tavola di verità per due proposizioni:
-- $$p$$ = ["Non ho più di due braccia"]{.text-red}
-- $$q$$ = ["Le rose non sono blu"]{.text-red}
+- $p$ = ["Non ho più di due braccia"]{.text-red}
+- $q$ = ["Le rose non sono blu"]{.text-red}
 
 - "Se non ho più di due braccia allora le rose non sono blu"
-  È la prima riga della tabella $$v \rightarrow v = v$$
+  È la prima riga della tabella $v \rightarrow v = v$
 - "Se non ho più di due braccia allora le rose sono blu"
-  È la seconda riga della tabella $$v \rightarrow f = f$$
+  È la seconda riga della tabella $v \rightarrow f = f$
 - "Se ho più di due braccia allora le rose non sono blu"
-  È la terza riga della tabella $$f \rightarrow v = v$$
+  È la terza riga della tabella $f \rightarrow v = v$
 - "Se ho più di due braccia allora le rose sono blu"
-  È la quarta riga della tabella $$f \rightarrow f = v$$
+  È la quarta riga della tabella $f \rightarrow f = v$
 
 Come vedi è un po' difficile trovarvi un po' di senso comune.
 

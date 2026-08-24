@@ -18,8 +18,8 @@ $$
 
 Adesso devo vedere se hanno fattori comuni il primo numeratore con il secondo denominatore ed il primo denominatore con il secondo numeratore (brevemente si dice **in croce**):
 
-- Devo semplificare $$200$$ con $$560$$: sono entrambe semplificabili per $$10$$, quindi ottengo $$20$$ e $$56$$. Questi due numeri sono ancora divisibili per $$4$$, quindi ottengo $$5$$ e $$14$$.
-- Devo semplificare $$63$$ e $$81$$: sono entrambe semplificabili per $$9$$, quindi ottengo $$9$$ e $$7$$.
+- Devo semplificare $200$ con $560$: sono entrambe semplificabili per $10$, quindi ottengo $20$ e $56$. Questi due numeri sono ancora divisibili per $4$, quindi ottengo $5$ e $14$.
+- Devo semplificare $63$ e $81$: sono entrambe semplificabili per $9$, quindi ottengo $9$ e $7$.
 
 $$
 \frac{200}{63} \cdot \frac{81}{560} = \frac{20}{7} \cdot \frac{9}{56} = \frac{5}{7} \cdot \frac{9}{14} = \frac{45}{98}

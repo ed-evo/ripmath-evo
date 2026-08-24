@@ -1,6 +1,6 @@
 # Volume di una sfera
 
-Ora passiamo a dimostrare la formula per trovare il volume di una sfera di raggio $$r$$
+Ora passiamo a dimostrare la formula per trovare il volume di una sfera di raggio $r$
 
 - [Definizione di anticlessidra](gkeca.html)
 - [Equiestensione sfera-anticlessidra](gkeca.html)

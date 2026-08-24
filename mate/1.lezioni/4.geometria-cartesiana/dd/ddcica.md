@@ -7,7 +7,7 @@ $$
 x^2 + y^2 + ax + by + k = 0
 $$
 
-Infatti al variare di $$k$$ varia il raggio della circonferenza mentre non variano le coordinate del centro.
+Infatti al variare di $k$ varia il raggio della circonferenza mentre non variano le coordinate del centro.
 
 ---
 
@@ -28,8 +28,8 @@ $$
 x^2 + y^2 = r^2
 $$
 
-Essendo $$r$$ il raggio della circonferenza.
+Essendo $r$ il raggio della circonferenza.
 
-> **Nota:** Da notare, nella prima equazione, che, per la realtà della circonferenza (condizione sul raggio), il termine $$k$$ può assumere solamente valori negativi $$-\infty < k < 0$$.
+> **Nota:** Da notare, nella prima equazione, che, per la realtà della circonferenza (condizione sul raggio), il termine $k$ può assumere solamente valori negativi $-\infty < k < 0$.
 
 ---

@@ -9,12 +9,12 @@ $$
 \textcolor{red}{ax^2 + bx + c}
 $$
 
-Per determinarne il segno consideriamo sempre il caso in cui $$\textcolor{red}{a > 0}$$.
+Per determinarne il segno consideriamo sempre il caso in cui $\textcolor{red}{a > 0}$.
 
-> **Nota:** Se fosse $$a$$ minore di zero basterebbe moltiplicare tutto per $$-1$$ e in tal caso ricorda di cambiare il verso alla disequazione.
+> **Nota:** Se fosse $a$ minore di zero basterebbe moltiplicare tutto per $-1$ e in tal caso ricorda di cambiare il verso alla disequazione.
 
 Distinguiamo i tre casi:
 
-- $$\Delta$$ del polinomio maggiore di zero
-- $$\Delta$$ del polinomio uguale a zero
-- $$\Delta$$ del polinomio minore di zero
+- $\Delta$ del polinomio maggiore di zero
+- $\Delta$ del polinomio uguale a zero
+- $\Delta$ del polinomio minore di zero

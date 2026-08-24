@@ -31,13 +31,13 @@ $$
 \textcolor{blue}{x_{1,2} = \frac{-2 \pm \sqrt{324}}{16}}
 $$
 
-Estraggo $$\textcolor{blue}{4}$$ dal radicale ed ottengo $$\textcolor{blue}{2}$$ fuori
+Estraggo $\textcolor{blue}{4}$ dal radicale ed ottengo $\textcolor{blue}{2}$ fuori
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-2 \pm 2\sqrt{81}}{16}}
 $$
 
-Raccolgo il $$\textcolor{blue}{2}$$ sopra
+Raccolgo il $\textcolor{blue}{2}$ sopra
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{2(-1 \pm \sqrt{81})}{16}}

@@ -6,7 +6,7 @@ L'uomo ha sempre costruito macchine per poter far fare ad esse il lavoro che lui
 
 Facendo il punto della situazione ora è come se tu avessi studiato le parole di un vocabolario, perché servano a qualcosa si devono mettere insieme per costruire le frasi di un linguaggio, le prime [frasi](../ah/ahb.html) che costruiremo saranno le equazioni; vedrai che una volta capito il nuovo linguaggio potrai risolvere velocemente e facilmente molti problemi che prima sembravano difficili tipo questo:
 
-> Un mattone pesa $$1$$ chilo più $$\frac{1}{2}$$ mattone, quanto pesa un mattone?
+> Un mattone pesa $1$ chilo più $\frac{1}{2}$ mattone, quanto pesa un mattone?
 
 Ragionando è possibile arrivare alla soluzione ma ci vuole un certo sforzo mentale.
 

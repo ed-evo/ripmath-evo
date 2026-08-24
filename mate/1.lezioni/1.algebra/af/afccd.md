@@ -8,8 +8,8 @@ $$
 
 che ho già risolto; le sue radici sono:
 
-- $$\textcolor{red}{x_1 = 2}$$
-- $$\textcolor{red}{x_2 = 3}$$
+- $\textcolor{red}{x_1 = 2}$
+- $\textcolor{red}{x_2 = 3}$
 
 Viene da chiedersi se è possibile stabilire una relazione fra le radici ed i coefficienti: infatti, con la formula risolutiva, dati i coefficienti trovi le radici.
 

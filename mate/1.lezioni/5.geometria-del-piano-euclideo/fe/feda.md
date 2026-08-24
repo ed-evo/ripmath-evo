@@ -4,41 +4,41 @@ So che il triangolo è isoscele e ne considero l'altezza, dimostro che allora è
 
 1. So che il triangolo è isoscele e ne considero l'altezza.
 
-> **Ipotesi:** $$AB=AC$$, $$ABC=ACB$$, $$AHB=AHC=\text{angolo retto}$$
-> **Tesi:** $$BH=HC$$, $$AHB=AHC$$
+> **Ipotesi:** $AB=AC$, $ABC=ACB$, $AHB=AHC=\text{angolo retto}$
+> **Tesi:** $BH=HC$, $AHB=AHC$
 >
 > **Dimostrazione:**
-> Dimostriamo prima che è mediana: essendo $$AH$$ l'altezza $$BH$$ e $$HC$$ sono le proiezioni di due segmenti $$AB$$ e $$AC$$ congruenti per ipotesi e quindi sono congruenti $$BH$$ ed $$HC$$ (teoremi precedenti sulle proiezioni).
+> Dimostriamo prima che è mediana: essendo $AH$ l'altezza $BH$ e $HC$ sono le proiezioni di due segmenti $AB$ e $AC$ congruenti per ipotesi e quindi sono congruenti $BH$ ed $HC$ (teoremi precedenti sulle proiezioni).
 >
-> Dimostriamo che è bisettrice: considero i triangoli $$ABH$$ ed $$AHC$$ essi hanno:
-> - $$AB=AC$$ per ipotesi
-> - $$BH=HC$$ perché appena dimostrato
-> - $$AH$$ in comune
+> Dimostriamo che è bisettrice: considero i triangoli $ABH$ ed $AHC$ essi hanno:
+> - $AB=AC$ per ipotesi
+> - $BH=HC$ perché appena dimostrato
+> - $AH$ in comune
 >
-> Quindi i due triangoli sono congruenti per il terzo criterio ed in particolare avremo gli angoli $$AHB$$ ed $$AHC$$ congruenti fra loro.
+> Quindi i due triangoli sono congruenti per il terzo criterio ed in particolare avremo gli angoli $AHB$ ed $AHC$ congruenti fra loro.
 
 2. So che il triangolo è isoscele e ne considero la mediana.
 
-> **Ipotesi:** $$AB=AC$$, $$ABC=ACB$$, $$AH=HC$$
-> **Tesi:** $$BAH=CAH$$, $$AHB=AHC$$
+> **Ipotesi:** $AB=AC$, $ABC=ACB$, $AH=HC$
+> **Tesi:** $BAH=CAH$, $AHB=AHC$
 >
 > **Dimostrazione:**
-> Considero i triangoli $$AHB$$ ed $$AHC$$ essi hanno:
-> - $$AB=AC$$ per ipotesi
-> - $$AH$$ è in comune
-> - $$BH=HC$$ sempre per ipotesi
+> Considero i triangoli $AHB$ ed $AHC$ essi hanno:
+> - $AB=AC$ per ipotesi
+> - $AH$ è in comune
+> - $BH=HC$ sempre per ipotesi
 >
-> Per il terzo criterio i due triangoli sono congruenti ed in particolare avremo gli angoli $$BAH=CAH$$ ed anche gli angoli $$AHB=AHC$$ che quindi saranno retti.
+> Per il terzo criterio i due triangoli sono congruenti ed in particolare avremo gli angoli $BAH=CAH$ ed anche gli angoli $AHB=AHC$ che quindi saranno retti.
 
 3. So che il triangolo è isoscele e ne considero la bisettrice.
 
-> **Ipotesi:** $$AB=AC$$, $$ABC=ACB$$, $$AHB=AHC$$
-> **Tesi:** $$BAH=CAH$$, $$AH=HC$$
+> **Ipotesi:** $AB=AC$, $ABC=ACB$, $AHB=AHC$
+> **Tesi:** $BAH=CAH$, $AH=HC$
 >
 > **Dimostrazione:**
-> Considero i triangoli $$AHB$$ ed $$AHC$$ essi hanno:
-> - $$AB=AC$$ per ipotesi
-> - gli angoli $$ABC=ACB$$ sempre per ipotesi
-> - gli angoli $$AHB=AHC$$ ancora per ipotesi
+> Considero i triangoli $AHB$ ed $AHC$ essi hanno:
+> - $AB=AC$ per ipotesi
+> - gli angoli $ABC=ACB$ sempre per ipotesi
+> - gli angoli $AHB=AHC$ ancora per ipotesi
 >
-> Per il secondo criterio i due triangoli sono congruenti ed in particolare sarà $$BH=CH$$ ed anche gli angoli $$AHB=AHC$$ che quindi saranno retti.
+> Per il secondo criterio i due triangoli sono congruenti ed in particolare sarà $BH=CH$ ed anche gli angoli $AHB=AHC$ che quindi saranno retti.

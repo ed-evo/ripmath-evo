@@ -8,4 +8,4 @@ Se poi smetto di erogare corrente al solenoide allora il campo magnetico sparisc
 
 Abbiamo quindi un circuito che serve da interruttore per far passare od interrompere il passaggio di corrente in un filo.
 
-Basandoci su questo fatto in futuro indicheremo in questo modo un circuito in cui passi corrente (chiuso $$1$$) e in cui non passi la corrente (aperto $$0$$).
+Basandoci su questo fatto in futuro indicheremo in questo modo un circuito in cui passi corrente (chiuso $1$) e in cui non passi la corrente (aperto $0$).

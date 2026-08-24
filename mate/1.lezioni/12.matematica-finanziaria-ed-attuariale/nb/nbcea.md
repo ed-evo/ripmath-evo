@@ -1,7 +1,7 @@
 ## calcoli
 
 Ho
-$$S = Vit$$
+$S = Vit$
 
 So che vale
 

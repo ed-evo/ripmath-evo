@@ -9,9 +9,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -7}$$
-$$\textcolor{blue}{c = 12}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -7}$
+$\textcolor{blue}{c = 12}$
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-7) \pm \sqrt{(-7)^2 - 4(1)(12)}}{2(1)}}
@@ -40,4 +40,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-$$\textcolor{red}{z_1 = 3} \quad \textcolor{red}{z_2 = 4}$$
+$\textcolor{red}{z_1 = 3} \quad \textcolor{red}{z_2 = 4}$

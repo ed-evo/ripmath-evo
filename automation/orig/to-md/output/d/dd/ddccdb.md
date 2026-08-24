@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{x^2 + 3y^2 + 2x + 4y + 6 = 0}
 $$
 
-I termini al quadrato $$x^2$$ e $$y^2$$ non hanno lo stesso coefficiente quindi non è una circonferenza.
+I termini al quadrato $x^2$ e $y^2$ non hanno lo stesso coefficiente quindi non è una circonferenza.
 
 > Per curiosità vediamo di quale tipo di conica si tratta: confrontando con l'equazione generale di una conica
 >

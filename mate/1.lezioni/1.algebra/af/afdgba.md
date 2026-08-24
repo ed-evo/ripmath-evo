@@ -7,13 +7,13 @@ $$
 \textcolor{blue}{ax^4 + bx^3 + cx^2 + bx + a = 0}
 $$
 
-Per risolvere un'equazione di questo genere prima dividiamo tutti i termini dell'equazione per $$x^2$$
+Per risolvere un'equazione di questo genere prima dividiamo tutti i termini dell'equazione per $x^2$
 
 $$
 \textcolor{blue}{ax^2 + bx + c + \frac{b}{x} + \frac{a}{x^2} = 0}
 $$
 
-Raccolgo poi i coefficienti uguali $$\textcolor{blue}{a}$$ e $$\textcolor{blue}{b}$$
+Raccolgo poi i coefficienti uguali $\textcolor{blue}{a}$ e $\textcolor{blue}{b}$
 
 $$
 \textcolor{blue}{a(x^2 + \frac{1}{x^2}) + b(x + \frac{1}{x}) + c = 0}
@@ -25,13 +25,13 @@ $$
 \textcolor{red}{x + \frac{1}{x} = y} \quad \text{e quindi} \quad \textcolor{red}{x^2 + \frac{1}{x^2} = y^2 - 2}
 $$
 
-otterremo quindi un'equazione di secondo grado in $$y$$ che risolveremo normalmente ottenendo per $$y$$ due valori $$y_1$$ e $$y_2$$. Successivamente risolveremo le due equazioni (di secondo grado)
+otterremo quindi un'equazione di secondo grado in $y$ che risolveremo normalmente ottenendo per $y$ due valori $y_1$ e $y_2$. Successivamente risolveremo le due equazioni (di secondo grado)
 
 $$
 \textcolor{blue}{x + \frac{1}{x} = y_1} \qquad \textcolor{blue}{x + \frac{1}{x} = y_2}
 $$
 
-ottenendo per la $$x$$ i quattro valori delle soluzioni.
+ottenendo per la $x$ i quattro valori delle soluzioni.
 
 È più facile risolverle praticamente che in teoria: vediamo un esempio:
 
@@ -41,13 +41,13 @@ $$
 \textcolor{red}{6x^4 - 5x^3 - 38x^2 - 5x + 6 = 0}
 $$
 
-divido tutti i termini per $$\textcolor{blue}{x^2}$$
+divido tutti i termini per $\textcolor{blue}{x^2}$
 
 $$
 \textcolor{blue}{6x^2 - 5x - 38 - \frac{5}{x} + \frac{6}{x^2} = 0}
 $$
 
-Raccolgo poi i coefficienti uguali $$\textcolor{blue}{6}$$ e $$\textcolor{blue}{-5}$$
+Raccolgo poi i coefficienti uguali $\textcolor{blue}{6}$ e $\textcolor{blue}{-5}$
 
 $$
 \textcolor{blue}{6(x^2 + \frac{1}{x^2}) - 5(x + \frac{1}{x}) - 38 = 0}
@@ -83,7 +83,7 @@ $$
 \textcolor{blue}{x + \frac{1}{x} = -\frac{5}{2}} \qquad \textcolor{blue}{x + \frac{1}{x} = \frac{10}{3}}
 $$
 
-- Risolvo la prima: il minimo comune multiplo è $$2x$$ che è certamente diverso da zero
+- Risolvo la prima: il minimo comune multiplo è $2x$ che è certamente diverso da zero
 
 $$
 \textcolor{blue}{\frac{2x^2 + 2}{2x} = \frac{-5x}{2x}}
@@ -98,7 +98,7 @@ $$
 \end{aligned}
 $$
 
-> **Nota:** è un'equazione reciproca: il primo e l'ultimo termine hanno lo stesso coefficiente $$2$$.
+> **Nota:** è un'equazione reciproca: il primo e l'ultimo termine hanno lo stesso coefficiente $2$.
 
 che ha come soluzioni (calcoli)
 
@@ -108,7 +108,7 @@ $$
 \textcolor{blue}{x_1 = -2} \qquad \textcolor{blue}{x_2 = -\frac{1}{2}}
 $$
 
-- Risolvo la seconda: il minimo comune multiplo è $$3x$$ che è certamente diverso da zero
+- Risolvo la seconda: il minimo comune multiplo è $3x$ che è certamente diverso da zero
 
 $$
 \textcolor{blue}{\frac{3x^2 + 3}{3x} = \frac{10x}{3x}}
@@ -123,7 +123,7 @@ $$
 \end{aligned}
 $$
 
-> **Nota:** è un'equazione reciproca: il primo e l'ultimo termine hanno lo stesso coefficiente $$3$$.
+> **Nota:** è un'equazione reciproca: il primo e l'ultimo termine hanno lo stesso coefficiente $3$.
 
 che ha come soluzioni (calcoli)
 
@@ -133,7 +133,7 @@ $$
 \textcolor{blue}{x_1 = \frac{1}{3}} \qquad \textcolor{blue}{x_2 = 3}
 $$
 
-ottenendo per la $$x$$ i quattro valori delle soluzioni
+ottenendo per la $x$ i quattro valori delle soluzioni
 
 $$
 \textcolor{red}{x_1 = -2} \qquad \textcolor{red}{x_2 = -\frac{1}{2}} \qquad \textcolor{red}{x_3 = \frac{1}{3}} \qquad \textcolor{red}{x_4 = 3}

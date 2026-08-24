@@ -26,26 +26,26 @@
 > \textcolor{blue}{AB : A'B' = BC : B'C'}
 > $$
 
-Trasporto il triangolo $$B'A'C'$$ sul triangolo $$BAC$$ in modo che l'angolo $$A'$$ coincida con l'angolo $$A$$, in questo modo il lato $$A'B'$$ va sopra $$AB$$ ed il lato $$A'C'$$ va sopra $$AC$$.
+Trasporto il triangolo $B'A'C'$ sul triangolo $BAC$ in modo che l'angolo $A'$ coincida con l'angolo $A$, in questo modo il lato $A'B'$ va sopra $AB$ ed il lato $A'C'$ va sopra $AC$.
 
-Traccio per $$A$$ la retta parallela alla retta $$B'C'$$; siccome vale
+Traccio per $A$ la retta parallela alla retta $B'C'$; siccome vale
 
 $$
 AB : A'B' = AC : A'C'
 $$
 
-per il teorema inverso del teorema di Talete la retta $$BC$$ è parallela alla retta $$B'C'$$, ed avremo:
+per il teorema inverso del teorema di Talete la retta $BC$ è parallela alla retta $B'C'$, ed avremo:
 
 $$
 \widehat{BCA} = \widehat{B'C'A'}
 $$
 
-perché angoli corrispondenti rispetto alle rette parallele $$B'C'$$ e $$BC$$ tagliate dalla trasversale $$AC$$.
+perché angoli corrispondenti rispetto alle rette parallele $B'C'$ e $BC$ tagliate dalla trasversale $AC$.
 
 $$
 \widehat{ABC} = \widehat{A'B'C'}
 $$
 
-perché angoli corrispondenti rispetto alle rette parallele $$B'C'$$ e $$BC$$ tagliate dalla trasversale $$AB$$.
+perché angoli corrispondenti rispetto alle rette parallele $B'C'$ e $BC$ tagliate dalla trasversale $AB$.
 
 Quindi i due triangoli hanno tutti e tre gli angoli uguali e per il primo criterio sono simili, come volevamo.

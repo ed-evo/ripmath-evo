@@ -4,7 +4,7 @@ Lega fra loro il seno ed il coseno permettendo di trasformare l'uno nell'altro.
 
 ---
 
-Consideriamo una circonferenza trigonometrica (cioè di raggio $$1$$) e su di essa prendiamo un punto $$P$$ cui corrisponda l'angolo $$\alpha$$.
+Consideriamo una circonferenza trigonometrica (cioè di raggio $1$) e su di essa prendiamo un punto $P$ cui corrisponda l'angolo $\alpha$.
 Il seno, il coseno ed il raggio formano un triangolo rettangolo, quindi, per essi, vale il Teorema di Pitagora:
 
 $$
@@ -19,9 +19,9 @@ $$
 
 ---
 
-$$\sin^2 \alpha$$ è la scrittura abbreviata di $$(\sin \alpha)^2$$.
+$\sin^2 \alpha$ è la scrittura abbreviata di $(\sin \alpha)^2$.
 
-> **Attenzione!** Un errore abbastanza comune è quello di confondere $$\sin^2 \alpha$$ con $$\sin \alpha^2$$
+> **Attenzione!** Un errore abbastanza comune è quello di confondere $\sin^2 \alpha$ con $\sin \alpha^2$
 >
 > sono due cose del tutto diverse:
 > - il primo è il quadrato del seno dell'angolo

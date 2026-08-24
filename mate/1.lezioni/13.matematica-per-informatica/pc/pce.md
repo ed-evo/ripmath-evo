@@ -160,4 +160,4 @@ $$
 = 1
 $$
 
-> **Nota:** Siccome $$1$$ sommato a qualunque espressione dà sempre $$1$$, potevamo calcolare il risultato sia di questa che della precedente, già dal passaggio in cui è comparso l'$$1$$; però ho continuato per farti vedere i vari passaggi.
+> **Nota:** Siccome $1$ sommato a qualunque espressione dà sempre $1$, potevamo calcolare il risultato sia di questa che della precedente, già dal passaggio in cui è comparso l'$1$; però ho continuato per farti vedere i vari passaggi.

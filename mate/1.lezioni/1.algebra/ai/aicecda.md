@@ -7,9 +7,9 @@ $$
 \textcolor{blue}{z_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}
 $$
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 7}$$
-$$\textcolor{blue}{c = 10}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 7}$
+$\textcolor{blue}{c = 10}$
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-7 \pm \sqrt{7^2 - 4(1)(10)}}{2(1)}}

@@ -3,9 +3,9 @@ $$
 $$
 
 Semplifico i fattori uguali sopra e sotto: tolgo
-- $$\textcolor{red}{(x^2 + 1)}$$ sopra con $$\textcolor{red}{x^2 + 1}$$ sotto
-- $$\textcolor{red}{x}$$ sopra con $$\textcolor{red}{x}$$ sotto
-- $$\textcolor{red}{(x - 1)}$$ sotto con $$\textcolor{red}{(x - 1)}$$ sopra
+- $\textcolor{red}{(x^2 + 1)}$ sopra con $\textcolor{red}{x^2 + 1}$ sotto
+- $\textcolor{red}{x}$ sopra con $\textcolor{red}{x}$ sotto
+- $\textcolor{red}{(x - 1)}$ sotto con $\textcolor{red}{(x - 1)}$ sopra
 
 Resta:
 

@@ -1,4 +1,4 @@
-risolviamo: $$\textcolor{blue}{x^2 + x - 2 = 0}$$
+risolviamo: $\textcolor{blue}{x^2 + x - 2 = 0}$
 
 applichiamo la formula
 
@@ -7,9 +7,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 1}$$
-$$\textcolor{blue}{c = -2}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 1}$
+$\textcolor{blue}{c = -2}$
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-1 \pm \sqrt{1^2 - 4(1)(-2)}}{2(1)}}
@@ -38,4 +38,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-$$\textcolor{red}{x_1 = -2} \quad \textcolor{red}{x_2 = 1}$$
+$\textcolor{red}{x_1 = -2} \quad \textcolor{red}{x_2 = 1}$

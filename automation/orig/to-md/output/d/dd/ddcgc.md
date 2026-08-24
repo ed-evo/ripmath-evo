@@ -1,6 +1,6 @@
 # [Equazione della circonferenza passante per un punto e tangente a due rette assegnate]{.text-red}
 
-Trovare l'equazione della circonferenza passante per il punto [$$A(1,0)$${.text-blue}] e tangente alle rette [$$y = 0$${.text-blue}] e [$$y = -x$${.text-blue}].
+Trovare l'equazione della circonferenza passante per il punto [$A(1,0)${.text-blue}] e tangente alle rette [$y = 0${.text-blue}] e [$y = -x${.text-blue}].
 
 > **Nota:** È difficile incontrare un problema del genere per le difficoltà di calcolo che si incontrano: infatti la tangenza ad una retta si traduce in una condizione di secondo grado, quindi l'equazione risolvente sarà generalmente di quarto grado; noi facciamo un caso particolare.
 
@@ -9,13 +9,13 @@ $$
 \textcolor{red}{x^2 + y^2 + ax + by + c = 0}
 $$
 
-- Prima condizione: passaggio per [$$A(1,0)$${.text-blue}]
+- Prima condizione: passaggio per [$A(1,0)${.text-blue}]
   Sostituisco le coordinate nell'equazione della circonferenza:
-  [$$1^2 + 0^2 + a(1) + b(0) + c = 0$$]{.text-blue}
-  [$$1 + a + c = 0$$]{.text-blue}
-  [$$a + c = -1$$]{.text-blue}
+  [$1^2 + 0^2 + a(1) + b(0) + c = 0$]{.text-blue}
+  [$1 + a + c = 0$]{.text-blue}
+  [$a + c = -1$]{.text-blue}
 
-- Seconda condizione: tangenza alla retta [$$y = 0$${.text-blue}]
+- Seconda condizione: tangenza alla retta [$y = 0${.text-blue}]
   Devo fare il sistema ed imporre che il delta sia uguale a zero:
   [$$
   \begin{cases}
@@ -31,12 +31,12 @@ $$
   \end{cases}
   $$]{.text-blue}
   Calcolo l'equazione risolvente:
-  [$$x^2 + ax + c = 0$$]{.text-blue}
+  [$x^2 + ax + c = 0$]{.text-blue}
   Pongo il delta uguale a zero:
-  [$$a^2 - 4 \cdot c = 0$$]{.text-blue}
-  [$$a^2 - 4c = 0$$]{.text-blue}
+  [$a^2 - 4 \cdot c = 0$]{.text-blue}
+  [$a^2 - 4c = 0$]{.text-blue}
 
-- Terza condizione: tangenza alla retta [$$y = -x$${.text-blue}]
+- Terza condizione: tangenza alla retta [$y = -x${.text-blue}]
   Devo fare il sistema ed imporre che il delta sia uguale a zero:
   [$$
   \begin{cases}
@@ -52,12 +52,12 @@ $$
   \end{cases}
   $$]{.text-blue}
   Calcolo l'equazione risolvente:
-  [$$x^2 + x^2 + ax - bx + c = 0$$]{.text-blue}
-  [$$2x^2 + x(a - b) + c = 0$$]{.text-blue}
+  [$x^2 + x^2 + ax - bx + c = 0$]{.text-blue}
+  [$2x^2 + x(a - b) + c = 0$]{.text-blue}
   Pongo il delta uguale a zero:
-  [$$(a - b)^2 - 4 \cdot 2 \cdot c = 0$$]{.text-blue}
-  [$$a^2 - 2ab + b^2 - 8c = 0$$]{.text-blue}
-  [$$a^2 + b^2 - 2ab - 8c = 0$$]{.text-blue}
+  [$(a - b)^2 - 4 \cdot 2 \cdot c = 0$]{.text-blue}
+  [$a^2 - 2ab + b^2 - 8c = 0$]{.text-blue}
+  [$a^2 + b^2 - 2ab - 8c = 0$]{.text-blue}
 
 Le tre condizioni devono valere contemporaneamente; faccio il sistema:
 [$$
@@ -68,7 +68,7 @@ a^2 + b^2 - 2ab - 8c = 0
 \end{cases}
 $$]{.text-blue}
 
-Ricavo $$c$$ dalla prima equazione e sostituisco nelle altre:
+Ricavo $c$ dalla prima equazione e sostituisco nelle altre:
 [$$
 \begin{cases}
 c = -1 - a \\
@@ -103,7 +103,7 @@ b^2 - 2ab + 4 + 4a = 0
 \end{cases}
 $$]{.text-blue}
 
-Sostituisco il valore di $$a$$ trovato nella prima e nella terza equazione:
+Sostituisco il valore di $a$ trovato nella prima e nella terza equazione:
 [$$
 \begin{cases}
 c = -1 + 2 \\
@@ -148,12 +148,12 @@ $$]{.text-blue}
 
 Ottengo due soluzioni (significa che due circonferenze diverse soddisfano le condizioni richieste):
 
-[**I Sol=**]{.text-red} [$$\begin{cases} c = 1 \\ a = -2 \\ b = -2 + 2\sqrt{2} \end{cases}$${.text-blue}] $\quad$ [**II Sol=**]{.text-red} [$$\begin{cases} c = 1 \\ a = -2 \\ b = -2 - 2\sqrt{2} \end{cases}$${.text-blue}]
+[**I Sol=**]{.text-red} [$\begin{cases} c = 1 \\ a = -2 \\ b = -2 + 2\sqrt{2} \end{cases}${.text-blue}] $\quad$ [**II Sol=**]{.text-red} [$\begin{cases} c = 1 \\ a = -2 \\ b = -2 - 2\sqrt{2} \end{cases}${.text-blue}]
 
 Le equazioni delle due circonferenze sono:
-[$$x^2 + y^2 - 2x + (-2 + 2\sqrt{2})y + 1 = 0$$]{.text-blue}
-[$$x^2 + y^2 - 2x + (-2 - 2\sqrt{2})y + 1 = 0$$]{.text-blue}
+[$x^2 + y^2 - 2x + (-2 + 2\sqrt{2})y + 1 = 0$]{.text-blue}
+[$x^2 + y^2 - 2x + (-2 - 2\sqrt{2})y + 1 = 0$]{.text-blue}
 
 Cioè:
-[$$x^2 + y^2 - 2x - (2 - 2\sqrt{2})y + 1 = 0$$]{.text-blue}
-[$$x^2 + y^2 - 2x - (2 + 2\sqrt{2})y + 1 = 0$$]{.text-blue}
+[$x^2 + y^2 - 2x - (2 - 2\sqrt{2})y + 1 = 0$]{.text-blue}
+[$x^2 + y^2 - 2x - (2 + 2\sqrt{2})y + 1 = 0$]{.text-blue}

@@ -42,7 +42,7 @@ Quindi otteniamo la figura a destra ed il ragionamento è valido avendo l'insiem
 
 ---
 
-mediante i diagrammi di Eulero-Venn i $$3$$ giudizi dicono:
+mediante i diagrammi di Eulero-Venn i $3$ giudizi dicono:
 
 L'insieme dei gatti ha elementi comuni con l'insieme degli animali bianchi **vero**
 

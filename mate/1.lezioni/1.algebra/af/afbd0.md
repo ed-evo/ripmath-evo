@@ -10,22 +10,22 @@ Per le equazioni più lunghe metti la finestra a tutto schermo.
 ---
 
 1)
-$$16x - 14 = 14x - 10$$ [risoluzione](afbd1.html)
+$16x - 14 = 14x - 10$ [risoluzione](afbd1.html)
 
 ---
 
 2)
-$$2(8x - 7) = 5(3x - 2)$$ [risoluzione](afbd2.html)
+$2(8x - 7) = 5(3x - 2)$ [risoluzione](afbd2.html)
 
 ---
 
 3)
-$$(x + 2)(x - 1) + 2x = 5 - x(4 - x)$$ [risoluzione](afbd3.html)
+$(x + 2)(x - 1) + 2x = 5 - x(4 - x)$ [risoluzione](afbd3.html)
 
 ---
 
 4)
-$$(x - 1)^2 + 2x + 3(x - 1) = (x + 2)^2$$ [risoluzione](afbd4.html)
+$(x - 1)^2 + 2x + 3(x - 1) = (x + 2)^2$ [risoluzione](afbd4.html)
 
 ---
 

@@ -9,9 +9,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -1}$$
-$$\textcolor{blue}{c = -6}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -1}$
+$\textcolor{blue}{c = -6}$
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - 4(1)(-6)}}{2(1)}}

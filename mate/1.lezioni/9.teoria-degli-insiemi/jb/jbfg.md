@@ -7,7 +7,7 @@ Si definisce **differenza simmetrica** fra due insiemi l'insieme che contiene co
 - gli elementi del primo insieme che non appartengono al secondo
 - e gli elementi del secondo insieme che non appartengono al primo
 
-e si indica come $$\textcolor{red}{A \Delta B}$$
+e si indica come $\textcolor{red}{A \Delta B}$
 
 Dati gli insiemi:
 
@@ -23,7 +23,7 @@ $$
 \textcolor{red}{A \Delta B = \{1, 2, 5, 6\}}
 $$
 
-devo prendere tutti gli elementi che appartengono solo ad $$A$$ e non a $$B$$ **o anche** quelli che appartengono solo a $$B$$ e non ad $$A$$
+devo prendere tutti gli elementi che appartengono solo ad $A$ e non a $B$ **o anche** quelli che appartengono solo a $B$ e non ad $A$
 
 Vediamo mediante i diagrammi
 

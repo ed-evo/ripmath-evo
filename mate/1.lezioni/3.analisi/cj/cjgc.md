@@ -2,7 +2,7 @@
 
 Sviluppare in serie di potenze la funzione
 
-[$$y = \cos x$$]{.text-blue}
+[$y = \cos x$]{.text-blue}
 
 Sviluppiamola in un intorno dell'origine (Mac Laurin) secondo la formula:
 
@@ -10,15 +10,15 @@ $$
 \textcolor{red}{f(x) = f(0) + \frac{f'(0)}{1!}x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3 + \dots + \frac{f^{(n)}(0)}{n!}x^n + \frac{f^{(n+1)}(c)}{(n+1)!}x^{n+1}}
 $$
 
-Cominciamo a calcolare $$f(0)$$ e le derivate $$f'(0), f''(0), \dots$$
+Cominciamo a calcolare $f(0)$ e le derivate $f'(0), f''(0), \dots$
 
-[$$f(x) = \cos x \implies f(0) = \cos 0 = 1$$]{.text-blue}
-[$$f'(x) = (\cos x)' = -\sin x \implies f'(0) = -\sin 0 = 0$$]{.text-blue}
-[$$f''(x) = -\cos x \implies f''(0) = -\cos 0 = -1$$]{.text-blue}
-[$$f'''(x) = \sin x \implies f'''(0) = \sin 0 = 0$$]{.text-blue}
-[$$f^{IV}(x) = \cos x \implies f^{IV}(0) = \cos 0 = 1$$]{.text-blue}
-[$$f^{V}(x) = -\sin x \implies f^{V}(0) = -\sin 0 = 0$$]{.text-blue}
-[$$\dots \implies \dots$$]{.text-blue}
+[$f(x) = \cos x \implies f(0) = \cos 0 = 1$]{.text-blue}
+[$f'(x) = (\cos x)' = -\sin x \implies f'(0) = -\sin 0 = 0$]{.text-blue}
+[$f''(x) = -\cos x \implies f''(0) = -\cos 0 = -1$]{.text-blue}
+[$f'''(x) = \sin x \implies f'''(0) = \sin 0 = 0$]{.text-blue}
+[$f^{IV}(x) = \cos x \implies f^{IV}(0) = \cos 0 = 1$]{.text-blue}
+[$f^{V}(x) = -\sin x \implies f^{V}(0) = -\sin 0 = 0$]{.text-blue}
+[$\dots \implies \dots$]{.text-blue}
 
 Sostituendo lo sviluppo sarà:
 

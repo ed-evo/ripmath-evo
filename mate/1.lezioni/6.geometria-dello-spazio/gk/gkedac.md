@@ -2,9 +2,9 @@
 
 Anche per calcolare il volume dello spicchio sferico ci riferiamo al ragionamento fatto in geometria piana per calcolare l'area di un [settore circolare](../../f/fr/frj.html).
 
-Prendiamo come unità di misura il volume di uno spicchio di un grado: sappiamo che la sfera è composta di $$360$$ spicchi di questo genere, quindi, conoscendo il volume della sfera $$V_{\text{sfera}}$$ e l'angolo $$\alpha$$ che ci dà l'ampiezza in gradi dello spicchio (angolo diedro formato dai due semicerchi generatori) potremo impostare la proporzione:
+Prendiamo come unità di misura il volume di uno spicchio di un grado: sappiamo che la sfera è composta di $360$ spicchi di questo genere, quindi, conoscendo il volume della sfera $V_{\text{sfera}}$ e l'angolo $\alpha$ che ci dà l'ampiezza in gradi dello spicchio (angolo diedro formato dai due semicerchi generatori) potremo impostare la proporzione:
 
-$$V_{\text{sfera}} : 360^\circ = V_{\text{spicchio}} : \alpha$$
+$V_{\text{sfera}} : 360^\circ = V_{\text{spicchio}} : \alpha$
 
 e quindi, [risolvendo la proporzione](../../f/fo/foca.html), posso ricavare la formula:
 

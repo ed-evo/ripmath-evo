@@ -1,6 +1,6 @@
 # Problema
 
-[Dato il triangolo $$ABC$$ si prolunghino i lati $$AB$$ ed $$AC$$ oltre $$A$$ di due segmenti $$AD=AB$$ ed $$AE=AC$$. Dimostrare che sono congruenti i segmenti $$BC$$ e $$DE$$]{.text-blue}
+[Dato il triangolo $ABC$ si prolunghino i lati $AB$ ed $AC$ oltre $A$ di due segmenti $AD=AB$ ed $AE=AC$. Dimostrare che sono congruenti i segmenti $BC$ e $DE$]{.text-blue}
 
 Seguiremo sempre questo metodo:
 - Leggiamo con calma il testo cercando di capire bene tutti i termini
@@ -26,7 +26,7 @@ Mettendo assieme quanto visto nei punti precedenti abbiamo
 > \textcolor{blue}{BC = DE}
 > $$
 
-Considero i triangoli $$\textcolor{red}{ABC}$$ ed $$\textcolor{red}{ADE}$$, essi hanno:
+Considero i triangoli $\textcolor{red}{ABC}$ ed $\textcolor{red}{ADE}$, essi hanno:
 
 $$
 \textcolor{red}{AB=AD}
@@ -38,6 +38,6 @@ $$
 $$
 per costruzione
 
-gli angoli $$\textcolor{red}{BAC=DAE}$$ perché angoli opposti al vertice
+gli angoli $\textcolor{red}{BAC=DAE}$ perché angoli opposti al vertice
 
-Quindi i due triangoli sono congruenti per il primo criterio di congruenza ed in particolare saranno congruenti $$\textcolor{red}{BC}$$ e $$\textcolor{red}{DE}$$ come volevamo dimostrare.
+Quindi i due triangoli sono congruenti per il primo criterio di congruenza ed in particolare saranno congruenti $\textcolor{red}{BC}$ e $\textcolor{red}{DE}$ come volevamo dimostrare.

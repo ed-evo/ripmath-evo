@@ -4,16 +4,16 @@ $$
 y = \log x - 2
 $$
 
-> la funzione $$y = \log x - 2$$ ha come dominio l'insieme delle $$x$$ maggiori di zero e, in tale dominio è sia iniettiva che suriettiva, e quindi è invertibile
-> Puoi anche dire che per $$x > 0$$ la funzione è continua e crescente e quindi è invertibile
+> la funzione $y = \log x - 2$ ha come dominio l'insieme delle $x$ maggiori di zero e, in tale dominio è sia iniettiva che suriettiva, e quindi è invertibile
+> Puoi anche dire che per $x > 0$ la funzione è continua e crescente e quindi è invertibile
 
-Scambiamo fra loro la $$x$$ e la $$y$$
+Scambiamo fra loro la $x$ e la $y$
 
 $$
 x = \log y - 2
 $$
 
-Esplicito la $$y$$
+Esplicito la $y$
 
 $$
 -\log y = -x - 2
@@ -37,4 +37,4 @@ $$
 y = e^{x + 2}
 $$
 
-Questa è la funzione inversa limitatamente all'intervallo $$x > 0$$.
+Questa è la funzione inversa limitatamente all'intervallo $x > 0$.

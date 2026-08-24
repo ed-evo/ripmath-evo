@@ -3,15 +3,15 @@
 Vediamo ora un caso particolare: è possibile risolvere un sistema quando la somma delle incognite vale sempre zero?
 costruiamo il sistema con il solito metodo: consideriamo i valori 
 
-$$\textcolor{red}{x = 1 \quad y = 2 \quad z = 3}$$
+$\textcolor{red}{x = 1 \quad y = 2 \quad z = 3}$
 
 che saranno le soluzioni
 
 Costruiamo le equazioni
 
-$$\textcolor{red}{1 + 2 - 3 = 0 \quad x + y - z = 0}$$
-$$\textcolor{red}{1 - 2 \cdot 2 + 3 = 0 \quad x - 2y + z = 0}$$
-$$\textcolor{red}{5 \cdot 1 - 2 - 3 = 0 \quad 5x - y - z = 0}$$
+$\textcolor{red}{1 + 2 - 3 = 0 \quad x + y - z = 0}$
+$\textcolor{red}{1 - 2 \cdot 2 + 3 = 0 \quad x - 2y + z = 0}$
+$\textcolor{red}{5 \cdot 1 - 2 - 3 = 0 \quad 5x - y - z = 0}$
 
 Dobbiamo risolvere il sistema:
 
@@ -66,9 +66,9 @@ z = \text{costante} \cdot C_{1,3}
 $$
 
 Essendo:
-$$C_{1,1}$$ il complemento algebrico del primo elemento della prima riga
-$$C_{1,2}$$ il complemento algebrico del secondo elemento della prima riga
-$$C_{1,3}$$ il complemento algebrico del terzo elemento della prima riga
+$C_{1,1}$ il complemento algebrico del primo elemento della prima riga
+$C_{1,2}$ il complemento algebrico del secondo elemento della prima riga
+$C_{1,3}$ il complemento algebrico del terzo elemento della prima riga
 
 > Siccome i complementi algebrici degli elementi della prima riga non sono tutti nulli considero loro
 > **Attenzione:** nel concetto di complemento algebrico è implicito il segno normale se il complemento ha somma degli indici pari, segno cambiato se la somma degli indici è dispari
@@ -111,7 +111,7 @@ z = 3
 }
 $$
 
-ottenuta dalla precedente dividendo ogni risultato per $$3$$
+ottenuta dalla precedente dividendo ogni risultato per $3$
 È preferibile indicare le soluzioni come
 
 $$

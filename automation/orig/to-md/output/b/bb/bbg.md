@@ -1,4 +1,4 @@
-# [Necessità di ampliare l'insieme $$\mathbb{Z}$$]{.text-red}
+# [Necessità di ampliare l'insieme $\mathbb{Z}$]{.text-red}
 
 Ora, per eseguire sempre la divisione abbiamo due strade:
 
@@ -7,4 +7,4 @@ Ora, per eseguire sempre la divisione abbiamo due strade:
 
 La prima strada viene seguita se studiamo il numero.
 
-Se invece vogliamo studiare le proprietà delle operazioni dobbiamo seguire la seconda strada che ci porta all'insieme dei numeri razionali $$\mathbb{Q}$$.
+Se invece vogliamo studiare le proprietà delle operazioni dobbiamo seguire la seconda strada che ci porta all'insieme dei numeri razionali $\mathbb{Q}$.

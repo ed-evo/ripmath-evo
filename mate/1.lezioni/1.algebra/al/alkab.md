@@ -19,7 +19,7 @@ $$
 \textcolor{blue}{\begin{cases} x < 2 \lor x > 3 \\ x > 4 \end{cases}}
 $$
 
-Siccome la base non è indicata devo supporre che il logaritmo sia a base $$e$$, cioè a base maggiore di $$1$$.
+Siccome la base non è indicata devo supporre che il logaritmo sia a base $e$, cioè a base maggiore di $1$.
 
 Trasformiamo ora la disequazione nella forma
 
@@ -39,7 +39,7 @@ $$
 \textcolor{blue}{\log \frac{x^2 - 5x + 6}{x - 4} < 0}
 $$
 
-Confrontando con il grafico della funzione logaritmo vedo che, essendo il logaritmo minore di $$0$$ (sotto l'asse delle $$x$$), devo supporre l'argomento compreso fra $$0$$ ed $$1$$
+Confrontando con il grafico della funzione logaritmo vedo che, essendo il logaritmo minore di $0$ (sotto l'asse delle $x$), devo supporre l'argomento compreso fra $0$ ed $1$
 
 $$
 \textcolor{blue}{0 < \frac{x^2 - 5x + 6}{x - 4} < 1}

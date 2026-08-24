@@ -14,12 +14,12 @@ $$
 \textcolor{blue}{(a+b)^n = \sum_{k=0,1,\dots,n} \binom{n}{k} a^{n-k}b^k}
 $$
 
-Cioè lo sviluppo della potenza $$n$$-esima di un binomio è uguale alla somma dei termini che si ottengono sostituendo nell'espressione
+Cioè lo sviluppo della potenza $n$-esima di un binomio è uguale alla somma dei termini che si ottengono sostituendo nell'espressione
 
 $$
 \textcolor{blue}{\binom{n}{k} a^{n-k}b^k}
 $$
 
-al posto di $$k$$ successivamente i valori $$0,1,2,\dots,n$$.
+al posto di $k$ successivamente i valori $0,1,2,\dots,n$.
 
-Come applicazione vediamo di sviluppare $$\textcolor{red}{(a+b)^{10} =}$$ [Soluzione](lbdca.html)
+Come applicazione vediamo di sviluppare $\textcolor{red}{(a+b)^{10} =}$ [Soluzione](lbdca.html)

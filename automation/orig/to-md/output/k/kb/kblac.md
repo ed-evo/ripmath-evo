@@ -4,7 +4,7 @@ $$
 p \lor \bar{q}
 $$
 
-| $$p$$ | $$q$$ | $$\bar{q}$$ | $$p \lor \bar{q}$$ |
+| $p$ | $q$ | $\bar{q}$ | $p \lor \bar{q}$ |
 | :---: | :---: | :---: | :---: |
 | [f]{.text-red} | [f]{.text-red} | [v]{.text-red} | [v]{.text-red} |
 | [f]{.text-red} | [v]{.text-red} | [f]{.text-red} | [f]{.text-red} |

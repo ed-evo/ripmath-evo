@@ -26,7 +26,7 @@ $$
 \textcolor{blue}{x^2(a - 2) + x(a + 2) = 0}
 $$
 
-Raccolgo a fattor comune $$x$$:
+Raccolgo a fattor comune $x$:
 
 $$
 \textcolor{blue}{x[x(a-2) + (a+2)] = 0}
@@ -41,15 +41,15 @@ $$
 \textcolor{blue}{x(a-2) + (a+2) = 0}
 $$
 
-- La prima è già risolta: $$\textcolor{blue}{x = 0}$$
+- La prima è già risolta: $\textcolor{blue}{x = 0}$
 - Risolvo la seconda:
-  $$\textcolor{blue}{x(a-2) + (a+2) = 0}$$
+  $\textcolor{blue}{x(a-2) + (a+2) = 0}$
   Porto il termine noto dopo l'uguale cambiandolo di segno:
-  $$\textcolor{blue}{x(a-2) = -a - 2}$$
+  $\textcolor{blue}{x(a-2) = -a - 2}$
 
   Ora devo impostare la discussione:
-  - Se $$a-2 \neq 0$$, cioè $$a \neq 2$$:
-    Posso applicare il secondo principio e quindi divido entrambi i membri per $$a-2$$:
+  - Se $a-2 \neq 0$, cioè $a \neq 2$:
+    Posso applicare il secondo principio e quindi divido entrambi i membri per $a-2$:
     $$
     \textcolor{blue}{\frac{x(a-2)}{a-2} = \frac{-a-2}{a-2}}
     $$
@@ -57,8 +57,8 @@ $$
     $$
     \textcolor{blue}{x = \frac{-a-2}{a-2}}
     $$
-  - Se $$a-2 = 0$$, cioè $$a = 2$$:
-    Allora non posso applicare il secondo principio e quindi sostituisco $$2$$ al posto di $$a$$ nell'equazione:
+  - Se $a-2 = 0$, cioè $a = 2$:
+    Allora non posso applicare il secondo principio e quindi sostituisco $2$ al posto di $a$ nell'equazione:
     $$
     \textcolor{blue}{x(a-2) = -a-2}
     $$
@@ -75,9 +75,9 @@ $$
 \textcolor{red}{x_1 = 0}
 $$
 
-Se $$\textcolor{red}{a \neq 2}$$:
+Se $\textcolor{red}{a \neq 2}$:
 $$
 \textcolor{red}{x_2 = \frac{-a-2}{a-2}}
 $$
 
-Se $$\textcolor{red}{a = 2}$$: [equazione impossibile]{.text-red}
+Se $\textcolor{red}{a = 2}$: [equazione impossibile]{.text-red}

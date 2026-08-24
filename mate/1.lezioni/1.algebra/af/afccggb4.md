@@ -1,5 +1,5 @@
 Risolvo la prima equazione
-$$\textcolor{blue}{8x^2 - 6x + 1 = 0}$$
+$\textcolor{blue}{8x^2 - 6x + 1 = 0}$
 
 Applico la formula ridotta
 $$
@@ -7,7 +7,7 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 8}$$, $$\textcolor{blue}{b = -6}$$, $$\textcolor{blue}{\beta = -3}$$, $$\textcolor{blue}{c = 1}$$
+$\textcolor{blue}{a = 8}$, $\textcolor{blue}{b = -6}$, $\textcolor{blue}{\beta = -3}$, $\textcolor{blue}{c = 1}$
 
 Sostituiamo nella formula
 $$

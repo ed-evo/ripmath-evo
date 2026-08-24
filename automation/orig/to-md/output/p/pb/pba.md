@@ -1,6 +1,6 @@
 # [Contare]{.text-red}
 
-Fin dall'antichità l'uomo si deve essere posto il problema di "contare", cioè di sapere quanto di qualcosa fosse disponibile, magari per motivi di sopravvivenza; sembra che già, in un osso di lupo, datato $$30.000$$ anni fa, qualcuno abbia segnato delle tacche in modo regolare raggruppandole in gruppi di $$5$$.
+Fin dall'antichità l'uomo si deve essere posto il problema di "contare", cioè di sapere quanto di qualcosa fosse disponibile, magari per motivi di sopravvivenza; sembra che già, in un osso di lupo, datato $30.000$ anni fa, qualcuno abbia segnato delle tacche in modo regolare raggruppandole in gruppi di $5$.
 
 Il problema era come contare se gli oggetti erano molti: finché si era a numeri inferiori al numero delle dita delle mani non c'erano problemi, ma con numeri più grandi? Da qui la grande idea di raggruppare e ricominciare da capo, ad esempio:
 

@@ -6,18 +6,18 @@ Se nella pagina precedente abbiamo costruito i monomi, qui possiamo dire molto i
 
 ---
 
-Per semplicità, d'ora in avanti, dove non vi siano dubbi, tralasciamo il segno del prodotto, cioè invece di scrivere $$x \cdot y'$$ scriveremo semplicemente $$xy'$$ sottointendendo il $$\cdot$$.
+Per semplicità, d'ora in avanti, dove non vi siano dubbi, tralasciamo il segno del prodotto, cioè invece di scrivere $x \cdot y'$ scriveremo semplicemente $xy'$ sottointendendo il $\cdot$.
 
 Consideriamo un'espressione composta dalla somma di uno o più prodotti fondamentali, tali che nessuno di essi sia contenuto in un altro: chiameremo tale espressione **forma normale disgiuntiva** o anche **forma di somma-prodotti**.
 
 Esempi di espressione in forma normale disgiuntiva:
-- Espressione = $$xy'z$$
-- Espressione = $$x'y + xyz'$$
-- Espressione = $$xy'z + x'y + xyz'$$
+- Espressione = $xy'z$
+- Espressione = $x'y + xyz'$
+- Espressione = $xy'z + x'y + xyz'$
 
 Vediamo anche un esempio di espressione non in forma normale disgiuntiva:
-Espressione = $$xy'z + x'y + xy'$$
-qui l'ultimo termine $$xy'$$ è contenuto nel primo $$xy'z$$.
+Espressione = $xy'z + x'y + xy'$
+qui l'ultimo termine $xy'$ è contenuto nel primo $xy'z$.
 
 Però se faccio:
 $$
@@ -33,16 +33,16 @@ $$
 (xy' \cdot (1+z)) + x'y = xy' + x'y
 $$ (legge dei confini)
 
-il risultato $$xy' + x'y$$ è ora in forma normale disgiuntiva.
+il risultato $xy' + x'y$ è ora in forma normale disgiuntiva.
 
 Cioè possiamo dire:
-Un'espressione booleana diversa da $$0$$ può essere sempre messa in forma normale disgiuntiva.
+Un'espressione booleana diversa da $0$ può essere sempre messa in forma normale disgiuntiva.
 
 Per poterlo fare dobbiamo seguire queste regole:
 
 I. Utilizzando le leggi di De Morgan e del doppio complemento possiamo spostare l'operazione di complemento verso l'interno delle parentesi fino ad applicarla alle lettere: allora l'espressione sarà formata solamente da somme e prodotti di termini.
 II. Utilizzando la proprietà distributiva del prodotto rispetto alla somma trasformiamo l'espressione in una somma di prodotti: cioè possiamo eseguire le moltiplicazioni come se fossero "polinomi" ottenendo una somma di "monomi": è possibile combinando proprietà associativa e distributiva del prodotto rispetto alla somma.
-III. Utilizziamo poi le proprietà opportune (idempotenza, assorbimento, complemento, ...) per trasformare ogni prodotto o in $$0$$ oppure in un prodotto fondamentale.
+III. Utilizziamo poi le proprietà opportune (idempotenza, assorbimento, complemento, ...) per trasformare ogni prodotto o in $0$ oppure in un prodotto fondamentale.
 IV. Infine utilizzando la legge dei confini trasformiamo l'espressione in forma normale disgiuntiva.
 
 Vediamo un esempio.
@@ -57,7 +57,7 @@ Vediamo un esempio.
 >
 > $$
 > ((xy')'z)'(x+y')(yz')'
-> $$ porto il complementare da fuori a dentro le parentesi più esterne (ti ricordo che $$+$$ diventa $$\cdot$$ e viceversa)
+> $porto il complementare da fuori a dentro le parentesi più esterne (ti ricordo che$+$diventa$\cdot$$ e viceversa)
 > $$
 > = ((xy')'' + z')(x+y')(y' + z'')
 > $$ applico la legge del doppio complemento

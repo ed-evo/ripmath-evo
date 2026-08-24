@@ -2,7 +2,7 @@
 
 Per calcolare l'area della superficie del fuso sferico ci riferiamo allo stesso ragionamento fatto in geometria piana per calcolare l'area di un settore circolare.
 
-Prendiamo come unità di misura un fuso di un grado: sappiamo che la superficie sferica è composta di $$360$$ fusi di questo genere, quindi, conoscendo l'area della superficie della sfera $$A_{\text{sup sfera}}$$ e l'angolo $$\alpha$$ che ci dà l'ampiezza in gradi del fuso sferico (angolo diedro formato dai due semicerchi generatori) potremo impostare la proporzione:
+Prendiamo come unità di misura un fuso di un grado: sappiamo che la superficie sferica è composta di $360$ fusi di questo genere, quindi, conoscendo l'area della superficie della sfera $A_{\text{sup sfera}}$ e l'angolo $\alpha$ che ci dà l'ampiezza in gradi del fuso sferico (angolo diedro formato dai due semicerchi generatori) potremo impostare la proporzione:
 
 $$
 A_{\text{sup sfera}} : 360^\circ = A_{\text{sup fuso}} : \alpha
@@ -14,7 +14,7 @@ $$
 A_{\text{sup fuso}} = \frac{A_{\text{sup sfera}} \cdot \alpha^\circ}{360^\circ}
 $$
 
-quindi, ricordando che l'area della superficie di una sfera è $$4 \pi r^2$$, posso scrivere:
+quindi, ricordando che l'area della superficie di una sfera è $4 \pi r^2$, posso scrivere:
 
 $$
 A_{\text{sup fuso}} = \frac{4 \pi r^2 \cdot \alpha^\circ}{360^\circ}
@@ -29,7 +29,7 @@ e, semplificando numeratore e denominatore, ottengo:
 
 ***
 
-Come esercizio calcoliamo la superficie di un fuso orario terrestre (supponendo la terra sferica) sapendo che il raggio medio della terra vale $$6371\text{ Km}$$ e che un fuso orario ha ampiezza di $$15^\circ$$.
+Come esercizio calcoliamo la superficie di un fuso orario terrestre (supponendo la terra sferica) sapendo che il raggio medio della terra vale $6371\text{ Km}$ e che un fuso orario ha ampiezza di $15^\circ$.
 
 Calcolo prima la superficie della terra:
 

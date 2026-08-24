@@ -1,10 +1,10 @@
 # Problema
 
-[In una frazione il numeratore supera di $$15$$ il denominatore. Sottraendo $$2$$ a entrambi i termini si ottiene una frazione equivalente a $$\frac{7}{2}$$. Trovare la frazione]{.text-blue}
+[In una frazione il numeratore supera di $15$ il denominatore. Sottraendo $2$ a entrambi i termini si ottiene una frazione equivalente a $\frac{7}{2}$. Trovare la frazione]{.text-blue}
 
 poniamo
-[Numeratore = $$\textcolor{red}{x}$$]{.text-blue}
-[Denominatore = $$\textcolor{red}{y}$$]{.text-blue}
+[Numeratore = $\textcolor{red}{x}$]{.text-blue}
+[Denominatore = $\textcolor{red}{y}$]{.text-blue}
 
 Quindi la frazione è:
 $$
@@ -28,7 +28,7 @@ $$
 \begin{cases} \textcolor{red}{x = 15 + y} \\ \textcolor{red}{\frac{x - 2}{y - 2} = \frac{7}{2}} \end{cases}
 $$
 
-Riduco a forma normale. Nella seconda, facendo il minimo comune multiplo devo porre come condizione di realtà $$\textcolor{red}{y-2 \neq 0}$$, cioè $$\textcolor{red}{y \neq 2}$$.
+Riduco a forma normale. Nella seconda, facendo il minimo comune multiplo devo porre come condizione di realtà $\textcolor{red}{y-2 \neq 0}$, cioè $\textcolor{red}{y \neq 2}$.
 
 $$
 \begin{cases} \textcolor{red}{x - y = 15} \\ \textcolor{red}{\frac{2(x - 2)}{2(y - 2)} = \frac{7(y-2)}{2(y-2)}} \end{cases}
@@ -53,7 +53,7 @@ $$
 \begin{cases} \textcolor{red}{x - y = 15} \\ \textcolor{red}{2x - 7y = -10} \end{cases}
 $$
 
-Risolviamo per sostituzione: ricavo $$\textcolor{red}{x}$$ dalla prima e sostituisco nella seconda:
+Risolviamo per sostituzione: ricavo $\textcolor{red}{x}$ dalla prima e sostituisco nella seconda:
 $$
 \begin{cases} \textcolor{red}{x = 15 + y} \\ \textcolor{red}{2(15 + y) - 7y = -10} \end{cases}
 $$
@@ -63,7 +63,7 @@ $$
 \begin{cases} \text{---} \\ \textcolor{red}{30 + 2y - 7y = -10} \end{cases}
 $$
 
-separo le $$\textcolor{red}{y}$$ e i numeri:
+separo le $\textcolor{red}{y}$ e i numeri:
 $$
 \begin{cases} \text{---} \\ \textcolor{red}{2y - 7y = -10 - 30} \end{cases}
 $$
@@ -82,7 +82,7 @@ $$
 \begin{cases} \textcolor{red}{x = 15 + y} \\ \textcolor{red}{y = 40/5 = 8} \end{cases}
 $$
 
-sostituisco $$\textcolor{red}{8}$$ al posto di $$\textcolor{red}{y}$$ nella prima equazione:
+sostituisco $\textcolor{red}{8}$ al posto di $\textcolor{red}{y}$ nella prima equazione:
 $$
 \begin{cases} \textcolor{red}{x = 15 + 8 = 23} \\ \textcolor{red}{y = 8} \end{cases}
 $$

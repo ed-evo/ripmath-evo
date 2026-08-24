@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{c}{a + \sqrt{b}}} =
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{a - \sqrt{b}}$$
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{a - \sqrt{b}}$
 
 $$
 \textcolor{blue}{\frac{c}{a + \sqrt{b}} \cdot \frac{a - \sqrt{b}}{a - \sqrt{b}}} =

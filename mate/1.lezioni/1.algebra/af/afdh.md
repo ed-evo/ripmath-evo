@@ -59,7 +59,7 @@ $$
 \textcolor{blue}{y_2 = 5}
 $$
 
-Adesso sostituisco i valori trovati alla $$y$$ e devo risolvere le due equazioni:
+Adesso sostituisco i valori trovati alla $y$ e devo risolvere le due equazioni:
 
 $$
 \textcolor{blue}{x^2 - 4x + 8 = -4}
@@ -107,11 +107,11 @@ $$
 
 ***
 
-> **Nota:** Naturalmente potevo eseguire i calcoli e poi risolvere l'equazione di quarto grado con il metodo delle equazioni abbassabili di grado, ma qui ti ho mostrato il metodo che puoi applicare anche quando non puoi utilizzare altri metodi: pensa se le soluzioni fossero state $$\sqrt{3}, 2\sqrt{7}, 3/7, 5/4$$. In tal caso è un po' difficile usare il metodo di abbassare di grado. Lo stesso ragionamento vale anche per l'equazione successiva che, se facessi i calcoli, si trasformerebbe in una equazione trinomia di sesto grado.
+> **Nota:** Naturalmente potevo eseguire i calcoli e poi risolvere l'equazione di quarto grado con il metodo delle equazioni abbassabili di grado, ma qui ti ho mostrato il metodo che puoi applicare anche quando non puoi utilizzare altri metodi: pensa se le soluzioni fossero state $\sqrt{3}, 2\sqrt{7}, 3/7, 5/4$. In tal caso è un po' difficile usare il metodo di abbassare di grado. Lo stesso ragionamento vale anche per l'equazione successiva che, se facessi i calcoli, si trasformerebbe in una equazione trinomia di sesto grado.
 
 ***
 
-Quando hai delle frazioni è utile cercare di raggruppare tutte le incognite in termini uguali in modo da poterli sostituire mediante una $$y$$.
+Quando hai delle frazioni è utile cercare di raggruppare tutte le incognite in termini uguali in modo da poterli sostituire mediante una $y$.
 
 Risolvere:
 
@@ -119,8 +119,8 @@ $$
 \textcolor{red}{\frac{7}{x^3 - 1} + 7x^3 = 57}
 $$
 
-Siccome sotto abbiamo $$x^3 - 1$$, vediamo se possiamo trasformare anche l'altra $$x$$ in modo che diventi $$x^3 - 1$$.
-Siccome davanti a $$x^3$$ ho il 7, devo togliere un 7; lo estraggo dal termine noto:
+Siccome sotto abbiamo $x^3 - 1$, vediamo se possiamo trasformare anche l'altra $x$ in modo che diventi $x^3 - 1$.
+Siccome davanti a $x^3$ ho il 7, devo togliere un 7; lo estraggo dal termine noto:
 
 $$
 \textcolor{blue}{\frac{7}{x^3 - 1} + 7x^3 = 50 + 7}
@@ -148,7 +148,7 @@ $$
 \textcolor{blue}{\frac{7}{y} + 7y = 50}
 $$
 
-Supponendo $$y$$ diverso da zero posso fare il minimo comune multiplo:
+Supponendo $y$ diverso da zero posso fare il minimo comune multiplo:
 
 $$
 \textcolor{blue}{\frac{7 + 7y^2}{y} = \frac{50y}{y}}
@@ -174,7 +174,7 @@ $$
 \textcolor{blue}{y_2 = 7}
 $$
 
-Adesso sostituisco i valori trovati alla $$y$$ e devo risolvere le due equazioni:
+Adesso sostituisco i valori trovati alla $y$ e devo risolvere le due equazioni:
 
 $$
 \textcolor{blue}{x^3 - 1 = \frac{1}{7}}

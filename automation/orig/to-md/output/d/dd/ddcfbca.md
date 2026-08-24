@@ -2,13 +2,13 @@ Trovare le equazioni delle rette tangenti alla circonferenza
 $$
 \textcolor{red}{x^2 + y^2 - 10y + 9 = 0}
 $$
-condotte dal punto $$\textcolor{red}{A(0, -1)}$$
+condotte dal punto $\textcolor{red}{A(0, -1)}$
 
 Considero il [fascio di rette](../dc/dceda.html)
 $$
 \textcolor{blue}{y - y_0 = m(x - x_0)}
 $$
-passante per il punto $$\textcolor{blue}{A(0, -1)}$$
+passante per il punto $\textcolor{blue}{A(0, -1)}$
 $$
 \textcolor{red}{y + 1 = m(x - 0)}
 $$
@@ -33,7 +33,7 @@ sviluppo
 $$
 \textcolor{red}{x^2 + m^2x^2 - 2mx + 1 - 10mx + 10 + 9 = 0}
 $$
-Raccolgo tra loro i termini con $$x^2$$ ed i termini con $$x$$ per evidenziare l'equazione di secondo grado
+Raccolgo tra loro i termini con $x^2$ ed i termini con $x$ per evidenziare l'equazione di secondo grado
 $$
 \textcolor{red}{(1 + m^2)x^2 - 12mx + 20 = 0}
 $$
@@ -44,7 +44,7 @@ $$
 $$
 \textcolor{red}{64m^2 - 80 = 0}
 $$
-semplifico per $$16$$
+semplifico per $16$
 $$
 \textcolor{red}{4m^2 - 5 = 0}
 $$

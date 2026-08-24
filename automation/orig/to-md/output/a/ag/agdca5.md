@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{x^2 - x + 4 > 0}
@@ -24,4 +24,4 @@ $$
 
 Il delta è minore di zero pertanto il polinomio è sempre positivo e siccome devo cercare i valori maggiori di zero avrò
 
-[Sempre verificata (per tutti i valori di $$x$$)]{.text-red}
+[Sempre verificata (per tutti i valori di $x$)]{.text-red}

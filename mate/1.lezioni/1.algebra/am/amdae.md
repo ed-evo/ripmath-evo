@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{x + \frac{x+2}{2} - \frac{x-2}{3} < x+1}
 $$
 
-m.c.m. = $$6$$
+m.c.m. = $6$
 
 $$
 \textcolor{blue}{\frac{6x + 3x + 6 - 2x + 4}{6} < \frac{6x + 6}{6}}

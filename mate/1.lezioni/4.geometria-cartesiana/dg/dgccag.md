@@ -14,8 +14,8 @@ $$
 
 abbiamo
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -5}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -5}$
 
 quindi sostituendo abbiamo
 
@@ -29,4 +29,4 @@ $$
 \textcolor{red}{y = \frac{5}{2}}
 $$
 
-> si calcola come la coordinata $$V_x$$ del vertice
+> si calcola come la coordinata $V_x$ del vertice

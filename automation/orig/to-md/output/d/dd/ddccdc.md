@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{x^2 + y^2 + 4xy + 2 = 0}
 $$
 
-C'è il termine [rettangolare](ddcb.html) $$4xy$$, quindi non è una circonferenza.
+C'è il termine [rettangolare](ddcb.html) $4xy$, quindi non è una circonferenza.
 
 ---
 

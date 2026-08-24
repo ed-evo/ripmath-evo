@@ -1,4 +1,4 @@
-Quello al denominatore l'ho già calcolato e vale $$-3$$
+Quello al denominatore l'ho già calcolato e vale $-3$
 Devo calcolare il valore del determinante al numeratore:
 
 $$
@@ -12,9 +12,9 @@ $$
 
 Qui sviluppiamo secondo la prima riga; l'evidenzio in blu.
 Il primo termine è nullo.
-Il secondo termine della riga ha posto $$a_{1,2}$$, cioè prima riga e seconda colonna, quindi è di posto dispari e quindi va cambiato di segno.
-Il terzo termine della riga ha posto $$a_{1,3}$$, cioè prima riga e terza colonna, quindi è di posto pari e quindi mantiene il suo segno.
-Il quarto termine della riga ha posto $$a_{1,4}$$, cioè prima riga e quarta colonna, quindi è di posto dispari e quindi va cambiato di segno.
+Il secondo termine della riga ha posto $a_{1,2}$, cioè prima riga e seconda colonna, quindi è di posto dispari e quindi va cambiato di segno.
+Il terzo termine della riga ha posto $a_{1,3}$, cioè prima riga e terza colonna, quindi è di posto pari e quindi mantiene il suo segno.
+Il quarto termine della riga ha posto $a_{1,4}$, cioè prima riga e quarta colonna, quindi è di posto dispari e quindi va cambiato di segno.
 
 Dove c'è zero non devo sviluppare perché zero per numero uguale zero.
 

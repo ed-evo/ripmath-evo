@@ -1,8 +1,8 @@
 # [Negazione]{.text-red}
 
-La negazione è un'operazione **unaria** perché si applica su una sola proposizione ed è definita come l'operazione che applicata a $$p$$ restituisce il valore di verità contrario di $$p$$.
+La negazione è un'operazione **unaria** perché si applica su una sola proposizione ed è definita come l'operazione che applicata a $p$ restituisce il valore di verità contrario di $p$.
 
-Analogamente alla simbologia usata negli insiemi complementari indicheremo la negazione di $$p$$ con il simbolo $$\overline{p}$$.
+Analogamente alla simbologia usata negli insiemi complementari indicheremo la negazione di $p$ con il simbolo $\overline{p}$.
 
 Cioè avremo:
 
@@ -12,14 +12,14 @@ $$
 
 Avremo quindi la tavola di verità:
 
-| $$p$$ | $$\overline{p}$$ |
+| $p$ | $\overline{p}$ |
 | :---: | :---: |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ |
 
 Cioè:
-- se $$p$$ è vera allora $$\overline{p}$$ è falsa
-- se $$p$$ è falsa allora $$\overline{p}$$ è vera
+- se $p$ è vera allora $\overline{p}$ è falsa
+- se $p$ è falsa allora $\overline{p}$ è vera
 
 ---
 
@@ -41,7 +41,7 @@ la prima è falsa e la seconda è vera
 
 ---
 
-Da notare che l'insieme complementare di un insieme $$A$$ rispetto ad $$E$$ è l'insieme degli elementi di $$E$$ che **non** appartengono ad $$A$$.
+Da notare che l'insieme complementare di un insieme $A$ rispetto ad $E$ è l'insieme degli elementi di $E$ che **non** appartengono ad $A$.
 
 Data la proposizione:
 ***{elementi appartenenti ad A}***
@@ -69,7 +69,7 @@ Cioè la negazione in logica corrisponde al complementare nella teoria degli ins
 Vista l'importanza del concetto, segnalo l'equivalenza, all'interno delle proprie teorie, dei simboli:
 
 - [non]{.text-red} nel discorso ordinario
-- [ / ]{.text-red} (barra su una qualunque relazione) nelle definizioni: esempio $$\textcolor{red}{\not\in}$$ si legge **non** appartiene
+- [ / ]{.text-red} (barra su una qualunque relazione) nelle definizioni: esempio $\textcolor{red}{\not\in}$ si legge **non** appartiene
 - [ $\overline{\phantom{p}}$ ]{.text-red} (non) soprasegnato su proposizioni in logica
 - [ $\overline{\phantom{A}}$ ]{.text-red} (insieme complementare) soprasegnato su insiemi
 - [ $\neg$ ]{.text-red} (not) in informatica
@@ -78,10 +78,10 @@ Vista l'importanza del concetto, segnalo l'equivalenza, all'interno delle propri
 
 La doppia negazione equivale alla proposizione di partenza:
 
-| $$p$$ | $$\overline{p}$$ | $$\overline{\overline{p}}$$ |
+| $p$ | $\overline{p}$ | $\overline{\overline{p}}$ |
 | :---: | :---: | :---: |
-| $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ |
-| $$\textcolor{red}{f}$$ | $$\textcolor{red}{v}$$ | $$\textcolor{red}{f}$$ |
+| $\textcolor{red}{v}$ | $\textcolor{red}{f}$ | $\textcolor{red}{v}$ |
+| $\textcolor{red}{f}$ | $\textcolor{red}{v}$ | $\textcolor{red}{f}$ |
 
 Basta osservare l'uguaglianza delle tavole di verità.
 Sarebbe a dire:

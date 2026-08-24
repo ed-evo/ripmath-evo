@@ -1,6 +1,6 @@
 # Implicazione diretta
 
-È l'implicazione diretta $$a + b'$$
+È l'implicazione diretta $a + b'$
 
 corrisponde alla [implicazione diretta in logica](../../k/kb/kblac.html)
 
@@ -15,22 +15,22 @@ per esercizio dimostriamolo algebricamente:
 $$
 a + b' = (a + b')(a + à) =
 $$
-> Moltiplico per $$a + à = 1$$ per la [prima legge del complemento](../pc/pcd.html)
+> Moltiplico per $a + à = 1$ per la [prima legge del complemento](../pc/pcd.html)
 
 $$
 = aa + aà + ab' + àb' =
 $$
-> Sviluppo; $$aa = a$$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $$aà = 0$$ per la [seconda legge del complemento](../pc/pcd.html)
+> Sviluppo; $aa = a$ per la [seconda legge dell'idempotenza](../pc/pcg.html) e $aà = 0$ per la [seconda legge del complemento](../pc/pcd.html)
 
 $$
 = a + ab' + àb' =
 $$
-> So che $$a + ab' = a$$ per la [prima legge di assorbimento](../pc/pcg.html)
+> So che $a + ab' = a$ per la [prima legge di assorbimento](../pc/pcg.html)
 
 $$
 = a + àb' = a(b + b') + àb' =
 $$
-> Moltiplico per $$b + b' = 1$$ il primo termine ed ottengo
+> Moltiplico per $b + b' = 1$ il primo termine ed ottengo
 
 $$
 = ab + ab' + àb'

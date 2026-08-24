@@ -1,6 +1,6 @@
-# [Identità $$0$$]{.text-red}
+# [Identità $0$]{.text-red}
 
-È l'identità $$0$$
+È l'identità $0$
 
 corrisponde alla contraddizione in logica
 

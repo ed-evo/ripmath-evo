@@ -6,7 +6,7 @@ $$
 
 Osserviamo che nella seconda equazione ci sono i quadrati dei termini presenti nella prima equazione
 
-Poniamo allora $$2x = q$$ e $$3y = t$$; otteniamo
+Poniamo allora $2x = q$ e $3y = t$; otteniamo
 
 $$
 \textcolor{blue}{\begin{cases} q + t = 5 \\ q^2 + t^2 = 13 \end{cases}}
@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{\begin{cases} q + t = 5 \\ (q+t)^2 - 2tq = 13 \end{cases}}
 $$
 
-sostituisco il valore di $$(q+t)$$ nella seconda equazione
+sostituisco il valore di $(q+t)$ nella seconda equazione
 
 $$
 \textcolor{blue}{\begin{cases} q + t = 5 \\ (5)^2 - 2tq = 13 \end{cases}}
@@ -56,8 +56,8 @@ $$
 \textcolor{blue}{\begin{cases} q_1 = 2 \\ t_1 = 3 \end{cases} \quad \begin{cases} q_2 = 3 \\ t_2 = 2 \end{cases}}
 $$
 
-ora essendo $$\textcolor{blue}{2x = q}$$ avrò $$\textcolor{blue}{x = q/2}$$
-$$\textcolor{blue}{3y = t}$$ avrò $$\textcolor{blue}{y = t/3}$$
+ora essendo $\textcolor{blue}{2x = q}$ avrò $\textcolor{blue}{x = q/2}$
+$\textcolor{blue}{3y = t}$ avrò $\textcolor{blue}{y = t/3}$
 e quindi:
 
 $$

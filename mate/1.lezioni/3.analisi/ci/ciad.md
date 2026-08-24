@@ -6,7 +6,7 @@ $$
 \textcolor{red}{f(x + h) = f(x)}
 $$
 
-con $$h$$ periodo
+con $h$ periodo
 
 Un esempio semplice di funzione periodica è dato da
 
@@ -14,7 +14,7 @@ $$
 \textcolor{red}{y = \operatorname{sen} x}
 $$
 
-Se alla $$x$$ sostituisco un numero oppure lo stesso numero aumentato di $$2\pi$$ ottengo lo stesso valore.
+Se alla $x$ sostituisco un numero oppure lo stesso numero aumentato di $2\pi$ ottengo lo stesso valore.
 
 Le funzioni trigonometriche sono generalmente periodiche.
 

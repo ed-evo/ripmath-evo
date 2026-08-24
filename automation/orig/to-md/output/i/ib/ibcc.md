@@ -6,8 +6,8 @@ Qui di seguito hai una tabella di trasformazione, puoi ottenere le varie dimostr
 
 ### Funzioni da trasformare
 
-| | $$\textcolor{red}{\sin \alpha}$$ | $$\textcolor{red}{\cos \alpha}$$ | $$\textcolor{red}{\tan \alpha}$$ |
+| | $\textcolor{red}{\sin \alpha}$ | $\textcolor{red}{\cos \alpha}$ | $\textcolor{red}{\tan \alpha}$ |
 | :--- | :---: | :---: | :---: |
-| $$\textcolor{red}{\sin \alpha}$$ | $$\textcolor{red}{\sin \alpha}$$ | $$\textcolor{red}{\pm\sqrt{1 - \sin^2 \alpha}}$$ | $$\textcolor{red}{\frac{\sin \alpha}{\pm\sqrt{1 - \sin^2 \alpha}}}$$ |
-| $$\textcolor{red}{\cos \alpha}$$ | $$\textcolor{red}{\pm\sqrt{1 - \cos^2 \alpha}}$$ | $$\textcolor{red}{\cos \alpha}$$ | $$\textcolor{red}{\frac{\pm\sqrt{1 - \cos^2 \alpha}}{\cos \alpha}}$$ |
-| $$\textcolor{red}{\tan \alpha}$$ | $$\textcolor{red}{\frac{\tan \alpha}{\pm\sqrt{1 + \tan^2 \alpha}}}$$ | $$\textcolor{red}{\frac{1}{\pm\sqrt{1 + \tan^2 \alpha}}}$$ | $$\textcolor{red}{\tan \alpha}$$ |
+| $\textcolor{red}{\sin \alpha}$ | $\textcolor{red}{\sin \alpha}$ | $\textcolor{red}{\pm\sqrt{1 - \sin^2 \alpha}}$ | $\textcolor{red}{\frac{\sin \alpha}{\pm\sqrt{1 - \sin^2 \alpha}}}$ |
+| $\textcolor{red}{\cos \alpha}$ | $\textcolor{red}{\pm\sqrt{1 - \cos^2 \alpha}}$ | $\textcolor{red}{\cos \alpha}$ | $\textcolor{red}{\frac{\pm\sqrt{1 - \cos^2 \alpha}}{\cos \alpha}}$ |
+| $\textcolor{red}{\tan \alpha}$ | $\textcolor{red}{\frac{\tan \alpha}{\pm\sqrt{1 + \tan^2 \alpha}}}$ | $\textcolor{red}{\frac{1}{\pm\sqrt{1 + \tan^2 \alpha}}}$ | $\textcolor{red}{\tan \alpha}$ |

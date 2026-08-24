@@ -1,4 +1,4 @@
-Essendo il triangolo $$OAB$$ isoscele l'apotema $$OH$$ divide a metà la base, cioè $$AH = HB$$ quindi
+Essendo il triangolo $OAB$ isoscele l'apotema $OH$ divide a metà la base, cioè $AH = HB$ quindi
 
 $$
 \textcolor{blue}{\overline{AH} = \frac{r(\sqrt{5}-1)}{4}}
@@ -6,9 +6,9 @@ $$
 
 vale anche
 
-[$$\overline{AO} = r$$]{.text-blue}
+[$\overline{AO} = r$]{.text-blue}
 
-Considero il triangolo rettangolo $$OAH$$ ed applico il teorema di Pitagora per trovare il valore di $$OH$$ (apotema del decagono regolare)
+Considero il triangolo rettangolo $OAH$ ed applico il teorema di Pitagora per trovare il valore di $OH$ (apotema del decagono regolare)
 
 $$
 \textcolor{red}{OH^2 + AH^2 = AO^2}
@@ -50,13 +50,13 @@ $$
 \textcolor{red}{= \sqrt{\frac{10r^2 + 2r^2\sqrt{5}}{16}} =}
 $$
 
-raccolgo $$r^2$$
+raccolgo $r^2$
 
 $$
 \textcolor{red}{= \sqrt{\frac{r^2(10 + 2\sqrt{5})}{16}} =}
 $$
 
-estraggo $$r^2/16$$ ed ottengo
+estraggo $r^2/16$ ed ottengo
 
 $$
 \textcolor{blue}{= a_{10} = \frac{r}{4}\sqrt{10 + 2\sqrt{5}}}

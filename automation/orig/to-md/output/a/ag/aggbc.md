@@ -1,6 +1,6 @@
 # [il modulo della differenza fra due moduli è maggiore od uguale alla differenza fra i moduli stessi]{.text-red}
 
-Se $$p$$ e $$q$$ sono numeri reali, vale sempre la disuguaglianza
+Se $p$ e $q$ sono numeri reali, vale sempre la disuguaglianza
 
 $$
 ||p| - |q|| \geq |p| - |q|
@@ -14,13 +14,13 @@ cioè
 
 ## Dimostrazione
 
-Per la dimostrazione osserviamo che, per ogni numero reale $$m$$ vale sempre
+Per la dimostrazione osserviamo che, per ogni numero reale $m$ vale sempre
 
 $$
 |m| \geq m
 $$
 
-pongo $$m = |p| - |q|$$
+pongo $m = |p| - |q|$
 
 vista l'osservazione precedente, posso scrivere
 

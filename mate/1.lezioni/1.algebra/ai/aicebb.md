@@ -16,7 +16,7 @@
 > \textcolor{blue}{x^2 - 2xy + y^2 = (x - y)^2}
 > $$
 >
-> Porto il $$-2xy$$ dopo l'uguale
+> Porto il $-2xy$ dopo l'uguale
 >
 > $$
 > \textcolor{red}{x^2 + y^2 = (x - y)^2 + 2xy}

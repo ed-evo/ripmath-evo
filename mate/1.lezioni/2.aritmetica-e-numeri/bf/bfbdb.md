@@ -1,6 +1,6 @@
 # esercizio
 
-Trasformare il numero di Gödel $$6.530.347.008.000$$ nella sua espressione algebrica
+Trasformare il numero di Gödel $6.530.347.008.000$ nella sua espressione algebrica
 
 Sempre considerando fisso l'"alfabeto" che abbiamo fatto è sufficiente scomporre il numero in fattori primi
 
@@ -44,9 +44,9 @@ $$
 \textcolor{red}{6.530.347.008.000} = 2^{15} \cdot 3^{13} \cdot 5^{3}
 $$
 
-$$2$$ è il primo termine ed ha esponente $$15$$, cioè corrisponde ad $$x$$
-$$3$$ è il secondo termine ed ha esponente $$13$$, cioè corrisponde ad $$=$$
-$$5$$ è il terzo termine ed ha esponente $$3$$, cioè corrisponde ad $$1$$
+$2$ è il primo termine ed ha esponente $15$, cioè corrisponde ad $x$
+$3$ è il secondo termine ed ha esponente $13$, cioè corrisponde ad $=$
+$5$ è il terzo termine ed ha esponente $3$, cioè corrisponde ad $1$
 
 quindi la nostra formula è:
 

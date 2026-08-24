@@ -4,14 +4,14 @@
 Vediamo cosa succede quando alcuni degli oggetti su cui dobbiamo fare le permutazioni sono uguali; come esempio prendiamo il problema:
 *Quanti anagrammi (anche senza significato) posso fare con le lettere della parola cannone?*
 
-Sono $$7$$ oggetti ma tre fra questi sono uguali quindi, prese tutte le possibili permutazioni su $$7$$ oggetti, dovrò togliere quelle dove le lettere $$n$$ non sono distinguibili (come fai a dire se ad esempio la $$n$$ che compare al primo posto è la prima o la seconda o la terza?).
-quindi per $$7$$ oggetti avrei
+Sono $7$ oggetti ma tre fra questi sono uguali quindi, prese tutte le possibili permutazioni su $7$ oggetti, dovrò togliere quelle dove le lettere $n$ non sono distinguibili (come fai a dire se ad esempio la $n$ che compare al primo posto è la prima o la seconda o la terza?).
+quindi per $7$ oggetti avrei
 
 $$
 \textcolor{red}{P_7 = 7!}
 $$
 
-Mentre per i tre oggetti uguali (le $$n$$) avrei
+Mentre per i tre oggetti uguali (le $n$) avrei
 
 $$
 \textcolor{red}{P_3 = 3!}
@@ -38,7 +38,7 @@ cioè nelle frazioni con fattoriali posso sempre considerare come nell'espressio
 ***
 
 Per completare vediamo anche il caso in cui gli oggetti identici siano di tipi diversi, come ad esempio l'anagramma della parola "matematica":
-ci sono due $$m$$, due $$t$$ e tre $$a$$, quindi
+ci sono due $m$, due $t$ e tre $a$, quindi
 
 $$
 \textcolor{red}{P_{10;2,2,3} = \frac{10!}{2! 2! 3!} = 151200}
@@ -46,11 +46,11 @@ $$
 
 ***
 
-> **Nota:** Notare nella $$P$$ il **;** dopo il numero globale degli oggetti e la **,** fra i numeri di oggetti uguali.
+> **Nota:** Notare nella $P$ il **;** dopo il numero globale degli oggetti e la **,** fra i numeri di oggetti uguali.
 
 ***
 
-Quindi la formula generale per le permutazioni su $$n$$ oggetti di cui $$k_1, k_2, \dots, k_h$$ uguali sarà
+Quindi la formula generale per le permutazioni su $n$ oggetti di cui $k_1, k_2, \dots, k_h$ uguali sarà
 
 $$
 \textcolor{red}{P_{n;k_1,k_2,\dots,k_h} = \frac{n!}{k_1! k_2! \dots k_h!}}

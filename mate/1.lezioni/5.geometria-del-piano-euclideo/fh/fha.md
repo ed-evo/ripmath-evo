@@ -20,7 +20,7 @@ Vediamo alcune definizioni aggiuntive:
 
 chiameremo:
 
-- $$\textcolor{red}{BC}$$ base maggiore
-- $$\textcolor{red}{AD}$$ base minore
-- $$\textcolor{red}{AB}$$ ed anche $$\textcolor{red}{CD}$$ lati obliqui
-- $$\textcolor{red}{AH}$$ ed anche $$\textcolor{red}{DK}$$ altezze
+- $\textcolor{red}{BC}$ base maggiore
+- $\textcolor{red}{AD}$ base minore
+- $\textcolor{red}{AB}$ ed anche $\textcolor{red}{CD}$ lati obliqui
+- $\textcolor{red}{AH}$ ed anche $\textcolor{red}{DK}$ altezze

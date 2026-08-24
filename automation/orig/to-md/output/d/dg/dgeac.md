@@ -5,7 +5,7 @@ Data la parabola
 $$
 y = x^2 - kx + 1
 $$
-determinare il valore di $$k$$ affinché essa sia tangente alla retta
+determinare il valore di $k$ affinché essa sia tangente alla retta
 $$
 y = 2x
 $$
@@ -24,7 +24,7 @@ trovare le equazioni delle tangenti nei punti comuni alle due parabole e dire qu
 [Soluzione](dgeacb.html)
 
 ## Esercizio 3
-Considerate le rette parallele alla retta $$y = 2x - 5$$, determinare le condizioni per cui le intersezioni di tali rette con la parabola
+Considerate le rette parallele alla retta $y = 2x - 5$, determinare le condizioni per cui le intersezioni di tali rette con la parabola
 $$
 y = 3x^2
 $$

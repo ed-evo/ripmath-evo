@@ -3,7 +3,7 @@
 Mentre una matrice è una tabella, il determinante di una matrice quadrata è un numero: vedremo come è possibile determinare il valore di tale numero.
 Mentre la matrice viene indicata con la doppia barra, il determinante viene indicato con una barra singola.
 
-determinante $$\rightarrow$$
+determinante $\rightarrow$
 
 $$
 \begin{vmatrix}
@@ -14,8 +14,8 @@ $$
 \end{vmatrix}
 $$
 
-essendo gli elementi del determinante $$a_{1,1}$$ ... $$a_{n,n}$$ numeri reali.
-Vediamo ora di sviluppare il calcolo di un determinante di una matrice quadrata approfondendo e generalizzando quanto già fatto nel [calcolo del determinante $$3 \times 3$$](../ai/aibbbc.html).
+essendo gli elementi del determinante $a_{1,1}$ ... $a_{n,n}$ numeri reali.
+Vediamo ora di sviluppare il calcolo di un determinante di una matrice quadrata approfondendo e generalizzando quanto già fatto nel [calcolo del determinante $3 \times 3$](../ai/aibbbc.html).
 
 - [Complemento algebrico di un elemento del determinante](ajca.html)
 - [Calcolo del determinante col metodo di Laplace](ajcb.html)

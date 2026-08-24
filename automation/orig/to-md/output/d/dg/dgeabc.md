@@ -1,15 +1,15 @@
 # [esercizio]{.text-red}
 
-Data la parabola $$y = x^2$$, trovare le equazioni della sua tangente parallela alla retta $$y = 2x$$.
+Data la parabola $y = x^2$, trovare le equazioni della sua tangente parallela alla retta $y = 2x$.
 
 ---
 
 Soluzione:
 
-Prima disegniamo la parabola $$y = x^2$$ e la retta $$y = 2x$$.
+Prima disegniamo la parabola $y = x^2$ e la retta $y = 2x$.
 Consideriamo il fascio di rette parallelo alla retta e fra queste individuiamo la tangente facendo il sistema fascio-parabola e ponendo il delta uguale a zero.
 
-Considero il fascio di rette parallele alla retta $$y = 2x$$:
+Considero il fascio di rette parallele alla retta $y = 2x$:
 
 $$
 y = 2x + k
@@ -24,7 +24,7 @@ y = x^2
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
+Sostituisco il valore della $y$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
 
 $$
 2x + k = x^2

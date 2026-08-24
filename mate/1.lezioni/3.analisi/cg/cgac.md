@@ -8,6 +8,6 @@ Poiché la derivata corrisponde al coefficiente angolare della tangente, se la d
 > 
 > [se invece nell'intervallo la derivata è negativa allora la funzione sarà decrescente]{.text-purple}
 
-> Con le conoscenze che hai, se hai capito bene il concetto, dovresti riuscire a dimostrarlo, cioè a mostrare che se la derivata è maggiore di $$0$$ allora la funzione è crescente.
+> Con le conoscenze che hai, se hai capito bene il concetto, dovresti riuscire a dimostrarlo, cioè a mostrare che se la derivata è maggiore di $0$ allora la funzione è crescente.
 > 
 > **Nota:** fai attenzione che esercizi del genere sono piuttosto comuni agli esami.

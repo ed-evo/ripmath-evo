@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{-2x^2 + 6x - 4 \geq 0}
@@ -12,7 +12,7 @@ $$
 \textcolor{red}{-2x^2 + 6x - 4 = 0}
 $$
 
-Moltiplico l'equazione per $$-1$$ (secondo principio):
+Moltiplico l'equazione per $-1$ (secondo principio):
 
 $$
 \textcolor{red}{2x^2 - 6x + 4 = 0}
@@ -46,7 +46,7 @@ $$
 
 > **Nota:** Ho ordinato le soluzioni: prima quella più a sinistra.
 
-Ho due soluzioni quindi il delta è maggiore di zero: essendo $$a$$ minore di zero il polinomio è positivo per i valori interni all'intervallo delle radici; a questi dobbiamo aggiungere i valori per cui si annulla quindi avremo:
+Ho due soluzioni quindi il delta è maggiore di zero: essendo $a$ minore di zero il polinomio è positivo per i valori interni all'intervallo delle radici; a questi dobbiamo aggiungere i valori per cui si annulla quindi avremo:
 
 $$
 \textcolor{red}{1 \leq x \leq 2}

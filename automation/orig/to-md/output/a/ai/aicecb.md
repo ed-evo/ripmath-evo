@@ -21,7 +21,7 @@ x + y = 1 \\
 }
 $$
 
-Sostituisco il valore di $$(x+y)$$ dalla prima equazione nella seconda:
+Sostituisco il valore di $(x+y)$ dalla prima equazione nella seconda:
 
 $$
 \textcolor{blue}{

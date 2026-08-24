@@ -2,9 +2,9 @@
 
 Se le successioni
 
-$$a_1, a_2, a_3, a_4, \dots, a_n, \dots$$
+$a_1, a_2, a_3, a_4, \dots, a_n, \dots$
 e
-$$b_1, b_2, b_3, b_4, \dots, b_n, \dots$$
+$b_1, b_2, b_3, b_4, \dots, b_n, \dots$
 
 sono convergenti allora anche la loro differenza converge e il limite della loro differenza è uguale alla differenza dei limiti
 

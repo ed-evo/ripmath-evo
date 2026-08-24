@@ -1,6 +1,6 @@
 # Definizione di integrale
 
-Ora definiamo come integrale l'area del trapezoide: la sommatoria si trasforma in una $$\textcolor{red}{S}$$ medioevale, l'intervallo generico $$\textcolor{red}{x_k - x_{k-1}}$$ diventa l'infinitesimo $$\textcolor{red}{dx}$$
+Ora definiamo come integrale l'area del trapezoide: la sommatoria si trasforma in una $\textcolor{red}{S}$ medioevale, l'intervallo generico $\textcolor{red}{x_k - x_{k-1}}$ diventa l'infinitesimo $\textcolor{red}{dx}$
 
 $$
 \textcolor{red}{\lim_{n \to \infty} \sum_{k=1}^{n} F(x_k) \cdot (x_k - x_{k-1}) = \int_a^b f(x) dx = \lim_{n \to \infty} \sum_{k=1}^{n} f(x_k) \cdot (x_k - x_{k-1})}

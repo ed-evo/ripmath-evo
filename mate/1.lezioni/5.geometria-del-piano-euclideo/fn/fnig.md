@@ -1,16 +1,16 @@
 # Tabella di riepilogo
 
 ## [Rettangolo]{.text-blue-darken-4}
-$$\textcolor{red}{A_s(ABCD) = a \cdot b}$$
-$$\textcolor{red}{A_s = \overline{BC} \cdot \overline{AB}}$$
+$\textcolor{red}{A_s(ABCD) = a \cdot b}$
+$\textcolor{red}{A_s = \overline{BC} \cdot \overline{AB}}$
 
 ## [Quadrato]{.text-blue-darken-4}
-$$\textcolor{red}{A_s(ABCD) = a^2}$$
-$$\textcolor{red}{A_s = \overline{BC}^2}$$
+$\textcolor{red}{A_s(ABCD) = a^2}$
+$\textcolor{red}{A_s = \overline{BC}^2}$
 
 ## [Parallelogramma]{.text-blue-darken-4}
-$$\textcolor{red}{A_s(ABCD) = a \cdot h}$$
-$$\textcolor{red}{A_s = \overline{BC} \cdot \overline{AH}}$$
+$\textcolor{red}{A_s(ABCD) = a \cdot h}$
+$\textcolor{red}{A_s = \overline{BC} \cdot \overline{AH}}$
 
 ## [Triangolo]{.text-blue-darken-4}
 $$

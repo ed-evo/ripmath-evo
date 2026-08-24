@@ -12,9 +12,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 10 \quad b/2 = 5}$$
-$$\textcolor{blue}{c = 12}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 10 \quad b/2 = 5}$
+$\textcolor{blue}{c = 12}$
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-5 \pm \sqrt{5^2 - (1)(12)}}{1}}

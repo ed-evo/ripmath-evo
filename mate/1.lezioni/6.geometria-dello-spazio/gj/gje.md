@@ -11,7 +11,7 @@ $$
 
 dove il numero dei termini da sommare dipende dal numero dei lati del poligono di base.
 
-> **Nota:** Da notare che, nella figura considerata, l'apotema $$a_2$$ ed $$a_4$$ delle facce $$VBC$$ e $$VAD$$ cade fuori dalla base $$BC$$ ed $$AD$$ delle facce stesse.
+> **Nota:** Da notare che, nella figura considerata, l'apotema $a_2$ ed $a_4$ delle facce $VBC$ e $VAD$ cade fuori dalla base $BC$ ed $AD$ delle facce stesse.
 
 Per la superficie totale sarà sufficiente aggiungere l'area di base:
 
@@ -51,11 +51,11 @@ $$
 A_{sl} = \frac{2p \cdot a}{2} = p \cdot a
 $$
 
-> **Attenzione:** Qui devi fare molta attenzione a distinguere fra apotema del poligono di base ($$HK$$ nella figura) ed apotema $$a$$ della piramide $$VK$$: la prima è la proiezione della seconda.
+> **Attenzione:** Qui devi fare molta attenzione a distinguere fra apotema del poligono di base ($HK$ nella figura) ed apotema $a$ della piramide $VK$: la prima è la proiezione della seconda.
 
 ***
 
-Se poi vogliamo calcolare l'area della superficie totale $$A_{st}$$ dovremo sommare alla superficie laterale l'area di base:
+Se poi vogliamo calcolare l'area della superficie totale $A_{st}$ dovremo sommare alla superficie laterale l'area di base:
 
 **Piramide regolare**
 $$

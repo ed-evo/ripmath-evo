@@ -1,4 +1,4 @@
-# [**$$k$$** Logica formale]{.text-blue}
+# [**$k$** Logica formale]{.text-blue}
 
 - [Introduzione](k/ka/k0.html)
 - [Proposizioni](k/ka/ka.html)

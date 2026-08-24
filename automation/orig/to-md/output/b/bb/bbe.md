@@ -53,7 +53,7 @@ $$
 
 ***
 
-Diciamo che siccome la differenza viene ricondotta alla somma allora anche la differenza è un'operazione interna e l'insieme $$Z$$ è chiuso rispetto alla sottrazione (cioè posso sempre fare la sottrazione in $$Z$$).
+Diciamo che siccome la differenza viene ricondotta alla somma allora anche la differenza è un'operazione interna e l'insieme $Z$ è chiuso rispetto alla sottrazione (cioè posso sempre fare la sottrazione in $Z$).
 
 ***
 

@@ -1,6 +1,6 @@
 # Tangenza ad una retta
 
-Imporre la condizione di tangenza ad una retta significa fare il sistema fra la retta e la circonferenza e porre il $$\Delta$$ uguale a $$0$$.
+Imporre la condizione di tangenza ad una retta significa fare il sistema fra la retta e la circonferenza e porre il $\Delta$ uguale a $0$.
 
 ---
 
@@ -36,7 +36,7 @@ $$
 \textcolor{blue}{5x^2 + x(a + 2b + 12) + 3b + c + 9 = 0}
 $$
 
-Pongo il $$\Delta = 0$$
+Pongo il $\Delta = 0$
 $$
 \textcolor{blue}{\Delta = b^2 - 4ac = 0}
 $$

@@ -25,7 +25,7 @@ $$
 \textcolor{red}{\left(X \frac{\sqrt{2}}{2} + Y \frac{\sqrt{2}}{2}\right)^2 - \left(-X \frac{\sqrt{2}}{2} + Y \frac{\sqrt{2}}{2}\right)^2 = a^2}
 $$
 
-sviluppo i quadrati ricordando che $$\left(\frac{\sqrt{2}}{2}\right)^2 = \frac{1}{2}$$ ottengo
+sviluppo i quadrati ricordando che $\left(\frac{\sqrt{2}}{2}\right)^2 = \frac{1}{2}$ ottengo
 
 $$
 \textcolor{red}{\frac{X^2}{2} + XY + \frac{Y^2}{2} - \left(\frac{X^2}{2} - XY + \frac{Y^2}{2}\right) = a^2}
@@ -53,7 +53,7 @@ $$
 \textcolor{red}{\frac{a^2}{2} = K}
 $$
 
-> **Nota:** Posso farlo perché $$a$$ è una costante.
+> **Nota:** Posso farlo perché $a$ è una costante.
 
 ottengo la formula finale
 

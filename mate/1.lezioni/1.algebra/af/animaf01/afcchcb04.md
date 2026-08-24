@@ -1,1 +1,1 @@
-intersezioni n° $$\textcolor{red}{2}$$ coincidenti
+intersezioni n° $\textcolor{red}{2}$ coincidenti

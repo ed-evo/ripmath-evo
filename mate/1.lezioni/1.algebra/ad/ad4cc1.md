@@ -1,6 +1,6 @@
 # Quadrato del trinomio
 
-$$\textcolor{red}{(a+b+c)^2 = (a+b+c) \cdot (a+b+c) =}$$
+$\textcolor{red}{(a+b+c)^2 = (a+b+c) \cdot (a+b+c) =}$
 
 Devi moltiplicare ogni termine del primo polinomio per ogni termine del secondo:
 
@@ -37,7 +37,7 @@ $$
 
 Ora raccolgo i termini simili e li sommo.
 
-$$\textcolor{red}{a^2}$$ c'è solo lui e lo lascio, e così faccio anche per $$\textcolor{red}{b^2}$$ e $$\textcolor{red}{c^2}$$, poi:
+$\textcolor{red}{a^2}$ c'è solo lui e lo lascio, e così faccio anche per $\textcolor{red}{b^2}$ e $\textcolor{red}{c^2}$, poi:
 
 $$
 \textcolor{red}{ab + ab = 2ab}

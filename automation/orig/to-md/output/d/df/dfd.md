@@ -1,6 +1,6 @@
 # [Iperbole equilatera]{.text-red}
 
-Consideriamo un'iperbole in cui siano uguali i valori $$\textcolor{blue}{a}$$ e $$\textcolor{blue}{b}$$, cioè
+Consideriamo un'iperbole in cui siano uguali i valori $\textcolor{blue}{a}$ e $\textcolor{blue}{b}$, cioè
 
 $$
 \textcolor{blue}{\frac{x^2}{a^2} - \frac{y^2}{a^2} = 1}
@@ -20,4 +20,4 @@ $$
 
 > **Nota:** sono segnate in nero nel grafico
 
-Poiché l'iperbole equilatera dipende da un solo parametro $$\textcolor{blue}{a}$$, i problemi a cui può dar luogo sono piuttosto semplici.
+Poiché l'iperbole equilatera dipende da un solo parametro $\textcolor{blue}{a}$, i problemi a cui può dar luogo sono piuttosto semplici.

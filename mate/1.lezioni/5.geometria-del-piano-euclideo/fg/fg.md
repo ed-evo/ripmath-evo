@@ -1,6 +1,6 @@
 # Poligoni
 
-Abbiamo studiato le figure con $$3$$ lati, possiamo passare a quelle con $$4, 5, 6 \dots$$ lati, cioè ai poligoni
+Abbiamo studiato le figure con $3$ lati, possiamo passare a quelle con $4, 5, 6 \dots$ lati, cioè ai poligoni
 
 - [poligonale](fga.html)
 - [definizione di poligono](fgb.html)

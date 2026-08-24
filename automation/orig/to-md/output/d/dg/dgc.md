@@ -1,4 +1,4 @@
-# [Parabola con asse parallelo all'asse $$y$$]{.text-red}
+# [Parabola con asse parallelo all'asse $y$]{.text-red}
 
 Iniziamo ora a studiare la parabola eseguendo una traslazione di coordinate in modo che la parabola non abbia più il vertice nell'origine ma in un punto qualunque nel piano.
 

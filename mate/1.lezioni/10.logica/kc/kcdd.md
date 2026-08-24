@@ -1,15 +1,15 @@
 # Quarta figura
 
-> Mentre gli altri $$3$$ sono dovuti ad Aristotele, quest'ultimo è dovuto a Galeno, medico e scienziato del secondo secolo dopo Cristo
+> Mentre gli altri $3$ sono dovuti ad Aristotele, quest'ultimo è dovuto a Galeno, medico e scienziato del secondo secolo dopo Cristo
 
 $$
 \text{Premessa maggiore} + \text{Premessa minore} = \text{Conclusione}
 $$
 
 indico:
-- $$(A \text{ -- } M)$$ la premessa maggiore
-- $$(M \text{ -- } B)$$ la premessa minore
-- $$(B \text{ -- } A)$$ la conclusione
+- $(A \text{ -- } M)$ la premessa maggiore
+- $(M \text{ -- } B)$ la premessa minore
+- $(B \text{ -- } A)$ la conclusione
 
 considerando i predicati avremo la quarta figura quando il termine medio compare al secondo ed al terzo posto cioè:
 

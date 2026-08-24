@@ -14,7 +14,7 @@ $$
 = \frac{1}{3 \cdot 2} + \frac{3}{2^2} =
 $$
 
-calcolo il minimo comune multiplo $$3 \cdot 2^2$$
+calcolo il minimo comune multiplo $3 \cdot 2^2$
 sommo le frazioni equivalenti con denominatore il minimo comune multiplo:
 
 $$
@@ -80,15 +80,15 @@ $$
 
 c. divido il minimo comune multiplo per i denominatori e moltiplico il risultato per i numeratori
 
-- considero: $$x \cdot (x + 2) \cdot (x - 2)$$
-  lo divido per il primo denominatore $$(x + 2) \cdot (x - 2)$$
-  ed ho come risultato $$x$$ (per dividere devi eliminare i termini uguali)
-  devo poi moltiplicare $$x$$ per il primo numeratore $$(x + 3)$$
+- considero: $x \cdot (x + 2) \cdot (x - 2)$
+  lo divido per il primo denominatore $(x + 2) \cdot (x - 2)$
+  ed ho come risultato $x$ (per dividere devi eliminare i termini uguali)
+  devo poi moltiplicare $x$ per il primo numeratore $(x + 3)$
 
-- divido $$x \cdot (x + 2) \cdot (x - 2)$$
-  per il secondo denominatore $$x \cdot (x - 2)$$
-  ed ho come risultato $$x + 2$$
-  devo poi moltiplicare $$x + 2$$ per il secondo numeratore $$(x - 4)$$
+- divido $x \cdot (x + 2) \cdot (x - 2)$
+  per il secondo denominatore $x \cdot (x - 2)$
+  ed ho come risultato $x + 2$
+  devo poi moltiplicare $x + 2$ per il secondo numeratore $(x - 4)$
 
 Di solito si fa tutto assieme:
 
@@ -136,11 +136,11 @@ $$
 
 c. divido il minimo comune multiplo per i denominatori e moltiplico il risultato per i numeratori
 
-- $$(x + 3) \cdot (x - 3)$$ diviso per il primo denominatore $$(x + 3)$$ dà come risultato $$(x - 3)$$
-  devo poi moltiplicare $$(x - 3)$$ per il primo numeratore $$x$$
+- $(x + 3) \cdot (x - 3)$ diviso per il primo denominatore $(x + 3)$ dà come risultato $(x - 3)$
+  devo poi moltiplicare $(x - 3)$ per il primo numeratore $x$
 
-- $$(x + 3) \cdot (x - 3)$$ diviso per il secondo denominatore $$(x + 3) \cdot (x - 3)$$ dà come risultato $$1$$
-  devo poi moltiplicare $$1$$ per il secondo numeratore che quindi non cambia
+- $(x + 3) \cdot (x - 3)$ diviso per il secondo denominatore $(x + 3) \cdot (x - 3)$ dà come risultato $1$
+  devo poi moltiplicare $1$ per il secondo numeratore che quindi non cambia
 
 Di solito si fa tutto assieme:
 
@@ -154,7 +154,7 @@ $$
 \frac{x^2 - 3x - x + 2}{(x + 3) \cdot (x - 3)} =
 $$
 
-> **Attenzione:** per le frazioni viene spontaneo non cambiare il numeratore quando lo devo moltiplicare per $$1$$, ma qui in mezzo alle due frazioni ho il segno meno quindi è come se moltiplicassi per $$-1$$; per non sbagliare è bene mettere sempre la parentesi al numeratore come ho fatto io quando si ha una frazione con il segno meno.
+> **Attenzione:** per le frazioni viene spontaneo non cambiare il numeratore quando lo devo moltiplicare per $1$, ma qui in mezzo alle due frazioni ho il segno meno quindi è come se moltiplicassi per $-1$; per non sbagliare è bene mettere sempre la parentesi al numeratore come ho fatto io quando si ha una frazione con il segno meno.
 
 e. sommo i termini simili
 

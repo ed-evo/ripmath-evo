@@ -5,9 +5,9 @@ $$
 $$
 
 indico:
-- $$(A -- M)$$ la premessa maggiore
-- $$(B -- M)$$ la premessa minore
-- $$(B -- A)$$ la conclusione
+- $(A -- M)$ la premessa maggiore
+- $(B -- M)$ la premessa minore
+- $(B -- A)$ la conclusione
 
 considerando i predicati avremo la seconda figura quando il termine medio compare al secondo ed al quarto posto cioè
 
@@ -22,8 +22,8 @@ Come esempio consideriamo il sillogismo:
 
 Che nei particolari diventa:
 
-**($$x$$ è un delfino $$\textcolor{red}{A}$$) -- ($$x$$ è un animale marino $$\textcolor{red}{M}$$) $$+$$**
-**($$x$$ è un mammifero $$\textcolor{red}{B}$$) -- ($$x$$ è un animale marino $$\textcolor{red}{M}$$) $$=$$**
-**($$x$$ è un mammifero $$\textcolor{red}{B}$$) -- ($$x$$ è un delfino $$\textcolor{red}{A}$$)**
+**($x$ è un delfino $\textcolor{red}{A}$) -- ($x$ è un animale marino $\textcolor{red}{M}$) $+$**
+**($x$ è un mammifero $\textcolor{red}{B}$) -- ($x$ è un animale marino $\textcolor{red}{M}$) $=$**
+**($x$ è un mammifero $\textcolor{red}{B}$) -- ($x$ è un delfino $\textcolor{red}{A}$)**
 
 > È possibile dimostrarne la verità o la non verità utilizzando la teoria degli insiemi ed i diagrammi di Eulero Venn [Dimostrazione](kcdba.html)

@@ -19,7 +19,7 @@ $$
 \textcolor{red}{\cot(\alpha)} = \textcolor{red}{\frac{b}{a}}
 $$
 
-ricavo $$b$$
+ricavo $b$
 
 $$
 \textcolor{red}{a \cot(\alpha) = b}
@@ -33,7 +33,7 @@ $$
 
 ***
 
-Ora posso ribaltare il triangolo in modo che nel punto O vada l'angolo $$\beta$$.
+Ora posso ribaltare il triangolo in modo che nel punto O vada l'angolo $\beta$.
 
 Dopo il ribaltamento ho cambiato le lettere ai vertici mantenendo inalterati invece i nomi degli angoli e dei lati.
 
@@ -49,7 +49,7 @@ $$
 \textcolor{red}{\cot(\beta)} = \textcolor{red}{\frac{a}{b}}
 $$
 
-ricavo $$a$$
+ricavo $a$
 
 $$
 \textcolor{red}{b \cot(\beta) = a}

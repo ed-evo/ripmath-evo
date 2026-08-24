@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{4x^2 - 12x + 9 = x^2 - 12x + 12}
 $$
 
-Porto le $$x$$ prima dell'uguale e i termini noti dopo l'uguale.
+Porto le $x$ prima dell'uguale e i termini noti dopo l'uguale.
 
 $$
 \textcolor{blue}{4x^2 - x^2 - 12x + 12x = -9 + 12}
@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{3x^2 = 3}
 $$
 
-Divido entrambi i membri per il coefficiente di $$x^2$$.
+Divido entrambi i membri per il coefficiente di $x^2$.
 
 $$
 \textcolor{blue}{\frac{3x^2}{3} = \frac{3}{3}}

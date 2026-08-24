@@ -9,18 +9,18 @@ a. Numeri naturali
     d. Addizione fra numeri naturali
     e. Moltiplicazione fra numeri naturali
     f. Sottrazione fra numeri naturali
-    g. Necessità di ampliare l'insieme $$\mathbb{N}$$
+    g. Necessità di ampliare l'insieme $\mathbb{N}$
 b. Numeri interi
     a. Generalità sui numeri interi
-    b. L'insieme $$\mathbb{Z}$$
+    b. L'insieme $\mathbb{Z}$
     c. Somma fra numeri interi
     d. Prodotto fra numeri interi
     e. Differenza fra numeri interi
     f. Quoziente fra numeri interi
-    g. Necessità di ampliare l'insieme $$\mathbb{Z}$$
+    g. Necessità di ampliare l'insieme $\mathbb{Z}$
 c. Numeri razionali
-    a. Ampliamento dell'insieme $$\mathbb{Z}$$
-    b. Insieme dei numeri razionali $$\mathbb{Q}$$
+    a. Ampliamento dell'insieme $\mathbb{Z}$
+    b. Insieme dei numeri razionali $\mathbb{Q}$
     c. Equivalenza fra numeri razionali
     d. Somma fra numeri razionali
     e. Differenza fra numeri razionali
@@ -32,10 +32,10 @@ c. Numeri razionali
             a. definizione di numero primo
             b. alcune proprietà dei numeri primi
             c. criteri di scomposizione in fattori primi
-                a. criterio di scomposizione per $$2$$
-                b. criterio di scomposizione per $$3$$
-                c. criterio di scomposizione per $$5$$
-                d. criterio di scomposizione per $$11$$
+                a. criterio di scomposizione per $2$
+                b. criterio di scomposizione per $3$
+                c. criterio di scomposizione per $5$
+                d. criterio di scomposizione per $11$
                 e. alcuni esempi
                 f. altri criteri che possono essere utili
         b. applicazione alla riduzione di una frazione a forma normale
@@ -43,10 +43,10 @@ c. Numeri razionali
         d. applicazione al prodotto fra numeri razionali
         e. applicazione al quoziente di numeri razionali
         f. espressioni con numeri razionali
-    j. Esistenza di numeri non razionali e necessità di ampliare l'insieme $$\mathbb{Q}$$
+    j. Esistenza di numeri non razionali e necessità di ampliare l'insieme $\mathbb{Q}$
 d. Numeri reali
     a. Definizione di numero reale
-    b. L'insieme $$\mathbb{R}$$ dei numeri reali: la retta reale
+    b. L'insieme $\mathbb{R}$ dei numeri reali: la retta reale
     c. Somma fra numeri reali
     d. Differenza fra numeri reali
     e. Prodotto fra numeri reali
@@ -55,10 +55,10 @@ d. Numeri reali
         a. esponente intero
         b. esponente razionale
         c. esponente reale
-    h. Estrazione di radice e necessità di ampliare l'insieme $$\mathbb{R}$$
+    h. Estrazione di radice e necessità di ampliare l'insieme $\mathbb{R}$
 e. Numeri immaginari e complessi
     a. Numeri immaginari
-        a. Proprietà di $$i$$
+        a. Proprietà di $i$
     b. Numeri complessi
         a. definizione
         b. operazioni sui numeri complessi
@@ -77,8 +77,8 @@ e. Numeri immaginari e complessi
             d. Quoziente di numeri complessi in forma trigonometrica
                 a. Dimostrazione
             e. Potenza di numeri complessi in forma trigonometrica
-            f. Radice $$n$$-sima di un numero complesso
-            g. Radici $$n$$-sime dell'unità
+            f. Radice $n$-sima di un numero complesso
+            g. Radici $n$-sime dell'unità
     d. Il sistema di coordinate polari
         a. Sistema di coordinate polari nel piano
         b. Trasformazione da coordinate polari a coordinate cartesiane ortogonali
@@ -96,7 +96,7 @@ f. Teorie formali
         d. Metodo ipotetico deduttivo
         e. Teoria e modelli
     b. L'aritmetica come sistema formale
-        a. L'insieme $$\mathbb{N}$$ come generatore degli altri insiemi numerici
+        a. L'insieme $\mathbb{N}$ come generatore degli altri insiemi numerici
         b. Assiomi di Peano
         c. Centralità dell'aritmetica nella matematica
         d. Numeri di Gödel

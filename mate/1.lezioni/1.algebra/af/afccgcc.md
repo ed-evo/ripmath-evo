@@ -57,7 +57,7 @@ $$
 \textcolor{blue}{= \frac{6 \pm 8i}{10}}
 $$
 
-Adesso devo prendere una volta il più ed una volta il meno, raccolgo sopra il $$2$$ e semplifico con il denominatore:
+Adesso devo prendere una volta il più ed una volta il meno, raccolgo sopra il $2$ e semplifico con il denominatore:
 
 $$
 \textcolor{blue}{\frac{2(3 + 4i)}{10} = \frac{3 + 4i}{5}}
@@ -82,7 +82,7 @@ Essendo il [discriminante](afccc.html) dell'equazione minore di zero abbiamo due
 
 ## Consideriamo la formula risolutiva ridotta
 
-Ricordando che $$\beta = \frac{b}{2}$$:
+Ricordando che $\beta = \frac{b}{2}$:
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-\beta \pm \sqrt{\beta^2 - ac}}{a}}

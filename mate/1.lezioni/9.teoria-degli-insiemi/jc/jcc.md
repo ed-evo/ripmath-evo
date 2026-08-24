@@ -2,11 +2,11 @@
 
 Definiamo ora le relazioni principali sia dal punto di vista della definizione come sottoinsieme del prodotto cartesiano che con la definizione (più usata) riferita agli elementi dell'insieme.
 
-- Diciamo che una relazione $$R$$ è **riflessiva** se come sottoinsieme del prodotto cartesiano $$A \times A$$ contiene la diagonale principale, cioè contiene tutti gli elementi del tipo $$(a, a)$$ con $$a$$ elemento qualunque di $$A$$.
-- Diciamo che la relazione $$R$$ su $$A \times A$$ è **riflessiva** se per ogni elemento $$a \in A$$ vale: $$\textcolor{red}{a R a}$$
+- Diciamo che una relazione $R$ è **riflessiva** se come sottoinsieme del prodotto cartesiano $A \times A$ contiene la diagonale principale, cioè contiene tutti gli elementi del tipo $(a, a)$ con $a$ elemento qualunque di $A$.
+- Diciamo che la relazione $R$ su $A \times A$ è **riflessiva** se per ogni elemento $a \in A$ vale: $\textcolor{red}{a R a}$
 
-> $$\textcolor{red}{a R a}$$
-> $$a$$ è in relazione con se stesso
+> $\textcolor{red}{a R a}$
+> $a$ è in relazione con se stesso
 
 Vediamone qualche esempio:
 

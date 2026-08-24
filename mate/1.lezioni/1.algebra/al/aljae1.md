@@ -26,7 +26,7 @@ x^{2} + x + 1 > 0
 }
 $$
 
-Trovo che entrambi i trinomi sono positivi per ogni valore di $$x$$ [calcoli](aljae1a.html) e quindi ogni valore trovato sarà accettabile. Adesso passo a risolvere l'equazione
+Trovo che entrambi i trinomi sono positivi per ogni valore di $x$ [calcoli](aljae1a.html) e quindi ogni valore trovato sarà accettabile. Adesso passo a risolvere l'equazione
 
 $$
 \textcolor{blue}{\log_{2}\sqrt{4x^{2} - 3x + 4} - \log_{2}\sqrt{x^{2} + x + 1} = 1}
@@ -38,13 +38,13 @@ $$
 \textcolor{blue}{\frac{1}{2} \log_{2}(4x^{2} - 3x + 4) - \frac{1}{2} \log_{2}(x^{2} + x + 1) = 1}
 $$
 
-Moltiplico tutti i termini per $$2$$ (equivale a fare il m.c.m. ed eliminare i denominatori)
+Moltiplico tutti i termini per $2$ (equivale a fare il m.c.m. ed eliminare i denominatori)
 
 $$
 \textcolor{blue}{\log_{2}(4x^{2} - 3x + 4) - \log_{2}(x^{2} + x + 1) = 2}
 $$
 
-Ora applico la regola del [logaritmo di un quoziente](algb.html), inoltre so che $$2 = \log_{2} 4$$
+Ora applico la regola del [logaritmo di un quoziente](algb.html), inoltre so che $2 = \log_{2} 4$
 
 $$
 \textcolor{blue}{\log_{2} \frac{4x^{2} - 3x + 4}{x^{2} + x + 1} = \log_{2} 4}
@@ -86,4 +86,4 @@ $$
 \textcolor{blue}{x = 0}
 $$
 
-siccome erano accettabili tutti i valori $$\textcolor{red}{x = 0}$$ è accettabile
+siccome erano accettabili tutti i valori $\textcolor{red}{x = 0}$ è accettabile

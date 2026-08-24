@@ -2,8 +2,8 @@
 
 Considero i numeri complessi
 
-[$$z_1 = a + ib = \rho_1 (\cos \Theta_1 + i \sin \Theta_1)$$]{.text-blue}
-[$$z_2 = c + id = \rho_2 (\cos \Theta_2 + i \sin \Theta_2)$$]{.text-blue}
+[$z_1 = a + ib = \rho_1 (\cos \Theta_1 + i \sin \Theta_1)$]{.text-blue}
+[$z_2 = c + id = \rho_2 (\cos \Theta_2 + i \sin \Theta_2)$]{.text-blue}
 
 Per trovare la regola eseguiamo il prodotto termine a termine:
 
@@ -15,7 +15,7 @@ $$]{.text-blue}
 = \rho_1 \rho_2 (\cos \Theta_1 \cos \Theta_2 + i \cos \Theta_1 \sin \Theta_2 + i \sin \Theta_1 \cos \Theta_2 + i^2 \sin \Theta_1 \sin \Theta_2) =
 $$]{.text-blue}
 
-poiché $$i^2 = -1$$ ottengo
+poiché $i^2 = -1$ ottengo
 
 [$$
 = \rho_1 \rho_2 (\cos \Theta_1 \cos \Theta_2 + i \cos \Theta_1 \sin \Theta_2 + i \sin \Theta_1 \cos \Theta_2 - \sin \Theta_1 \sin \Theta_2) =

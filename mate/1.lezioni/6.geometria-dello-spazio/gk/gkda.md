@@ -14,7 +14,7 @@ Oppure possiamo dire:
 
 > **Nota:** Comunque, come vuoi definirlo, in ogni caso vale:
 >
-> - $$AB$$ è il raggio $$R$$ della base maggiore
-> - $$CD$$ è il raggio $$r$$ della base minore
-> - $$BC$$ è l'altezza $$h$$ del tronco di cono
-> - $$AD$$ è l'apotema $$a$$ del tronco di cono
+> - $AB$ è il raggio $R$ della base maggiore
+> - $CD$ è il raggio $r$ della base minore
+> - $BC$ è l'altezza $h$ del tronco di cono
+> - $AD$ è l'apotema $a$ del tronco di cono

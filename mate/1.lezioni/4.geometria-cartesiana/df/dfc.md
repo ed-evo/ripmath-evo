@@ -26,7 +26,7 @@ $$
 \textcolor{blue}{e = \frac{c}{a}}
 $$
 
-chiamato eccentricità: nell'iperbole è sempre un numero positivo superiore ad $$1$$ ed è legato al "ventaglio" dell'iperbole stessa.
+chiamato eccentricità: nell'iperbole è sempre un numero positivo superiore ad $1$ ed è legato al "ventaglio" dell'iperbole stessa.
 
 ---
 

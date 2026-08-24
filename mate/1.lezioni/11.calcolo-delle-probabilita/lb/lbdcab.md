@@ -14,4 +14,4 @@ $$
 \textcolor{blue}{\binom{10}{1} = \frac{10!}{1!(10-1)!} = \frac{10 \cdot 9!}{1 \cdot 9!} = 10}
 $$
 
-> **Ricordati che** $$1! = 1$$
+> **Ricordati che** $1! = 1$

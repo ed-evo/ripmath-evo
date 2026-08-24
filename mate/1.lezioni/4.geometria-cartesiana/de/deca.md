@@ -11,11 +11,11 @@ $$
 $$
 
 Considero un sistema di coordinate cartesiane ortogonali.
-Dall'equazione so che $$\textcolor{blue}{a = 3}$$ e $$\textcolor{blue}{b = 2}$$.
+Dall'equazione so che $\textcolor{blue}{a = 3}$ e $\textcolor{blue}{b = 2}$.
 
-Partendo dall'origine riporto il segmento $$3$$ a destra ed a sinistra sull'asse delle $$x$$.
+Partendo dall'origine riporto il segmento $3$ a destra ed a sinistra sull'asse delle $x$.
 
-Partendo dall'origine riporto il segmento $$2$$ in alto ed in basso sull'asse delle $$y$$.
+Partendo dall'origine riporto il segmento $2$ in alto ed in basso sull'asse delle $y$.
 Unisco i punti sugli assi con una curva continua.
 
 ---
@@ -27,9 +27,9 @@ $$
 $$
 
 Considero un sistema di coordinate cartesiane ortogonali.
-Dall'equazione so che $$\textcolor{blue}{a = 2}$$ e $$\textcolor{blue}{b = 4}$$.
+Dall'equazione so che $\textcolor{blue}{a = 2}$ e $\textcolor{blue}{b = 4}$.
 
-Partendo dall'origine riporto il segmento $$2$$ a destra ed a sinistra sull'asse delle $$x$$.
+Partendo dall'origine riporto il segmento $2$ a destra ed a sinistra sull'asse delle $x$.
 
-Partendo dall'origine riporto il segmento $$4$$ in alto ed in basso sull'asse delle $$y$$.
+Partendo dall'origine riporto il segmento $4$ in alto ed in basso sull'asse delle $y$.
 Unisco i punti sugli assi con una curva continua.

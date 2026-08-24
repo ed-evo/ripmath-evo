@@ -8,7 +8,7 @@ In geometria cartesiana la soluzione di un problema mostra con più evidenza che
 
 Vediamo su un esercizio i punti sopraddetti:
 
-[I punti $$A=(0,4)$$, $$B=(-4,1)$$, $$C=(-1,-3)$$ siano tre vertici consecutivi di un parallelogramma. Trovare le coordinate del quarto vertice]{.text-blue}
+[I punti $A=(0,4)$, $B=(-4,1)$, $C=(-1,-3)$ siano tre vertici consecutivi di un parallelogramma. Trovare le coordinate del quarto vertice]{.text-blue}
 
 - Utilizzo della geometria per risolvere algebricamente il problema
 - Dividere il problema in sottoproblemi elementari

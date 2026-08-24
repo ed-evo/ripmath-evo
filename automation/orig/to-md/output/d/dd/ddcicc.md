@@ -25,8 +25,8 @@ $$
 
 Abbiamo quindi le due circonferenze di base:
 
-- $$x^2 + y^2 + 4x - 2y - 20 = 0$$
-- $$x^2 + y^2 - 8x + 2y - 28 = 0$$
+- $x^2 + y^2 + 4x - 2y - 20 = 0$
+- $x^2 + y^2 - 8x + 2y - 28 = 0$
 
 Per trovare i punti base del fascio sostituiamo una delle due equazioni con l'asse radicale per avere un sistema più facile da risolvere.
 Calcolo l'asse radicale sottraendo fra loro le due equazioni membro a membro:
@@ -40,7 +40,7 @@ x^2 + y^2 - 8x + 2y - 28 &= 0 \\
 \end{aligned}
 $$
 
-Posso dividere per $$4$$ ed ottengo l'equazione dell'asse radicale:
+Posso dividere per $4$ ed ottengo l'equazione dell'asse radicale:
 
 $$
 3x - y + 2 = 0
@@ -57,21 +57,21 @@ $$
 
 e trovo come risultato:
 
-$$\textcolor{red}{A(-2; -4) \quad B(1; 5)}$$
+$\textcolor{red}{A(-2; -4) \quad B(1; 5)}$
 
 Troviamo ora i centri delle due circonferenze e, quindi, la retta dei centri:
 
 - **Prima circonferenza**
-  $$x^2 + y^2 + 4x - 2y - 20 = 0$$
-  troviamo il centro $$C_1(-\frac{a}{2}; -\frac{b}{2})$$
-  essendo $$a = 4$$ e $$b = -2$$
-  $$\textcolor{red}{C_1(-2; 1)}$$
+  $x^2 + y^2 + 4x - 2y - 20 = 0$
+  troviamo il centro $C_1(-\frac{a}{2}; -\frac{b}{2})$
+  essendo $a = 4$ e $b = -2$
+  $\textcolor{red}{C_1(-2; 1)}$
 
 - **Seconda circonferenza**
-  $$x^2 + y^2 - 8x + 2y - 28 = 0$$
-  troviamo il centro $$C_2(-\frac{a}{2}; -\frac{b}{2})$$
-  essendo $$a = -8$$ e $$b = 2$$
-  $$\textcolor{red}{C_2(4; -1)}$$
+  $x^2 + y^2 - 8x + 2y - 28 = 0$
+  troviamo il centro $C_2(-\frac{a}{2}; -\frac{b}{2})$
+  essendo $a = -8$ e $b = 2$
+  $\textcolor{red}{C_2(4; -1)}$
 
 Ora, per trovare la retta dei centri applichiamo la formula della retta per due punti:
 
@@ -79,7 +79,7 @@ $$
 \frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}
 $$
 
-Ho $$x_1 = -2$$, $$y_1 = 1$$, $$x_2 = 4$$, $$y_2 = -1$$
+Ho $x_1 = -2$, $y_1 = 1$, $x_2 = 4$, $y_2 = -1$
 
 $$
 \frac{y - 1}{-1 - 1} = \frac{x - (-2)}{4 - (-2)}
@@ -97,7 +97,7 @@ $$
 2x + 6y - 2 = 0
 $$
 
-divido per $$2$$
+divido per $2$
 
 $$
 x + 3y - 1 = 0
@@ -115,4 +115,4 @@ $$
 y = 3x + 2
 $$
 
-essendo i coefficienti angolari $$-\frac{1}{3}$$ e $$3$$ uno inverso ed opposto dell'altro le due rette sono perpendicolari fra loro come dovevamo verificare.
+essendo i coefficienti angolari $-\frac{1}{3}$ e $3$ uno inverso ed opposto dell'altro le due rette sono perpendicolari fra loro come dovevamo verificare.

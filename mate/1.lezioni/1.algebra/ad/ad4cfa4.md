@@ -10,7 +10,7 @@ $$
 > $$
 > \textcolor{red}{(a+b)^4 = a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4}
 > $$
-> al posto di [$$a$$]{.text-red} ho [$$x$$]{.text-red} ed al posto di [$$b$$]{.text-red} ho [$$-2y$$]{.text-red}
+> al posto di [$a$]{.text-red} ho [$x$]{.text-red} ed al posto di [$b$]{.text-red} ho [$-2y$]{.text-red}
 > quindi vado a sostituire nella regola
 
 $$

@@ -1,6 +1,6 @@
 # PRODOTTO FRA DUE POLINOMI
 
-Anche per fare il prodotto fra $$2$$ polinomi occorre tener presente il concetto di [parentesi](parentes.html): tutti i termini interni hanno lo stesso diritto rispetto all'operazione esterna; quindi basterà moltiplicare tutti i monomi del primo polinomio per ogni termine del secondo polinomio.
+Anche per fare il prodotto fra $2$ polinomi occorre tener presente il concetto di [parentesi](parentes.html): tutti i termini interni hanno lo stesso diritto rispetto all'operazione esterna; quindi basterà moltiplicare tutti i monomi del primo polinomio per ogni termine del secondo polinomio.
 
 Fai click [qui](ad4b2.html) per un esempio grafico.
 
@@ -31,7 +31,7 @@ $$
 \textcolor{red}{=12a^2+9ab-20ab-15b^2=}
 $$
 
-da notare che sono $$4$$ termini perché hai moltiplicato un binomio ($$2$$ termini) per un binomio ($$2$$ termini); quanti termini avresti avuto moltiplicando un trinomio per un quadrinomio? Ora sommiamo
+da notare che sono $4$ termini perché hai moltiplicato un binomio ($2$ termini) per un binomio ($2$ termini); quanti termini avresti avuto moltiplicando un trinomio per un quadrinomio? Ora sommiamo
 
 $$
 \textcolor{red}{=12a^2-11ab-15b^2}
@@ -66,4 +66,4 @@ $$
 
 [fai click qui per altri esercizi](ad4b1.html)
 
-> **[attenzione:]{.text-purple}** quando moltiplichi puoi moltiplicare il primo polinomio per il secondo oppure il secondo polinomio per il primo, il risultato è identico perché per la moltiplicazione vale la proprietà [commutativa]{.text-red} cioè $$3 \times 2 = 2 \times 3$$ però quando moltiplicheremo un polinomio per un altro polinomio noi moltiplicheremo sempre i termini del primo per i termini del secondo: troppe volte ho visto un alunno confondersi alla lavagna per non rispettare questa semplice regola
+> **[attenzione:]{.text-purple}** quando moltiplichi puoi moltiplicare il primo polinomio per il secondo oppure il secondo polinomio per il primo, il risultato è identico perché per la moltiplicazione vale la proprietà [commutativa]{.text-red} cioè $3 \times 2 = 2 \times 3$ però quando moltiplicheremo un polinomio per un altro polinomio noi moltiplicheremo sempre i termini del primo per i termini del secondo: troppe volte ho visto un alunno confondersi alla lavagna per non rispettare questa semplice regola

@@ -39,9 +39,9 @@ $$
 \textcolor{red}{c = a \cos \beta + b \cos \alpha}
 $$
 
-Moltiplichiamo la prima relazione per $$\textcolor{red}{a}$$.
-Moltiplichiamo la seconda relazione per $$\textcolor{red}{-b}$$.
-Moltiplichiamo la terza relazione per $$\textcolor{red}{-c}$$.
+Moltiplichiamo la prima relazione per $\textcolor{red}{a}$.
+Moltiplichiamo la seconda relazione per $\textcolor{red}{-b}$.
+Moltiplichiamo la terza relazione per $\textcolor{red}{-c}$.
 
 $$
 \textcolor{red}{a^2 = ab \cos \gamma + ac \cos \beta}
@@ -77,8 +77,8 @@ Come volevamo.
 
 > Anche le altre relazioni si dimostrano nello stesso modo: prova a farle da solo per esercizio e poi confronta i risultati:
 >
-> Per la seconda moltiplica la prima per $$-a$$ la seconda per $$b$$ e la terza per $$-c$$.
-> Per la terza moltiplica la prima per $$-a$$, la seconda per $$-b$$ e la terza per $$c$$.
+> Per la seconda moltiplica la prima per $-a$ la seconda per $b$ e la terza per $-c$.
+> Per la terza moltiplica la prima per $-a$, la seconda per $-b$ e la terza per $c$.
 >
 > Dimostrazione della [seconda](idfc.html)
 > Dimostrazione della [terza](idfd.html)

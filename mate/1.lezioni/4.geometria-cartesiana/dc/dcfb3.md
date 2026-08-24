@@ -1,4 +1,4 @@
-Equazione della retta parallela alla retta $$AB$$ ($$y = \frac{3}{4}x + 4$$) passante per il punto $$C(-1, -3)$$
+Equazione della retta parallela alla retta $AB$ ($y = \frac{3}{4}x + 4$) passante per il punto $C(-1, -3)$
 
 [$$
 y - y_1 = m_1(x - x_1)

@@ -7,7 +7,7 @@ $$
 \end{cases}
 $$
 
-Osserviamo bene le due equazioni: i primi tre termini della prima si possono raggruppare in un quadrato, mentre fra gli altri due termini posso raccogliere $$3$$
+Osserviamo bene le due equazioni: i primi tre termini della prima si possono raggruppare in un quadrato, mentre fra gli altri due termini posso raccogliere $3$
 
 $$
 \begin{cases}
@@ -16,7 +16,7 @@ $$
 \end{cases}
 $$
 
-Considero ora la prima equazione: si può considerare un'equazione di secondo grado nell'incognita $$\textcolor{blue}{(x+y)=t}$$
+Considero ora la prima equazione: si può considerare un'equazione di secondo grado nell'incognita $\textcolor{blue}{(x+y)=t}$
 
 $$
 \textcolor{blue}{t^2 + 3t - 70 = 0}
@@ -124,7 +124,7 @@ $$
 
 ***
 
-Raccogliendo ho le $$4$$ soluzioni
+Raccogliendo ho le $4$ soluzioni
 
 $$
 \begin{cases}

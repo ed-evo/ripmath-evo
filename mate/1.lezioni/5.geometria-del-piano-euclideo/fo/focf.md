@@ -8,8 +8,8 @@ Cioè data ad esempio la proporzione
 $$
 \textcolor{red}{3 : 2 = 9 : x}
 $$
-il quarto proporzionale $$x$$ esiste ed è unico:
-Esiste in quanto, essendo $$x$$ un estremo posso ottenerlo facendo
+il quarto proporzionale $x$ esiste ed è unico:
+Esiste in quanto, essendo $x$ un estremo posso ottenerlo facendo
 
 $$
 \textcolor{blue}{\text{Quarto proporzionale} = \frac{\text{Prodotto dei medi}}{\text{altro estremo}}}
@@ -22,7 +22,7 @@ $$
 \textcolor{red}{x = \frac{2 \cdot 9}{3} = 6}
 $$
 
-È unico perché se per assurdo ne esistessero due diversi $$x_1$$ ed $$x_2$$ diversi fra loro avremmo
+È unico perché se per assurdo ne esistessero due diversi $x_1$ ed $x_2$ diversi fra loro avremmo
 
 $$
 \textcolor{blue}{\frac{\text{Prodotto dei medi}}{\text{altro estremo}} = x_1 \neq x_2 = \frac{\text{Prodotto dei medi}}{\text{altro estremo}}}

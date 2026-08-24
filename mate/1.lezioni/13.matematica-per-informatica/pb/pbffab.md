@@ -1,7 +1,7 @@
 # esercizio
 
 Eseguire la seguente somma fra numeri binari:
-$$1111111111 + 100000001 =$$
+$1111111111 + 100000001 =$
 
 Prima li metto in colonna (si parte sempre da destra):
 
@@ -13,7 +13,7 @@ $$
 \end{array}
 $$
 
-Adesso sommo partendo da destra: sopra, in $$\textcolor{green}{\text{verde}}$$ e carattere più piccolo ti scrivo i riporti:
+Adesso sommo partendo da destra: sopra, in $\textcolor{green}{\text{verde}}$ e carattere più piccolo ti scrivo i riporti:
 
 $$
 \begin{array}{r@{\quad}l}

@@ -8,9 +8,9 @@ $$
 \textcolor{red}{a + a = 2a}
 $$
 
-è un'identità infatti prova a sostituire al posto di $$a$$ qualunque valore, il primo termine resterà sempre uguale al secondo
+è un'identità infatti prova a sostituire al posto di $a$ qualunque valore, il primo termine resterà sempre uguale al secondo
 
-sostituisco $$\textcolor{red}{3}$$
+sostituisco $\textcolor{red}{3}$
 
 $$
 \textcolor{red}{3 + 3 = 2 \cdot 3}
@@ -20,7 +20,7 @@ $$
 \textcolor{red}{3 + 3 = 6}
 $$
 
-sostituisco $$\textcolor{red}{1234}$$
+sostituisco $\textcolor{red}{1234}$
 
 $$
 \textcolor{red}{1234 + 1234 = 2 \cdot 1234}
@@ -40,5 +40,5 @@ $$
 \textcolor{red}{\frac{2a}{b} = \frac{a}{b} + \frac{a}{b}}
 $$
 
-perché al posto di $$b$$ non posso sostituire il valore $$0$$:
+perché al posto di $b$ non posso sostituire il valore $0$:
 [esempio che ti mostra che non puoi dividere per zero](../../../divisozero.html)

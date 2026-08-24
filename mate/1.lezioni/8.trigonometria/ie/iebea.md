@@ -1,19 +1,19 @@
 # base di riferimento orizzontale
 
-Supponiamo che il segmento $$AC$$ sia orizzontale: in tal caso il triangolo $$ACH$$ giace sul piano orizzontale.
+Supponiamo che il segmento $AC$ sia orizzontale: in tal caso il triangolo $ACH$ giace sul piano orizzontale.
 
 Misuriamo:
-- La distanza $$AC$$
-- L'angolo $$HAC = \alpha_1$$
-- L'angolo $$ACH = \gamma$$
-- L'angolo $$BAH = \alpha_2$$ (angolo di elevazione da $$A$$)
+- La distanza $AC$
+- L'angolo $HAC = \alpha_1$
+- L'angolo $ACH = \gamma$
+- L'angolo $BAH = \alpha_2$ (angolo di elevazione da $A$)
 
-> **Nota:** Posso prima risolvere il triangolo $$ACH$$ per trovare il valore di $$AH$$, poi nel triangolo rettangolo $$AHB$$ conosco, oltre l'angolo retto, un angolo ed un lato, quindi posso risolverlo e trovare $$BH$$.
+> **Nota:** Posso prima risolvere il triangolo $ACH$ per trovare il valore di $AH$, poi nel triangolo rettangolo $AHB$ conosco, oltre l'angolo retto, un angolo ed un lato, quindi posso risolverlo e trovare $BH$.
 
-Considero il triangolo $$ACH$$, ne conosco due angoli ed un lato e quindi posso risolverlo:
-Angolo $$AHC = 180^\circ - (\alpha_1 + \gamma)$$
+Considero il triangolo $ACH$, ne conosco due angoli ed un lato e quindi posso risolverlo:
+Angolo $AHC = 180^\circ - (\alpha_1 + \gamma)$
 
-Possiamo calcolare $$AH$$ con il teorema dei seni:
+Possiamo calcolare $AH$ con il teorema dei seni:
 
 $$
 \textcolor{red}{\frac{AH}{\sin \gamma} = \frac{AC}{\sin [180^\circ - (\alpha_1 + \gamma)]}}
@@ -31,7 +31,7 @@ $$
 \textcolor{red}{AH = \frac{AC \sin \gamma}{\sin (\alpha_1 + \gamma)}}
 $$
 
-Considero poi il triangolo rettangolo $$BAH$$.
+Considero poi il triangolo rettangolo $BAH$.
 Per le relazioni sui triangoli rettangoli ho:
 
 $$

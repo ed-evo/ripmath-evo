@@ -13,18 +13,18 @@ $$
 \textcolor{red}{y = f(x)}
 $$
 
-avrà un punto di minimo nel punto $$\textcolor{red}{x_0}$$ se
+avrà un punto di minimo nel punto $\textcolor{red}{x_0}$ se
 
 $$
 \textcolor{red}{f(x_0) \le f(x)}
 $$
 
-per ogni $$\textcolor{red}{x}$$ appartenente ad un intorno completo di $$\textcolor{red}{x_0}$$
+per ogni $\textcolor{red}{x}$ appartenente ad un intorno completo di $\textcolor{red}{x_0}$
 
-Come prima anche qui si può dire che se la funzione è continua e derivabile in un intorno completo di $$\textcolor{red}{x_0}$$ allora la tangente in $$\textcolor{red}{x_0}$$ sarà orizzontale, cioè la derivata avrà valore zero
+Come prima anche qui si può dire che se la funzione è continua e derivabile in un intorno completo di $\textcolor{red}{x_0}$ allora la tangente in $\textcolor{red}{x_0}$ sarà orizzontale, cioè la derivata avrà valore zero
 
 > **Curiosità:** anche qui per la definizione data una retta orizzontale sarebbe composta da tutti punti di minimo, infatti il valore in ogni punto è uguale a tutti gli altri valori.
 >
-> Per ovviare all'inconveniente, si può definire il minimo con la diseguaglianza stretta ($$\textcolor{red}{<}$$) invece che con il $$\textcolor{red}{\le}$$.
+> Per ovviare all'inconveniente, si può definire il minimo con la diseguaglianza stretta ($\textcolor{red}{<}$) invece che con il $\textcolor{red}{\le}$.
 >
 > Qualche libro per distinguere parla di minimo proprio ed improprio. Ti consiglio di seguire la definizione del tuo libro di testo

@@ -1,5 +1,5 @@
-Devo risolvere la disequazione $$\textcolor{blue}{x^2 > 5}$$
-Considero l'equazione associata $$\textcolor{blue}{x^2 - 5 = 0}$$
+Devo risolvere la disequazione $\textcolor{blue}{x^2 > 5}$
+Considero l'equazione associata $\textcolor{blue}{x^2 - 5 = 0}$
 È un'equazione [pura]{.text-blue}
 $$
 \textcolor{blue}{x^2 = 5}

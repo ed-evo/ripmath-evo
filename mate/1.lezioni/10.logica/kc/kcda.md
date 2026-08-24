@@ -5,9 +5,9 @@ $$
 $$
 
 indico:
-- $$(M -- A)$$ la premessa maggiore
-- $$(B -- M)$$ la premessa minore
-- $$(B -- A)$$ la conclusione
+- $(M -- A)$ la premessa maggiore
+- $(B -- M)$ la premessa minore
+- $(B -- A)$ la conclusione
 
 considerando i predicati avremo la prima figura quando il termine medio compare al primo ed al quarto posto cioè
 

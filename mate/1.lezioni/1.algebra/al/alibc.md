@@ -2,7 +2,7 @@ $$
 \textcolor{blue}{(1/2)^y = x}
 $$
 
-Sostituisco a $$y$$ il valore $$2$$ ed ottengo
+Sostituisco a $y$ il valore $2$ ed ottengo
 
 $$
 \textcolor{blue}{x = (1/2)^2 = 1/4}

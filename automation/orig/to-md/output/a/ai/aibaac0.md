@@ -7,9 +7,9 @@ ax + by = c \\
 dx + ey = f
 \end{cases}
 $$
-ove $$a$$, $$b$$, $$c$$, $$d$$, $$e$$, $$f$$ sono numeri dati.
+ove $a$, $b$, $c$, $d$, $e$, $f$ sono numeri dati.
 
-Isolo il termine con $$x$$ nelle due equazioni:
+Isolo il termine con $x$ nelle due equazioni:
 $$
 \begin{cases}
 ax = c - by \\
@@ -17,7 +17,7 @@ dx = f - ey
 \end{cases}
 $$
 
-Ricavo la $$x$$ da entrambe le equazioni:
+Ricavo la $x$ da entrambe le equazioni:
 $$
 \begin{cases}
 x = \frac{c - by}{a} \\
@@ -25,7 +25,7 @@ x = \frac{f - ey}{d}
 \end{cases}
 $$
 
-Eguaglio i valori delle $$x$$ trovati e come seconda equazione scelgo una delle due:
+Eguaglio i valori delle $x$ trovati e come seconda equazione scelgo una delle due:
 $$
 \begin{cases}
 \frac{c - by}{a} = \frac{f - ey}{d} \\
@@ -49,7 +49,7 @@ aey - bdy = af - cd \\
 \end{cases}
 $$
 
-Ricavo la $$y$$ e riscrivo l'equazione al posto della linea:
+Ricavo la $y$ e riscrivo l'equazione al posto della linea:
 $$
 \begin{cases}
 y = \frac{af - cd}{ae - bd} \\
@@ -67,7 +67,7 @@ $$
 x = \frac{c - b \left( \frac{af - cd}{ae - bd} \right)}{a}
 $$
 
-Moltiplico sopra per $$-b$$ (così resta il segno $$+$$):
+Moltiplico sopra per $-b$ (così resta il segno $+$):
 $$
 x = \frac{c + \frac{-abf + bcd}{ae - bd}}{a}
 $$
@@ -87,7 +87,7 @@ $$
 x = \frac{ace - abf}{ae - bd} \cdot \frac{1}{a}
 $$
 
-Raccolgo $$a$$ al numeratore per semplificarlo con la $$a$$ al denominatore:
+Raccolgo $a$ al numeratore per semplificarlo con la $a$ al denominatore:
 $$
 x = \frac{\textcolor{blue}{a}(ce - bf)}{ae - bd} \cdot \frac{1}{\textcolor{blue}{a}}
 $$

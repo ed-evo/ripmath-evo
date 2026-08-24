@@ -5,7 +5,7 @@ In matematica ogni volta che facciamo un'operazione dobbiamo anche vedere se è 
 Quindi dobbiamo dire che un radicale di un certo dato è quel numero tale che, facendovi la potenza, ottengo il dato di partenza.
 
 > **[definizione:]{.text-purple}**
-> si definisce radice ennesima di un numero $$a$$ quel numero $$b$$ che elevato a potenza $$n$$ mi ridà $$a$$
+> si definisce radice ennesima di un numero $a$ quel numero $b$ che elevato a potenza $n$ mi ridà $a$
 
 In formule:
 
@@ -13,16 +13,16 @@ $$
 \textcolor{red}{\sqrt[n]{a} = b \Rightarrow b^n = a}
 $$
 
-e si legge: la radice ennesima di $$a$$ è il numero $$b$$ che elevato alla $$n$$ diventa uguale ad $$a$$.
+e si legge: la radice ennesima di $a$ è il numero $b$ che elevato alla $n$ diventa uguale ad $a$.
 
-Nomenclatura: se considero $$\textcolor{red}{b\sqrt[n]{a}}$$
+Nomenclatura: se considero $\textcolor{red}{b\sqrt[n]{a}}$
 
-- $$\textcolor{red}{\sqrt[n]{a}}$$ è [il radicale]{.text-purple}
-- $$\textcolor{red}{b}$$ è [il coefficiente del radicale]{.text-purple}
-- $$\textcolor{red}{n}$$ è [l'indice di radice]{.text-purple}
-- $$\textcolor{red}{a}$$ è [il radicando]{.text-purple}
+- $\textcolor{red}{\sqrt[n]{a}}$ è [il radicale]{.text-purple}
+- $\textcolor{red}{b}$ è [il coefficiente del radicale]{.text-purple}
+- $\textcolor{red}{n}$ è [l'indice di radice]{.text-purple}
+- $\textcolor{red}{a}$ è [il radicando]{.text-purple}
 
 Siccome la matematica è la scienza del massimo rendimento con il minimo sforzo si utilizzano delle abbreviazioni per scrivere di meno:
 
-- $$\sqrt[1]{a} = a$$ perché $$a^1 = a$$ e quindi la radice non si scrive
-- $$\sqrt[2]{a} = \sqrt{a}$$ perché le radici quadrate saranno le più numerose, quindi non scriverne l'indice sarà un bel risparmio di tempo
+- $\sqrt[1]{a} = a$ perché $a^1 = a$ e quindi la radice non si scrive
+- $\sqrt[2]{a} = \sqrt{a}$ perché le radici quadrate saranno le più numerose, quindi non scriverne l'indice sarà un bel risparmio di tempo

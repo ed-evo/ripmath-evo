@@ -3,7 +3,7 @@
 Ora possiamo vedere alcune applicazioni metriche, derivate dalle teorie precedenti, che ci permetteranno di risolvere abbastanza agevolmente varie classi di problemi
 
 - Triangolo rettangolo isoscele
-- Triangolo con angoli $$30^\circ$$, $$60^\circ$$ e $$90^\circ$$
+- Triangolo con angoli $30^\circ$, $60^\circ$ e $90^\circ$
 - Triangolo equilatero inscritto in una circonferenza
 - Triangolo equilatero circoscritto ad una circonferenza
 - Quadrato inscritto in una circonferenza

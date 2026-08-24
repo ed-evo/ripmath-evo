@@ -2,7 +2,7 @@
 
 Vogliamo trovare l'area del trapezoide.
 
-Dividiamo la base $$ab$$ in intervalli e consideriamo tanti rettangoli, aventi come base questi intervalli e come altezza il minimo della funzione in questi intervalli.
+Dividiamo la base $ab$ in intervalli e consideriamo tanti rettangoli, aventi come base questi intervalli e come altezza il minimo della funzione in questi intervalli.
 
 Ho indicato solamente i primi rettangoli e l'ultimo, ma tu devi considerarli anche in mezzo.
 

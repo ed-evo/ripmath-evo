@@ -4,6 +4,6 @@ Finora negli insiemi non abbiamo mai usato l'ordine: per poterlo introdurre usia
 
 > **[definizione:]{.text-deep-purple}**
 > 
-> Chiameremo **coppia ordinata $$\textcolor{red}{(a, b)}$$** l'insieme di due elementi in cui $$\textcolor{red}{a}$$ è il primo elemento e $$\textcolor{red}{b}$$ è il secondo elemento.
+> Chiameremo **coppia ordinata $\textcolor{red}{(a, b)}$** l'insieme di due elementi in cui $\textcolor{red}{a}$ è il primo elemento e $\textcolor{red}{b}$ è il secondo elemento.
 > 
-> Dalla definizione segue che la coppia ordinata **$$\textcolor{red}{(a, b)}$$** è diversa dalla coppia ordinata **$$\textcolor{red}{(b, a)}$$**.
+> Dalla definizione segue che la coppia ordinata **$\textcolor{red}{(a, b)}$** è diversa dalla coppia ordinata **$\textcolor{red}{(b, a)}$**.

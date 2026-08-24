@@ -41,12 +41,12 @@ $$
 $$
 
 Poniamo ora
-$$\textcolor{blue}{a+b+c = 2p}$$
+$\textcolor{blue}{a+b+c = 2p}$
 in questo modo avremo le relazioni:
 
-- $$\textcolor{blue}{b+c-a = 2(p-a)}$$ [Calcolo](ieacac.html)
-- $$\textcolor{blue}{a-b+c = 2(p-b)}$$ [Calcolo](ieacad.html)
-- $$\textcolor{blue}{a+b-c = 2(p-c)}$$ [Calcolo](ieacae.html)
+- $\textcolor{blue}{b+c-a = 2(p-a)}$ [Calcolo](ieacac.html)
+- $\textcolor{blue}{a-b+c = 2(p-b)}$ [Calcolo](ieacad.html)
+- $\textcolor{blue}{a+b-c = 2(p-c)}$ [Calcolo](ieacae.html)
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{4(p-b)(p-c)}{4bc}}}
@@ -56,7 +56,7 @@ $$
 \textcolor{blue}{\cos \frac{\alpha}{2} = \sqrt{\frac{4p(p-a)}{4bc}}}
 $$
 
-e semplificando per $$4$$
+e semplificando per $4$
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{(p-b)(p-c)}{bc}}}
@@ -76,7 +76,7 @@ $$
 
 Qui di seguito metto le varie formule di Briggs relative ai vari angoli del triangolo:
 
-- per $$\alpha$$
+- per $\alpha$
   $$
   \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{(p-b)(p-c)}{bc}}}
   $$
@@ -87,7 +87,7 @@ Qui di seguito metto le varie formule di Briggs relative ai vari angoli del tria
   \textcolor{blue}{\tan \frac{\alpha}{2} = \sqrt{\frac{(p-b)(p-c)}{p(p-a)}}}
   $$
 
-- per $$\beta$$
+- per $\beta$
   $$
   \textcolor{blue}{\sin \frac{\beta}{2} = \sqrt{\frac{(p-a)(p-c)}{ac}}}
   $$
@@ -98,7 +98,7 @@ Qui di seguito metto le varie formule di Briggs relative ai vari angoli del tria
   \textcolor{blue}{\tan \frac{\beta}{2} = \sqrt{\frac{(p-a)(p-c)}{p(p-b)}}}
   $$
 
-- per $$\gamma$$
+- per $\gamma$
   $$
   \textcolor{blue}{\sin \frac{\gamma}{2} = \sqrt{\frac{(p-a)(p-b)}{ab}}}
   $$

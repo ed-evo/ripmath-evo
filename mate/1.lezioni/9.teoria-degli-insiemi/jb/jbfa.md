@@ -2,7 +2,7 @@
 
 L'unione fra due insiemi è l'operazione che associa ai due insiemi l'insieme i cui elementi appartengono al primo **oppure** al secondo insieme.
 
-Si indica come $$\textcolor{red}{A \cup B}$$ (si legge A unione B).
+Si indica come $\textcolor{red}{A \cup B}$ (si legge A unione B).
 
 Vediamo un esempio:
 
@@ -20,7 +20,7 @@ $$
 \textcolor{red}{A \cup B = \{1, 2, 3, 4, 5, 6\}}
 $$
 
-Devo prendere tutti gli elementi che appartengono ad $$A$$ **o** che appartengono a $$B$$.
+Devo prendere tutti gli elementi che appartengono ad $A$ **o** che appartengono a $B$.
 
 Vediamo mediante i diagrammi:
 

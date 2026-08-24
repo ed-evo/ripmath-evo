@@ -1,6 +1,6 @@
 # Equazioni trinomie
 
-Si chiamerà trinomia un'equazione che ha tre termini, il primo $$x^{2n}$$ con la potenza della $$x$$ doppia del secondo $$x^n$$ ed un termine noto.
+Si chiamerà trinomia un'equazione che ha tre termini, il primo $x^{2n}$ con la potenza della $x$ doppia del secondo $x^n$ ed un termine noto.
 
 $$
 \textcolor{blue}{ax^{2n} + bx^n + c = 0}
@@ -12,13 +12,13 @@ $$
 \textcolor{blue}{x^6 + 9x^3 + 8 = 0}
 $$
 
-Per risolvere quest'equazione (facendo come nelle biquadratiche) conviene sostituire $$x^n$$ con $$y$$ e quindi $$x^{2n}$$ con $$y^2$$, quindi l'equazione diviene di secondo grado in $$y$$;
+Per risolvere quest'equazione (facendo come nelle biquadratiche) conviene sostituire $x^n$ con $y$ e quindi $x^{2n}$ con $y^2$, quindi l'equazione diviene di secondo grado in $y$;
 
 $$
 \textcolor{blue}{ay^2 + by + c = 0}
 $$
 
-trovate le due soluzioni $$y_1$$ ed $$y_2$$ dovrò risolvere le due equazioni binomie
+trovate le due soluzioni $y_1$ ed $y_2$ dovrò risolvere le due equazioni binomie
 
 $$
 \textcolor{blue}{x^n = y_1}
@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{x^n = y_2}
 $$
 
-Le $$2n$$ soluzioni trovate saranno le soluzioni dell'equazione di partenza.
+Le $2n$ soluzioni trovate saranno le soluzioni dell'equazione di partenza.
 
 > Se non hai capito bene segui questo esempio sull'equazione sopra
 >

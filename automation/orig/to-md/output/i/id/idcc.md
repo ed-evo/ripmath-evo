@@ -19,7 +19,7 @@ $$
 \textcolor{red}{\tan \alpha = \frac{a}{b}}
 $$
 
-ricavo $$a$$:
+ricavo $a$:
 
 $$
 \textcolor{red}{b \tan \alpha = a}
@@ -33,7 +33,7 @@ $$
 
 ---
 
-Ora posso ribaltare il triangolo in modo che nel punto $$O$$ vada l'angolo $$\beta$$.
+Ora posso ribaltare il triangolo in modo che nel punto $O$ vada l'angolo $\beta$.
 Dopo il ribaltamento ho cambiato le lettere ai vertici mantenendo inalterati invece i nomi degli angoli e dei lati.
 
 abbiamo:
@@ -48,7 +48,7 @@ $$
 \textcolor{red}{\tan \beta = \frac{b}{a}}
 $$
 
-ricavo $$b$$:
+ricavo $b$:
 
 $$
 \textcolor{red}{a \tan \beta = b}

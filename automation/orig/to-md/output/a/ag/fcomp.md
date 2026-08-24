@@ -1,7 +1,7 @@
 # [Esercizi]{.text-red}
 
 Risolviamo l'equazione:
-$$\textcolor{blue}{2x^2 + 5x + 2 = 0}$$
+$\textcolor{blue}{2x^2 + 5x + 2 = 0}$
 
 Prendiamo la formula risolutiva:
 $$
@@ -9,9 +9,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 2}$$
-$$\textcolor{blue}{b = 5}$$
-$$\textcolor{blue}{c = 2}$$
+$\textcolor{blue}{a = 2}$
+$\textcolor{blue}{b = 5}$
+$\textcolor{blue}{c = 2}$
 
 Sostituiamo nella formula:
 $$
@@ -45,4 +45,4 @@ $$
 \textcolor{red}{x_1 = -\frac{1}{2}} \quad \textcolor{red}{x_2 = -2}
 $$
 
-Essendo $$\textcolor{red}{x^2 - 5x + 6 > 0}$$ dovrò prendere i valori esterni all'intervallo delle radici, quindi $$\textcolor{red}{x < 2 \cup x > 3}$$.
+Essendo $\textcolor{red}{x^2 - 5x + 6 > 0}$ dovrò prendere i valori esterni all'intervallo delle radici, quindi $\textcolor{red}{x < 2 \cup x > 3}$.

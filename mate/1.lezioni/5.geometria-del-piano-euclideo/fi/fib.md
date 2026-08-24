@@ -1,7 +1,7 @@
 # Bisettrice di un angolo
 
 Come **figura geometrica:**
-[la bisettrice di un angolo è la retta che divide l'angolo in $$2$$ parti congruenti;]{.text-red-darken-1}
+[la bisettrice di un angolo è la retta che divide l'angolo in $2$ parti congruenti;]{.text-red-darken-1}
 
 come **luogo geometrico:**
 [la bisettrice di un angolo è l'insieme dei punti del piano equidistanti dai lati dell'angolo]{.text-red-darken-1}

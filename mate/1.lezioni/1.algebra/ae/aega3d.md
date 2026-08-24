@@ -6,5 +6,5 @@ $$
 
 Scomponiamo ove possibile
 
-- [$$\textcolor{red}{3x + 3 = 3(x + 1)}$$]{.text-red} raccoglimento a fattor comune
-- [$$\textcolor{red}{3x \cdot (x^2 - 1) = 3 \cdot (x - 1) \cdot (x + 1)}$$]{.text-red} dentro parentesi è differenza di quadrati
+- [$\textcolor{red}{3x + 3 = 3(x + 1)}$]{.text-red} raccoglimento a fattor comune
+- [$\textcolor{red}{3x \cdot (x^2 - 1) = 3 \cdot (x - 1) \cdot (x + 1)}$]{.text-red} dentro parentesi è differenza di quadrati

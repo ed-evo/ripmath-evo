@@ -10,17 +10,17 @@ Vediamo un esempio pratico
 
 Trovare l'equazione della tangente alla circonferenza
 
-$$\textcolor{red}{x^2 + y^2 - 25 = 0}$$
+$\textcolor{red}{x^2 + y^2 - 25 = 0}$
 
 condotte dal suo punto
 
-$$\textcolor{red}{P(3,4)}$$
+$\textcolor{red}{P(3,4)}$
 
-È la circonferenza di centro $$O(0,0)$$ e raggio $$5$$.
+È la circonferenza di centro $O(0,0)$ e raggio $5$.
 
-Per trovare l'equazione della retta tangente considero il fascio di rette passante per il punto $$P(3,4)$$
+Per trovare l'equazione della retta tangente considero il fascio di rette passante per il punto $P(3,4)$
 
-$$\textcolor{red}{y - 4 = m(x - 3)}$$
+$\textcolor{red}{y - 4 = m(x - 3)}$
 
 Faccio il sistema fra la circonferenza ed il fascio di rette
 
@@ -56,40 +56,40 @@ $$
 \end{cases}
 $$
 
-Raccolgo i termini con $$x^2$$, con $$x$$ ed i termini noti ed ottengo l'equazione risolvente
+Raccolgo i termini con $x^2$, con $x$ ed i termini noti ed ottengo l'equazione risolvente
 
-$$\textcolor{red}{x^2(1 + m^2) - 2x(3m^2 - 4m) + 9m^2 - 24m - 9 = 0}$$
+$\textcolor{red}{x^2(1 + m^2) - 2x(3m^2 - 4m) + 9m^2 - 24m - 9 = 0}$
 
-Ora calcolo il discriminante (anzi il Delta quarti essendo il termine con la $$x$$ divisibile per $$2$$) $$(b/2)^2 - ac$$ e lo pongo uguale a zero, in tal modo determino i valori di $$m$$ per cui le rette del fascio sono tangenti
+Ora calcolo il discriminante (anzi il Delta quarti essendo il termine con la $x$ divisibile per $2$) $(b/2)^2 - ac$ e lo pongo uguale a zero, in tal modo determino i valori di $m$ per cui le rette del fascio sono tangenti
 
-$$\textcolor{purple}{a = 1 + m^2}$$
-$$\textcolor{purple}{b = -2(3m^2 - 4m)}$$
-$$\textcolor{purple}{c = 9m^2 - 24m - 9}$$
+$\textcolor{purple}{a = 1 + m^2}$
+$\textcolor{purple}{b = -2(3m^2 - 4m)}$
+$\textcolor{purple}{c = 9m^2 - 24m - 9}$
 
-$$\textcolor{blue}{(b/2)^2 - ac =}$$
+$\textcolor{blue}{(b/2)^2 - ac =}$
 
-$$\textcolor{red}{(3m^2 - 4m)^2 - (1 + m^2)(9m^2 - 24m - 9) = 0}$$
+$\textcolor{red}{(3m^2 - 4m)^2 - (1 + m^2)(9m^2 - 24m - 9) = 0}$
 
 ([calcoli](ddcfca.html))
 
-$$\textcolor{red}{16m^2 + 24m + 9 = 0}$$
+$\textcolor{red}{16m^2 + 24m + 9 = 0}$
 
 Come ci aspettavamo è un quadrato perfetto
 
-$$\textcolor{red}{(4m + 3)^2 = 0}$$
-$$\textcolor{red}{4m + 3 = 0}$$
+$\textcolor{red}{(4m + 3)^2 = 0}$
+$\textcolor{red}{4m + 3 = 0}$
 
-$$\textcolor{red}{m = -\frac{3}{4}}$$
+$\textcolor{red}{m = -\frac{3}{4}}$
 
-Sostituisco $$m$$ nell'equazione del fascio
+Sostituisco $m$ nell'equazione del fascio
 
-$$y = mx - 3m + 4$$
+$y = mx - 3m + 4$
 
-$$\textcolor{red}{y = (-3/4)x - 3(-3/4) + 4}$$
+$\textcolor{red}{y = (-3/4)x - 3(-3/4) + 4}$
 
 L'equazione della retta tangente è
 
-$$\textcolor{red}{y = -\frac{3}{4}x + \frac{25}{4}}$$
+$\textcolor{red}{y = -\frac{3}{4}x + \frac{25}{4}}$
 
 ---
 
@@ -104,30 +104,30 @@ Vediamo anche un altro metodo che mi ha inviato Daniele: un visitatore del sito
 
 Trovare l'equazione della tangente alla circonferenza
 
-$$\textcolor{red}{x^2 + y^2 - 25 = 0}$$
+$\textcolor{red}{x^2 + y^2 - 25 = 0}$
 
 condotte dal suo punto
 
-$$\textcolor{red}{P(3,4)}$$
+$\textcolor{red}{P(3,4)}$
 
-calcoliamo il [coefficiente angolare](../dc/dcebc.html) della retta $$OP$$
+calcoliamo il [coefficiente angolare](../dc/dcebc.html) della retta $OP$
 
-$$\textcolor{red}{m = \frac{4 - 0}{3 - 0} = \frac{4}{3}}$$
+$\textcolor{red}{m = \frac{4 - 0}{3 - 0} = \frac{4}{3}}$
 
 Quindi la tangente, essendo la [perpendicolare](../dc/dcega.html) avrà coefficiente angolare:
 
-$$\textcolor{red}{m = -\frac{3}{4}}$$
+$\textcolor{red}{m = -\frac{3}{4}}$
 
-quindi per trovare la tangente basterà prendere [l'equazione della retta passante per $$P$$](../dc/dcegb.html) e con coefficiente angolare uguale a $$-3/4$$
+quindi per trovare la tangente basterà prendere [l'equazione della retta passante per $P$](../dc/dcegb.html) e con coefficiente angolare uguale a $-3/4$
 
-$$\textcolor{red}{y - 4 = -\frac{3}{4}(x - 3)}$$
+$\textcolor{red}{y - 4 = -\frac{3}{4}(x - 3)}$
 
-moltiplico tutto per $$4$$ per togliere i denominatori
+moltiplico tutto per $4$ per togliere i denominatori
 
-$$\textcolor{red}{4y - 16 = -3(x - 3)}$$
-$$\textcolor{red}{4y - 16 = -3x + 9}$$
-$$\textcolor{red}{4y = -3x + 25}$$
+$\textcolor{red}{4y - 16 = -3(x - 3)}$
+$\textcolor{red}{4y - 16 = -3x + 9}$
+$\textcolor{red}{4y = -3x + 25}$
 
 e quindi esplicitando
 
-$$\textcolor{red}{y = -\frac{3}{4}x + \frac{25}{4}}$$
+$\textcolor{red}{y = -\frac{3}{4}x + \frac{25}{4}}$

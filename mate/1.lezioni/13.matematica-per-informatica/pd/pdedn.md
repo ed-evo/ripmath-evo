@@ -1,6 +1,6 @@
 # Contro-implicazione inversa
 
-> È la contro-implicazione inversa $$àb$$
+> È la contro-implicazione inversa $àb$
 >
 > corrisponde alla [contro-implicazione inversa in logica](../../k/kb/kblan.html)
 >

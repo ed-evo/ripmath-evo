@@ -30,7 +30,7 @@ Conoscendo il perimetro del triangolo ed il raggio del cerchio inscritto, [per q
 
 Come conseguenza notevole troviamo l'area del rombo considerandola come l'area di due triangoli.
 
-Infatti il rombo $$ABCD$$ può essere pensato composto da due triangoli congruenti $$ABD$$ e $$BCD$$, di base la diagonale $$d_1$$ e con somma delle altezze la diagonale $$d_2$$.
+Infatti il rombo $ABCD$ può essere pensato composto da due triangoli congruenti $ABD$ e $BCD$, di base la diagonale $d_1$ e con somma delle altezze la diagonale $d_2$.
 
 quindi
 

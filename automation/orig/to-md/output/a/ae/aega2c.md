@@ -5,5 +5,5 @@ $$
 $$
 
 > Posso scomporre:
-> - il primo numeratore $$\textcolor{red}{2x + 4 = 2(x + 2)}$$ (raccoglimento a fattor comune)
-> - il secondo denominatore $$\textcolor{red}{x^2 + x - 2 = (x + 2) \cdot (x - 1)}$$ (trinomio notevole)
+> - il primo numeratore $\textcolor{red}{2x + 4 = 2(x + 2)}$ (raccoglimento a fattor comune)
+> - il secondo denominatore $\textcolor{red}{x^2 + x - 2 = (x + 2) \cdot (x - 1)}$ (trinomio notevole)

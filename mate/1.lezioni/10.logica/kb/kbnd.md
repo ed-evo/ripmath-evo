@@ -10,15 +10,15 @@ $$
 
 > **Esempio**
 >
-> **Se un numero è divisibile per $$4$$ allora il numero è pari**
+> **Se un numero è divisibile per $4$ allora il numero è pari**
 >
-> **Ipotesi:** un numero è divisibile per $$4$$
+> **Ipotesi:** un numero è divisibile per $4$
 > **Tesi:** il numero è pari
 >
 > **Ragionamento:**
 > - Nego la tesi: il numero non è pari
-> - Se un numero non è pari allora non è divisibile per $$2$$
-> - Se un numero non è divisibile per $$2$$ allora non è nemmeno divisibile per $$4$$
-> - Ne segue che il numero non è divisibile per $$4$$.
+> - Se un numero non è pari allora non è divisibile per $2$
+> - Se un numero non è divisibile per $2$ allora non è nemmeno divisibile per $4$
+> - Ne segue che il numero non è divisibile per $4$.
 >
 > Negando la tesi ho negato anche l'ipotesi e quindi il teorema è vero.

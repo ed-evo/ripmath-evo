@@ -1,24 +1,24 @@
 # Problema
 
-[In un rettangolo il perimetro è di $$120\text{ cm}$$ e la base è la metà dell'altezza; determinare l'area]{.text-blue}
+[In un rettangolo il perimetro è di $120\text{ cm}$ e la base è la metà dell'altezza; determinare l'area]{.text-blue}
 
 Come prima cosa costruiamo la figura e mettiamo i dati che abbiamo;
 
-La relazione mi è data dal problema, però devo scriverla per esteso, quindi invece di [perimetro = $$120\text{ cm}$$]{.text-red} scriverò:
+La relazione mi è data dal problema, però devo scriverla per esteso, quindi invece di [perimetro = $120\text{ cm}$]{.text-red} scriverò:
 
 $$
 \overline{AB} + \overline{BC} + \overline{CD} + \overline{DA} = 120
 $$
 
-So che la base è la metà dell'altezza, quindi se chiamo la base $$x$$:
+So che la base è la metà dell'altezza, quindi se chiamo la base $x$:
 
-$$\overline{BC} = \overline{DA} = x$$
+$\overline{BC} = \overline{DA} = x$
 
 allora l'altezza sarà:
 
-$$\overline{AB} = \overline{CD} = 2x$$
+$\overline{AB} = \overline{CD} = 2x$
 
-> Avrei potuto chiamare $$x$$ l'altezza e $$1/2 x$$ la base, ma chi vuole lavorare con le frazioni se è possibile evitarlo?
+> Avrei potuto chiamare $x$ l'altezza e $1/2 x$ la base, ma chi vuole lavorare con le frazioni se è possibile evitarlo?
 
 Sostituisco nella relazione:
 
@@ -36,9 +36,9 @@ $$
 
 Quindi:
 
-$$\overline{BC} = \overline{DA} = 20\text{ cm}$$
+$\overline{BC} = \overline{DA} = 20\text{ cm}$
 
-$$\overline{AB} = \overline{CD} = 2x = 40\text{ cm}$$
+$\overline{AB} = \overline{CD} = 2x = 40\text{ cm}$
 
 Ora possiamo trovare l'area:
 

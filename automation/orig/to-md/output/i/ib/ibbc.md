@@ -1,6 +1,6 @@
 # [Funzione tangente]{.text-red}
 
 - Definizione
-- Valori di $$\text{tg } \alpha$$
-- Come si disegna la funzione $$y = \text{tg } x$$
+- Valori di $\text{tg } \alpha$
+- Come si disegna la funzione $y = \text{tg } x$
 - Caratteristiche della tangentoide

@@ -1,6 +1,6 @@
-# Se nella circonferenza mancano il termine $$ax$$ ed il termine noto $$c$$
+# Se nella circonferenza mancano il termine $ax$ ed il termine noto $c$
 
-In tal caso $$\textcolor{blue}{a = 0}$$ e $$\textcolor{blue}{c = 0}$$ e l'equazione della circonferenza diventa
+In tal caso $\textcolor{blue}{a = 0}$ e $\textcolor{blue}{c = 0}$ e l'equazione della circonferenza diventa
 
 $$
 \textcolor{blue}{x^2 + y^2 + by = 0}
@@ -8,7 +8,7 @@ $$
 
 Basta sommare i due fatti:
 
-> Siccome manca il termine $$ax$$ la circonferenza ha il centro su un punto dell'asse delle $$y$$ (equazione $$x=0$$), inoltre poiché manca il termine noto la circonferenza passa per l'origine;
+> Siccome manca il termine $ax$ la circonferenza ha il centro su un punto dell'asse delle $y$ (equazione $x=0$), inoltre poiché manca il termine noto la circonferenza passa per l'origine;
 
 ## Esempio, considero la circonferenza:
 
@@ -36,4 +36,4 @@ $$
 \textcolor{red}{= \sqrt{0 + 16 - 0} = \sqrt{16} = 4}
 $$
 
-È la circonferenza di centro $$C(0,4)$$ e raggio $$4$$
+È la circonferenza di centro $C(0,4)$ e raggio $4$

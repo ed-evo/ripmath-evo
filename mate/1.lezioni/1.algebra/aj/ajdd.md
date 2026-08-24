@@ -58,4 +58,4 @@ $$
 
 cioè per moltiplicare fra loro tre matrici puoi moltiplicare prima le prime due e poi la matrice ottenuta per la terza oppure puoi moltiplicare tra loro prima la seconda e la terza e poi moltiplicare la prima per la matrice prodotto ottenuta: ottieni lo stesso risultato.
 
-> **Esercizio:** prova a moltiplicare tre matrici $$3 \times 3$$ nei due modi diversi.
+> **Esercizio:** prova a moltiplicare tre matrici $3 \times 3$ nei due modi diversi.

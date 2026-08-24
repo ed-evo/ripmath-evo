@@ -6,4 +6,4 @@
 > \text{Volume} = \frac{2}{3} \pi r h
 > $$
 
-con $$h$$ altezza della zona sferica oppure della calotta sferica.
+con $h$ altezza della zona sferica oppure della calotta sferica.

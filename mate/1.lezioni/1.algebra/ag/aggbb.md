@@ -1,6 +1,6 @@
 # Il modulo di una somma è minore o uguale alla somma dei moduli
 
-Se $$p$$ e $$q$$ sono numeri reali, vale sempre la disuguaglianza
+Se $p$ e $q$ sono numeri reali, vale sempre la disuguaglianza
 
 $$
 |p + q| \le |p| + |q|
@@ -57,7 +57,7 @@ cioè
 > -b \le a \le b \iff |a| \le b
 > $$
 >
-> se al posto di $$a$$ pongo $$p + q$$ ed al posto di $$b$$ pongo $$|p| + |q|$$ ottengo
+> se al posto di $a$ pongo $p + q$ ed al posto di $b$ pongo $|p| + |q|$ ottengo
 >
 > $$
 > -(|p| + |q|) \le (p + q) \le (|p| + |q|) \iff |p + q| \le |p| + |q|

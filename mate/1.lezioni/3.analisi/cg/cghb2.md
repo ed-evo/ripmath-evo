@@ -1,22 +1,22 @@
 # esercizio
 
-Trovare due numeri la cui somma è $$10$$ tale che la somma dei loro quadrati sia minima
+Trovare due numeri la cui somma è $10$ tale che la somma dei loro quadrati sia minima
 
 ***
 
-La $$y$$ sarà la somma dei quadrati cioè:
+La $y$ sarà la somma dei quadrati cioè:
 
 $$
 \textcolor{red}{y = (\text{primo numero})^2 + (\text{secondo numero})^2}
 $$
 
-chiamo $$x$$ il primo numero:
+chiamo $x$ il primo numero:
 
 $$
 \textcolor{red}{\text{primo numero} = x}
 $$
 
-Devo esprimere il secondo numero con la $$x$$: so che
+Devo esprimere il secondo numero con la $x$: so che
 
 $$
 \textcolor{red}{\text{primo numero} + \text{secondo numero} = 10}
@@ -62,7 +62,7 @@ $$
 \textcolor{red}{x = 5}
 $$
 
-Trovo il valore della $$y$$ in corrispondenza del valore $$5$$ della $$x$$:
+Trovo il valore della $y$ in corrispondenza del valore $5$ della $x$:
 
 $$
 \textcolor{red}{y(5) = 5^2 + (10 - 5)^2 = 25 + 25 = 50}
@@ -72,7 +72,7 @@ $$
 \textcolor{red}{P(5, 50)}
 $$
 
-Per vedere se si tratta di un massimo o un minimo trovo la derivata seconda e ne calcolo il valore per $$x = 5$$:
+Per vedere se si tratta di un massimo o un minimo trovo la derivata seconda e ne calcolo il valore per $x = 5$:
 
 $$
 \textcolor{red}{y'' = 4}
@@ -86,4 +86,4 @@ Si tratta di un minimo come cercavamo.
 
 ***
 
-I due numeri cercati sono $$5$$ e $$5$$, cioè la somma è minima quando i due numeri sono uguali.
+I due numeri cercati sono $5$ e $5$, cioè la somma è minima quando i due numeri sono uguali.

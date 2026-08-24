@@ -2,13 +2,13 @@
 
 Anche qui non devi confondere la **doppia deduzione logica** con la coimplicazione:
 
-La **doppia deduzione logica** (indicata col simbolo $$\Leftrightarrow$$ che si legge **se e solo se**) è una procedura in base alla quale date due proposizioni **Ipotesi** e **Tesi** si può dimostrare
+La **doppia deduzione logica** (indicata col simbolo $\Leftrightarrow$ che si legge **se e solo se**) è una procedura in base alla quale date due proposizioni **Ipotesi** e **Tesi** si può dimostrare
 
-$$\text{da Ipotesi} \Rightarrow \text{Tesi}$$
+$\text{da Ipotesi} \Rightarrow \text{Tesi}$
 
 ed anche
 
-$$\text{da Tesi} \Rightarrow \text{Ipotesi}$$
+$\text{da Tesi} \Rightarrow \text{Ipotesi}$
 
 Il secondo è detto anche teorema inverso del primo.
 
@@ -49,6 +49,6 @@ Essere un rettangolo è una condizione solamente necessaria perché non vale il 
 
 ---
 
-In alcuni testi si usa il simbolo $$\leftrightarrow$$ (una linea sola) per indicare la coimplicazione ed il simbolo $$\Leftrightarrow$$ (con doppia linea) per la doppia deduzione logica, ma in altri testi viene indicato diversamente.
+In alcuni testi si usa il simbolo $\leftrightarrow$ (una linea sola) per indicare la coimplicazione ed il simbolo $\Leftrightarrow$ (con doppia linea) per la doppia deduzione logica, ma in altri testi viene indicato diversamente.
 
 Tu cerca di usare gli stessi simboli che usa il tuo Insegnante.

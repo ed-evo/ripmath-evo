@@ -4,7 +4,7 @@ $$
 \textcolor{red}{\begin{cases} x - y = 1 \\ x^3 - y^3 = 37 \end{cases}}
 $$
 
-Anche qui poniamo $$y = -k$$; otteniamo
+Anche qui poniamo $y = -k$; otteniamo
 
 $$
 \textcolor{blue}{\begin{cases} x - (-k) = 1 \\ x^3 - (-k)^3 = 37 \end{cases}}
@@ -20,7 +20,7 @@ $$
 \textcolor{blue}{\begin{cases} x + k = 1 \\ (x+k)^3 - 3kx(x+k) = 37 \end{cases}}
 $$
 
-Ora sostituisco il valore $$(x+k)=1$$ nella seconda equazione
+Ora sostituisco il valore $(x+k)=1$ nella seconda equazione
 
 $$
 \textcolor{blue}{\begin{cases} x + k = 1 \\ (1)^3 - 3kx(1) = 37 \end{cases}}

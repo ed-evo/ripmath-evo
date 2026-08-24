@@ -4,7 +4,7 @@ $$
 \textcolor{blue}{x^2 - 3x - 10}
 $$
 
-Posso farlo o con il metodo di scomposizione (trovare due numeri la cui somma algebrica è $$-3$$ ed il prodotto è $$-10$$)
+Posso farlo o con il metodo di scomposizione (trovare due numeri la cui somma algebrica è $-3$ ed il prodotto è $-10$)
 
 $$
 \textcolor{blue}{x^2 - 3x - 10 = (x + 2) (x - 5)}

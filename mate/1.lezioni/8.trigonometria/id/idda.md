@@ -1,6 +1,6 @@
 - Primo esempio:
-nel triangolo $$ABC$$ ho [$$a = 5 \text{ cm}, \alpha = 30^\circ, \beta = 45^\circ$$]{.text-blue}
-in queste condizioni posso trovare $$b$$
+nel triangolo $ABC$ ho [$a = 5 \text{ cm}, \alpha = 30^\circ, \beta = 45^\circ$]{.text-blue}
+in queste condizioni posso trovare $b$
 imposto l'uguaglianza
 
 $$
@@ -24,8 +24,8 @@ $$
 $$
 
 - Secondo esempio:
-nel triangolo $$ABC$$ ho [$$a = 6 \text{ cm}, b = 8 \text{ cm}, \alpha = 30^\circ$$]{.text-blue}
-in queste condizioni posso trovare $$\beta$$
+nel triangolo $ABC$ ho [$a = 6 \text{ cm}, b = 8 \text{ cm}, \alpha = 30^\circ$]{.text-blue}
+in queste condizioni posso trovare $\beta$
 imposto l'uguaglianza
 
 $$
@@ -48,7 +48,7 @@ $$
 \textcolor{blue}{\sin \beta = \frac{8 \cdot \frac{1}{2}}{6} = \frac{2}{3}}
 $$
 
-quindi ho il valore del seno di $$\beta$$ e possiamo risalire all'angolo con le tavole o con una calcolatrice e troviamo circa $$42^\circ$$, o meglio lo indichiamo nel seguente modo:
+quindi ho il valore del seno di $\beta$ e possiamo risalire all'angolo con le tavole o con una calcolatrice e troviamo circa $42^\circ$, o meglio lo indichiamo nel seguente modo:
 
 $$
 \beta = \arcsin \frac{2}{3}

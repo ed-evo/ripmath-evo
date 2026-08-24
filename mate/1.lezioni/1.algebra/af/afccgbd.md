@@ -24,7 +24,7 @@ $$
 \textcolor{red}{x + 1 \neq 0 \implies x \neq -1}
 $$
 
-Cioè se troveremo come soluzione $$x = 1$$ o $$x = -1$$ diremo che l'equazione è impossibile.
+Cioè se troveremo come soluzione $x = 1$ o $x = -1$ diremo che l'equazione è impossibile.
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
 
 $$
@@ -37,7 +37,7 @@ $$
 
 Elimino i denominatori
 
-> Devo moltiplicare da entrambe le parti per $$(x-1)(x+1)$$; posso farlo perché nelle condizioni di realtà ho posto che i fattori sono diversi da zero
+> Devo moltiplicare da entrambe le parti per $(x-1)(x+1)$; posso farlo perché nelle condizioni di realtà ho posto che i fattori sono diversi da zero
 
 $$
 \textcolor{blue}{(x+1)(x^2 - x + 1) - (x-1)(x^2 + x + 1) = 3x(x - 1) + 2}
@@ -67,7 +67,7 @@ $$
 \textcolor{blue}{-3x^2 + 3x = 0}
 $$
 
-raccolgo a fattor comune $$-3x$$
+raccolgo a fattor comune $-3x$
 
 $$
 \textcolor{blue}{-3x(x - 1) = 0}
@@ -86,7 +86,7 @@ $$
   $$
   \textcolor{blue}{-3x = 0}
   $$
-  divido per $$-3$$ da entrambe le parti dell'uguale ed ottengo
+  divido per $-3$ da entrambe le parti dell'uguale ed ottengo
   $$
   \textcolor{blue}{x = 0}
   $$
@@ -94,7 +94,7 @@ $$
   $$
   \textcolor{blue}{x - 1 = 0}
   $$
-  porto $$-1$$ dopo l'uguale cambiandolo di segno
+  porto $-1$ dopo l'uguale cambiandolo di segno
   $$
   \textcolor{blue}{x = 1}
   $$

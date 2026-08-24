@@ -1,10 +1,10 @@
 # [Esercizi]{.text-red}
 
 Ho la disequazione
-$$ \textcolor{red}{x^2 - 2x - 3 > 0} $$
+$\textcolor{red}{x^2 - 2x - 3 > 0}$
 
 considero l'equazione associata:
-$$ \textcolor{blue}{x^2 - 2x - 3 = 0} $$
+$\textcolor{blue}{x^2 - 2x - 3 = 0}$
 
 prendiamo la formula risolutiva
 
@@ -13,9 +13,9 @@ $$
 $$
 
 abbiamo:
-$$ \textcolor{blue}{a = 1} $$
-$$ \textcolor{blue}{b = -2} $$
-$$ \textcolor{blue}{c = -3} $$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -2}$
+$\textcolor{blue}{c = -3}$
 
 sostituiamo nella formula
 
@@ -49,8 +49,8 @@ $$
 
 Ho quindi le due soluzioni
 
-$$ \textcolor{red}{x_1 = -1} \quad \textcolor{red}{x_2 = 3} $$
+$\textcolor{red}{x_1 = -1} \quad \textcolor{red}{x_2 = 3}$
 
-Essendo $$\textcolor{red}{x^2 - 2x - 3 > 0}$$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
+Essendo $\textcolor{red}{x^2 - 2x - 3 > 0}$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
 
-$$ \textcolor{red}{x < -1 \cup x > 3} $$
+$\textcolor{red}{x < -1 \cup x > 3}$

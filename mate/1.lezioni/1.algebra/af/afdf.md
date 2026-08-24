@@ -1,6 +1,6 @@
 # Equazioni irrazionali
 
-Sono equazioni in cui la $$x$$ compare sotto il segno di radice: per poterle risolvere dovremo eliminare le radici elevando i termini opportunamente.
+Sono equazioni in cui la $x$ compare sotto il segno di radice: per poterle risolvere dovremo eliminare le radici elevando i termini opportunamente.
 
 In queste equazioni si cercano solamente i valori Reali.
 

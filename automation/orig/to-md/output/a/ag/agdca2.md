@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{x^2 - 6x + 8 \le 0}

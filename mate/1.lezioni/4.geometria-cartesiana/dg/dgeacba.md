@@ -1,16 +1,16 @@
 Disegniamo prima la parabola di equazione
-$$y = x^2 - 2x$$
+$y = x^2 - 2x$
 
-Troviamo prima le coordinate del vertice $$V_1$$
+Troviamo prima le coordinate del vertice $V_1$
 
 $$
 V = \left( -\frac{b}{2a}; -\frac{b^2-4ac}{4a} \right)
 $$
 
 abbiamo
-$$a = 1$$
-$$b = -2$$
-$$c = 0$$
+$a = 1$
+$b = -2$
+$c = 0$
 
 quindi
 
@@ -24,7 +24,7 @@ $$
 
 Intersezioni con gli assi
 
-- Intersezioni asse $$x$$: faccio il sistema fra l'asse $$x$$ ($$y=0$$) e l'equazione della parabola
+- Intersezioni asse $x$: faccio il sistema fra l'asse $x$ ($y=0$) e l'equazione della parabola
   $$
   \begin{cases} y = 0 \\ y = x^2 - 2x \end{cases}
   $$
@@ -32,30 +32,30 @@ Intersezioni con gli assi
   \begin{cases} y = 0 \\ x^2 - 2x = 0 \end{cases}
   $$
   risolvo l'equazione di secondo grado spuria ed ottengo
-  $$x_1 = 0$$
-  $$x_2 = 2$$
-  quindi i punti di intersezione con l'asse delle $$x$$ sono
-  $$O = (0,0)$$ $$A = (2,0)$$
+  $x_1 = 0$
+  $x_2 = 2$
+  quindi i punti di intersezione con l'asse delle $x$ sono
+  $O = (0,0)$ $A = (2,0)$
 
-- Intersezioni asse $$y$$: è il punto $$(0,0)$$ già trovato
+- Intersezioni asse $y$: è il punto $(0,0)$ già trovato
 
 ***
 
 Disegniamo ora la parabola di equazione
-$$y = -x^2 + 2x$$
+$y = -x^2 + 2x$
 
-> Siccome la seconda equazione si ottiene dalla prima scambiando $$y$$ con $$-y$$, la seconda parabola sarà la simmetrica della prima rispetto all'asse $$x$$.
+> Siccome la seconda equazione si ottiene dalla prima scambiando $y$ con $-y$, la seconda parabola sarà la simmetrica della prima rispetto all'asse $x$.
 
-Troviamo prima le coordinate del vertice $$V_2$$
+Troviamo prima le coordinate del vertice $V_2$
 
 $$
 V = \left( -\frac{b}{2a}; -\frac{b^2-4ac}{4a} \right)
 $$
 
 abbiamo
-$$a = -1$$
-$$b = 2$$
-$$c = 0$$
+$a = -1$
+$b = 2$
+$c = 0$
 
 quindi
 
@@ -69,7 +69,7 @@ $$
 
 Intersezioni con gli assi
 
-- Intersezioni asse $$x$$: faccio il sistema fra l'asse $$x$$ ($$y=0$$) e l'equazione della parabola
+- Intersezioni asse $x$: faccio il sistema fra l'asse $x$ ($y=0$) e l'equazione della parabola
   $$
   \begin{cases} y = 0 \\ y = -x^2 + 2x \end{cases}
   $$
@@ -77,15 +77,15 @@ Intersezioni con gli assi
   \begin{cases} y = 0 \\ -x^2 + 2x = 0 \end{cases}
   $$
   risolvo l'equazione di secondo grado spuria ed ottengo
-  $$x_1 = 0$$
-  $$x_2 = 2$$
-  quindi i punti di intersezione con l'asse delle $$x$$ sono
-  $$O = (0,0)$$ $$A = (2,0)$$
+  $x_1 = 0$
+  $x_2 = 2$
+  quindi i punti di intersezione con l'asse delle $x$ sono
+  $O = (0,0)$ $A = (2,0)$
 
-- Intersezioni asse $$y$$: è il punto $$(0,0)$$ già trovato
+- Intersezioni asse $y$: è il punto $(0,0)$ già trovato
 
-Possiamo dire di avere già trovato i punti di intersezione delle due parabole: sono i due punti di intersezione con l'asse delle $$x$$.
+Possiamo dire di avere già trovato i punti di intersezione delle due parabole: sono i due punti di intersezione con l'asse delle $x$.
 
 Adesso congiungo i punti con una curva continua ed ottengo il grafico delle parabole.
 
-> Anche se non sembra dall'orrendo grafico che ho fatto, le due parabole sono simmetriche (simmetria assiale): posso ottenere la seconda parabola ribaltando la prima attorno all'asse $$x$$.
+> Anche se non sembra dall'orrendo grafico che ho fatto, le due parabole sono simmetriche (simmetria assiale): posso ottenere la seconda parabola ribaltando la prima attorno all'asse $x$.

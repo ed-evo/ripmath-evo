@@ -41,9 +41,9 @@ $$
 \end{cases}
 $$
 
-Il sistema è di secondo grado perché la prima equazione è di grado $$2$$ e la seconda di grado $$1$$.
+Il sistema è di secondo grado perché la prima equazione è di grado $2$ e la seconda di grado $1$.
 
-Ricavo la $$y$$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione (conviene ricavare la $$y$$, altrimenti se ricavo la $$x$$ devo anche moltiplicare per $$3$$):
+Ricavo la $y$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione (conviene ricavare la $y$, altrimenti se ricavo la $x$ devo anche moltiplicare per $3$):
 
 $$
 \begin{cases}
@@ -75,7 +75,7 @@ $$
 \end{cases}
 $$
 
-Divido per $$2$$ tutti i termini della prima equazione:
+Divido per $2$ tutti i termini della prima equazione:
 
 $$
 \begin{cases}
@@ -90,9 +90,9 @@ $$
 \textcolor{red}{x_1 = -3a + 1} \quad \textcolor{red}{x_2 = a - 1}
 $$
 
-Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $$y$$ corrispondenti:
+Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $y$ corrispondenti:
 
-- Primo valore $$x = -3a + 1$$
+- Primo valore $x = -3a + 1$
   $$
   \begin{cases}
   \textcolor{red}{x = -3a + 1} \\
@@ -114,7 +114,7 @@ Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione 
   \end{cases}
   $$
 
-- Secondo valore $$x = a - 1$$
+- Secondo valore $x = a - 1$
   $$
   \begin{cases}
   \textcolor{red}{x = a - 1} \\

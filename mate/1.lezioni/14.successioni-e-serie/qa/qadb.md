@@ -1,6 +1,6 @@
-# Successioni generate da prodotto per $$-1$$
+# Successioni generate da prodotto per $-1$
 
-In genere saranno le stesse successioni (a parte Fibonacci): basterà considerare i prodotti per $$-1$$, cioè i numeri interi negativi; è raro considerarle, ma qualche volta servono
+In genere saranno le stesse successioni (a parte Fibonacci): basterà considerare i prodotti per $-1$, cioè i numeri interi negativi; è raro considerarle, ma qualche volta servono
 
 - successione dei numeri interi negativi
 - successione dei numeri pari negativi

@@ -22,19 +22,19 @@ la dimostrazione di tale teorema sarà data nel capitolo sulla similitudine; com
 
 ***
 
-**Ipotesi:** $$AM = MB$$, $$AP = PC$$, $$BN = NC$$
-**Tesi:** $$CK = 2KM$$
+**Ipotesi:** $AM = MB$, $AP = PC$, $BN = NC$
+**Tesi:** $CK = 2KM$
 
-Le due mediane $$BP$$ ed $$AN$$ si incontrano nel punto $$K$$.
-Dai punti $$M$$ e $$P$$ mando le parallele alla mediana $$AN$$.
-Per il teorema di Talete applicato al triangolo $$ABN$$ avrò $$BH = HN$$. Per il teorema di Talete applicato al triangolo $$ANC$$ avrò $$NT = TC$$.
-Essendo i segmenti $$BN$$ ed $$NC$$ congruenti per ipotesi avrò:
+Le due mediane $BP$ ed $AN$ si incontrano nel punto $K$.
+Dai punti $M$ e $P$ mando le parallele alla mediana $AN$.
+Per il teorema di Talete applicato al triangolo $ABN$ avrò $BH = HN$. Per il teorema di Talete applicato al triangolo $ANC$ avrò $NT = TC$.
+Essendo i segmenti $BN$ ed $NC$ congruenti per ipotesi avrò:
 
 $$
 BH = HN = NT = TC
 $$
 
-Se ora considero il triangolo $$CMH$$ avremo sempre per Talete che $$CR = RK = KM$$ e quindi:
+Se ora considero il triangolo $CMH$ avremo sempre per Talete che $CR = RK = KM$ e quindi:
 
 $$
 CK = 2KM

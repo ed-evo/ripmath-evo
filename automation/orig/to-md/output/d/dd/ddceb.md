@@ -1,6 +1,6 @@
-# [Se nella circonferenza manca il termine $$\textcolor{red}{bx}$$]{.text-red}
+# [Se nella circonferenza manca il termine $\textcolor{red}{bx}$]{.text-red}
 
-In tal caso $$\textcolor{blue}{b = 0}$$ e l'equazione della circonferenza diventa:
+In tal caso $\textcolor{blue}{b = 0}$ e l'equazione della circonferenza diventa:
 
 $$
 \textcolor{blue}{x^2 + y^2 + ax + c = 0}
@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{y_0 = 0}
 $$
 
-Cioè, se manca il termine $$\textcolor{blue}{bx}$$ la circonferenza ha il centro su un punto dell'asse delle $$x$$ (equazione $$y=0$$).
+Cioè, se manca il termine $\textcolor{blue}{bx}$ la circonferenza ha il centro su un punto dell'asse delle $x$ (equazione $y=0$).
 
 ***
 
@@ -44,4 +44,4 @@ $$
 \textcolor{red}{r = \sqrt{x_0^2 + y_0^2 - c} = \sqrt{25 + 0 - 9} = \sqrt{16} = 4}
 $$
 
-È la circonferenza di centro $$C(5,0)$$ e raggio $$4$$.
+È la circonferenza di centro $C(5,0)$ e raggio $4$.

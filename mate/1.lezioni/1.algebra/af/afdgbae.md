@@ -12,9 +12,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 3}$$
-$$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\beta = -5}$$
-$$\textcolor{blue}{c = 3}$$
+$\textcolor{blue}{a = 3}$
+$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\beta = -5}$
+$\textcolor{blue}{c = 3}$
 
 Sostituiamo nella formula:
 

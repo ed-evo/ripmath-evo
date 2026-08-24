@@ -10,7 +10,7 @@ $$
 \textcolor{blue}{\log x^{\sqrt{x}} = \log \sqrt{x}}
 $$
 
-Per la regola del logaritmo di una potenza e ricordando che $$\sqrt{x} = x^{1/2}$$ ottengo
+Per la regola del logaritmo di una potenza e ricordando che $\sqrt{x} = x^{1/2}$ ottengo
 
 $$
 \textcolor{blue}{\sqrt{x} \log x = \frac{1}{2} \log x}
@@ -22,7 +22,7 @@ $$
 \textcolor{blue}{\sqrt{x} \log x - \frac{1}{2} \log x = 0}
 $$
 
-Raccolgo ora $$\log x$$
+Raccolgo ora $\log x$
 
 $$
 \textcolor{blue}{(\log x) \left( \sqrt{x} - \frac{1}{2} \right) = 0}
@@ -38,7 +38,7 @@ $$
 $$
 \textcolor{blue}{\log x = 0}
 $$
-Il logaritmo vale zero se l'argomento vale $$1$$, quindi
+Il logaritmo vale zero se l'argomento vale $1$, quindi
 $$
 \textcolor{red}{x = 1}
 $$
@@ -54,7 +54,7 @@ $$
 $$
 \textcolor{blue}{x = \frac{1}{4}}
 $$
-Verifico: se sostituisco $$1/4$$ nell'equazione di partenza ottengo $$1/2 - 1/2 = 0$$, che è vero quindi la soluzione è accettabile
+Verifico: se sostituisco $1/4$ nell'equazione di partenza ottengo $1/2 - 1/2 = 0$, che è vero quindi la soluzione è accettabile
 $$
 \textcolor{red}{x = \frac{1}{4}}
 $$

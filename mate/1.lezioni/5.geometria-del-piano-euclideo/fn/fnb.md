@@ -8,15 +8,15 @@ Sono possibili due casi:
 
 - **La prima grandezza contiene la seconda un numero intero di volte**
 
-  In tal caso la misura della prima grandezza rispetto alla seconda è data dal numero di volte che la prima grandezza contiene la seconda. In figura la misura del segmento $$AB$$ rispetto al segmento $$CD$$ vale $$3$$.
+  In tal caso la misura della prima grandezza rispetto alla seconda è data dal numero di volte che la prima grandezza contiene la seconda. In figura la misura del segmento $AB$ rispetto al segmento $CD$ vale $3$.
 
   $$
   \textcolor{red}{\frac{\overline{AB}}{\overline{CD}} = 3}
   $$
 
-  Il segmento $$AB$$ si dice **multiplo** di $$CD$$.
-  Il segmento $$CD$$ si dice **sottomultiplo** di $$AB$$.
-  La misura di $$AB$$ rispetto a $$CD$$ è un numero intero.
+  Il segmento $AB$ si dice **multiplo** di $CD$.
+  Il segmento $CD$ si dice **sottomultiplo** di $AB$.
+  La misura di $AB$ rispetto a $CD$ è un numero intero.
 
 - **La prima grandezza non contiene la seconda un numero intero di volte**
 
@@ -26,6 +26,6 @@ Sono possibili due casi:
   \textcolor{red}{\frac{\overline{AB}}{\overline{CD}} = \frac{\frac{\overline{AB}}{\overline{EF}}}{\frac{\overline{CD}}{\overline{EF}}} = \frac{3}{2}}
   $$
 
-  In questo caso la misura di $$AB$$ rispetto a $$CD$$ sarà un numero razionale.
+  In questo caso la misura di $AB$ rispetto a $CD$ sarà un numero razionale.
 
 Ragionando con il senso comune basterà prendere come terza grandezza una grandezza abbastanza piccola ed allora sarà sempre possibile trovare una sottomultipla comune; però il senso comune non sempre è esatto; anzi dimostreremo nella prossima pagina che vi sono segmenti per cui [**non è possibile**]{.text-red} trovare una sottomultipla comune.

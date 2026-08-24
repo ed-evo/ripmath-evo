@@ -2,7 +2,7 @@
 
 Come criterio per la perpendicolarità fra piani ci rifacciamo alla perpendicolarità fra una retta ed un piano.
 
-Se almeno una retta del piano $$\alpha$$ è perpendicolare al piano $$\beta$$ allora il piano $$\alpha$$ è perpendicolare al piano $$\beta$$.
+Se almeno una retta del piano $\alpha$ è perpendicolare al piano $\beta$ allora il piano $\alpha$ è perpendicolare al piano $\beta$.
 
 > Naturalmente se ce n'è una di perpendicolari allora ce ne sono infinite.
 

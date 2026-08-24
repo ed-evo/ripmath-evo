@@ -26,4 +26,4 @@ mentre non ha senso dire:
 
 ***
 
-> In alcuni testi si usa il simbolo $$\to$$ (una linea sola) per indicare l'implicazione materiale ed il simbolo $$\Rightarrow$$ (con doppia linea) per la deduzione logica, ma in altri testi viene indicato diversamente. Tu cerca di usare gli stessi simboli che usa il tuo Insegnante.
+> In alcuni testi si usa il simbolo $\to$ (una linea sola) per indicare l'implicazione materiale ed il simbolo $\Rightarrow$ (con doppia linea) per la deduzione logica, ma in altri testi viene indicato diversamente. Tu cerca di usare gli stessi simboli che usa il tuo Insegnante.

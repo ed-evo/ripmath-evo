@@ -8,15 +8,15 @@ Risolvere un problema geometrico significa dimostrare che sono congruenti dei la
 
 Il metodo è sempre quello: parto dalla tesi, individuo due triangoli che contengano gli elementi della tesi e vedo se posso applicare un criterio per dire che sono congruenti; se mi manca qualcosa considero altri due triangoli che contengano quel qualcosa e vedo se posso applicare un criterio (di solito non si va oltre due applicazioni ripetute). Quando ho trovato ribalto il ragionamento e scrivo cominciando dall'ultimo ed andando verso il primo ragionamento (dalle ipotesi vado verso la tesi) sempre col seguente schema:
 
-> [Considero i triangoli $$FGH$$ $$LMN$$]{.text-blue}
+> [Considero i triangoli $FGH$ $LMN$]{.text-blue}
 >
 > [Essi hanno (scrivo quello che hanno di congruente e perché)]{.text-blue}
 >
-> [$$\text{lato} = \text{lato}$$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
+> [$\text{lato} = \text{lato}$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
 >
-> [$$\text{lato} = \text{lato}$$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
+> [$\text{lato} = \text{lato}$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
 >
-> [$$\text{angolo} = \text{angolo}$$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
+> [$\text{angolo} = \text{angolo}$ perché ...(ipotesi, costruzione, già dimostrato...)]{.text-blue}
 >
 > [Quindi i due triangoli sono congruenti per il primo (o secondo o terzo) criterio ed in particolare avranno congruenti (quello che mi interessa o per continuare o perché è la tesi)]{.text-blue}
 

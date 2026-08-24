@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{9}{4\sqrt{3} - 2\sqrt{5}}}
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{4\sqrt{3} + 2\sqrt{5}}$$
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{4\sqrt{3} + 2\sqrt{5}}$
 
 $$
 \textcolor{blue}{\frac{9}{4\sqrt{3} - 2\sqrt{5}} \cdot \frac{4\sqrt{3} + 2\sqrt{5}}{4\sqrt{3} + 2\sqrt{5}}}

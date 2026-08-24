@@ -11,20 +11,20 @@ Risolvere l'equazione:
 
 [$$2 \sin x \cos x - \sin^2 x - \cos^2 x = -2$]{.text-blue}
 
-moltiplico il termine noto per $$\sin^2 x + \cos^2 x$$
+moltiplico il termine noto per $\sin^2 x + \cos^2 x$
 
-[$$2 \sin x \cos x - \sin^2 x - \cos^2 x = -2(\sin^2 x + \cos^2 x)$$]{.text-red}
+[$2 \sin x \cos x - \sin^2 x - \cos^2 x = -2(\sin^2 x + \cos^2 x)$]{.text-red}
 [$$2 \sin x \cos x - \sin^2 x - \cos^2 x = -2\sin^2 x - 2\cos^2 x$]{.text-red}
 
 porto tutti i termini prima dell'uguale:
 
 [$$2 \sin x \cos x - \sin^2 x - \cos^2 x + 2\sin^2 x + 2\cos^2 x = 0$]{.text-red}
 
-sommo i termini simili ed ordino rispetto a $$\sin x$$:
+sommo i termini simili ed ordino rispetto a $\sin x$:
 
 [$$\sin^2 x + 2 \sin x \cos x + \cos^2 x = 0$]{.text-red}
 
-divido ogni termine per $$\cos^2 x$$ supponendo [$$\cos x \neq 0$]{.text-red}
+divido ogni termine per $\cos^2 x$ supponendo [$$\cos x \neq 0$]{.text-red}
 
 $$
 \frac{\sin^2 x}{\cos^2 x} + \frac{2 \sin x \cos x}{\cos^2 x} + \frac{\cos^2 x}{\cos^2 x} = \frac{0}{\cos^2 x}
@@ -34,7 +34,7 @@ Applico la [seconda relazione fondamentale](../ib/ibcb.html):
 
 [$$\tan^2 x + 2 \tan x + 1 = 0$]{.text-red}
 
-È un'equazione di secondo grado nell'incognita $$\tan x$$: applico la [formula risolutiva](../../a/af/afcc.html).
+È un'equazione di secondo grado nell'incognita $\tan x$: applico la [formula risolutiva](../../a/af/afcc.html).
 
 ***
 
@@ -50,7 +50,7 @@ otteniamo:
 
 [$$\tan x = -1$]{.text-red}
 
-Il valore dell'angolo corrispondente a $$\tan x = 1$$ è $$45^\circ$$.
+Il valore dell'angolo corrispondente a $\tan x = 1$ è $45^\circ$.
 Quindi abbiamo:
 
 [$$x = -45^\circ + k 180^\circ$]{.text-red}
@@ -60,18 +60,18 @@ o preferibilmente:
 [$$x = -\frac{\pi}{4} + k\pi$]{.text-red}
 
 Non è finita!
-Siccome ho supposto [$$\cos x \neq 0$]{.text-red} devo controllare se la soluzione $$\cos x = 0$$ soddisfa l'equazione di partenza: siccome $$\cos x = 0$$ si ottiene nel primo giro per gli angoli $$90^\circ$$ e $$270^\circ$$ devo controllare i valori dell'equazione:
+Siccome ho supposto [$\cos x \neq 0$]{.text-red} devo controllare se la soluzione$\cos x = 0$soddisfa l'equazione di partenza: siccome$\cos x = 0$si ottiene nel primo giro per gli angoli$90^\circ$e$270^\circ$$ devo controllare i valori dell'equazione:
 
 [$$2 \sin x \cos x - \sin^2 x - \cos^2 x = -2$]{.text-blue}
 
-a $$90^\circ$$ ed a $$270^\circ$$:
+a $90^\circ$ ed a $270^\circ$:
 
-- Controllo per $$x = 90^\circ$$ (se vuoi essere preciso usa $$\pi/2$$):
-  [$$2 \sin 90^\circ \cos 90^\circ - \sin^2 90^\circ - \cos^2 90^\circ = -2$$]{.text-red}
-  [$$-1 = 2$$]{.text-red} $\quad$ $$x = 90^\circ$$ non è soluzione
-- Controllo per $$x = 270^\circ$$ (se vuoi essere preciso usa $$3\pi/2$$):
-  [$$2 \sin 270^\circ \cos 270^\circ - \sin^2 270^\circ - \cos^2 270^\circ = -2$$]{.text-red}
-  [$$-1 = 2$$]{.text-red} $\quad$ $$x = 270^\circ$$ non è soluzione
+- Controllo per $x = 90^\circ$ (se vuoi essere preciso usa $\pi/2$):
+  [$2 \sin 90^\circ \cos 90^\circ - \sin^2 90^\circ - \cos^2 90^\circ = -2$]{.text-red}
+  [$-1 = 2$]{.text-red} $\quad$ $x = 90^\circ$ non è soluzione
+- Controllo per $x = 270^\circ$ (se vuoi essere preciso usa $3\pi/2$):
+  [$2 \sin 270^\circ \cos 270^\circ - \sin^2 270^\circ - \cos^2 270^\circ = -2$]{.text-red}
+  [$-1 = 2$]{.text-red} $\quad$ $x = 270^\circ$ non è soluzione
 
 Quindi la soluzione finale è:
 
@@ -79,7 +79,7 @@ Quindi la soluzione finale è:
 
 oppure (utilizzando il primo angolo dall'origine degli angoli):
 
-$$x = 135^\circ + k 180^\circ$$
+$x = 135^\circ + k 180^\circ$
 
 o meglio:
 

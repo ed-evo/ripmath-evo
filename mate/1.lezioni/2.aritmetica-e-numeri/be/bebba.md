@@ -1,9 +1,9 @@
 # Somma fra numeri complessi
 
-Per la somma ci rifaremo sempre alle regole studiate nei [monomi](../../a/ac/ac3.html) considerando $$i$$ come parte letterale:
+Per la somma ci rifaremo sempre alle regole studiate nei [monomi](../../a/ac/ac3.html) considerando $i$ come parte letterale:
 
 Esempio: sommare i due numeri complessi
-$$\textcolor{blue}{Z_1 = 2 + 3i}$$ e $$\textcolor{blue}{Z_2 = 4 + 5i}$$
+$\textcolor{blue}{Z_1 = 2 + 3i}$ e $\textcolor{blue}{Z_2 = 4 + 5i}$
 
 Sommerò [algebricamente](bebba1.html) la parte reale con la parte reale e la parte immaginaria con la parte immaginaria:
 
@@ -12,7 +12,7 @@ $$
 $$
 
 Altro esempio: sommare i due numeri complessi
-$$\textcolor{blue}{Z_1 = -7 - 4i}$$ e $$\textcolor{blue}{Z_2 = 3 - 5i}$$
+$\textcolor{blue}{Z_1 = -7 - 4i}$ e $\textcolor{blue}{Z_2 = 3 - 5i}$
 
 Anche qui parte reale con parte reale e parte immaginaria con parte immaginaria:
 

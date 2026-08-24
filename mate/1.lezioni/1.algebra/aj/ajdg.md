@@ -1,6 +1,6 @@
 # Prodotto esterno nelle matrici
 
-Il prodotto visto nella pagina precedente ($$-1/5$$ per la matrice) si considera come prodotto esterno o prodotto fra uno scalare ed una matrice. Indichiamolo con $$\textcolor{red}{x}$$.
+Il prodotto visto nella pagina precedente ($-1/5$ per la matrice) si considera come prodotto esterno o prodotto fra uno scalare ed una matrice. Indichiamolo con $\textcolor{red}{x}$.
 
 In genere il prodotto esterno viene definito come:
 
@@ -20,6 +20,6 @@ ma_{n,1} & ma_{n,2} & \cdots & ma_{n,n}
 }
 $$
 
-L'esistenza di un'operazione interna (la somma $$\oplus$$) ed un prodotto esterno rendono le matrici quadrate d'ordine $$n \times n$$ uno spazio vettoriale.
+L'esistenza di un'operazione interna (la somma $\oplus$) ed un prodotto esterno rendono le matrici quadrate d'ordine $n \times n$ uno spazio vettoriale.
 
 > **Nota:** Fare link quando svilupperò.

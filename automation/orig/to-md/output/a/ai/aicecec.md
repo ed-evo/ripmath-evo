@@ -1,5 +1,5 @@
 Risolviamo l'equazione
-[$$z^2 - 5z + 6 = 0$$]{.text-red}
+[$z^2 - 5z + 6 = 0$]{.text-red}
 applichiamo la formula
 
 $$
@@ -7,9 +7,9 @@ $$
 $$
 
 Abbiamo:
-[$$a = 1$$]{.text-blue}
-[$$b = -5$$]{.text-blue}
-[$$c = 6$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = -5$]{.text-blue}
+[$c = 6$]{.text-blue}
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-5) \pm \sqrt{(-5)^2 - 4(1)(6)}}{2(1)}}
@@ -38,4 +38,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-[$$z_1 = 2$$]{.text-red} [$$z_2 = 3$$]{.text-red}
+[$z_1 = 2$]{.text-red} [$z_2 = 3$]{.text-red}

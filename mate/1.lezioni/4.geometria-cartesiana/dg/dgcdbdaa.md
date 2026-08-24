@@ -2,7 +2,7 @@ $$
 \textcolor{red}{-x^2 + 4x - 4 = 0}
 $$
 
-> cambio di segno (è un'equazione posso moltiplicare per $$-1$$ da entrambe le parti per il [secondo principio di equivalenza](../../a/af/afbc.html])
+> cambio di segno (è un'equazione posso moltiplicare per $-1$ da entrambe le parti per il [secondo principio di equivalenza](../../a/af/afbc.html])
 
 $$
 \textcolor{red}{x^2 - 4x + 4 = 0}

@@ -14,8 +14,8 @@ Qualche esercizio chiarirà meglio il metodo.
 
 Risolvere:
 
-- $$\textcolor{blue}{\sin 4x = \cos 2x}$$ [soluzione](iccca.html)
-- $$\textcolor{blue}{\sin x - \cos x = 2 \cos^2 x - \sin 2x}$$ [soluzione](icccb.html)
-- $$\textcolor{blue}{4 \sin^2 x \cos^2 x = 1}$$ [soluzione](icccc.html)
-- $$\textcolor{blue}{\sqrt{3}(1 - \sin x \cos x) + 2 \sin x = \sin x \sin 2x}$$ [soluzione](icccd.html)
-- $$\textcolor{blue}{\sin 3x \cos 5x = \sin 2x \cos 6x}$$ [soluzione](iccce.html)
+- $\textcolor{blue}{\sin 4x = \cos 2x}$ [soluzione](iccca.html)
+- $\textcolor{blue}{\sin x - \cos x = 2 \cos^2 x - \sin 2x}$ [soluzione](icccb.html)
+- $\textcolor{blue}{4 \sin^2 x \cos^2 x = 1}$ [soluzione](icccc.html)
+- $\textcolor{blue}{\sqrt{3}(1 - \sin x \cos x) + 2 \sin x = \sin x \sin 2x}$ [soluzione](icccd.html)
+- $\textcolor{blue}{\sin 3x \cos 5x = \sin 2x \cos 6x}$ [soluzione](iccce.html)

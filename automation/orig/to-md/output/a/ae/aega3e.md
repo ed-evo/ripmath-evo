@@ -10,14 +10,14 @@ $$
 
 ora in ogni frazione devo dividere il m. c.m. per il denominatore e moltiplicare il risultato per il numeratore (per dividere basta eliminare i fattori uguali)
 
-- $$ \textcolor{red}{3x(x-1)(x+1)} $$ diviso $$ \textcolor{red}{3(x+1)} $$ dà $$ \textcolor{red}{x(x-1)} $$
+- $\textcolor{red}{3x(x-1)(x+1)}$ diviso $\textcolor{red}{3(x+1)}$ dà $\textcolor{red}{x(x-1)}$
   moltiplico questo quoziente per il primo numeratore
   $$
   \textcolor{red}{x(x-1) \cdot (x-1) = x(x-1)^2}
   $$
 
-- $$ \textcolor{red}{3x(x-1)(x+1)} $$ diviso $$ \textcolor{red}{3x(x-1)(x+1)} $$ dà $$ \textcolor{red}{1} $$
-  moltiplicando $$ \textcolor{red}{1} $$ per il secondo numeratore questo mi resta uguale
+- $\textcolor{red}{3x(x-1)(x+1)}$ diviso $\textcolor{red}{3x(x-1)(x+1)}$ dà $\textcolor{red}{1}$
+  moltiplicando $\textcolor{red}{1}$ per il secondo numeratore questo mi resta uguale
   $$
   \textcolor{red}{x^3 + 2x^2 + x}
   $$

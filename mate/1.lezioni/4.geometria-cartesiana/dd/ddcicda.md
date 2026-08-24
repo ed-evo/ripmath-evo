@@ -9,7 +9,7 @@ x^2 + y^2 + 2x - 6y + 2 = 0
 \end{cases}
 $$
 
-sostituisco ad $$y$$ nella seconda equazione il valore $$x$$
+sostituisco ad $y$ nella seconda equazione il valore $x$
 
 $$
 \begin{cases} 
@@ -22,7 +22,7 @@ $$
 2x^2 - 4x + 2 = 0
 $$
 
-divido tutti i termini per $$2$$
+divido tutti i termini per $2$
 
 $$
 x^2 - 2x + 1 = 0

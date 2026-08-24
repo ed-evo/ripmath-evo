@@ -7,9 +7,9 @@ $$
 \textcolor{red}{dx + ey = f}
 \end{cases}
 $$
-dove $$a, b, c, d, e, f$$ sono numeri dati.
+dove $a, b, c, d, e, f$ sono numeri dati.
 
-Isolo il termine con $$x$$ nella prima equazione:
+Isolo il termine con $x$ nella prima equazione:
 $$
 \begin{cases}
 \textcolor{red}{ax = -by + c} \\
@@ -17,7 +17,7 @@ $$
 \end{cases}
 $$
 
-Ricavo la $$x$$:
+Ricavo la $x$:
 $$
 \begin{cases}
 \textcolor{red}{x = \frac{-by + c}{a}} \\
@@ -25,7 +25,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco nella seconda equazione alla $$x$$ il valore trovato:
+Sostituisco nella seconda equazione alla $x$ il valore trovato:
 $$
 \begin{cases}
 \textcolor{red}{x = \frac{-by + c}{a}} \\
@@ -57,7 +57,7 @@ $$
 \end{cases}
 $$
 
-Termini con $$y$$ prima dell'uguale (metto prima i positivi), termini senza $$y$$ dopo l'uguale:
+Termini con $y$ prima dell'uguale (metto prima i positivi), termini senza $y$ dopo l'uguale:
 $$
 \begin{cases}
 \text{------------------} \\
@@ -65,7 +65,7 @@ $$
 \end{cases}
 $$
 
-Metto in evidenza $$y$$:
+Metto in evidenza $y$:
 $$
 \begin{cases}
 \text{------------------} \\
@@ -73,7 +73,7 @@ $$
 \end{cases}
 $$
 
-Ricavo $$y$$ dividendo il termine dopo l'uguale per il coefficiente della $$y$$:
+Ricavo $y$ dividendo il termine dopo l'uguale per il coefficiente della $y$:
 $$
 \begin{cases}
 \text{------------------} \\
@@ -112,7 +112,7 @@ $$
 \textcolor{red}{x = \frac{ace - abf}{ae - bd} \cdot \frac{1}{a}}
 $$
 
-Raccolgo $$a$$ al numeratore per semplificarlo con la $$a$$ al denominatore:
+Raccolgo $a$ al numeratore per semplificarlo con la $a$ al denominatore:
 $$
 \textcolor{red}{x = \frac{\textcolor{blue}{a}(ce - bf)}{ae - bd} \cdot \frac{1}{\textcolor{blue}{a}}}
 $$

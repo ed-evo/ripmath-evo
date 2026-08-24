@@ -1,15 +1,15 @@
-Disegniamo la parabola di equazione $$y = x^2 - 6x + 5$$
+Disegniamo la parabola di equazione $y = x^2 - 6x + 5$
 
-Troviamo prima le coordinate del vertice $$V$$
+Troviamo prima le coordinate del vertice $V$
 
 $$
 V = \left( -\frac{b}{2a}; -\frac{b^2 - 4ac}{4a} \right)
 $$
 
 abbiamo
-$$a = 1$$
-$$b = -6$$
-$$c = 5$$
+$a = 1$
+$b = -6$
+$c = 5$
 
 quindi
 
@@ -27,7 +27,7 @@ $$
 
 Intersezioni con gli assi
 
-- Intersezioni asse x: faccio il sistema fra l'asse x ($$y = 0$$) e l'equazione della parabola
+- Intersezioni asse x: faccio il sistema fra l'asse x ($y = 0$) e l'equazione della parabola
 
 $$
 \begin{cases} y = 0 \\ y = x^2 - 6x + 5 \end{cases}
@@ -38,13 +38,13 @@ $$
 $$
 
 [risolvo l'equazione](dgeaaaaa.html) di secondo grado ed ottengo
-$$x_1 = 1$$
-$$x_2 = 5$$
+$x_1 = 1$
+$x_2 = 5$
 
 quindi i punti di intersezione con l'asse delle x sono
-$$(1, 0) \quad (5, 0)$$
+$(1, 0) \quad (5, 0)$
 
-- Intersezioni asse y: faccio il sistema fra l'asse y ($$x = 0$$) e l'equazione della parabola
+- Intersezioni asse y: faccio il sistema fra l'asse y ($x = 0$) e l'equazione della parabola
 
 $$
 \begin{cases} x = 0 \\ y = x^2 - 6x + 5 \end{cases}
@@ -55,6 +55,6 @@ $$
 $$
 
 quindi il punto di intersezione con l'asse delle y è
-$$(0, 5)$$
+$(0, 5)$
 
 Adesso congiungo i punti con una curva continua ed ottengo il grafico della parabola

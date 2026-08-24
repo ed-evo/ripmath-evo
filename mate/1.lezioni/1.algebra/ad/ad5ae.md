@@ -13,7 +13,7 @@ $$
 
 Ora impostiamo la divisione
 
-> **Nota:** Ti ripeto che è meno difficile di quello che sembra perché quando devo fare la somma o il prodotto ed un termine vale zero posso fare subito il calcolo: Anche qui, siccome lo zero non ha segno, nella divisione invece di $$0x^n$$ metto semplicemente //.
+> **Nota:** Ti ripeto che è meno difficile di quello che sembra perché quando devo fare la somma o il prodotto ed un termine vale zero posso fare subito il calcolo: Anche qui, siccome lo zero non ha segno, nella divisione invece di $0x^n$ metto semplicemente //.
 
 $$
 \textcolor{red}{x^6 \dots -64 : x^2 - 4}

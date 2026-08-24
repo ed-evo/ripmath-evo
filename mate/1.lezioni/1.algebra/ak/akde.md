@@ -10,13 +10,13 @@ Qualche difficoltà si può avere quando si deve fare una potenza di un polinomi
 
 esempio:
 
-$$\textcolor{red}{(3 + 2\sqrt{3})^2 =}$$
+$\textcolor{red}{(3 + 2\sqrt{3})^2 =}$
 
 È il [quadrato di un binomio](../ad/ad4cb.html)
 
-- quadrato del primo termine: $$3^2 = 9$$
-- doppio prodotto del primo termine per il secondo: $$2 \cdot 3 \cdot 2\sqrt{3} = 12\sqrt{3}$$
-- quadrato del secondo termine: $$(2\sqrt{3})^2 = 2^2\sqrt{3^2} = 4\sqrt{9} = 4 \cdot 3 = 12$$
+- quadrato del primo termine: $3^2 = 9$
+- doppio prodotto del primo termine per il secondo: $2 \cdot 3 \cdot 2\sqrt{3} = 12\sqrt{3}$
+- quadrato del secondo termine: $(2\sqrt{3})^2 = 2^2\sqrt{3^2} = 4\sqrt{9} = 4 \cdot 3 = 12$
 
 quindi:
 

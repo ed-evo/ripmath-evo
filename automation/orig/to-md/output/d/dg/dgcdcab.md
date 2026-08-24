@@ -1,4 +1,4 @@
-Trovare le intersezioni fra la parabola $$\textcolor{blue}{y = x^2 - 4x + 3}$$ e la retta $$\textcolor{blue}{y = -2x + 2}$$.
+Trovare le intersezioni fra la parabola $\textcolor{blue}{y = x^2 - 4x + 3}$ e la retta $\textcolor{blue}{y = -2x + 2}$.
 
 Devo fare il sistema fra le due curve:
 
@@ -9,7 +9,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ ricavato dalla prima nella seconda equazione; al posto della prima metto una linea:
+Sostituisco il valore della $y$ ricavato dalla prima nella seconda equazione; al posto della prima metto una linea:
 
 $$
 \begin{cases}
@@ -18,7 +18,7 @@ $$
 \end{cases}
 $$
 
-> **Nota:** Conviene sostituire in modo che $$x^2$$ sia positivo: così non devi cambiare di segno.
+> **Nota:** Conviene sostituire in modo che $x^2$ sia positivo: così non devi cambiare di segno.
 
 $$
 \begin{cases}
@@ -39,7 +39,7 @@ $$
 
 Ottengo le due soluzioni coincidenti:
 
-$$\textcolor{red}{x = 1} \quad \textcolor{red}{x = 1}$$
+$\textcolor{red}{x = 1} \quad \textcolor{red}{x = 1}$
 
 Sostituisco il valore trovato in una delle due equazioni del sistema (conviene prendere la più semplice):
 
@@ -59,6 +59,6 @@ $$
 
 Ottengo due punti di intersezione coincidenti:
 
-$$\textcolor{red}{A = (1, 0)}$$
+$\textcolor{red}{A = (1, 0)}$
 
 A destra la rappresentazione grafica.

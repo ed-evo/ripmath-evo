@@ -1,6 +1,6 @@
-# [Se nella circonferenza manca il termine $$ax$$]{.text-red}
+# [Se nella circonferenza manca il termine $ax$]{.text-red}
 
-In tal caso [$$a = 0$$]{.text-blue} e l'equazione della circonferenza diventa
+In tal caso [$a = 0$]{.text-blue} e l'equazione della circonferenza diventa
 
 $$
 \textcolor{blue}{x^2 + y^2 + by + c = 0}
@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{x_o = 0}
 $$
 
-Cioè se manca il termine $$ax$$ la circonferenza ha il centro su un punto dell'asse delle $$y$$ (equazione $$x = 0$$).
+Cioè se manca il termine $ax$ la circonferenza ha il centro su un punto dell'asse delle $y$ (equazione $x = 0$).
 
 ***
 
@@ -46,4 +46,4 @@ $$
 \textcolor{red}{= \sqrt{0 + 25 - 16} = \sqrt{9} = 3}
 $$
 
-È la circonferenza di centro $$C(0,5)$$ e raggio $$3$$.
+È la circonferenza di centro $C(0,5)$ e raggio $3$.

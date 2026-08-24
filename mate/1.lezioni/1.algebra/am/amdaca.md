@@ -12,9 +12,9 @@ $$
 
 abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -5}$$
-$$\textcolor{blue}{c = 6}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -5}$
+$\textcolor{blue}{c = 6}$
 
 sostituiamo nella formula
 
@@ -48,4 +48,4 @@ $$
 
 Ho quindi le due soluzioni
 
-$$\textcolor{red}{y_1 = 2} \quad \textcolor{red}{y_2 = 3}$$
+$\textcolor{red}{y_1 = 2} \quad \textcolor{red}{y_2 = 3}$

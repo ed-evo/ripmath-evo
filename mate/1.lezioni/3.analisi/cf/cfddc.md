@@ -20,10 +20,10 @@ $$
 Esempio:
 Calcolare la derivata della funzione
 
-$$\textcolor{red}{y = \frac{x^4}{\sin x}}$$
+$\textcolor{red}{y = \frac{x^4}{\sin x}}$
 
-La derivata di $$\textcolor{red}{x^4}$$ è $$\textcolor{red}{4x^3}$$
-La derivata di $$\textcolor{red}{\sin x}$$ è $$\textcolor{red}{\cos x}$$
+La derivata di $\textcolor{red}{x^4}$ è $\textcolor{red}{4x^3}$
+La derivata di $\textcolor{red}{\sin x}$ è $\textcolor{red}{\cos x}$
 quindi
 
 $$

@@ -10,9 +10,9 @@ Vediamo lo stesso esercizio che abbiamo sviluppato nella pagina precedente con l
 
 ***
 
-Ho investito un capitale di $$12000$$ euro al tasso $$i = 0,02$$ il giorno 3 marzo 2010. Calcolare il montante utilizzando la formula esponenziale al giorno 27 luglio 2014.
+Ho investito un capitale di $12000$ euro al tasso $i = 0,02$ il giorno 3 marzo 2010. Calcolare il montante utilizzando la formula esponenziale al giorno 27 luglio 2014.
 
-Si tratta di $$4$$ anni e $$146$$ giorni.
+Si tratta di $4$ anni e $146$ giorni.
 
 Uso l'anno finanziario quindi ho per il tempo:
 
@@ -38,4 +38,4 @@ $$
 12000 \cdot (1+0,02)^{(1586/360)}
 $$
 
-> **Nota:** Da notare che ci sono $$58$$ centesimi di euro in meno rispetto al risultato trovato nella pagina precedente.
+> **Nota:** Da notare che ci sono $58$ centesimi di euro in meno rispetto al risultato trovato nella pagina precedente.

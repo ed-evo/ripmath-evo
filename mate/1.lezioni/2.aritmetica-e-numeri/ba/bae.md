@@ -2,7 +2,7 @@
 
 D'ora in avanti useremo indifferentemente i termini prodotto e moltiplicazione anche se il prodotto indica il risultato mentre la moltiplicazione indica l'operazione.
 
-[**Nei numeri naturali dovremmo indicare l'operazione di moltiplicazione mediante il simbolo $$\text{x}$$, ma io sono [contrario](bae1.html) all'uso di questo simbolo e preferisco usare il simbolo $$\cdot$$**]{.text-red-darken-1}
+[**Nei numeri naturali dovremmo indicare l'operazione di moltiplicazione mediante il simbolo $\text{x}$, ma io sono [contrario](bae1.html) all'uso di questo simbolo e preferisco usare il simbolo $\cdot$**]{.text-red-darken-1}
 
 Disegno su una semiretta l'insieme dei numeri naturali:
 
@@ -12,9 +12,9 @@ $$
 \textcolor{blue}{3} \cdot \textcolor{green}{2}
 $$
 
-disegno a partire da $$0$$ un segmento lungo $$3$$.
+disegno a partire da $0$ un segmento lungo $3$.
 
-Per moltiplicare ripeto il segmento $$3$$ per due volte ed ottengo che il risultato termina in $$6$$.
+Per moltiplicare ripeto il segmento $3$ per due volte ed ottengo che il risultato termina in $6$.
 
 quindi
 
@@ -22,7 +22,7 @@ $$
 \textcolor{blue}{3} \cdot \textcolor{blue}{2} = 6
 $$
 
-C'è subito da dire che facendo il prodotto fra numeri naturali mi muovo sempre verso destra e, a destra, i numeri sono infiniti; quindi potrò sempre fare la moltiplicazione, cioè la moltiplicazione fra numeri naturali è un'operazione interna e l'insieme $$N$$ è chiuso rispetto alla moltiplicazione.
+C'è subito da dire che facendo il prodotto fra numeri naturali mi muovo sempre verso destra e, a destra, i numeri sono infiniti; quindi potrò sempre fare la moltiplicazione, cioè la moltiplicazione fra numeri naturali è un'operazione interna e l'insieme $N$ è chiuso rispetto alla moltiplicazione.
 
 Fra tutti i numeri naturali ne esiste uno particolare: l'uno; L'uno ha la proprietà di non cambiare niente infatti preso un numero qualunque
 

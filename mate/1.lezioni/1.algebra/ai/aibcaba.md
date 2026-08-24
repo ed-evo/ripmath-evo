@@ -11,8 +11,8 @@ $$
 $$
 
 Sviluppo secondo la prima riga:
-il primo termine della riga ha posto $$a_{1,1}$$, cioè prima riga e prima colonna quindi è di posto pari ($$1+1=2$$) e quindi mantiene il segno;
-il secondo termine della prima riga ha posto $$a_{1,2}$$, cioè prima riga e seconda colonna quindi è di posto dispari ($$1+2=3$$) e quindi va cambiato di segno.
+il primo termine della riga ha posto $a_{1,1}$, cioè prima riga e prima colonna quindi è di posto pari ($1+1=2$) e quindi mantiene il segno;
+il secondo termine della prima riga ha posto $a_{1,2}$, cioè prima riga e seconda colonna quindi è di posto dispari ($1+2=3$) e quindi va cambiato di segno.
 Dove c'è zero non devo sviluppare perché zero per numero uguale zero.
 
 $$
@@ -50,7 +50,7 @@ $$
 \end{vmatrix} =
 $$
 
-Sviluppo secondo l'ultima riga perché ho solo un termine diverso da zero; il termine ha posto $$4,4$$, cioè quarta riga e quarta colonna ($$4+4=8$$) posto pari.
+Sviluppo secondo l'ultima riga perché ho solo un termine diverso da zero; il termine ha posto $4,4$, cioè quarta riga e quarta colonna ($4+4=8$) posto pari.
 
 $$
 \begin{vmatrix} 
@@ -66,7 +66,7 @@ $$
 \end{vmatrix}
 $$
 
-Sviluppo secondo la prima colonna (in un determinante posso sviluppare indifferentemente per righe o per colonne) perché c'è un solo elemento diverso da zero di posto pari (elemento $$1,1$$ ed $$1+1=2$$).
+Sviluppo secondo la prima colonna (in un determinante posso sviluppare indifferentemente per righe o per colonne) perché c'è un solo elemento diverso da zero di posto pari (elemento $1,1$ ed $1+1=2$).
 
 $$
 \begin{vmatrix} 
@@ -97,7 +97,7 @@ $$
 \end{vmatrix} =
 $$
 
-Sviluppo secondo la prima colonna, siccome c'è un solo termine diverso da zero (quarta riga e prima colonna $$4+1=5$$ posto dispari).
+Sviluppo secondo la prima colonna, siccome c'è un solo termine diverso da zero (quarta riga e prima colonna $4+1=5$ posto dispari).
 
 $$
 \begin{vmatrix} 
@@ -113,7 +113,7 @@ $$
 \end{vmatrix}
 $$
 
-Sviluppo secondo la prima riga perché c'è un solo elemento diverso da zero di posto pari (elemento $$1,1$$ ed $$1+1=2$$).
+Sviluppo secondo la prima riga perché c'è un solo elemento diverso da zero di posto pari (elemento $1,1$ ed $1+1=2$).
 
 $$
 \begin{vmatrix} 

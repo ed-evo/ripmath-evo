@@ -34,7 +34,7 @@ x^2 \le 0
 }
 $$
 
-[Questa ammette la sola soluzione $$x=0$$]{.text-blue}
+[Questa ammette la sola soluzione $x=0$]{.text-blue}
 
 Risolvo:
 

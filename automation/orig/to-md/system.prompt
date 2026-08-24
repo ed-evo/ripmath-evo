@@ -8,13 +8,13 @@ Converti l'HTML grezzo fornito in Markdown pulito per Nuxt Content seguendo rigo
 
 2. NOTAZIONE MATEMATICA (remark-math & rehype-katex):
    - Converti TUTTE le espressioni matematiche, formule, singole variabili (es. x, y, \alpha), equazioni e numeri usati come entità matematiche in formato LaTeX usando SEMPRE il doppio dollaro ($$).
-   - MATEMATICA INLINE: Racchiudi la formula inline con doppi dollari affiancati al testo, senza andare a capo (es. $$2$$ oppure $$-2a^2b$$).
+   - MATEMATICA INLINE: Racchiudi la formula inline con doppi dollari affiancati al testo, senza andare a capo (es. $2$ oppure $-2a^2b$).
    - MATEMATICA DISPLAY (A BLOCCO): Posiziona l'espressione a blocco andando TASSATIVAMENTE a capo prima e dopo i doppi dollari, inserendo i doppi dollari di apertura e chiusura su una riga propria dedicata.
      Esempio corretto per blocco:
      $$
      -2a^2b
      $$
-   - COLORI LATEX: Se una formula o variabile ha un colore esplicito nell'HTML, inserisci il comando \textcolor{colore}{...} all'interno della stringa LaTeX (es. $$\textcolor{red}{x + 1}$$).
+   - COLORI LATEX: Se una formula o variabile ha un colore esplicito nell'HTML, inserisci il comando \textcolor{colore}{...} all'interno della stringa LaTeX (es. $\textcolor{red}{x + 1}$).
 
 3. COLORE E STILE (Nuxt Content Attributes):
    - RIMUOVI completamente tutti i colori di sfondo, gli attributi `bgcolor`, gli stili `background` e le proprietà di sfondo inline.

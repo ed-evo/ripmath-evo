@@ -1,9 +1,9 @@
-# [Insieme $$Z$$ dei numeri interi]{.text-red}
+# [Insieme $Z$ dei numeri interi]{.text-red}
 
 - Generalità sui numeri interi
-- L'insieme $$Z$$
+- L'insieme $Z$
 - Somma fra numeri interi
 - Prodotto fra numeri interi
 - Differenza fra numeri interi
 - Quoziente fra numeri interi
-- Necessità di ampliare l'insieme $$Z$$
+- Necessità di ampliare l'insieme $Z$

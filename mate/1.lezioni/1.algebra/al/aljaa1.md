@@ -40,7 +40,7 @@ cioè, uguagliando gli argomenti
 \textcolor{blue}{\frac{x-2}{x-3} = 4}
 $$]{.text-blue}
 
-Supponendo $$x$$ diverso da $$3$$ (sovrabbondante perché $$x = 3$$ era già escluso dalle condizioni iniziali) faccio il m.c.m.
+Supponendo $x$ diverso da $3$ (sovrabbondante perché $x = 3$ era già escluso dalle condizioni iniziali) faccio il m.c.m.
 
 [$$
 \textcolor{blue}{\frac{x-2}{x-3} = \frac{4(x-3)}{x-3}}
@@ -70,7 +70,7 @@ $$]{.text-blue}
 \textcolor{blue}{x = 10/3}
 $$]{.text-blue}
 
-Ora devo controllare che la soluzione cada nell'intervallo di definizione: $$10/3$$ è maggiore di $$3$$ quindi la soluzione
+Ora devo controllare che la soluzione cada nell'intervallo di definizione: $10/3$ è maggiore di $3$ quindi la soluzione
 
 [$$
 \textcolor{red}{x = \frac{10}{3}}

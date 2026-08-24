@@ -1,6 +1,6 @@
 # [Disequazione di primo grado ad una incognita]{.text-red}
 
-Una disequazione si dice di primo grado quando la $$\textcolor{red}{x}$$ vi compare a potenza $$1$$.
+Una disequazione si dice di primo grado quando la $\textcolor{red}{x}$ vi compare a potenza $1$.
 
 Ad esempio:
 
@@ -20,7 +20,7 @@ Per risolvere la disequazione valgono le stesse regole delle equazioni di primo 
 
 ***
 
-Porto le $$\textcolor{red}{x}$$ prima dell'uguale ed i numeri dopo l'uguale; chi salta l'uguale cambia di segno.
+Porto le $\textcolor{red}{x}$ prima dell'uguale ed i numeri dopo l'uguale; chi salta l'uguale cambia di segno.
 
 $$
 \textcolor{red}{x - 3x \ge 2 + 4}
@@ -32,7 +32,7 @@ $$
 \textcolor{red}{-2x \ge 6}
 $$
 
-Divido entrambi i membri per $$-2$$ e contemporaneamente cambio di verso la disequazione:
+Divido entrambi i membri per $-2$ e contemporaneamente cambio di verso la disequazione:
 
 $$
 \textcolor{red}{\frac{-2x}{-2} \le \frac{6}{-2}}
@@ -44,7 +44,7 @@ $$
 \textcolor{red}{x \le -3}
 $$
 
-Quindi la soluzione è l'insieme delle $$\textcolor{red}{x}$$ minori o uguali a $$-3$$.
+Quindi la soluzione è l'insieme delle $\textcolor{red}{x}$ minori o uguali a $-3$.
 Si può indicare anche nei seguenti modi:
 
 $$

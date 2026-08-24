@@ -12,4 +12,4 @@ $$
 \textcolor{red}{a^{-n} = \frac{1}{a^n}}
 $$
 
-> $$ (2\sqrt{3})^3 = 2\sqrt{3} \cdot 2\sqrt{3} \cdot 2\sqrt{3} = 8\sqrt{27} = 8 \cdot 3\sqrt{3} = 24\sqrt{3} $$
+> $(2\sqrt{3})^3 = 2\sqrt{3} \cdot 2\sqrt{3} \cdot 2\sqrt{3} = 8\sqrt{27} = 8 \cdot 3\sqrt{3} = 24\sqrt{3}$

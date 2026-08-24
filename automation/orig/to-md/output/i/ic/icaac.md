@@ -1,6 +1,6 @@
-# [$$\textcolor{red}{\operatorname{sen}(\alpha + \beta)}$$]{.text-red}
+# [$\textcolor{red}{\operatorname{sen}(\alpha + \beta)}$]{.text-red}
 
-Anche qui per determinare la formula per $$\operatorname{sen}(\alpha + \beta)$$ cerchiamo di riportarlo alla formula che già conosciamo: $$\cos(\alpha - \beta)$$
+Anche qui per determinare la formula per $\operatorname{sen}(\alpha + \beta)$ cerchiamo di riportarlo alla formula che già conosciamo: $\cos(\alpha - \beta)$
 
 Uso le formule degli archi associati ([angoli complementari](../ib/ibda.html))
 
@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{= \cos[(90^\circ - \alpha) - \beta] =}
 $$
 
-in questo modo applico la formula già trovata ai due angoli $$(90^\circ - \alpha)$$ e $$\beta$$
+in questo modo applico la formula già trovata ai due angoli $(90^\circ - \alpha)$ e $\beta$
 
 $$
 \textcolor{blue}{= \cos(90^\circ - \alpha) \cos\beta + \operatorname{sen}(90^\circ - \alpha) \operatorname{sen}\beta =}

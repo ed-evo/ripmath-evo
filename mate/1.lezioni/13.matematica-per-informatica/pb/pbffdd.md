@@ -1,7 +1,7 @@
 # esercizio
 
 Eseguire il seguente prodotto fra numeri binari:
-$$1010110 \cdot 1001110 =$$
+$1010110 \cdot 1001110 =$
 
 procedo direttamente al calcolo eseguendo le somme parziali nello svolgimento stesso
 
@@ -21,4 +21,4 @@ $$
 $$
 
 quindi
-$$1010110 \cdot 1001110 = 1101000110100$$
+$1010110 \cdot 1001110 = 1101000110100$

@@ -14,21 +14,21 @@ $$
 V = a \cdot b \cdot h
 $$
 
-Consideriamo il parallelepipedo rettangolo di dimensioni $$a$$, $$b$$ e $$h$$ di volume $$V_1$$ ed anche il parallelepipedo rettangolo di dimensioni $$a$$, $$b$$ e $$1$$ di volume $$V_2$$;
+Consideriamo il parallelepipedo rettangolo di dimensioni $a$, $b$ e $h$ di volume $V_1$ ed anche il parallelepipedo rettangolo di dimensioni $a$, $b$ e $1$ di volume $V_2$;
 per il teorema di inizio pagina posso scrivere
 
 $$
 \frac{V_1}{V_2} = \frac{h}{1}
 $$
 
-Consideriamo poi il parallelepipedo rettangolo di dimensioni $$a$$, $$b$$ e $$1$$ di volume $$V_2$$ ed anche il parallelepipedo rettangolo di dimensioni $$a$$, $$1$$ e $$1$$ di volume $$V_3$$;
+Consideriamo poi il parallelepipedo rettangolo di dimensioni $a$, $b$ e $1$ di volume $V_2$ ed anche il parallelepipedo rettangolo di dimensioni $a$, $1$ e $1$ di volume $V_3$;
 per il teorema di inizio pagina posso scrivere
 
 $$
 \frac{V_2}{V_3} = \frac{b}{1}
 $$
 
-Consideriamo infine il parallelepipedo rettangolo di dimensioni $$a$$, $$1$$ e $$1$$ di volume $$V_3$$ ed anche il parallelepipedo rettangolo di dimensioni $$1$$, $$1$$ e $$1$$ di volume $$1$$ (unità di misura);
+Consideriamo infine il parallelepipedo rettangolo di dimensioni $a$, $1$ e $1$ di volume $V_3$ ed anche il parallelepipedo rettangolo di dimensioni $1$, $1$ e $1$ di volume $1$ (unità di misura);
 per il teorema di inizio pagina posso scrivere
 
 $$
@@ -47,7 +47,7 @@ $$
 V_1 = a \cdot b \cdot h
 $$
 
-e, generalizzando, per un generico volume $$V$$
+e, generalizzando, per un generico volume $V$
 
 > **Parallelepipedo rettangolo**
 >
@@ -77,7 +77,7 @@ avremo la formula
 
 ---
 
-Infine vediamo il volume del cubo che possiamo considerare come un parallelepipedo rettangolo con le tre dimensioni uguali $$l = a = b = c$$
+Infine vediamo il volume del cubo che possiamo considerare come un parallelepipedo rettangolo con le tre dimensioni uguali $l = a = b = c$
 
 > **Cubo**
 >

@@ -8,7 +8,7 @@ $$
 
 [La somma di due numeri è 3 e la somma degli stessi due numeri è ancora 3]{.text-red}
 
-Le due equazioni dicono la stessa cosa. Se lo risolvo col metodo di sostituzione, col metodo di addizione oppure di confronto ottengo $$0 = 0$$ come in un' [equazione indeterminata](../af/afbec.html), mentre col metodo di Cramer otterrò:
+Le due equazioni dicono la stessa cosa. Se lo risolvo col metodo di sostituzione, col metodo di addizione oppure di confronto ottengo $0 = 0$ come in un' [equazione indeterminata](../af/afbec.html), mentre col metodo di Cramer otterrò:
 
 $$
 \begin{cases} \textcolor{red}{x = 0/0} \\ \textcolor{red}{y = 0/0} \end{cases}

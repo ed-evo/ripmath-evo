@@ -52,7 +52,7 @@ Non c'è niente da raccogliere a fattor comune totale allora conto i termini: so
 - La prima scomposizione a quattro termini è il cubo di un binomio, ho due termini al cubo ma mi mancano i tripli prodotti, quindi non va bene
 - Provo il raccoglimento parziale ma vedo subito che non posso farlo perché ho tre segni positivi ed uno negativo, quindi anche questa scomposizione non va bene
 - Provo a raggruppare: sembra quasi ci sia il quadrato di un binomio ma i termini che potrebbero essere quadrati sono uno positivo e l'altro negativo quindi non è un quadrato e non vedo altri possibili raggruppamenti, passo avanti
-- Provo Ruffini: i possibili divisori sono $$\textcolor{red}{+1}$$ e $$\textcolor{red}{-1}$$
+- Provo Ruffini: i possibili divisori sono $\textcolor{red}{+1}$ e $\textcolor{red}{-1}$
 
 $$
 \textcolor{red}{P(1) = (1)^3 - (1)^2 + 2(1) + 1 = 1 - 1 + 2 + 1 = 3}
@@ -63,4 +63,4 @@ $$
 $$
 
 e con entrambi il polinomio mi dà resto diverso da zero quindi anche questa scomposizione è da scartare
-- il polinomio $$\textcolor{red}{x^3 - x^2 + 2x + 1 =}$$ non è scomponibile
+- il polinomio $\textcolor{red}{x^3 - x^2 + 2x + 1 =}$ non è scomponibile

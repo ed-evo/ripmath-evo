@@ -2,7 +2,7 @@
 
 **In ogni triangolo rettangolo l'altezza relativa all'ipotenusa è media proporzionale tra le proiezioni dei cateti sull'ipotenusa**
 
-Utilizziamo il teorema di base: considero i due triangoli $$\text{ABH}$$ e $$\text{AHC}$$ come simili.
+Utilizziamo il teorema di base: considero i due triangoli $\text{ABH}$ e $\text{AHC}$ come simili.
 Metto gli angoli uguali corrispondenti uno sopra l'altro in verticale:
 
 $$

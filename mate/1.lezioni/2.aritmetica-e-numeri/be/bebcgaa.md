@@ -11,9 +11,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 1}$$
-$$\textcolor{blue}{c = 1}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 1}$
+$\textcolor{blue}{c = 1}$
 
 $$
 \textcolor{blue}{x_{2,3} = \frac{-1 \pm \sqrt{1^2 - 4(1)(1)}}{2}}

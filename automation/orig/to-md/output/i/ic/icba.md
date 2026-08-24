@@ -13,7 +13,7 @@ $$
 \textcolor{blue}{2 \sin \alpha + 2 \sin \alpha \cos \alpha = \frac{4 \sin \alpha (1 + \cos \alpha)}{2}}
 $$
 
-Dopo l'uguale semplifico il $$4$$ con il $$2$$
+Dopo l'uguale semplifico il $4$ con il $2$
 
 $$
 \textcolor{blue}{2 \sin \alpha + 2 \sin \alpha \cos \alpha = 2 \sin \alpha (1 + \cos \alpha)}
@@ -25,4 +25,4 @@ $$
 \textcolor{blue}{2 \sin \alpha + 2 \sin \alpha \cos \alpha = 2 \sin \alpha + 2 \sin \alpha \cos \alpha}
 $$
 
-> Avrei potuto raccogliere $$2 \sin \alpha$$ prima dell'uguale ed avrei comunque ottenuto l'uguaglianza.
+> Avrei potuto raccogliere $2 \sin \alpha$ prima dell'uguale ed avrei comunque ottenuto l'uguaglianza.

@@ -4,17 +4,17 @@
 
 Come esempio di **giudizio particolare affermativo** prendiamo:
 
-**qualche uomo ha $$90$$ anni**
+**qualche uomo ha $90$ anni**
 
 Che posso trasformare nella frase equivalente:
 
-**Esiste un $$x$$ tale che $$x$$ è un uomo ed $$x$$ ha $$90$$ anni**
+**Esiste un $x$ tale che $x$ è un uomo ed $x$ ha $90$ anni**
 
 Analizziamo la frase:
-- **Esiste un $$x$$** è il quantificatore esistenziale
-- **$$x$$ è un uomo** è il primo predicato (ad un posto perché c'è la $$x$$), chiamiamolo $$P(x)$$
-- **$$x$$ ha $$90$$ anni** è il secondo predicato (ad un posto perché c'è la $$x$$), chiamiamolo $$Q(x)$$
-- **.. e ..** è la congiunzione logica $$\land$$
+- **Esiste un $x$** è il quantificatore esistenziale
+- **$x$ è un uomo** è il primo predicato (ad un posto perché c'è la $x$), chiamiamolo $P(x)$
+- **$x$ ha $90$ anni** è il secondo predicato (ad un posto perché c'è la $x$), chiamiamolo $Q(x)$
+- **.. e ..** è la congiunzione logica $\land$
 
 quindi potremo scrivere:
 

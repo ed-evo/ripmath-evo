@@ -6,7 +6,7 @@ $$
 
 Conviene utilizzare il [metodo di addizione](../../a/ai/aibaab.html)
 
-Sottraggo in verticale e mi sparisce il termine $$\cos y$$
+Sottraggo in verticale e mi sparisce il termine $\cos y$
 
 $$
 \textcolor{red}{\begin{array}{r@{\quad}l}
@@ -23,13 +23,13 @@ $$
 \textcolor{red}{2i \sin y = e^{iy} - e^{-iy}}
 $$
 
-e, dividendo per $$2i$$, otteniamo la prima formula di Eulero
+e, dividendo per $2i$, otteniamo la prima formula di Eulero
 
 $$
 \textcolor{blue}{\sin y = \frac{e^{iy} - e^{-iy}}{2i}}
 $$
 
-Sommo in verticale e mi sparisce il termine $$i \sin y$$
+Sommo in verticale e mi sparisce il termine $i \sin y$
 
 $$
 \textcolor{red}{\begin{array}{r@{\quad}l}
@@ -46,7 +46,7 @@ $$
 \textcolor{red}{2 \cos y = e^{iy} + e^{-iy}}
 $$
 
-e, dividendo per $$2$$, otteniamo la seconda formula di Eulero
+e, dividendo per $2$, otteniamo la seconda formula di Eulero
 
 $$
 \textcolor{blue}{\cos y = \frac{e^{iy} + e^{-iy}}{2}}

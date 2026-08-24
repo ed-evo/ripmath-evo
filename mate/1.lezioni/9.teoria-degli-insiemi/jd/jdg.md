@@ -4,7 +4,7 @@ Ora, con la corrispondenza biunivoca fra insiemi possiamo riuscire a definire l'
 
 > **Definizione:** [Diremo che un insieme è **infinito** se è possibile porlo in corrispondenza biunivoca con una sua parte]{.text-blue-darken-2}
 
-Esempio: considero l'insieme $$N$$ dei Numeri Naturali
+Esempio: considero l'insieme $N$ dei Numeri Naturali
 
 $$
 \textcolor{red}{N = \{1, 2, 3, 4, 5, \dots\}}
@@ -16,7 +16,7 @@ $$
 \textcolor{red}{N_2 = \{2, 4, 6, 8, 10, \dots\}}
 $$
 
-I due insiemi sono in corrispondenza biunivoca perché ad ogni numero in $$N$$ corrisponde il suo doppio in $$N_2$$ e ad ogni numero in $$N_2$$ corrisponde la sua metà in $$N$$
+I due insiemi sono in corrispondenza biunivoca perché ad ogni numero in $N$ corrisponde il suo doppio in $N_2$ e ad ogni numero in $N_2$ corrisponde la sua metà in $N$
 
 $$
 \begin{array}{ccc}
@@ -31,8 +31,8 @@ $$
 \end{array}
 $$
 
-Quindi l'insieme $$N$$, essendo in corrispondenza biunivoca con una sua parte, è un insieme **infinito**
+Quindi l'insieme $N$, essendo in corrispondenza biunivoca con una sua parte, è un insieme **infinito**
 
-> Potevo mettere in corrispondenza biunivoca i numeri di $$N$$ con i loro tripli oppure con i loro multipli per $$10\dots$$ eccetera
+> Potevo mettere in corrispondenza biunivoca i numeri di $N$ con i loro tripli oppure con i loro multipli per $10\dots$ eccetera
 
 > Questa di poter mettere in corrispondenza biunivoca un insieme infinito con una sua parte è la prima fra le tante proprietà sorprendenti dell'infinito, vedrai che, procedendo ci sarà di molto peggio...

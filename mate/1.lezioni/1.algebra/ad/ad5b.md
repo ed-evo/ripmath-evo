@@ -17,7 +17,7 @@ Ora faccio la somma algebrica dei termini nella seconda colonna e scrivo il risu
 
 Ora ripeto: moltiplico il divisore per il numero ottenuto e scrivo il risultato nella terza colonna sopra la sbarra.
 
-Infine sommo in colonna e la divisione è terminata. Il termine $$4$$ fuori delle sbarre sarà il resto, mentre per ottenere il risultato devo rimettere le lettere ai termini: $$1$$ sarà il termine noto, mentre a $$2$$ dovrò mettere $$x$$. Quindi il risultato è: $$2x+1$$ con resto $$= 4$$.
+Infine sommo in colonna e la divisione è terminata. Il termine $4$ fuori delle sbarre sarà il resto, mentre per ottenere il risultato devo rimettere le lettere ai termini: $1$ sarà il termine noto, mentre a $2$ dovrò mettere $x$. Quindi il risultato è: $2x+1$ con resto $= 4$.
 
 Se osservi le due figure successive e guardi i riquadri blu ti puoi rendere conto che la divisione è la stessa fatta prima.
 

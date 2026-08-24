@@ -1,16 +1,16 @@
 # traslazione di coordinate
 
-Consideriamo in nero un sistema di coordinate in cui il punto $$P$$ abbia coordinate (che chiameremo vecchie coordinate)
+Consideriamo in nero un sistema di coordinate in cui il punto $P$ abbia coordinate (che chiameremo vecchie coordinate)
 $$
 P = (x, y)
 $$
-Consideriamo poi in rosso un altro sistema di coordinate in cui il punto $$P$$ sarà individuato da (nuove coordinate)
+Consideriamo poi in rosso un altro sistema di coordinate in cui il punto $P$ sarà individuato da (nuove coordinate)
 $$
 \textcolor{red}{P = (X, Y)}
 $$
-Supponiamo inoltre che la nuova origine $$\textcolor{red}{O'}$$ abbia rispetto alla vecchia origine $$O$$ coordinate $$\textcolor{blue}{(a, b)}$$.
+Supponiamo inoltre che la nuova origine $\textcolor{red}{O'}$ abbia rispetto alla vecchia origine $O$ coordinate $\textcolor{blue}{(a, b)}$.
 
-Allora dalla figura possiamo dire che il segmento $$OH (x)$$ è uguale alla somma dei segmenti $$\textcolor{blue}{OA (a)}$$ e $$\textcolor{red}{O'R (X)}$$, quindi posso scrivere:
+Allora dalla figura possiamo dire che il segmento $OH (x)$ è uguale alla somma dei segmenti $\textcolor{blue}{OA (a)}$ e $\textcolor{red}{O'R (X)}$, quindi posso scrivere:
 $$
 x = \textcolor{blue}{a} + \textcolor{red}{X}
 $$
@@ -19,7 +19,7 @@ $$
 \textcolor{red}{X} = x - \textcolor{blue}{a}
 $$
 
-Anche per le $$y$$ dalla figura possiamo dire che $$OK (y)$$ è uguale alla somma dei segmenti $$\textcolor{blue}{OB (b)}$$ e $$\textcolor{red}{O'S (Y)}$$, quindi posso scrivere:
+Anche per le $y$ dalla figura possiamo dire che $OK (y)$ è uguale alla somma dei segmenti $\textcolor{blue}{OB (b)}$ e $\textcolor{red}{O'S (Y)}$, quindi posso scrivere:
 $$
 y = \textcolor{blue}{b} + \textcolor{red}{Y}
 $$

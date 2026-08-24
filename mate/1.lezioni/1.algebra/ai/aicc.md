@@ -1,7 +1,7 @@
 # Sistemi di secondo grado a più incognite
 
 Per risolverli devi sostituire le incognite una alla volta sino ad avere un'equazione in una sola incognita e quindi risolvere l'equazione.
-Vediamo un esercizio con $$3$$ incognite.
+Vediamo un esercizio con $3$ incognite.
 
 $$
 \begin{cases}
@@ -11,7 +11,7 @@ $$
 \end{cases}
 $$
 
-Ricavo la $$z$$ dall'ultima equazione e la sostituisco nelle altre due:
+Ricavo la $z$ dall'ultima equazione e la sostituisco nelle altre due:
 
 $$
 \begin{cases}
@@ -47,7 +47,7 @@ $$
 \end{cases}
 $$
 
-Nella prima equazione divido tutto per $$-2$$:
+Nella prima equazione divido tutto per $-2$:
 
 $$
 \begin{cases}
@@ -59,7 +59,7 @@ $$
 
 > Da notare che d'ora in avanti è come risolvere un sistema di secondo grado in due incognite.
 
-Ora ricavo $$y$$ dalla seconda equazione e la sostituisco nella prima:
+Ora ricavo $y$ dalla seconda equazione e la sostituisco nella prima:
 
 $$
 \begin{cases}
@@ -113,7 +113,7 @@ $$
 
 Ora devo sostituire i valori trovati **uno alla volta** nelle equazioni mancanti e calcolare le incognite corrispondenti.
 
-- Primo valore $$x = 3$$
+- Primo valore $x = 3$
 $$
 \begin{cases}
 \textcolor{red}{x = 3} \\
@@ -143,7 +143,7 @@ $$
 \end{cases}
 $$
 
-- Secondo valore $$x = 17/2$$
+- Secondo valore $x = 17/2$
 $$
 \begin{cases}
 \textcolor{red}{x = 17/2} \\

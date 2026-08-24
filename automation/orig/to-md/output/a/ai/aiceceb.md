@@ -1,5 +1,5 @@
 Risolviamo l'equazione
-[$$\textcolor{red}{z^2 - 3z - 10 = 0}$$]{.text-red}
+[$\textcolor{red}{z^2 - 3z - 10 = 0}$]{.text-red}
 applichiamo la formula
 
 $$
@@ -7,9 +7,9 @@ $$
 $$
 
 Abbiamo:
-[$$\textcolor{blue}{a = 1}$$]{.text-blue}
-[$$\textcolor{blue}{b = -3}$$]{.text-blue}
-[$$\textcolor{blue}{c = -10}$$]{.text-blue}
+[$\textcolor{blue}{a = 1}$]{.text-blue}
+[$\textcolor{blue}{b = -3}$]{.text-blue}
+[$\textcolor{blue}{c = -10}$]{.text-blue}
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-3) \pm \sqrt{(-3)^2 - 4(1)(-10)}}{2(1)}}

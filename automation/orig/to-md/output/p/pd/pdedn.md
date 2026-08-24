@@ -1,6 +1,6 @@
 # [Contro-implicazione inversa]{.text-red}
 
-> È la contro-implicazione inversa $$a'b$$
+> È la contro-implicazione inversa $a'b$
 >
 > corrisponde alla [contro-implicazione inversa in logica](../../k/kb/kblan.html)
 >

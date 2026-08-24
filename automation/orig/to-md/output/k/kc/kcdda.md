@@ -43,7 +43,7 @@ Vediamo anche un esempio di sillogismo non valido:
 
 ---
 
-mediante i diagrammi di Eulero-Venn i $$3$$ giudizi dicono:
+mediante i diagrammi di Eulero-Venn i $3$ giudizi dicono:
 
 L'insieme dei leoni non ha elementi comuni con l'insieme dei gatti **vero**
 L'insieme dei gatti ha qualche elemento in comune con l'insieme degli animali selvatici **vero**

@@ -12,7 +12,7 @@ Inoltre avremo che
 
 Ad esempio se considero il quadrato circoscritto e poi l'ottagono regolare circoscritto avremo che il perimetro dell'ottagono è minore del perimetro del quadrato ma maggiore della lunghezza della circonferenza:
 
-Infatti, se considero il triangolo $$APQ$$, siccome in ogni triangolo un lato è minore della somma degli altri due, avremo
+Infatti, se considero il triangolo $APQ$, siccome in ogni triangolo un lato è minore della somma degli altri due, avremo
 
 $$
 PQ < AP + AQ

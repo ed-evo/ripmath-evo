@@ -12,15 +12,15 @@ vi si aprirà una finestra in bianco e nero con il prompt dei comandi
 digitate **debug** e premete invio
 otterrete una breve lineetta lampeggiante
 digitate **d** (comando dump = salta) e premete invio
-se ottenete tutti $$0$$ digitate ancora **d** ed ogni volta premete invio
+se ottenete tutti $0$ digitate ancora **d** ed ogni volta premete invio
 
 Per uscire scrivete semplicemente **q** (comando quit = esci) e premete invio
 Poi, per chiudere il terminale scrivete **exit** e premete ancora il tasto invio
 
 Digitando **d** più volte otterrete una schermata simile a questa
 
-Questo è il vostro computer: nelle prime colonne ci sono gli indirizzi a $$32$$ bit dei dati della macchina
-Dovete pensare al computer come ad un immenso nastro dove in ogni posizione (indirizzo) c'è un dato (Byte) ed ogni posizione è data da un numero binario a $$16$$ bit
+Questo è il vostro computer: nelle prime colonne ci sono gli indirizzi a $32$ bit dei dati della macchina
+Dovete pensare al computer come ad un immenso nastro dove in ogni posizione (indirizzo) c'è un dato (Byte) ed ogni posizione è data da un numero binario a $16$ bit
 Intuitivamente il nastro scorre ed i dati possono essere letti ed utilizzati da un lettore
 Come esempio consideriamo la sesta riga del secondo blocco intero (18-sima riga dell'immagine dove ho posizionato la freccia)
 l'indirizzo cui sono scritti questi dati è, in esadecimale, da
@@ -41,17 +41,17 @@ all'indirizzo
 $$
 0000\ 1100\ 1100\ 0001\ 0000\ 0011\ 1101\ 1111
 $$
-In questi $$16$$ indirizzi in ordine ci sono $$16$$ dati in esadecimali
+In questi $16$ indirizzi in ordine ci sono $16$ dati in esadecimali
 $$
 27\ 5\text{A}\ 07\ 5\text{B}\ 28\ 5\text{B}\ 07\ \text{B}9\ 28\ 6\text{C}\ 07\ 60\ 29\ 80\ 07
 $$
 
-I $$16$$ gruppi di $$2$$ numeri in esadecimale corrispondono ai caratteri ASCII della parte destra dello schermo: [Non ho capito](pbica.html)
+I $16$ gruppi di $2$ numeri in esadecimale corrispondono ai caratteri ASCII della parte destra dello schermo: [Non ho capito](pbica.html)
 
-> ad esempio il primo dato $$27_{16}$$ corrisponde al carattere decimale $$39\ (16 \times 2 + 9)$$ cui corrisponde il carattere ASCII **'** (apostrofo)
-> il secondo dato $$5\text{A}_{16}$$ corrisponde al carattere decimale $$90\ (16 \times 5 + 10)$$ cui corrisponde il carattere ASCII **Z**
-> il terzo dato $$07_{16}$$ è un comando e precisamente quello che dà il suono del campanello e a destra viene evidenziato con un puntino; e siccome sulla riga ce ne sono $$4$$ più uno sotto penso che abbiamo "beccato" dove Windows tiene il suono del campanello per segnalare gli errori (din, din din din din)
-> tutti i comandi e i caratteri diversi dai tipografici vengono evidenziati con un puntino, ad eccezione del $$20_{16}$$ che ci dà lo spazio tra una parola e l'altra
+> ad esempio il primo dato $27_{16}$ corrisponde al carattere decimale $39\ (16 \times 2 + 9)$ cui corrisponde il carattere ASCII **'** (apostrofo)
+> il secondo dato $5\text{A}_{16}$ corrisponde al carattere decimale $90\ (16 \times 5 + 10)$ cui corrisponde il carattere ASCII **Z**
+> il terzo dato $07_{16}$ è un comando e precisamente quello che dà il suono del campanello e a destra viene evidenziato con un puntino; e siccome sulla riga ce ne sono $4$ più uno sotto penso che abbiamo "beccato" dove Windows tiene il suono del campanello per segnalare gli errori (din, din din din din)
+> tutti i comandi e i caratteri diversi dai tipografici vengono evidenziati con un puntino, ad eccezione del $20_{16}$ che ci dà lo spazio tra una parola e l'altra
 
 Potete divertirvi a guardare, nel blocco successivo, alcuni dei messaggi di errore più comuni che restituisce Windows
 

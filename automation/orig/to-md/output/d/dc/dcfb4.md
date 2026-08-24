@@ -1,4 +1,4 @@
-Sistema fra le rette parallele individuate per trovare le coordinate del punto $$D$$
+Sistema fra le rette parallele individuate per trovare le coordinate del punto $D$
 
 $$
 \textcolor{blue}{

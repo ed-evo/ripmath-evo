@@ -55,7 +55,7 @@ $$
 \begin{cases} \textcolor{red}{y = 2} \\ \textcolor{red}{x^2 + 3xy + y^2 = 4} \end{cases} \quad \begin{cases} \textcolor{red}{y = 3} \\ \textcolor{red}{x^2 + 3xy + y^2 = 4} \end{cases}
 $$
 
-Ossia sostituendo il valore di $$y$$:
+Ossia sostituendo il valore di $y$:
 
 $$
 \begin{cases} \textcolor{red}{y = 2} \\ \textcolor{red}{x^2 + 6x + 4 = 4} \end{cases} \quad \begin{cases} \textcolor{red}{y = 3} \\ \textcolor{red}{x^2 + 9x + 9 = 4} \end{cases}
@@ -71,7 +71,7 @@ $$
   $$
   \begin{cases} \textcolor{red}{y = 2} \\ \textcolor{red}{x^2 + 6x = 0} \end{cases}
   $$
-  Risolvendo la seconda equazione ottengo $$\textcolor{red}{x_1 = 0}$$ e $$\textcolor{red}{x_2 = -6}$$ [Calcoli](aicgda.html).
+  Risolvendo la seconda equazione ottengo $\textcolor{red}{x_1 = 0}$ e $\textcolor{red}{x_2 = -6}$ [Calcoli](aicgda.html).
   Ottengo quindi le soluzioni:
   $$
   \begin{cases} \textcolor{red}{x_1 = 0} \\ \textcolor{red}{y_1 = 2} \end{cases} \quad \begin{cases} \textcolor{red}{x_2 = -6} \\ \textcolor{red}{y_2 = 2} \end{cases}
@@ -81,7 +81,7 @@ $$
   $$
   \begin{cases} \textcolor{red}{y = 3} \\ \textcolor{red}{x^2 - 9x + 5 = 0} \end{cases}
   $$
-  Risolvendo la seconda equazione ottengo $$\textcolor{red}{x_1 = \frac{9 + \sqrt{61}}{2}}$$ e $$\textcolor{red}{x_2 = \frac{9 - \sqrt{61}}{2}}$$ [Calcoli](aicgda.html).
+  Risolvendo la seconda equazione ottengo $\textcolor{red}{x_1 = \frac{9 + \sqrt{61}}{2}}$ e $\textcolor{red}{x_2 = \frac{9 - \sqrt{61}}{2}}$ [Calcoli](aicgda.html).
   Ottengo quindi le soluzioni:
   $$
   \begin{cases} \textcolor{red}{x_1 = \frac{9 - \sqrt{61}}{2}} \\ \textcolor{red}{y_1 = 3} \end{cases} \quad \begin{cases} \textcolor{red}{x_2 = \frac{9 + \sqrt{61}}{2}} \\ \textcolor{red}{y_2 = 3} \end{cases}

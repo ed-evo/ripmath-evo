@@ -8,7 +8,7 @@ $$
 \int \frac{\textcolor{red}{x}}{\textcolor{red}{x-1}} dx =
 $$
 
-aggiungo al numeratore $$-1$$ per renderlo uguale al denominatore ed anche $$+1$$ per non variare di valore l'espressione:
+aggiungo al numeratore $-1$ per renderlo uguale al denominatore ed anche $+1$ per non variare di valore l'espressione:
 
 $$
 = \int \frac{\textcolor{red}{x-1+1}}{\textcolor{red}{x-1}} dx =

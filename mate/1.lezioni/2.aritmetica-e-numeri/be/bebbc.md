@@ -1,6 +1,6 @@
 # Prodotto fra numeri complessi
 
-Anche per il prodotto ci rifaremo sempre alle regole studiate nei [polinomi](../../a/ad/ad4b.html) considerando $$i$$ come parte letterale e ricordando che $$\textcolor{red}{i^2 = -1}$$:
+Anche per il prodotto ci rifaremo sempre alle regole studiate nei [polinomi](../../a/ad/ad4b.html) considerando $i$ come parte letterale e ricordando che $\textcolor{red}{i^2 = -1}$:
 
 Esempio: moltiplicare i due numeri complessi
 

@@ -4,15 +4,15 @@ Qui vediamo alcune definizioni ed anche una proprietà notevole del triangolo is
 
 > [Definiamo altezza di un triangolo il segmento di perpendicolare condotto da un vertice al lato opposto]{.text-blue}
 >
-> In figura $$AH$$ è un'altezza
+> In figura $AH$ è un'altezza
 
-Naturalmente nel triangolo vi saranno $$3$$ altezze.
+Naturalmente nel triangolo vi saranno $3$ altezze.
 
 > [Definiamo mediana il segmento congiungente il vertice di un triangolo con il punto medio del lato opposto]{.text-blue}
 >
-> In figura $$AM$$ è una mediana
+> In figura $AM$ è una mediana
 
-Anche di mediane ogni triangolo ne possiede $$3$$.
+Anche di mediane ogni triangolo ne possiede $3$.
 
 Date queste definizioni possiamo dire che vale:
 
@@ -34,7 +34,7 @@ $$
 
 saranno equivalenti.
 
-Naturalmente ciò vale solamente per il vertice e la base di un triangolo isoscele: negli altri due lati l'altezza, la mediana e la bisettrice saranno $$3$$ segmenti diversi.
+Naturalmente ciò vale solamente per il vertice e la base di un triangolo isoscele: negli altri due lati l'altezza, la mediana e la bisettrice saranno $3$ segmenti diversi.
 
 In figura:
 - altezze in nero

@@ -31,7 +31,7 @@ $$
 $$
 
 Riporto su un grafico, evidenziando con una linea marcata i valori che risolvono le disequazioni, i valori dove è accettabile l'uguale li indico con un cerchietto.
-Abbiamo come soluzione [$$x \ge -1$$]{.text-blue}
+Abbiamo come soluzione [$x \ge -1$]{.text-blue}
 
 3. **Si procede come per le equazioni irrazionali con opportuni elevamenti a potenza per ridurre i radicali, sino ad ottenere un radicale ed un numero**
 Sono [tre radicali](../af/afdfbd.html): elevo a quadrato da una parte e dall'altra:
@@ -98,7 +98,7 @@ $$
 $$
 
 Riporto su un grafico, evidenziando con una linea marcata i valori che risolvono le disequazioni, i valori dove è accettabile l'uguale li indico con un cerchietto. Essendo un sistema prendo le soluzioni comuni.
-Abbiamo come soluzione [$$x \le -4$$]{.text-blue}
+Abbiamo come soluzione [$x \le -4$]{.text-blue}
 
 Risolviamo il secondo:
 
@@ -109,7 +109,7 @@ $$
 \end{cases}
 $$
 
-Divido la seconda per $$4$$:
+Divido la seconda per $4$:
 
 $$
 \begin{cases}
@@ -118,14 +118,14 @@ $$
 \end{cases}
 $$
 
-La prima [$$-x-4 < 0$$]{.text-blue} è verificata per [$$x > -4$$]{.text-blue}
-La seconda [$$x^2+5x+6 \ge 0$$]{.text-blue} è verificata per [$$x \le -3 \cup x \ge -2$$]{.text-blue} ([calcoli](akicab.html))
+La prima [$-x-4 < 0$]{.text-blue} è verificata per [$x > -4$]{.text-blue}
+La seconda [$x^2+5x+6 \ge 0$]{.text-blue} è verificata per [$x \le -3 \cup x \ge -2$]{.text-blue} ([calcoli](akicab.html))
 
 Riporto su un grafico, evidenziando con una linea marcata i valori che risolvono le disequazioni, i valori dove è accettabile l'uguale li indico con un cerchietto.
-Abbiamo come soluzione [$$-4 < x \le -3 \cup x \ge -2$$]{.text-blue}
+Abbiamo come soluzione [$-4 < x \le -3 \cup x \ge -2$]{.text-blue}
 
 Ora devo mettere assieme le soluzioni dei due sistemi ed ottengo:
-[$$x \le -3 \cup x \ge -2$$]{.text-blue}
+[$x \le -3 \cup x \ge -2$]{.text-blue}
 
 5. **I risultati trovati vanno messi a sistema con l'intervallo in cui è possibile la disequazione**
 Quindi faccio un sistema fra le condizioni di realtà delle radici e le soluzioni trovate sopra:

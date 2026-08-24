@@ -10,7 +10,7 @@ $$
 \textcolor{red}{= 2^{1/3} \cdot 4^{1/4} \cdot 8^{1/2} =}
 $$
 
-ricordando che $$4 = 2^2$$ ed $$8 = 2^3$$ posso scrivere
+ricordando che $4 = 2^2$ ed $8 = 2^3$ posso scrivere
 
 $$
 \textcolor{red}{= 2^{1/3} \cdot (2^2)^{1/4} \cdot (2^3)^{1/2} =}
@@ -22,7 +22,7 @@ $$
 \textcolor{red}{= 2^{1/3} \cdot 2^{2/4} \cdot 2^{3/2} =}
 $$
 
-posso semplificare $$2/4 = 1/2$$
+posso semplificare $2/4 = 1/2$
 
 $$
 \textcolor{red}{= 2^{1/3} \cdot 2^{1/2} \cdot 2^{3/2} =}
@@ -50,7 +50,7 @@ $$
 \textcolor{red}{= 2^2 \sqrt[6]{2^2} =}
 $$
 
-semplifico per $$2$$ l'indice di radice con l'esponente di potenza
+semplifico per $2$ l'indice di radice con l'esponente di potenza
 
 $$
 \textcolor{red}{= 4 \sqrt[3]{2} =}

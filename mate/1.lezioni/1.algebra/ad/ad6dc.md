@@ -6,9 +6,9 @@
 > \textcolor{red}{x^6 - a^6 =}
 > $$
 >
-> $$\textcolor{red}{x^6}$$ è il quadrato di $$\textcolor{red}{x^3}$$
+> $\textcolor{red}{x^6}$ è il quadrato di $\textcolor{red}{x^3}$
 >
-> $$\textcolor{red}{a^6}$$ è il quadrato di $$\textcolor{red}{a^3}$$
+> $\textcolor{red}{a^6}$ è il quadrato di $\textcolor{red}{a^3}$
 >
 > quindi
 >

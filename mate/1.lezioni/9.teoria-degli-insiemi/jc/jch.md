@@ -1,8 +1,8 @@
 # Relazione d'ordine
 
-Diciamo che la relazione $$R$$ su $$A \times A$$ è **d'ordine** se è contemporaneamente riflessiva, antisimmetrica e transitiva.
+Diciamo che la relazione $R$ su $A \times A$ è **d'ordine** se è contemporaneamente riflessiva, antisimmetrica e transitiva.
 
-> $$\textcolor{red}{R}$$ è relazione d'ordine se è
+> $\textcolor{red}{R}$ è relazione d'ordine se è
 > [riflessiva]{.text-blue} [antisimmetrica]{.text-blue} [transitiva]{.text-blue}
 
 > In pratica avrai una relazione d'ordine se puoi dire se tra due elementi uno è minore o uguale (oppure maggiore o uguale) all'altro.
@@ -12,8 +12,8 @@ Se su un insieme è possibile individuare una relazione d'ordine allora è possi
 Approfondiamo un po' il concetto di relazione d'ordine:
 
 - [Relazione d'ordine stretto](jcha.html)
-- [Relazione d'ordine totale $$\mathbb{N}$$](jchb.html)
-- [Relazione lineare $$\mathbb{N}$$](jchc.html)
+- [Relazione d'ordine totale $\mathbb{N}$](jchb.html)
+- [Relazione lineare $\mathbb{N}$](jchc.html)
 
 Vediamone alcuni esempi:
 
@@ -33,7 +33,7 @@ $$
 
 ***
 
-Supponiamo di avere un caseggiato di più piani che abbia una famiglia per ogni piano e considero la relazione [**"la famiglia $$X$$ abita allo stesso piano oppure ad un piano superiore della famiglia $$Y$$"**]{.text-red}.
+Supponiamo di avere un caseggiato di più piani che abbia una famiglia per ogni piano e considero la relazione [**"la famiglia $X$ abita allo stesso piano oppure ad un piano superiore della famiglia $Y$"**]{.text-red}.
 La relazione è d'ordine: infatti è riflessiva, antisimmetrica e transitiva; possiamo ordinare gli elementi come:
 
 - [famiglia del pianterreno]{.text-

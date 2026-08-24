@@ -10,4 +10,4 @@ Le due circonferenze di base sono:
 - circonferenze secanti
 - [circonferenze tangenti]{.text-red}
 
-> Se consideriamo il parametro $$k$$ di primo grado e quindi consideriamo una famiglia $$\infty^1$$ di circonferenze, allora non possiamo prendere in considerazione il caso di tutte le circonferenze passanti per un punto che fornisce un insieme $$\infty^2$$ di circonferenze: infatti il passaggio per un punto blocca solamente uno dei $$3$$ parametri della circonferenza.
+> Se consideriamo il parametro $k$ di primo grado e quindi consideriamo una famiglia $\infty^1$ di circonferenze, allora non possiamo prendere in considerazione il caso di tutte le circonferenze passanti per un punto che fornisce un insieme $\infty^2$ di circonferenze: infatti il passaggio per un punto blocca solamente uno dei $3$ parametri della circonferenza.

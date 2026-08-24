@@ -1,6 +1,6 @@
 # Limite di una somma di funzioni
 
-In modo intuitivo possiamo dire che il limite di una somma è uguale alla somma dei limiti: se ho due funzioni, la prima che tende a $$5$$ e la seconda che tende a $$7$$ per un certo valore di $$x$$ allora la funzione somma mi tenderà a $$12$$.
+In modo intuitivo possiamo dire che il limite di una somma è uguale alla somma dei limiti: se ho due funzioni, la prima che tende a $5$ e la seconda che tende a $7$ per un certo valore di $x$ allora la funzione somma mi tenderà a $12$.
 
 Se ad esempio devo calcolare:
 

@@ -20,7 +20,7 @@ $$
 \textcolor{red}{x = 0}
 $$
 
-Trovo il valore della $$y$$ corrispondente sostituendo $$0$$ al posto di $$x$$ nell'equazione di partenza:
+Trovo il valore della $y$ corrispondente sostituendo $0$ al posto di $x$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{y(0) = 0^2 - 1 = -1}
@@ -32,9 +32,9 @@ $$
 \textcolor{red}{A(0, -1)}
 $$
 
-Siccome io devo considerare i valori della funzione all'interno dell'intervallo $$\textcolor{red}{2 \le x \le 3}$$, non posso considerare il punto $$A$$ perché esterno; quindi il massimo ed il minimo della funzione corrisponderanno ai valori estremi dell'intervallo.
+Siccome io devo considerare i valori della funzione all'interno dell'intervallo $\textcolor{red}{2 \le x \le 3}$, non posso considerare il punto $A$ perché esterno; quindi il massimo ed il minimo della funzione corrisponderanno ai valori estremi dell'intervallo.
 
-Trovo il valore delle $$y$$ corrispondenti sostituendo prima $$2$$ poi $$3$$ al posto di $$x$$ nell'equazione di partenza:
+Trovo il valore delle $y$ corrispondenti sostituendo prima $2$ poi $3$ al posto di $x$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{y(2) = 2^2 - 1 = 3}
@@ -54,4 +54,4 @@ $$
 \textcolor{red}{C(3, 8)}
 $$
 
-Quindi $$B$$ è il punto di minimo e $$C$$ il punto di massimo nell'intervallo considerato.
+Quindi $B$ è il punto di minimo e $C$ il punto di massimo nell'intervallo considerato.

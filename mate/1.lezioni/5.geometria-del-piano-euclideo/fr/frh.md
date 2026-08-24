@@ -8,7 +8,7 @@ $$
 \textcolor{red}{\text{circonferenza} : \text{arco} = 360^\circ : \text{angolo}}
 $$
 
-Siccome alla circonferenza corrisponde un angolo di $$360^\circ$$, ad ogni arco corrisponderà un angolo tale da rispettare la proporzione.
+Siccome alla circonferenza corrisponde un angolo di $360^\circ$, ad ogni arco corrisponderà un angolo tale da rispettare la proporzione.
 
 Quindi se conosco l'angolo al centro il corrispondente arco vale:
 
@@ -17,7 +17,7 @@ $$
 $$
 
 **Esempio:**
-Considerando un cerchio di raggio $$r = 6\text{ cm}$$, trovare la lunghezza dell'arco con angolo al centro di $$120^\circ$$.
+Considerando un cerchio di raggio $r = 6\text{ cm}$, trovare la lunghezza dell'arco con angolo al centro di $120^\circ$.
 
 **Soluzione:**
 
@@ -32,7 +32,7 @@ $$
 $$
 
 **Esempio:**
-Considerando un cerchio di raggio $$r = 6\text{ cm}$$ e considerato un arco di lunghezza $$6\pi$$, trovare il valore dell'angolo al centro.
+Considerando un cerchio di raggio $r = 6\text{ cm}$ e considerato un arco di lunghezza $6\pi$, trovare il valore dell'angolo al centro.
 
 **Soluzione:**
 

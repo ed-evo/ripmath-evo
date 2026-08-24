@@ -2,7 +2,7 @@
 
 > **Dimostrazione:**
 > 
-> Dimostriamolo in un determinante $$3\times3$$: supponiamo che la terza riga si ottenga dalla prima moltiplicandola per il numero $$b$$
+> Dimostriamolo in un determinante $3\times3$: supponiamo che la terza riga si ottenga dalla prima moltiplicandola per il numero $b$
 > 
 > $$
 > \begin{vmatrix}

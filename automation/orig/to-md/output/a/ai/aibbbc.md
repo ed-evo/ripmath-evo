@@ -1,6 +1,6 @@
 # [Calcolo del determinante 3x3 col metodo normale]{.text-red}
 
-Il determinante di ordine $$1$$ corrisponde al numero stesso:
+Il determinante di ordine $1$ corrisponde al numero stesso:
 
 $$
 \textcolor{red}{| a_{1,1} | = a_{1,1}}
@@ -14,7 +14,7 @@ $$
 
 cioè moltiplico il primo elemento della prima riga per il suo complemento e moltiplico il secondo elemento della prima riga per il suo complemento e faccio la differenza.
 
-Dobbiamo estendere questo metodo ad un determinante $$3 \times 3$$:
+Dobbiamo estendere questo metodo ad un determinante $3 \times 3$:
 
 $$
 \textcolor{red}{\begin{vmatrix} a_{1,1} & a_{1,2} & a_{1,3} \\ a_{2,1} & a_{2,2} & a_{2,3} \\ a_{3,1} & a_{3,2} & a_{3,3} \end{vmatrix}}
@@ -54,4 +54,4 @@ $$
 
 ***
 
-> Questo metodo sarà applicabile per ricorrenza anche a sistemi di $$4, 5, \dots$$ equazioni in $$4, 5, \dots$$ incognite. Inoltre posso scegliere una qualunque riga o colonna per sviluppare; quindi, per rendere i calcoli più semplici, se possibile, sceglierò una riga o una colonna dove vi sono termini uguali a zero.
+> Questo metodo sarà applicabile per ricorrenza anche a sistemi di $4, 5, \dots$ equazioni in $4, 5, \dots$ incognite. Inoltre posso scegliere una qualunque riga o colonna per sviluppare; quindi, per rendere i calcoli più semplici, se possibile, sceglierò una riga o una colonna dove vi sono termini uguali a zero.

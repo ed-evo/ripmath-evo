@@ -10,4 +10,4 @@ $$
 
 allora dovrà essere vera almeno una delle seguenti uguaglianze
 
-$$\textcolor{purple}{a = 0}$$ $$\textcolor{purple}{b = 0}$$ $$\textcolor{purple}{c = 0}$$
+$\textcolor{purple}{a = 0}$ $\textcolor{purple}{b = 0}$ $\textcolor{purple}{c = 0}$

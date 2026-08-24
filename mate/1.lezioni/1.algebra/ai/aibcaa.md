@@ -47,7 +47,7 @@ Essendo questo determinante anche un minore della matrice completa avrò che mat
 
 ***
 
-Calcolo la $$x$$:
+Calcolo la $x$:
 
 $$
 x = \frac{\begin{vmatrix} \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{0} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}}{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}} = \frac{\textcolor{red}{-3}}{\textcolor{red}{-3}} = \textcolor{red}{1}
@@ -56,7 +56,7 @@ $$
 
 ***
 
-Calcolo la $$y$$:
+Calcolo la $y$:
 
 $$
 y = \frac{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}}{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}} = \frac{\textcolor{red}{-6}}{\textcolor{red}{-3}} = \textcolor{red}{2}
@@ -65,7 +65,7 @@ $$
 
 ***
 
-Calcolo la $$z$$:
+Calcolo la $z$:
 
 $$
 z = \frac{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{1} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{0} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-2} & \textcolor{red}{0} \end{vmatrix}}{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}} = \frac{\textcolor{red}{-9}}{\textcolor{red}{-3}} = \textcolor{red}{3}
@@ -74,7 +74,7 @@ $$
 
 ***
 
-Calcolo la $$t$$:
+Calcolo la $t$:
 
 $$
 t = \frac{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{0} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{-2} \end{vmatrix}}{\begin{vmatrix} \textcolor{red}{0} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{-2} & \textcolor{red}{0} & \textcolor{red}{1} \\ \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{-1} & \textcolor{red}{-1} \\ \textcolor{red}{1} & \textcolor{red}{0} & \textcolor{red}{-1} & \textcolor{red}{0} \end{vmatrix}} = \frac{\textcolor{red}{-12}}{\textcolor{red}{-3}} = \textcolor{red}{4}

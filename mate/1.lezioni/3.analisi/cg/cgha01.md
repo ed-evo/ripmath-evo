@@ -24,7 +24,7 @@ $$
 \textcolor{red}{x = 3}
 $$
 
-Trovo il valore della $$y$$ corrispondente sostituendo $$3$$ al posto di $$x$$ nell'equazione di partenza:
+Trovo il valore della $y$ corrispondente sostituendo $3$ al posto di $x$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{y(3) = 3^2 - 6 \cdot 3 + 8 = -1}
@@ -41,10 +41,10 @@ Per sapere se è un massimo od un minimo posso usare uno dei due metodi studiati
 - studio della derivata prima
 - metodo della derivata seconda
 
-con uno qualunque dei metodi troviamo che il punto $$V(3, -1)$$ è un punto di minimo.
+con uno qualunque dei metodi troviamo che il punto $V(3, -1)$ è un punto di minimo.
 
 > **Nota:** Nei prossimi esercizi useremo il metodo più semplice fra i due possibili:
 > - Se è difficile trovare la derivata seconda studieremo la derivata prima
-> - Se è facile trovare la derivata seconda ne calcoleremo il valore per la $$x$$ trovata
+> - Se è facile trovare la derivata seconda ne calcoleremo il valore per la $x$ trovata
 > 
 > In caso di uguale difficoltà io preferisco seguire il secondo metodo.

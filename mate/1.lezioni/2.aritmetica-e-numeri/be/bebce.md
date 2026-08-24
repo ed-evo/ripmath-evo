@@ -9,7 +9,7 @@ $$
 \textcolor{blue}{z = \rho (\cos \theta + i \sin \theta)}
 $$
 
-la sua potenza intera $$n$$ è:
+la sua potenza intera $n$ è:
 
 $$
 \textcolor{blue}{(z)^n = \rho^n (\cos n\theta + i \sin n\theta)}
@@ -17,10 +17,10 @@ $$
 
 cioè:
 
-[per fare la potenza $$n$$ devi elevare ad $$n$$ il modulo $$\rho$$ e devi moltiplicare l'angolo $$\theta$$ per $$n$$.]{.text-red}
+[per fare la potenza $n$ devi elevare ad $n$ il modulo $\rho$ e devi moltiplicare l'angolo $\theta$ per $n$.]{.text-red}
 
 > **Esempio:**
-> Calcoliamo la potenza $$6$$ del numero complesso:
+> Calcoliamo la potenza $6$ del numero complesso:
 > 
 > $$
 > \textcolor{blue}{z = \sqrt{2} (\cos \frac{\pi}{4} + i \sin \frac{\pi}{4})}

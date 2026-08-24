@@ -1,4 +1,4 @@
-Trovare le intersezioni fra la parabola [$$y = x^2 - 4x + 3$${.text-blue}] e la retta [$$y = x + 3$${.text-blue}]
+Trovare le intersezioni fra la parabola [$y = x^2 - 4x + 3${.text-blue}] e la retta [$y = x + 3${.text-blue}]
 
 Devo fare il sistema fra le due curve:
 
@@ -9,7 +9,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ ricavato dalla prima nella seconda equazione; al posto della prima metto una linea:
+Sostituisco il valore della $y$ ricavato dalla prima nella seconda equazione; al posto della prima metto una linea:
 
 $$
 \begin{cases} 
@@ -18,7 +18,7 @@ $$
 \end{cases}
 $$
 
-> **Nota:** Conviene sostituire in modo che $$x^2$$ sia positivo: così non devi cambiare di segno.
+> **Nota:** Conviene sostituire in modo che $x^2$ sia positivo: così non devi cambiare di segno.
 
 $$
 \begin{cases} 
@@ -37,9 +37,9 @@ $$
 \textcolor{red}{x ( x - 5) = 0}
 $$
 
-Ottengo le due soluzioni: [$$x = 0$${.text-red}] e [$$x = 5$${.text-red}]
+Ottengo le due soluzioni: [$x = 0${.text-red}] e [$x = 5${.text-red}]
 
-Sostituisco il valore $$0$$ in una delle due equazioni del sistema (conviene prendere la più semplice):
+Sostituisco il valore $0$ in una delle due equazioni del sistema (conviene prendere la più semplice):
 
 $$
 \begin{cases} 
@@ -48,9 +48,9 @@ $$
 \end{cases}
 $$
 
-Primo punto [$$A = (0, 3)$${.text-red}]
+Primo punto [$A = (0, 3)${.text-red}]
 
-Sostituisco il valore $$5$$ in una delle due equazioni del sistema:
+Sostituisco il valore $5$ in una delle due equazioni del sistema:
 
 $$
 \begin{cases} 
@@ -59,6 +59,6 @@ $$
 \end{cases}
 $$
 
-Secondo punto [$$B = (5, 8)$${.text-red}]
+Secondo punto [$B = (5, 8)${.text-red}]
 
 A destra la rappresentazione grafica.

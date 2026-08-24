@@ -1,6 +1,6 @@
 # Valore del raggio
 
-Per imporre la condizione del valore del raggio basta ricordare le relazioni fra i coefficienti $$\textcolor{red}{a}$$, $$\textcolor{red}{b}$$, $$\textcolor{red}{c}$$ ed il raggio $$\textcolor{red}{r}$$ della circonferenza:
+Per imporre la condizione del valore del raggio basta ricordare le relazioni fra i coefficienti $\textcolor{red}{a}$, $\textcolor{red}{b}$, $\textcolor{red}{c}$ ed il raggio $\textcolor{red}{r}$ della circonferenza:
 
 $$
 \textcolor{red}{(a/2)^2 + (b/2)^2 - c = r^2}

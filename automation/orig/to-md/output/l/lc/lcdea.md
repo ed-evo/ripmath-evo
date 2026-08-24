@@ -7,7 +7,7 @@ Consideriamo un evento composto da più eventi tra loro mutualmente incompatibil
 ***
 
 Chiariamo meglio su un esempio:
-Trovare la probabilità che estraendo una carta da un mazzo di $$40$$ essa sia una figura oppure un asso.
+Trovare la probabilità che estraendo una carta da un mazzo di $40$ essa sia una figura oppure un asso.
 La probabilità è composta dai due eventi:
 - uscita di una figura
 - uscita di un asso
@@ -15,10 +15,10 @@ La probabilità è composta dai due eventi:
 I due eventi sono incompatibili perché se la carta è una figura allora non può essere un asso e viceversa.
 Posso applicare il teorema:
 
-**probabilità che estraendo una carta da un mazzo di $$40$$ essa sia una figura oppure un asso = probabilità che la carta sia una figura + probabilità che la carta sia un asso**
+**probabilità che estraendo una carta da un mazzo di $40$ essa sia una figura oppure un asso = probabilità che la carta sia una figura + probabilità che la carta sia un asso**
 
-Le figure sono $$12$$, quindi la probabilità di uscita di una figura è $$\frac{12}{40}$$.
-Gli assi sono $$4$$, quindi la probabilità di uscita di un asso è $$\frac{4}{40}$$.
+Le figure sono $12$, quindi la probabilità di uscita di una figura è $\frac{12}{40}$.
+Gli assi sono $4$, quindi la probabilità di uscita di un asso è $\frac{4}{40}$.
 
 $$
 p = \frac{12}{40} + \frac{4}{40} = \frac{16}{40} = \frac{2}{5} = 0,4 = 40\%

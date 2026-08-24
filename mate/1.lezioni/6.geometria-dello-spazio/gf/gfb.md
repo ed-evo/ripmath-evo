@@ -4,7 +4,7 @@ Parallelismo fra una retta ed un piano
 
 Una retta è parallela ad un piano se non ha punti in comune col piano.
 
-Siccome è difficile far vedere che una retta ed un piano non hanno punti in comune (magari a $$1.000.000.000$$ di km di distanza si incontrano!) allora abbiamo bisogno di un
+Siccome è difficile far vedere che una retta ed un piano non hanno punti in comune (magari a $1.000.000.000$ di km di distanza si incontrano!) allora abbiamo bisogno di un
 
 **criterio di parallelismo fra una retta ed un piano**
 

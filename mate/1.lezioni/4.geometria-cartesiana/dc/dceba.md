@@ -8,9 +8,9 @@ $$
 \textcolor{blue}{y = 2x}
 $$
 
-Diamo dei valori qualunque alla $$x$$ e leggiamo i valori corrispondenti per la $$y$$.
+Diamo dei valori qualunque alla $x$ e leggiamo i valori corrispondenti per la $y$.
 
-> **Nota:** nella retta per l'origine conviene dare come primo valore lo zero $$0$$ e come secondo un valore abbastanza lontano per tracciare meglio la retta.
+> **Nota:** nella retta per l'origine conviene dare come primo valore lo zero $0$ e come secondo un valore abbastanza lontano per tracciare meglio la retta.
 
 $$
 \textcolor{blue}{
@@ -30,9 +30,9 @@ $$
 \textcolor{blue}{y = -\frac{1}{2}x}
 $$
 
-Diamo dei valori qualunque alla $$x$$ e leggiamo i valori corrispondenti per la $$y$$.
+Diamo dei valori qualunque alla $x$ e leggiamo i valori corrispondenti per la $y$.
 
-> **Nota:** conviene cercare come secondo valore un valore che faccia sparire la frazione, ad esempio $$4$$.
+> **Nota:** conviene cercare come secondo valore un valore che faccia sparire la frazione, ad esempio $4$.
 
 $$
 \textcolor{blue}{

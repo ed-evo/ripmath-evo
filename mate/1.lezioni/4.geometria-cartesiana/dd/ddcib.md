@@ -6,7 +6,7 @@ $$
 (1+k)x^2 + (1+k)y^2 + x(a_1 + ka_2) + y(b_1 + kb_2) + c_1 + kc_2 = 0
 $$
 
-tra le varie circonferenze del fascio scegliamo quella data da $$k = -1$$
+tra le varie circonferenze del fascio scegliamo quella data da $k = -1$
 
 $$
 (1-1)x^2 + (1-1)y^2 + x(a_1 - a_2) + y(b_1 - b_2) + c_1 - c_2 = 0
@@ -24,7 +24,7 @@ Puoi pensare l'asse radicale come una circonferenza di raggio infinito, quindi a
 
 ***
 
-In effetti la circonferenza degenere è effettivamente una circonferenza del fascio, infatti indicata con $$C$$ una delle circonferenze di base e con $$C'$$ l'altra, abbiamo che posso scrivere il fascio come
+In effetti la circonferenza degenere è effettivamente una circonferenza del fascio, infatti indicata con $C$ una delle circonferenze di base e con $C'$ l'altra, abbiamo che posso scrivere il fascio come
 
 $$
 C + kC' = 0
@@ -36,13 +36,13 @@ $$
 C - C' = 0
 $$
 
-Prendo l'equazione del fascio con $$h$$ al posto di $$k$$
+Prendo l'equazione del fascio con $h$ al posto di $k$
 
 $$
 C + hC' = 0
 $$
 
-aggiungo e tolgo $$hC$$
+aggiungo e tolgo $hC$
 
 $$
 C + hC' + hC - hC = 0
@@ -86,7 +86,7 @@ Cioè posso semplificare un po' l'equazione del fascio sostituendo a una delle d
 > x^2 + y^2 - 2y - 1 + k(x^2 + y^2 + 2x + 1) = 0
 > $$
 >
-> l'asse radicale lo trovo ponendo $$k = -1$$
+> l'asse radicale lo trovo ponendo $k = -1$
 >
 > $$
 > x^2 + y^2 - 2y - 1 - 1(x^2 + y^2 + 2x + 1) = 0
@@ -98,7 +98,7 @@ Cioè posso semplificare un po' l'equazione del fascio sostituendo a una delle d
 > -2x - 2y - 2 = 0
 > $$
 >
-> o meglio, dividendo per $$2$$ e cambiando di segno
+> o meglio, dividendo per $2$ e cambiando di segno
 >
 > $$
 > x + y + 1 = 0

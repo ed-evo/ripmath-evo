@@ -1,4 +1,4 @@
-Risolviamo l'equazione $$\textcolor{red}{y^2 + y - 2 = 0}$$
+Risolviamo l'equazione $\textcolor{red}{y^2 + y - 2 = 0}$
 applichiamo la formula
 
 $$
@@ -6,9 +6,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = 1}$$
-$$\textcolor{blue}{c = -2}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 1}$
+$\textcolor{blue}{c = -2}$
 
 $$
 \textcolor{blue}{y_{1,2} = \frac{-1 \pm \sqrt{1^2 - 4(1)(-2)}}{2}}
@@ -37,4 +37,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-$$\textcolor{red}{y_1 = -2} \quad \textcolor{red}{y_2 = 1}$$
+$\textcolor{red}{y_1 = -2} \quad \textcolor{red}{y_2 = 1}$

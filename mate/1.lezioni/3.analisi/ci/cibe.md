@@ -4,7 +4,7 @@ Serve per individuare in quali parti del piano passerà il grafico della funzion
 
 ***
 
-Si deve porre la funzione maggiore di zero e trovare per quali valori di $$x$$ è verificata: per tali valori il grafico sarà sopra l'asse delle ascisse mentre per valori diversi sarà sotto.
+Si deve porre la funzione maggiore di zero e trovare per quali valori di $x$ è verificata: per tali valori il grafico sarà sopra l'asse delle ascisse mentre per valori diversi sarà sotto.
 
 ***
 
@@ -28,7 +28,7 @@ $$
 
 che ha soluzioni:
 
-$$\textcolor{red}{x = -2}$$ e $$\textcolor{red}{x = +2}$$
+$\textcolor{red}{x = -2}$ e $\textcolor{red}{x = +2}$
 
 Avendo due soluzioni reali e distinte la disequazione sarà verificata per valori esterni alle radici, cioè:
 

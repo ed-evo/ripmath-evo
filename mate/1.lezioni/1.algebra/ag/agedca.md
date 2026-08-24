@@ -1,8 +1,8 @@
 # Esercizi
 
-Ho la disequazione [$$x^2 - 5x + 6 > 0$$]{.text-red}
+Ho la disequazione [$x^2 - 5x + 6 > 0$]{.text-red}
 
-considero l'equazione associata: [$$x^2 - 5x + 6 = 0$$]{.text-blue}
+considero l'equazione associata: [$x^2 - 5x + 6 = 0$]{.text-blue}
 
 prendiamo la formula risolutiva
 
@@ -11,9 +11,9 @@ $$
 $$
 
 abbiamo:
-[$$a = 1$$]{.text-blue}
-[$$b = -5$$]{.text-blue}
-[$$c = 6$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = -5$]{.text-blue}
+[$c = 6$]{.text-blue}
 
 sostituiamo nella formula
 
@@ -47,6 +47,6 @@ $$
 
 Ho quindi le due soluzioni
 
-[$$x_1 = 2$$]{.text-red} \quad [$$x_2 = 3$$]{.text-red}
+[$x_1 = 2$]{.text-red} \quad [$x_2 = 3$]{.text-red}
 
-Essendo [$$x^2 - 5x + 6 > 0$$]{.text-red} dovrò prendere i valori esterni all'intervallo delle radici, quindi [$$x < 2 \cup x > 3$$]{.text-red}
+Essendo [$x^2 - 5x + 6 > 0$]{.text-red} dovrò prendere i valori esterni all'intervallo delle radici, quindi [$x < 2 \cup x > 3$]{.text-red}

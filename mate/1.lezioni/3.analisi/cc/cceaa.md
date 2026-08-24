@@ -4,15 +4,15 @@ $$
 y = x - 5
 $$
 
-> la funzione $$y = x - 5$$ è una retta quindi è sia iniettiva che suriettiva e di conseguenza è invertibile
+> la funzione $y = x - 5$ è una retta quindi è sia iniettiva che suriettiva e di conseguenza è invertibile
 
-Scambiamo fra loro la $$x$$ e la $$y$$
+Scambiamo fra loro la $x$ e la $y$
 
 $$
 x = y - 5
 $$
 
-Esplicito la $$y$$
+Esplicito la $y$
 
 $$
 -y = -x - 5

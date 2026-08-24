@@ -1,8 +1,8 @@
 # Calcoli
 
-Primo termine $$-2$$
+Primo termine $-2$
 
-Sommiamo la ragione $$+\frac{1}{2}$$ al primo termine e ad ogni termine successivo.
+Sommiamo la ragione $+\frac{1}{2}$ al primo termine e ad ogni termine successivo.
 
 Secondo termine
 $$

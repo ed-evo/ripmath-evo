@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{-x^2 - x - 5 < 0}
@@ -28,6 +28,6 @@ $$
 \textcolor{red}{x_{1,2} = \frac{-1 \pm \sqrt{1 - 20}}{2}}
 $$
 
-Il $$\Delta$$ è minore di zero ed essendo $$a$$ minore di zero il polinomio è sempre negativo e siccome il polinomio di partenza era minore di zero avrò:
+Il $\Delta$ è minore di zero ed essendo $a$ minore di zero il polinomio è sempre negativo e siccome il polinomio di partenza era minore di zero avrò:
 
-[Sempre verificata (per tutti i valori di $$x$$)]{.text-red}
+[Sempre verificata (per tutti i valori di $x$)]{.text-red}

@@ -2,9 +2,9 @@
 
 È l'equazione che afferma un fatto falso:
 
-> [sommando $$3$$ ad un numero ottengo lo stesso numero]{.text-red}
+> [sommando $3$ ad un numero ottengo lo stesso numero]{.text-red}
 
-Pensandoci sopra non posso trovare nessun numero che resti uguale a sé stesso aggiungendovi $$3$$, quindi la mia affermazione è impossibile.
+Pensandoci sopra non posso trovare nessun numero che resti uguale a sé stesso aggiungendovi $3$, quindi la mia affermazione è impossibile.
 
 Se lo traduco in equazione ottengo:
 

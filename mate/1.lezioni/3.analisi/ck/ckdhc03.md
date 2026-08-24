@@ -23,7 +23,7 @@ A + 3B = 6 \\
 }
 $$
 
-Procedo per [sostituzione]{.text-blue}, ricavo $$ \textcolor{blue}{A} $$ dalla prima equazione
+Procedo per [sostituzione]{.text-blue}, ricavo $\textcolor{blue}{A}$ dalla prima equazione
 
 $$
 \textcolor{blue}{
@@ -75,7 +75,7 @@ $$
 }
 $$
 
-Ricavo $$ \textcolor{blue}{C} $$ dalla terza
+Ricavo $\textcolor{blue}{C}$ dalla terza
 
 $$
 \textcolor{blue}{

@@ -1,1 +1,1 @@
-intersezioni n° $$\textcolor{red}{0}$$
+intersezioni n° $\textcolor{red}{0}$

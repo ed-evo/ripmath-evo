@@ -8,9 +8,9 @@ Consideriamo l'insieme dei poligoni circoscritti ad una circonferenza: se la nos
 
 Come esempio in figura hai una piramide triangolare retta (un triangolo è sempre circoscrivibile ad un cerchio).
 
-Da notare che, essendo congruenti i raggi $$HD$$, $$HE$$ e $$HF$$ ed essendo comune il segmento $$VH$$, avremo che i tre triangoli $$VHD$$, $$VHE$$ e $$VHF$$ sono congruenti, cioè le apoteme di una piramide retta sono sempre congruenti fra loro.
+Da notare che, essendo congruenti i raggi $HD$, $HE$ e $HF$ ed essendo comune il segmento $VH$, avremo che i tre triangoli $VHD$, $VHE$ e $VHF$ sono congruenti, cioè le apoteme di una piramide retta sono sempre congruenti fra loro.
 
-> **Nota:** In figura, per non appesantire, ho disegnato completo solo il triangolo $$VHF$$.
+> **Nota:** In figura, per non appesantire, ho disegnato completo solo il triangolo $VHF$.
 
 Diremo infine **regolare** una piramide retta che abbia come base un poligono regolare.
 

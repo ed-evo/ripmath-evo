@@ -11,4 +11,4 @@ $$
 \textcolor{red}{BC = \frac{AB \text{ sen } \alpha_1}{\cos(\alpha_1 \pm \alpha_2)}}
 $$
 
-In cui il segno $$+$$ si riferisce alla torre con base più alta ed il segno $$-$$ alla torre con base più bassa dell'osservatore.
+In cui il segno $+$ si riferisce alla torre con base più alta ed il segno $-$ alla torre con base più bassa dell'osservatore.

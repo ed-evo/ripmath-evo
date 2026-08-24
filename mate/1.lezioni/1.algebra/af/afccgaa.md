@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{2x^2 = 18}
 $$
 
-Divido entrambi i membri per il coefficiente di $$x^2$$:
+Divido entrambi i membri per il coefficiente di $x^2$:
 
 $$
 \textcolor{blue}{\frac{2x^2}{2} = \frac{18}{2}}
@@ -32,7 +32,7 @@ $$
 \textcolor{blue}{\sqrt{x^2} = \pm \sqrt{9}}
 $$
 
-Semplifico le radici con gli esponenti ricordando che $$9=3^2$$:
+Semplifico le radici con gli esponenti ricordando che $9=3^2$:
 
 $$
 \textcolor{blue}{x = \pm 3}
@@ -40,4 +40,4 @@ $$
 
 Ho quindi le due soluzioni:
 
-$$\textcolor{red}{x_1 = -3}$$ $$\textcolor{red}{x_2 = +3}$$
+$\textcolor{red}{x_1 = -3}$ $\textcolor{red}{x_2 = +3}$

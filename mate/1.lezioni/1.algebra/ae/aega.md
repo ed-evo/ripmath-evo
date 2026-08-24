@@ -4,7 +4,7 @@ Prima di iniziare ti devo dare alcuni consigli pratici:
 
 - usa un foglio abbastanza grande da contenere tutta l'espressione ed una penna che scriva bene
 - non aver fretta e cerca di scrivere con più precisione possibile
-- trascrivi con attenzione il testo e poi controllalo: il $$50\%$$ degli errori è dovuto ad un'errata trascrizione del testo
+- trascrivi con attenzione il testo e poi controllalo: il $50\%$ degli errori è dovuto ad un'errata trascrizione del testo
 - prima di metterti a scrivere il passaggio successivo controlla mentalmente quali sono le operazioni che farai su tutti i termini in quel passaggio
 
 le seguenti espressioni sono in ordine di difficoltà: prova a risolverle da solo

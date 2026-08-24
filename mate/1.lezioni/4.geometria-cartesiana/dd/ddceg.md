@@ -1,6 +1,6 @@
-# Se nella circonferenza mancano i termini $$ax$$, $$by$$ ed il termine noto $$c$$
+# Se nella circonferenza mancano i termini $ax$, $by$ ed il termine noto $c$
 
-In tal caso $$\textcolor{blue}{a=0}$$, $$\textcolor{blue}{b=0}$$ e $$\textcolor{blue}{c=0}$$ e l'equazione della circonferenza diventa
+In tal caso $\textcolor{blue}{a=0}$, $\textcolor{blue}{b=0}$ e $\textcolor{blue}{c=0}$ e l'equazione della circonferenza diventa
 
 $$
 \textcolor{blue}{x^2 + y^2 = 0}

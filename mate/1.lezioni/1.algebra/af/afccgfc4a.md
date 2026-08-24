@@ -1,7 +1,7 @@
 # esercizi
 
 Risolviamo l'equazione
-$$\textcolor{red}{5k^2 + 20k + 16 = 0}$$
+$\textcolor{red}{5k^2 + 20k + 16 = 0}$
 applichiamo la formula risolutiva (ridotta) dell'equazione di secondo grado
 
 $$
@@ -34,7 +34,7 @@ $$
 \textcolor{blue}{k = \frac{-10 \pm \sqrt{20}}{5}}
 $$
 
-siccome $$20 = 2^2 \cdot 5$$ estraggo di radice il $$2$$
+siccome $20 = 2^2 \cdot 5$ estraggo di radice il $2$
 
 $$
 \textcolor{blue}{k = \frac{-10 \pm 2\sqrt{5}}{5}}

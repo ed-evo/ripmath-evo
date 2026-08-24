@@ -1,6 +1,6 @@
 # esempio
 
-Anche qui sarebbe sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $$2 \times 2$$ con termini generici; come ho detto lo sviluppo richiede molta pazienza: limitiamoci ad un esempio che coinvolga la prima parte della proprietà (solo la prima riga).
+Anche qui sarebbe sufficiente mostrare che il termine prima dell'uguale è uguale al termine dopo l'uguale per matrici $2 \times 2$ con termini generici; come ho detto lo sviluppo richiede molta pazienza: limitiamoci ad un esempio che coinvolga la prima parte della proprietà (solo la prima riga).
 
 $$
 \text{H}_2(\text{A}) \otimes [\text{H}_2(\text{B}) \oplus \text{H}_2(\text{C})] = \text{H}_2(\text{A}) \otimes \text{H}_2(\text{B}) \oplus \text{H}_2(\text{A}) \otimes \text{H}_2(\text{C})
@@ -10,7 +10,7 @@ $$
 \textcolor{red}{\begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \otimes \left( \begin{pmatrix} 2 & 4 \\ 3 & 5 \end{pmatrix} \oplus \begin{pmatrix} 6 & 7 \\ 8 & 9 \end{pmatrix} \right) = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \otimes \begin{pmatrix} 2 & 4 \\ 3 & 5 \end{pmatrix} \oplus \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \otimes \begin{pmatrix} 6 & 7 \\ 8 & 9 \end{pmatrix}}
 $$
 
-Calcoliamo il termine prima dell'uguale: prima eseguiamo la somma $$\oplus$$ poi il prodotto $$\otimes$$.
+Calcoliamo il termine prima dell'uguale: prima eseguiamo la somma $\oplus$ poi il prodotto $\otimes$.
 
 $$
 \textcolor{red}{\begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \otimes \left( \begin{pmatrix} 2 & 4 \\ 3 & 5 \end{pmatrix} \oplus \begin{pmatrix} 6 & 7 \\ 8 & 9 \end{pmatrix} \right) =}

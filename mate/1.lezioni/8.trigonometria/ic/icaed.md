@@ -1,7 +1,7 @@
 # quarta formula di prostaferesi
 
 Partiamo dalle due formule di addizione e sottrazione per il seno e sottraiamo in verticale
-> i due termini uguali $$\textcolor{blue}{\cos \alpha \cos \beta}$$ avendo lo stesso segno si annullano e spariscono
+> i due termini uguali $\textcolor{blue}{\cos \alpha \cos \beta}$ avendo lo stesso segno si annullano e spariscono
 
 $$
 \textcolor{red}{\cos(\alpha + \beta)} = \textcolor{blue}{\cos \alpha \cos \beta} - \textcolor{red}{\sin \alpha \sin \beta}
@@ -21,7 +21,7 @@ $$
 
 Sempre nello stesso modo:
 
-> poniamo $$\textcolor{red}{\alpha + \beta = p}$$ ed $$\textcolor{red}{\alpha - \beta = q}$$
+> poniamo $\textcolor{red}{\alpha + \beta = p}$ ed $\textcolor{red}{\alpha - \beta = q}$
 > e quindi sarà [Calcoli](icaea1.html)
 > $$
 > \textcolor{red}{\alpha = \frac{p+q}{2}} \qquad \textcolor{red}{\beta = \frac{p-q}{2}}

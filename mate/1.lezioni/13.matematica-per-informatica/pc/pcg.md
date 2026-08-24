@@ -17,25 +17,25 @@ Per ogni teorema indicheremo anche il duale. Dimostrato il teorema non ci sarebb
 > Comunque, per non appesantire troppo, io mi limito qui a dimostrare i primi 3 teoremi (per gli altri forse in futuro...).
 
 - **Idempotenza**
-  $$a + a = a$$
-  duale $$a \cdot a = a^2 = a$$
+  $a + a = a$
+  duale $a \cdot a = a^2 = a$
   [Dimostrazione](pcga.html)
 
 - **Legge dei confini**
-  $$a + 1 = 1$$
-  duale $$a \cdot 0 = 0$$
+  $a + 1 = 1$
+  duale $a \cdot 0 = 0$
   [Dimostrazione](pcgb.html)
 
 - **Assorbimento**
-  $$a + (a \cdot b) = a$$
-  duale $$a \cdot (a + b) = a$$
+  $a + (a \cdot b) = a$
+  duale $a \cdot (a + b) = a$
   [Dimostrazione](pcgc.html)
 
 - **Associatività**
-  $$(a + b) + c = a + (b + c)$$
+  $(a + b) + c = a + (b + c)$
 
 - **Unicità del complemento**
-  se $$a + x = 1$$ ed $$a \cdot x = 0$$ allora $$x = à$$
+  se $a + x = 1$ ed $a \cdot x = 0$ allora $x = à$
 
 - **Legge del doppio complemento**
-  $$((a)')' = a$$
+  $((a)')' = a$

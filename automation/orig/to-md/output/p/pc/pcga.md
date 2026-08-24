@@ -18,7 +18,7 @@ $$
 a + a = a
 $$
 
-Parto da $$a$$, so che:
+Parto da $a$, so che:
 
 $$
 a = a + 0
@@ -48,13 +48,13 @@ $$
 
 come volevamo.
 
-> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $$0$$ in $$1$$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
+> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $0$ in $1$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
 
 $$
 a \cdot a = a
 $$
 
-Parto da $$a$$, so che:
+Parto da $a$, so che:
 
 $$
 a = a \cdot 1

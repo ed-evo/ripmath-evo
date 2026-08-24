@@ -6,11 +6,11 @@ $$
 A_{\text{zona sferica}} = 2\pi rh
 $$
 
-Da notare anche qua che nella formula compare solamente il raggio $$r$$ della sfera e non intervengono i raggi $$r_1$$ ed $$r_2$$ delle circonferenze di base della zona.
+Da notare anche qua che nella formula compare solamente il raggio $r$ della sfera e non intervengono i raggi $r_1$ ed $r_2$ delle circonferenze di base della zona.
 
-> Questa formula è facile da dimostrare se consideriamo valida la formula della calotta: pensa alla zona sferica come differenza fra due calotte sferiche; allora basta fare la differenza fra le superfici delle calotte di base $$r_1$$ ed $$r_2$$.
+> Questa formula è facile da dimostrare se consideriamo valida la formula della calotta: pensa alla zona sferica come differenza fra due calotte sferiche; allora basta fare la differenza fra le superfici delle calotte di base $r_1$ ed $r_2$.
 >
-> Chiamato $$k$$ il segmento prolungamento da $$h$$ fino alla superficie sferica avremo:
+> Chiamato $k$ il segmento prolungamento da $h$ fino alla superficie sferica avremo:
 >
 > $$
 > \text{Area calotta con base raggio } r_1 = 2\pi r(h+k)

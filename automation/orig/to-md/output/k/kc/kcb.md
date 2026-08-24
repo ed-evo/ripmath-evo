@@ -2,7 +2,7 @@
 
 Introduciamo ora il concetto di quantificatore per poter trattare logicamente anche frasi quali:
 
-**Tutti i numeri sono divisibili per $$1$$**
+**Tutti i numeri sono divisibili per $1$**
 **Esistono numeri non primi**
 
 ***

@@ -9,10 +9,10 @@ $$
 \end{cases}
 $$
 
-ove $$a$$, $$b$$, $$c$$, $$d$$, $$e$$, $$f$$ sono numeri dati.
+ove $a$, $b$, $c$, $d$, $e$, $f$ sono numeri dati.
 
-Devo rendere uguali i termini con la $$x$$ (anche qui si può parlare di minimo comune multiplo).
-Moltiplico la prima equazione per $$d$$ e la seconda per $$-a$$:
+Devo rendere uguali i termini con la $x$ (anche qui si può parlare di minimo comune multiplo).
+Moltiplico la prima equazione per $d$ e la seconda per $-a$:
 
 $$
 \begin{cases}
@@ -32,13 +32,13 @@ $$
 \end{array}
 $$
 
-Metto in evidenza $$y$$:
+Metto in evidenza $y$:
 
 $$
 \textcolor{red}{y(bd - ae) = cd - af}
 $$
 
-Ricavo $$y$$:
+Ricavo $y$:
 
 $$
 \textcolor{red}{y = \frac{cd - af}{bd - ae}}
@@ -52,7 +52,7 @@ $$
 
 > Di solito, nelle lettere, si cerca di mettere prima le prime lettere dell'alfabeto, inoltre il primo termine si cerca sempre di farlo diventare positivo (in questo modo posso non scrivere un segno).
 
-Ora devo rendere uguali i termini con la $$y$$; moltiplico sopra per $$e$$ e sotto per $$b$$:
+Ora devo rendere uguali i termini con la $y$; moltiplico sopra per $e$ e sotto per $b$:
 
 $$
 \begin{cases}
@@ -72,13 +72,13 @@ $$
 \end{array}
 $$
 
-Metto in evidenza $$x$$:
+Metto in evidenza $x$:
 
 $$
 \textcolor{red}{x(ae - bd) = ce - bf}
 $$
 
-Ricavo $$x$$:
+Ricavo $x$:
 
 $$
 \textcolor{red}{x = \frac{ce - bf}{ae - bd}}

@@ -4,7 +4,7 @@
 
 Il metodo utilizzato per la soluzione sarà la sostituzione; allora la soluzione del sistema dipenderà dalla soluzione di un'equazione di secondo grado
 
-Otterremo quindi $$2$$ coppie in $$x$$ ed $$y$$ come soluzioni per il nostro sistema
+Otterremo quindi $2$ coppie in $x$ ed $y$ come soluzioni per il nostro sistema
 
 Vediamo un paio di esercizi per:
 

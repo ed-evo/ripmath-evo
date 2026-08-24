@@ -22,10 +22,10 @@ $$
 \textcolor{red}{9x^2-4y^2=}
 $$
 
-$$\textcolor{red}{9x^2}$$ è il quadrato di $$\textcolor{red}{3x}$$
-$$\textcolor{red}{4y^2}$$ è il quadrato di $$\textcolor{red}{2y}$$
+$\textcolor{red}{9x^2}$ è il quadrato di $\textcolor{red}{3x}$
+$\textcolor{red}{4y^2}$ è il quadrato di $\textcolor{red}{2y}$
 
-In mezzo c'è il segno meno quindi faccio il prodotto fra la somma e la differenza $$\textcolor{red}{(3x + 2y) \cdot (3x - 2y)}$$.
+In mezzo c'è il segno meno quindi faccio il prodotto fra la somma e la differenza $\textcolor{red}{(3x + 2y) \cdot (3x - 2y)}$.
 
 In definitiva la scomposizione è:
 

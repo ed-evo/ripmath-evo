@@ -33,7 +33,7 @@ Vediamo anche un esempio di sillogismo non valido:
 
 ***
 
-mediante i diagrammi di Eulero-Venn i $$3$$ giudizi dicono:
+mediante i diagrammi di Eulero-Venn i $3$ giudizi dicono:
 
 L'insieme dei gatti è contenuto nell'insieme dei felini **vero**
 L'insieme dei leoni è contenuto nell'insieme dei felini **vero**

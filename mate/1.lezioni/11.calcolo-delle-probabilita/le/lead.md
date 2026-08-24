@@ -4,11 +4,11 @@ Per poter avere una buona rappresentatività del valore medio è necessario intr
 
 Consideriamo una variabile aleatoria:
 
-| $$X$$ | $$X_1$$ | $$X_2$$ | $$X_3$$ | $$\dots$$ | $$X_n$$ |
+| $X$ | $X_1$ | $X_2$ | $X_3$ | $\dots$ | $X_n$ |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| $$Pr$$ | $$p_1$$ | $$p_2$$ | $$p_3$$ | $$\dots$$ | $$p_n$$ |
+| $Pr$ | $p_1$ | $p_2$ | $p_3$ | $\dots$ | $p_n$ |
 
-Se $$m = M(X)$$ è il suo valore medio, esso sarà rappresentativo se si discosta poco dai valori della variabile, cioè se gli scarti
+Se $m = M(X)$ è il suo valore medio, esso sarà rappresentativo se si discosta poco dai valori della variabile, cioè se gli scarti
 
 $$
 M(X) - X_k
@@ -19,7 +19,7 @@ Però, invece di considerare tutti i valori degli scarti devo cercare di concent
 
 **Definizione**
 **La varianza è il valore medio del quadrato degli scarti, cioè la somma dei quadrati degli scarti per le relative probabilità.**
-Viene indicata con i simboli $$\text{Var}(X)$$ oppure $$\sigma^2(X)$$.
+Viene indicata con i simboli $\text{Var}(X)$ oppure $\sigma^2(X)$.
 
 $$
 \sigma^2(X) = M(X-m)^2 = \textcolor{red}{\sum_{k=1}^{n}} (M(X) - X_k)^2 p_k
@@ -33,9 +33,9 @@ La varianza indica la concentrazione, quindi:
 
 Prendiamo il solito esempio del lancio di un dado:
 
-| $$X$$ | $$1$$ | $$2$$ | $$3$$ | $$4$$ | $$5$$ | $$6$$ |
+| $X$ | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| $$Pr$$ | $$1/6$$ | $$1/6$$ | $$1/6$$ | $$1/6$$ | $$1/6$$ | $$1/6$$ |
+| $Pr$ | $1/6$ | $1/6$ | $1/6$ | $1/6$ | $1/6$ | $1/6$ |
 
 Avremo:
 $$
@@ -59,7 +59,7 @@ $$
 = 25/24 + 9/24 + 1/24 + 1/24 + 9/24 + 25/24 = 70/24 = 35/12
 $$
 
-cioè la varianza dei dati attorno al valore medio in questo caso vale circa $$3$$.
+cioè la varianza dei dati attorno al valore medio in questo caso vale circa $3$.
 
 Per il calcolo pratico della varianza spesso è utile la formula:
 $$
@@ -70,12 +70,12 @@ $$
 > $$
 > \sigma^2(X) = M(X-m)^2 = M(X^2 - 2mX + m^2) = M(X^2) - M(2mX) + M(m^2)
 > $$
-> Sappiamo che $$m$$ è una costante quindi $$M(m^2) = m^2$$.
+> Sappiamo che $m$ è una costante quindi $M(m^2) = m^2$.
 > Utilizziamo poi la considerazione che il valore medio del prodotto di una variabile casuale per una costante è uguale alla costante per il valore medio della variabile casuale:
 > $$
 > = M(X^2) - 2mM(X) + m^2
 > $$
-> essendo $$m = M(X)$$
+> essendo $m = M(X)$
 > $$
 > = M(X^2) - 2M(X)M(X) + [M(X)]^2 = M(X^2) - 2[M(X)]^2 + [M(X)]^2 = M(X^2) - [M(X)]^2
 > $$

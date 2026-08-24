@@ -2,7 +2,7 @@
 
 Si chiama delle proiezioni perché è come se proiettassimo due lati del triangolo sul terzo lato.
 
-> **Nota:** Con questo teorema, conoscendo due lati e due angoli, posso trovare il terzo lato: non è che sia molto esaltante, anche perché i dati sono sovrabbondanti ($$2$$ lati e $$2$$ angoli), però servirà per dimostrare il teorema di Carnot.
+> **Nota:** Con questo teorema, conoscendo due lati e due angoli, posso trovare il terzo lato: non è che sia molto esaltante, anche perché i dati sono sovrabbondanti ($2$ lati e $2$ angoli), però servirà per dimostrare il teorema di Carnot.
 
 ## Teorema
 
@@ -20,14 +20,14 @@ $$
 
 ## Dimostriamo la prima relazione
 
-Dal punto $$A$$ mando la perpendicolare $$AL$$ sul lato $$BC$$.
-Ottengo i due triangoli $$ABL$$ e $$ALC$$. Il triangolo $$ABL$$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
+Dal punto $A$ mando la perpendicolare $AL$ sul lato $BC$.
+Ottengo i due triangoli $ABL$ e $ALC$. Il triangolo $ABL$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
 
 $$
 \textcolor{blue}{BL = AB \cos \beta = c \cos \beta}
 $$
 
-Anche il triangolo $$ACL$$ è rettangolo quindi, per lo stesso teorema, abbiamo:
+Anche il triangolo $ACL$ è rettangolo quindi, per lo stesso teorema, abbiamo:
 
 $$
 \textcolor{blue}{LC = AC \cos \gamma = b \cos \gamma}
@@ -43,14 +43,14 @@ Come volevamo.
 
 ## Dimostriamo la seconda relazione
 
-Dal punto $$B$$ mando la perpendicolare $$BK$$ sul lato $$AC$$.
-Ottengo i due triangoli $$ABK$$ e $$BKC$$. Il triangolo $$ABK$$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
+Dal punto $B$ mando la perpendicolare $BK$ sul lato $AC$.
+Ottengo i due triangoli $ABK$ e $BKC$. Il triangolo $ABK$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
 
 $$
 \textcolor{blue}{AK = AB \cos \alpha = c \cos \alpha}
 $$
 
-Anche il triangolo $$BKC$$ è rettangolo quindi, per lo stesso teorema, abbiamo:
+Anche il triangolo $BKC$ è rettangolo quindi, per lo stesso teorema, abbiamo:
 
 $$
 \textcolor{blue}{KC = BC \cos \gamma = a \cos \gamma}
@@ -66,14 +66,14 @@ Come volevamo.
 
 ## Dimostriamo la terza relazione
 
-Dal punto $$C$$ mando la perpendicolare $$CH$$ sul lato $$AB$$.
-Ottengo i due triangoli $$ACH$$ e $$CHB$$. Il triangolo $$ACH$$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
+Dal punto $C$ mando la perpendicolare $CH$ sul lato $AB$.
+Ottengo i due triangoli $ACH$ e $CHB$. Il triangolo $ACH$ è rettangolo e quindi, per il teorema del coseno sui triangoli rettangoli, abbiamo:
 
 $$
 \textcolor{blue}{AH = AC \cos \alpha = b \cos \alpha}
 $$
 
-Anche il triangolo $$CHB$$ è rettangolo quindi, per lo stesso teorema, abbiamo:
+Anche il triangolo $CHB$ è rettangolo quindi, per lo stesso teorema, abbiamo:
 
 $$
 \textcolor{blue}{HB = CB \cos \beta = a \cos \beta}

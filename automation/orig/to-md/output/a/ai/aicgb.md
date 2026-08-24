@@ -13,7 +13,7 @@ $$
 $$
 
 Intanto avremo subito le condizioni di realtà (considerando i denominatori diversi da zero):
-$$\textcolor{blue}{x \neq 0}; \textcolor{blue}{y \neq 0}; \textcolor{blue}{x \neq -y}$$
+$\textcolor{blue}{x \neq 0}; \textcolor{blue}{y \neq 0}; \textcolor{blue}{x \neq -y}$
 
 Osserviamo poi che le radici sono l'una inversa dell'altra, quindi poniamo:
 
@@ -27,7 +27,7 @@ $$
 \textcolor{blue}{t + \frac{1}{t} - 2 = 0}
 $$
 
-Cioè, facendo il minimo comune multiplo e supponendo $$\textcolor{blue}{t \neq 0}$$:
+Cioè, facendo il minimo comune multiplo e supponendo $\textcolor{blue}{t \neq 0}$:
 
 $$
 \textcolor{blue}{t^2 + 1 - 2t = 0}
@@ -74,7 +74,7 @@ $$
 \end{cases}
 $$
 
-Possiamo farlo per sostituzione; ricavo $$x$$ dalla seconda equazione e sostituisco nella prima:
+Possiamo farlo per sostituzione; ricavo $x$ dalla seconda equazione e sostituisco nella prima:
 
 $$
 \begin{cases} 
@@ -99,8 +99,8 @@ $$
 
 Ottengo dalla prima equazione i due valori:
 
-$$\textcolor{red}{y = 0}$$ che non è accettabile per le condizioni di realtà iniziali.
-$$\textcolor{red}{y = 2}$$
+$\textcolor{red}{y = 0}$ che non è accettabile per le condizioni di realtà iniziali.
+$\textcolor{red}{y = 2}$
 
 Ottengo quindi la soluzione:
 

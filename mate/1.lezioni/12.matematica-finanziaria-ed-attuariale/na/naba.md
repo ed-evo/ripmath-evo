@@ -11,22 +11,22 @@ $$
 $$
 
 Questa è una potenza:
-- il $$10$$ si chiama base
-- il $$1000$$ è il risultato dell'operazione potenza
-- il $$3$$ si chiama **esponente della potenza** od anche **logaritmo a base $$10$$ di $$1000$$**
+- il $10$ si chiama base
+- il $1000$ è il risultato dell'operazione potenza
+- il $3$ si chiama **esponente della potenza** od anche **logaritmo a base $10$ di $1000$**
 
 Quindi esponente della potenza e logaritmo sono la stessa cosa. E possiamo definire:
 
-[**Il logaritmo decimale di un numero è l'esponente della potenza che devo dare a $$10$$ per ottenere il numero**]{.text-red}
+[**Il logaritmo decimale di un numero è l'esponente della potenza che devo dare a $10$ per ottenere il numero**]{.text-red}
 
-Così se voglio ottenere il numero $$1.000.000$$ (un milione) devo scrivere:
+Così se voglio ottenere il numero $1.000.000$ (un milione) devo scrivere:
 
 $$
 10^6 = 1.000.000
 $$
 
 cioè:
-$$6$$ è il logaritmo di $$1.000.000$$ in base $$10$$ e scriverò:
+$6$ è il logaritmo di $1.000.000$ in base $10$ e scriverò:
 
 $$
 6 = \log_{10} 1.000.000
@@ -38,4 +38,4 @@ $$
 6 = \text{Log } 1.000.000
 $$
 
-> **Nota:** Ogni volta che incontrerai il simbolo **Log** con l'iniziale maiuscola dovrai considerare che è sottintesa la base $$10$$.
+> **Nota:** Ogni volta che incontrerai il simbolo **Log** con l'iniziale maiuscola dovrai considerare che è sottintesa la base $10$.

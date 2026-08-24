@@ -1,6 +1,6 @@
 # [Implicazione inversa]{.text-red}
 
-È l'implicazione inversa $$a' + b$$
+È l'implicazione inversa $a' + b$
 corrisponde alla [implicazione materiale in logica](../../k/kb/kblad.html)
 
 in forma normale disgiuntiva completa possiamo pensarla come
@@ -14,7 +14,7 @@ $$
 > $$
 > a' + b = (a' + b)(a + a') =
 > $$
-> moltiplico per $$(a + a') = 1$$ per la prima legge del complemento
+> moltiplico per $(a + a') = 1$ per la prima legge del complemento
 >
 > $$
 > = a'a + a'a' + ab + a'b =

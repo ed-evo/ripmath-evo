@@ -1,10 +1,10 @@
 # Esercizio
 
-## [Trovare la distanza fra i punti $$A(2,1)$$ e $$B(5,1)$$]{.text-blue}
+## [Trovare la distanza fra i punti $A(2,1)$ e $B(5,1)$]{.text-blue}
 
-> Se guardi le coordinate vedi che i due punti hanno le $$y$$ uguali.
-> Se osservi la figura vedi che il segmento da trovare è orizzontale e vale esattamente $$3$$; cioè la differenza fra le $$x$$ presa sempre positiva (modulo):
-> $$\overline{AB} = |x_2 - x_1|$$
+> Se guardi le coordinate vedi che i due punti hanno le $y$ uguali.
+> Se osservi la figura vedi che il segmento da trovare è orizzontale e vale esattamente $3$; cioè la differenza fra le $x$ presa sempre positiva (modulo):
+> $\overline{AB} = |x_2 - x_1|$
 > Dai un'occhiata al modulo.
 > In questo modo hai già risolto il problema.
 
@@ -17,15 +17,15 @@ $$
 $$
 
 [So che]{.text-blue}
-[$$A = (2,1) = (x_1, y_1)$$]{.text-blue}
+[$A = (2,1) = (x_1, y_1)$]{.text-blue}
 [e che]{.text-blue}
-[$$B = (5,1) = (x_2, y_2)$$]{.text-blue}
+[$B = (5,1) = (x_2, y_2)$]{.text-blue}
 
 quindi:
-[$$x_1 = 2$$]{.text-blue}
-[$$y_1 = 1$$]{.text-blue}
-[$$x_2 = 5$$]{.text-blue}
-[$$y_2 = 1$$]{.text-blue}
+[$x_1 = 2$]{.text-blue}
+[$y_1 = 1$]{.text-blue}
+[$x_2 = 5$]{.text-blue}
+[$y_2 = 1$]{.text-blue}
 
 sostituisco nella formula:
 

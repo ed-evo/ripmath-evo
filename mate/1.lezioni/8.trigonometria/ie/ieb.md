@@ -4,13 +4,13 @@ Premetto che, come al solito, è essenziale rifarsi ai teoremi di congruenza fra
 
 - Due lati e l'angolo compreso
 - Due angoli ed un lato
-- Tutti e $$3$$ i lati
+- Tutti e $3$ i lati
 
 che fra i triangoli rettangoli:
 
 - Due lati
 - Un angolo diverso dal retto ed un lato
-- Tutti e $$3$$ i lati
+- Tutti e $3$ i lati
 
 Ciò detto si tratta di costruire triangoli che puoi "risolvere" in modo da conoscere tutti i lati e gli angoli.
 

@@ -1,6 +1,6 @@
-# [Calcolo del determinante $$3 \times 3$$ con la regola di Sarrus]{.text-red}
+# [Calcolo del determinante $3 \times 3$ con la regola di Sarrus]{.text-red}
 
-Quando ci limitiamo a sistemi di $$3$$ equazioni in $$3$$ incognite, e se il determinante non ha elementi nulli, conviene utilizzare la regola di Sarrus per calcolarne il valore; la useremo nella forma più semplice.
+Quando ci limitiamo a sistemi di $3$ equazioni in $3$ incognite, e se il determinante non ha elementi nulli, conviene utilizzare la regola di Sarrus per calcolarne il valore; la useremo nella forma più semplice.
 
 Consideriamo un determinante del terzo ordine:
 

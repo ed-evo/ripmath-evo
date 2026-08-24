@@ -1,6 +1,6 @@
 # Equazioni esponenziali
 
-Sono equazioni in cui la $$x$$ compare all'esponente della potenza;
+Sono equazioni in cui la $x$ compare all'esponente della potenza;
 Per risolverle si cerca di ottenere una potenza sia prima che dopo l'uguale, con la stessa base in modo da poter uguagliare gli argomenti;
 
 $$

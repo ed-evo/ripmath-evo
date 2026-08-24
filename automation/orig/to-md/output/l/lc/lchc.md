@@ -11,13 +11,13 @@ $$
 Cioè: **la probabilità del prodotto di due eventi è uguale al prodotto fra la probabilità del primo e la probabilità del secondo condizionata al fatto che il primo evento sia accaduto**
 
 > **Esempio:**
-> Trovare la probabilità che estraendo due carte da un mazzo di $$40$$ siano entrambe assi
+> Trovare la probabilità che estraendo due carte da un mazzo di $40$ siano entrambe assi
 >
-> $$E_1$$ = uscita di un asso
-> $$E_2|E_1$$ = uscita di un secondo asso
+> $E_1$ = uscita di un asso
+> $E_2|E_1$ = uscita di un secondo asso
 >
-> probabilità di uscita di un asso = $$P(E_1) = 4/40 = 1/10$$
-> probabilità condizionata di uscita di un secondo asso = $$P(E_2|E_1) = 3/39 = 1/13$$
+> probabilità di uscita di un asso = $P(E_1) = 4/40 = 1/10$
+> probabilità condizionata di uscita di un secondo asso = $P(E_2|E_1) = 3/39 = 1/13$
 >
 > $$
 > \textcolor{red}{P(E_1 \cap E_2) = P(E_1) \cdot P(E_2|E_1) = 1/10 \cdot 1/13 = 1/130 = 0,0076 \approx 0,8\%}

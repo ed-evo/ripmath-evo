@@ -8,7 +8,7 @@ x^2 + y^2 - 8x + 4y + 2 = 0
 \end{cases}
 $$
 
-Sostituisco a $$y$$ nella seconda equazione il valore $$x$$
+Sostituisco a $y$ nella seconda equazione il valore $x$
 $$
 \begin{cases} 
 y = x \\ 
@@ -20,7 +20,7 @@ $$
 2x^2 - 4x + 2 = 0
 $$
 
-Divido tutti i termini per $$2$$
+Divido tutti i termini per $2$
 $$
 x^2 - 2x + 1 = 0
 $$

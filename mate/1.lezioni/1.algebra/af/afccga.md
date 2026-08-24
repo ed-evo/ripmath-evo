@@ -7,13 +7,13 @@ Vediamo alcuni esercizi graduati per difficoltà
 Risolvere le seguenti equazioni:
 
 ### Esercizio 1
-[$$2x^2 - 18 = 0$$]{.text-blue} [soluzione](afccgaa.html)
+[$2x^2 - 18 = 0$]{.text-blue} [soluzione](afccgaa.html)
 
 ### Esercizio 2
-[$$(2x - 3)^2 = x(x - 12) + 12$$]{.text-blue} [soluzione](afccgab.html)
+[$(2x - 3)^2 = x(x - 12) + 12$]{.text-blue} [soluzione](afccgab.html)
 
 ### Esercizio 3
-[$$(x - 3)(x + 3) + 5x = 5(x - 5)$$]{.text-blue} [soluzione](afccgac.html)
+[$(x - 3)(x + 3) + 5x = 5(x - 5)$]{.text-blue} [soluzione](afccgac.html)
 
 ### Esercizio 4
 [
@@ -30,7 +30,7 @@ $$
 ]{.text-blue} [soluzione](afccgae.html)
 
 ### Esercizio 6
-[$$ax^2 = 0$$]{.text-blue} [soluzione](afccgaf.html)
+[$ax^2 = 0$]{.text-blue} [soluzione](afccgaf.html)
 
 ### Esercizio 7
 [

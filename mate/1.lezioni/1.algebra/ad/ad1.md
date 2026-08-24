@@ -12,7 +12,7 @@ $$
 \textcolor{red}{Z \text{ } \dots, -2, -1, 0, +1, +2, \dots}
 $$
 
-e su di essi hai definito le operazioni di somma, differenza e prodotto; infine, per poter fare anche il quoziente sei passato ai numeri razionali $$\textcolor{red}{Q}$$.
+e su di essi hai definito le operazioni di somma, differenza e prodotto; infine, per poter fare anche il quoziente sei passato ai numeri razionali $\textcolor{red}{Q}$.
 
 Ora, secondo te, sono più importanti i numeri o le operazioni? Evidentemente, se ho variato i numeri per poter fare le operazioni, saranno più importanti le operazioni. Qual è quindi il passo successivo?
 

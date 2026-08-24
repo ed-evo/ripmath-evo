@@ -1,4 +1,4 @@
-Per calcolare l'ordinata del punto di flesso devo sostituire nella funzione di partenza alla $$x$$ il valore $$1/3$$.
+Per calcolare l'ordinata del punto di flesso devo sostituire nella funzione di partenza alla $x$ il valore $1/3$.
 
 $$
 \textcolor{red}{y = x^3 - x^2 - 4x + 4}
@@ -16,11 +16,11 @@ $$
 \textcolor{red}{\frac{1 - 3 - 36 + 108}{27} = \frac{70}{27}}
 $$
 
-[valore approssimato $$2,6$$]{.text-blue}
+[valore approssimato $2,6$]{.text-blue}
 
 ***
 
-Possiamo anche trovare la tangente di flesso nel punto $$(1/3, 70/27)$$.
+Possiamo anche trovare la tangente di flesso nel punto $(1/3, 70/27)$.
 
 Applico la formula:
 

@@ -1,4 +1,4 @@
-risolviamo: $$\textcolor{blue}{x^2 + 3x - 4 = 0}$$
+risolviamo: $\textcolor{blue}{x^2 + 3x - 4 = 0}$
 applichiamo la formula
 
 $$
@@ -6,9 +6,9 @@ $$
 $$
 
 Abbiamo:
-[$$\textcolor{blue}{a = 1}$$]{.text-blue}
-[$$\textcolor{blue}{b = 3}$$]{.text-blue}
-[$$\textcolor{blue}{c = -4}$$]{.text-blue}
+[$\textcolor{blue}{a = 1}$]{.text-blue}
+[$\textcolor{blue}{b = 3}$]{.text-blue}
+[$\textcolor{blue}{c = -4}$]{.text-blue}
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-3 \pm \sqrt{(-3)^2 - 4(1)(-4)}}{2(1)}}
@@ -37,4 +37,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-[$$\textcolor{red}{x_1 = -4}$$]{.text-red} [$$\textcolor{red}{x_2 = 1}$$]{.text-red}
+[$\textcolor{red}{x_1 = -4}$]{.text-red} [$\textcolor{red}{x_2 = 1}$]{.text-red}

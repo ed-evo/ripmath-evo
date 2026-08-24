@@ -16,7 +16,7 @@ $$
 \textcolor{blue}{\sqrt{\frac{4 + \sqrt{1}}{2}} + \sqrt{\frac{4 - \sqrt{1}}{2}}}
 $$
 
-estraggo di radice essendo $$1 = 1^2$$
+estraggo di radice essendo $1 = 1^2$
 
 $$
 \textcolor{blue}{\sqrt{\frac{3 + 1}{2}} + \sqrt{\frac{3 - 1}{2}}}

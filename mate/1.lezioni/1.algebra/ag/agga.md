@@ -1,12 +1,12 @@
 # Riprendiamo il concetto di valore assoluto
 
-In pratica il concetto di valore assoluto di un numero è quello di considerare il numero stesso senza che abbia un segno: siccome dai numeri razionali in avanti ogni numero (tranne lo $$0$$) ha un segno dovremo far coincidere il valore assoluto sempre con il numero con segno positivo perché è quello che meglio coincide con il numero senza segno. Ti ricordo che partendo dai naturali, senza segno, passando ai numeri razionali, abbiamo trasformato tali numeri nel sottoinsieme positivo dei numeri interi. Quindi se il numero è negativo lo cambieremo di segno, mentre, se è positivo, lo prenderemo così com'è; vedi anche a questa pagina.
+In pratica il concetto di valore assoluto di un numero è quello di considerare il numero stesso senza che abbia un segno: siccome dai numeri razionali in avanti ogni numero (tranne lo $0$) ha un segno dovremo far coincidere il valore assoluto sempre con il numero con segno positivo perché è quello che meglio coincide con il numero senza segno. Ti ricordo che partendo dai naturali, senza segno, passando ai numeri razionali, abbiamo trasformato tali numeri nel sottoinsieme positivo dei numeri interi. Quindi se il numero è negativo lo cambieremo di segno, mentre, se è positivo, lo prenderemo così com'è; vedi anche a questa pagina.
 
 Arriviamo quindi alla definizione matematica:
 
-> Si definisce modulo di $$x$$ e si scrive $$|x|$$:
-> - lo stesso $$x$$ se $$x$$ è positivo
-> - $$x$$ cambiato di segno (cioè $$-x$$) se $$x$$ è negativo
+> Si definisce modulo di $x$ e si scrive $|x|$:
+> - lo stesso $x$ se $x$ è positivo
+> - $x$ cambiato di segno (cioè $-x$) se $x$ è negativo
 >
 > In simboli:
 > $$
@@ -16,7 +16,7 @@ Arriviamo quindi alla definizione matematica:
 > |x| = -x \text{ se } x < 0
 > $$
 
-Essendo $$0$$ l'unico numero senza segno, la scrittura $$|0|$$ non ha significato.
+Essendo $0$ l'unico numero senza segno, la scrittura $|0|$ non ha significato.
 
 Ricordo che il modulo di un numero equivale ad elevare al quadrato il numero ed estrarne la radice aritmetica.
 
@@ -42,7 +42,7 @@ Ricordo che il modulo di un numero equivale ad elevare al quadrato il numero ed 
 > $$
 > |-1| =
 > $$
-> Tolgo il modulo cambiando di segno a $$-1$$ essendo questo negativo:
+> Tolgo il modulo cambiando di segno a $-1$ essendo questo negativo:
 > $$
 > 1
 > $$

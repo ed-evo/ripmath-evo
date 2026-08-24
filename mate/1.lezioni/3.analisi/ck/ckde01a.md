@@ -1,4 +1,4 @@
-[$$\int x^4 dx + 5 \int x^3 dx - 7 \int x^2 dx + 3 \int x dx + 7 \int dx =$$]{.text-red}
+[$\int x^4 dx + 5 \int x^3 dx - 7 \int x^2 dx + 3 \int x dx + 7 \int dx =$]{.text-red}
 
 Eseguiamo il calcolo integrale per integrale (la costante la aggiungeremo nella soluzione finale)
 
@@ -22,7 +22,7 @@ $$]{.text-red}
 \int dx = \int x^0 dx = \frac{x^{0+1}}{0+1} = x
 $$]{.text-red}
 
-> **Nota:** Ti ricordo che $$1 = x^0$$
+> **Nota:** Ti ricordo che $1 = x^0$
 
 Quindi rimettendo la sua costante ad ogni risultato il risultato finale è:
 

@@ -28,7 +28,7 @@ $$
 \textcolor{blue}{\tan \frac{\alpha}{2} = \sqrt{\frac{(p-b)(p-c)}{bc} \cdot \frac{bc}{p(p-a)}}}
 $$
 
-Ora semplifico $$bc$$ ed ottengo:
+Ora semplifico $bc$ ed ottengo:
 
 $$
 \textcolor{red}{\tan \frac{\alpha}{2} = \sqrt{\frac{(p-b)(p-c)}{p(p-a)}}}

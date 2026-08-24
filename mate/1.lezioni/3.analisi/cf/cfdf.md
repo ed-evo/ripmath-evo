@@ -10,7 +10,7 @@ $$
 \textcolor{red}{S = f(t)}
 $$
 
-ora se voglio la velocità media nell'intervallo di tempo da $$\textcolor{red}{t_1}$$ a $$\textcolor{red}{t_2}$$ dovrò calcolare il rapporto
+ora se voglio la velocità media nell'intervallo di tempo da $\textcolor{red}{t_1}$ a $\textcolor{red}{t_2}$ dovrò calcolare il rapporto
 
 $$
 \textcolor{red}{\frac{\Delta s}{\Delta t} = \frac{s_2 - s_1}{t_2 - t_1}}
@@ -30,7 +30,7 @@ $$
 \textcolor{red}{s = \frac{1}{2}at^2}
 $$
 
-se ne voglio la velocità sarà sufficiente fare la derivata rispetto alla variabile $$t$$
+se ne voglio la velocità sarà sufficiente fare la derivata rispetto alla variabile $t$
 
 $$
 \textcolor{red}{v = s'(t) = \frac{1}{2}a \cdot 2t = at}

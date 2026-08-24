@@ -28,9 +28,9 @@
 >
 > Inoltre:
 >
-> - $$\textcolor{blue}{O}$$ indicherà sempre l'origine
-> - $$\textcolor{blue}{A}$$ indicherà un punto di cui conosciamo il valore
-> - $$\textcolor{blue}{a}$$ indicherà il numero reale associato al punto $$\textcolor{blue}{A}$$
-> - $$\textcolor{blue}{0}$$ indicherà il numero reale associato al punto $$\textcolor{blue}{O}$$
-> - $$\textcolor{blue}{1}$$ indicherà il numero reale associato al punto $$\textcolor{blue}{U}$$
-> - $$\textcolor{blue}{x}$$ indicherà il numero reale (non noto) associato ad un punto $$\textcolor{blue}{P}$$ da determinare
+> - $\textcolor{blue}{O}$ indicherà sempre l'origine
+> - $\textcolor{blue}{A}$ indicherà un punto di cui conosciamo il valore
+> - $\textcolor{blue}{a}$ indicherà il numero reale associato al punto $\textcolor{blue}{A}$
+> - $\textcolor{blue}{0}$ indicherà il numero reale associato al punto $\textcolor{blue}{O}$
+> - $\textcolor{blue}{1}$ indicherà il numero reale associato al punto $\textcolor{blue}{U}$
+> - $\textcolor{blue}{x}$ indicherà il numero reale (non noto) associato ad un punto $\textcolor{blue}{P}$ da determinare

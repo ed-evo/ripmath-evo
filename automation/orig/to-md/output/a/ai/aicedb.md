@@ -7,7 +7,7 @@ $$
 \end{cases}
 $$
 
-Poniamo $$2x = q$$ e $$3y = t$$; avremo quindi $$x = q/2$$ e $$y = t/3$$. Otteniamo:
+Poniamo $2x = q$ e $3y = t$; avremo quindi $x = q/2$ e $y = t/3$. Otteniamo:
 
 $$
 \begin{cases}
@@ -40,7 +40,7 @@ $$
 
 Risolvo ed ottengo [Calcoli](aicedba.html):
 
-$$\textcolor{blue}{z_1 = 2} \quad \textcolor{blue}{z_2 = 18}$$
+$\textcolor{blue}{z_1 = 2} \quad \textcolor{blue}{z_2 = 18}$
 
 Ho quindi le soluzioni:
 
@@ -56,7 +56,7 @@ $$
 \end{cases}
 $$
 
-Ora, essendo $$\textcolor{blue}{x = q/2}$$ e $$\textcolor{blue}{y = t/3}$$, sostituisco ed ottengo:
+Ora, essendo $\textcolor{blue}{x = q/2}$ e $\textcolor{blue}{y = t/3}$, sostituisco ed ottengo:
 
 $$
 \begin{cases}

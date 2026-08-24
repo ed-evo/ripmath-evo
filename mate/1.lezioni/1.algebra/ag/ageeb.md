@@ -17,10 +17,10 @@ $$
 \end{cases}
 $$
 
-- La prima $$\textcolor{blue}{x^2 - 3x + 2 \ge 0}$$ è verificata per $$\textcolor{blue}{x \le 1 \cup x \ge 2}$$
-- La seconda $$\textcolor{blue}{x^2 + 2x + 1 \ge 0}$$ è sempre verificata
-- La terza $$\textcolor{blue}{x - 3 > 0}$$ è verificata per $$\textcolor{blue}{x > 3}$$
-- La quarta $$\textcolor{blue}{x^2 - 5x > 0}$$ è verificata per $$\textcolor{blue}{x < 0 \cup x > 5}$$
+- La prima $\textcolor{blue}{x^2 - 3x + 2 \ge 0}$ è verificata per $\textcolor{blue}{x \le 1 \cup x \ge 2}$
+- La seconda $\textcolor{blue}{x^2 + 2x + 1 \ge 0}$ è sempre verificata
+- La terza $\textcolor{blue}{x - 3 > 0}$ è verificata per $\textcolor{blue}{x > 3}$
+- La quarta $\textcolor{blue}{x^2 - 5x > 0}$ è verificata per $\textcolor{blue}{x < 0 \cup x > 5}$
 
 Quindi il mio sistema è equivalente al sistema:
 

@@ -8,7 +8,7 @@ $$
 a + (a \cdot b) = a
 $$
 
-parto da $$a + (a \cdot b)$$, so che
+parto da $a + (a \cdot b)$, so che
 
 $$
 a + (a \cdot b) = (a \cdot 1) + (a \cdot b)
@@ -38,13 +38,13 @@ $$
 
 come volevamo
 
-> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $$0$$ in $$1$$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
+> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $0$ in $1$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
 
 $$
 a \cdot (a + b) = a
 $$
 
-parto da $$a \cdot (a + b)$$, so che
+parto da $a \cdot (a + b)$, so che
 
 $$
 a \cdot (a + b) = (a + 0) \cdot (a + b)

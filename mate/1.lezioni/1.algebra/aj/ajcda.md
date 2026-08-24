@@ -1,4 +1,4 @@
-> Dalla seconda riga sottraggo la terza moltiplicata per $$2$$, ottengo
+> Dalla seconda riga sottraggo la terza moltiplicata per $2$, ottengo
 >
 > $$
 > \textcolor{red}{

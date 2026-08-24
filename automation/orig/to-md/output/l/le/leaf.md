@@ -10,7 +10,7 @@ X & X_1 & X_2 & X_3 & \dots & X_n \\
 \end{array}
 $$
 
-La tabella rappresenta la corrispondenza fra il valore delle $$X$$ ed il relativo valore di probabilità; questa corrispondenza definisce una legge che lega i valori delle $$X$$ alle rispettive probabilità.
+La tabella rappresenta la corrispondenza fra il valore delle $X$ ed il relativo valore di probabilità; questa corrispondenza definisce una legge che lega i valori delle $X$ alle rispettive probabilità.
 
 Tale legge è detta anche funzione di distribuzione di probabilità.
 

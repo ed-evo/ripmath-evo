@@ -1,13 +1,13 @@
 # Matrici del sistema
 
 Il concetto di matrice è prezioso, perché ci permette di trattare "oggetti matematici" le cui componenti non siano tra loro sommabili come ad esempio:
-- Le coordinate di un punto nello spazio ad $$n$$ dimensioni
+- Le coordinate di un punto nello spazio ad $n$ dimensioni
 - Le componenti di un vettore
 - I termini di un polinomio ordinato
 
 Esse nascono con i sistemi ma diventano presto uno dei punti di forza della matematica, ne riparleremo in seguito.
 
-Consideriamo il sistema generico di tre equazioni nelle tre incognite $$\textcolor{red}{x}$$, $$\textcolor{red}{y}$$ e $$\textcolor{red}{z}$$:
+Consideriamo il sistema generico di tre equazioni nelle tre incognite $\textcolor{red}{x}$, $\textcolor{red}{y}$ e $\textcolor{red}{z}$:
 
 $$
 \begin{cases}
@@ -17,7 +17,7 @@ $$
 \end{cases}
 $$
 
-Chiameremo [**matrice incompleta**]{.text-red} (o matrice dei coefficienti) la matrice $$3 \times 3$$ (tre righe e tre colonne) i cui termini sono i coefficienti delle incognite:
+Chiameremo [**matrice incompleta**]{.text-red} (o matrice dei coefficienti) la matrice $3 \times 3$ (tre righe e tre colonne) i cui termini sono i coefficienti delle incognite:
 
 $$
 \begin{pmatrix}
@@ -27,7 +27,7 @@ $$
 \end{pmatrix}
 $$
 
-Chiameremo invece [**matrice completa**]{.text-red} la matrice $$3 \times 4$$ (tre righe quattro colonne) ottenuta dalla matrice precedente aggiungendovi la colonna dei termini noti:
+Chiameremo invece [**matrice completa**]{.text-red} la matrice $3 \times 4$ (tre righe quattro colonne) ottenuta dalla matrice precedente aggiungendovi la colonna dei termini noti:
 
 > **Nota:** Da notare che tale matrice rappresenta completamente il sistema
 

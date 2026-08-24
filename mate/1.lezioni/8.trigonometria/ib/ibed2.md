@@ -4,11 +4,11 @@ prodotto dei medi uguale al prodotto degli estremi
 
 [$$x \cdot x = 1 \cdot (1 - x)$]{.text-blue}
 
-[$$x^2 = 1 - x$$]{.text-blue}
+[$x^2 = 1 - x$]{.text-blue}
 
 Porto prima dell'uguale
 
-[$$x^2 + x - 1 = 0$$]{.text-blue}
+[$x^2 + x - 1 = 0$]{.text-blue}
 
 Applico la [formula risolutiva](../../a/af/afcca.html)
 

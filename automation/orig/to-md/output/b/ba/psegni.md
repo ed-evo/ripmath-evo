@@ -18,7 +18,7 @@ $$
 \textcolor{red}{- \cdot - = +}
 $$
 
-> Puoi costruirti un'immagine mentale associando a $$+$$ un concetto positivo quale amico ed a $$-$$ un concetto negativo quale nemico.
+> Puoi costruirti un'immagine mentale associando a $+$ un concetto positivo quale amico ed a $-$ un concetto negativo quale nemico.
 >
 > Il simbolo matematico "moltiplicato" si traduce in italiano nella particella di, del, dello, della e l'uguale si traduce nel verbo è, è uguale, vale, ecc.
 >

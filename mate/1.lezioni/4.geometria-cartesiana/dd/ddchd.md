@@ -19,6 +19,6 @@ $$
 \textcolor{blue}{x^2 + y^2 = 0}
 $$
 
-Questa si chiama equazione del cerchio assoluto. Infatti è l'equazione del cerchio con centro l'origine e raggio $$0$$ e, come tutti i cerchi, passante per i punti ciclici.
+Questa si chiama equazione del cerchio assoluto. Infatti è l'equazione del cerchio con centro l'origine e raggio $0$ e, come tutti i cerchi, passante per i punti ciclici.
 
 > Per poter rappresentare i punti ciclici in un piano complesso servirà un particolare sistema di coordinate, le coordinate omogenee, ma questi argomenti trascendono il normale programma delle scuole medie superiori

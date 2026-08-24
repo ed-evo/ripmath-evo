@@ -6,12 +6,12 @@
 
 Esempio:
 
-Facciamo la derivata di $$\textcolor{red}{y = x^4 + x^3 - x^2 - x}$$
+Facciamo la derivata di $\textcolor{red}{y = x^4 + x^3 - x^2 - x}$
 
-La derivata di $$\textcolor{red}{x^4}$$ è $$\textcolor{red}{4x^3}$$
-La derivata di $$\textcolor{red}{x^3}$$ è $$\textcolor{red}{3x^2}$$
-La derivata di $$\textcolor{red}{x^2}$$ è $$\textcolor{red}{2x}$$
-La derivata di $$\textcolor{red}{x}$$ è $$\textcolor{red}{1}$$
+La derivata di $\textcolor{red}{x^4}$ è $\textcolor{red}{4x^3}$
+La derivata di $\textcolor{red}{x^3}$ è $\textcolor{red}{3x^2}$
+La derivata di $\textcolor{red}{x^2}$ è $\textcolor{red}{2x}$
+La derivata di $\textcolor{red}{x}$ è $\textcolor{red}{1}$
 
 Quindi
 

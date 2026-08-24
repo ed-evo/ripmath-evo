@@ -18,7 +18,7 @@ $$
 \textcolor{red}{\text{prima equazione} = k \cdot (\text{seconda equazione})}
 $$
 
-Nell'esempio la prima e la seconda sono tra loro linearmente dipendenti perché ottengo la seconda moltiplicando ogni termine della prima per $$2$$. Anche se non è molto esatto proviamo a rappresentarlo così:
+Nell'esempio la prima e la seconda sono tra loro linearmente dipendenti perché ottengo la seconda moltiplicando ogni termine della prima per $2$. Anche se non è molto esatto proviamo a rappresentarlo così:
 
 $$
 \textcolor{red}{2 \cdot (x + y + z = 6) \Rightarrow (2 \cdot x + 2 \cdot y + 2 \cdot z = 2 \cdot 6) \Rightarrow 2x + 2y + 2z = 12}

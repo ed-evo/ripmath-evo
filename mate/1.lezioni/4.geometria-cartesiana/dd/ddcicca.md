@@ -4,7 +4,7 @@ $$
 \begin{cases} 3x - y + 2 = 0 \\ x^2 + y^2 + 4x - 2y - 20 = 0 \end{cases}
 $$
 
-Ricavo $$y$$ dalla prima equazione e la sostituisco nella seconda
+Ricavo $y$ dalla prima equazione e la sostituisco nella seconda
 
 $$
 \begin{cases} 3x + 2 = y \\ x^2 + (3x+2)^2 + 4x - 2(3x+2) - 20 = 0 \end{cases}
@@ -18,7 +18,7 @@ $$
 10x^2 + 10x - 20 = 0
 $$
 
-Divido tutto per $$10$$
+Divido tutto per $10$
 
 $$
 x^2 + x - 2 = 0
@@ -33,9 +33,9 @@ x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$]{.text-blue}
 
 Abbiamo:
-[$$a = 1$$]{.text-blue}
-[$$b = 1$$]{.text-blue}
-[$$c = -2$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = 1$]{.text-blue}
+[$c = -2$]{.text-blue}
 
 [$$
 x_{1,2} = \frac{-1 \pm \sqrt{(1)^2 - 4(1)(-2)}}{2(1)}
@@ -82,4 +82,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-[**$$A(-2; -4)$$ $$B(1; 5)$$**]{.text-red}
+[**$A(-2; -4)$ $B(1; 5)$**]{.text-red}

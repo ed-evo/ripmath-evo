@@ -1,6 +1,6 @@
 # [Calcoli]{.text-red}
 
-Basta calcolare il determinante sopra perché quello al denominatore l'abbiamo già calcolato e vale $$-14$$.
+Basta calcolare il determinante sopra perché quello al denominatore l'abbiamo già calcolato e vale $-14$.
 
 Calcoliamo il valore del determinante
 

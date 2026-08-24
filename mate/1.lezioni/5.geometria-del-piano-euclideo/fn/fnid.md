@@ -12,4 +12,4 @@ $$
 \textcolor{red}{A_s(ABCD) = \frac{(b_1 + b_2) \cdot h}{2}}
 $$
 
-> **Per memorizzarlo:** base maggiore più base minore per altezza diviso $$2$$
+> **Per memorizzarlo:** base maggiore più base minore per altezza diviso $2$

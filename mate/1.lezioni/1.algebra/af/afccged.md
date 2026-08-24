@@ -2,7 +2,7 @@
 
 Facciamo un esercizio con segni diversi.
 
-Trovare i due numeri $$x_1$$ e $$x_2$$ tali che:
+Trovare i due numeri $x_1$ e $x_2$ tali che:
 
 $$
 \textcolor{red}{x_1 + x_2 = -a}
@@ -18,7 +18,7 @@ $$
 \textcolor{blue}{x^2 - sx + p = 0}
 $$
 
-con $$s$$ e $$p$$ somma e prodotto delle radici:
+con $s$ e $p$ somma e prodotto delle radici:
 
 $$
 \textcolor{blue}{s = x_1 + x_2 = -a}

@@ -2,9 +2,9 @@
 
 > canonica significa regolare
 
-Per trovare l'equazione dell'iperbole consideriamone la definizione: prendiamo un punto generico [$$P(x,y)$]{.text-red} ed imponiamo che la differenza delle distanze di [$$P$$]{.text-red} dai due punti fissi [$$F_1(c,0)$]{.text-red} ed [$$F_2(-c,0)$]{.text-red} sia uguale a [$$2a$$]{.text-red}.
+Per trovare l'equazione dell'iperbole consideriamone la definizione: prendiamo un punto generico [$P(x,y)$]{.text-red} ed imponiamo che la differenza delle distanze di [$P$]{.text-red} dai due punti fissi [$F_1(c,0)$]{.text-red} ed [$F_2(-c,0)$]{.text-red} sia uguale a [$2a$$]{.text-red}.
 
-> Chiamiamo le coordinate orizzontali di $$F$$ con $$+c$$ e $$-c$$, questo perché sviluppando l'equazione avremo bisogno di un'altra lettera (che chiameremo $$b$$) e questa comparirà nell'equazione finale; in questo modo nell'equazione finale avremo le prime due lettere dell'alfabeto: $$a, b$$.
+> Chiamiamo le coordinate orizzontali di $F$ con $+c$ e $-c$, questo perché sviluppando l'equazione avremo bisogno di un'altra lettera (che chiameremo $b$) e questa comparirà nell'equazione finale; in questo modo nell'equazione finale avremo le prime due lettere dell'alfabeto: $a, b$.
 
 $$
 \textcolor{red}{PF_2 - PF_1 = 2a}
@@ -50,7 +50,7 @@ $$
 \textcolor{red}{c^2x^2 - 2a^2cx + a^4 = a^2x^2 - 2a^2cx + a^2c^2 + a^2y^2}
 $$
 
-Termini con la $$x$$ e la $$y$$ prima dell'uguale, gli altri dopo l'uguale
+Termini con la $x$ e la $y$ prima dell'uguale, gli altri dopo l'uguale
 
 $$
 \textcolor{red}{c^2x^2 - 2a^2cx - a^2x^2 + 2a^2cx - a^2y^2 = a^2c^2 - a^4}
@@ -62,21 +62,21 @@ $$
 \textcolor{red}{c^2x^2 - a^2x^2 - a^2y^2 = a^2c^2 - a^4}
 $$
 
-Metto in evidenza la $$x^2$$ prima dell'uguale ed $$a^2$$ dopo l'uguale
+Metto in evidenza la $x^2$ prima dell'uguale ed $a^2$ dopo l'uguale
 
 $$
 \textcolor{red}{x^2(c^2 - a^2) - a^2y^2 = a^2(c^2 - a^2)}
 $$
 
-Ora pongo $$c^2 - a^2 = b^2$$ 
+Ora pongo $c^2 - a^2 = b^2$ 
 
-> posso farlo perché $$c > a$$
+> posso farlo perché $c > a$
 
 $$
 \textcolor{red}{b^2x^2 - a^2y^2 = a^2b^2}
 $$
 
-Divido tutti i termini per $$a^2b^2$$
+Divido tutti i termini per $a^2b^2$
 
 $$
 \textcolor{red}{\frac{b^2x^2}{a^2b^2} - \frac{a^2y^2}{a^2b^2} = \frac{a^2b^2}{a^2b^2}}

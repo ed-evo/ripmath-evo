@@ -2,7 +2,7 @@ $$
 \textcolor{blue}{2^y = x}
 $$
 
-Sostituisco a $$y$$ il valore $$2$$ e ottengo
+Sostituisco a $y$ il valore $2$ e ottengo
 
 $$
 \textcolor{blue}{x = 2^2 = 4}

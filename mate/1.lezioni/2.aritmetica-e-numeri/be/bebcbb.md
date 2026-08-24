@@ -20,7 +20,7 @@ $$
 \textcolor{blue}{b = a \tan \Theta}
 $$
 
-Risolvendo il sistema fra le due relazioni troverò il valore di $$a$$ e $$b$$.
+Risolvendo il sistema fra le due relazioni troverò il valore di $a$ e $b$.
 
 Vediamo come procedere su un paio di esempi (gli inversi della pagina precedente):
 
@@ -34,11 +34,11 @@ $$
 
 so che
 
-$$\textcolor{red}{\rho = \sqrt{2}}$$ e quindi $$\textcolor{red}{\rho^2 = 2}$$
+$\textcolor{red}{\rho = \sqrt{2}}$ e quindi $\textcolor{red}{\rho^2 = 2}$
 
 inoltre
 
-$$\textcolor{red}{\Theta = \frac{\pi}{4}}$$ e quindi $$\textcolor{red}{\tan \Theta = 1}$$
+$\textcolor{red}{\Theta = \frac{\pi}{4}}$ e quindi $\textcolor{red}{\tan \Theta = 1}$
 
 Devo risolvere il sistema:
 
@@ -62,7 +62,7 @@ $$
 \textcolor{red}{\begin{cases} a = -1 \\ b = -1 \end{cases}}
 $$
 
-Ma il numero complesso che mi interessa è nel primo quadrante perché l'angolo di partenza è $$\frac{\pi}{4}$$ quindi, poiché nel primo quadrante le coordinate devono essere entrambe positive, sceglierò:
+Ma il numero complesso che mi interessa è nel primo quadrante perché l'angolo di partenza è $\frac{\pi}{4}$ quindi, poiché nel primo quadrante le coordinate devono essere entrambe positive, sceglierò:
 
 $$
 \textcolor{red}{\begin{cases} a = 1 \\ b = 1 \end{cases}}
@@ -84,11 +84,11 @@ $$
 
 so che
 
-$$\textcolor{red}{\rho = 2\sqrt{3}}$$ e quindi $$\textcolor{red}{\rho^2 = 12}$$
+$\textcolor{red}{\rho = 2\sqrt{3}}$ e quindi $\textcolor{red}{\rho^2 = 12}$
 
 inoltre
 
-$$\textcolor{red}{\Theta = \frac{\pi}{6}}$$ e quindi $$\textcolor{red}{\tan \Theta = \frac{\sqrt{3}}{3}}$$
+$\textcolor{red}{\Theta = \frac{\pi}{6}}$ e quindi $\textcolor{red}{\tan \Theta = \frac{\sqrt{3}}{3}}$
 
 Devo risolvere il sistema:
 
@@ -118,7 +118,7 @@ $$
 \textcolor{red}{\begin{cases} a = -3 \\ b = -\sqrt{3} \end{cases}}
 $$
 
-Ma il numero complesso che mi interessa è nel primo quadrante perché l'angolo di partenza è $$\frac{\pi}{6}$$ quindi, poiché nel primo quadrante le coordinate devono essere entrambe positive, sceglierò:
+Ma il numero complesso che mi interessa è nel primo quadrante perché l'angolo di partenza è $\frac{\pi}{6}$ quindi, poiché nel primo quadrante le coordinate devono essere entrambe positive, sceglierò:
 
 $$
 \textcolor{red}{\begin{cases} a = 3 \\ b = \sqrt{3} \end{cases}}

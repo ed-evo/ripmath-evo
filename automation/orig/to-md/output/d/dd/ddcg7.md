@@ -11,7 +11,7 @@ $$
 $$
 - scrivi le tre condizioni
 - mettile a sistema
-- risolvi il sistema per trovare $$\textcolor{red}{a}$$, $$\textcolor{red}{b}$$ e $$\textcolor{red}{c}$$
+- risolvi il sistema per trovare $\textcolor{red}{a}$, $\textcolor{red}{b}$ e $\textcolor{red}{c}$
 
 ## Trovare l'equazione della circonferenza:
 

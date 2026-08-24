@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\frac{x - 2}{x - 4} < 0}
 $$
 
-Voglio trovare l'insieme dei valori che posso assegnare alla $$x$$ perché l'espressione sia minore di zero.
+Voglio trovare l'insieme dei valori che posso assegnare alla $x$ perché l'espressione sia minore di zero.
 
 Essendo questa espressione quoziente di due termini sarà minore di zero quando i due termini che la compongono hanno segno diverso, cioè uno maggiore di zero e l'altra minore oppure viceversa.
 
@@ -22,23 +22,23 @@ $$
 \textcolor{red}{\begin{cases} x - 2 > 0 \\ x - 4 < 0 \end{cases}} \quad \textcolor{red}{\begin{cases} x - 2 < 0 \\ x - 4 > 0 \end{cases}}
 $$
 
-Capisci che questo sarebbe un metodo molto pesante, soprattutto se invece del prodotto di due termini l'espressione fosse il prodotto di $$3, 4, 5 \dots$$ termini.
+Capisci che questo sarebbe un metodo molto pesante, soprattutto se invece del prodotto di due termini l'espressione fosse il prodotto di $3, 4, 5 \dots$ termini.
 
 Allora mettiamo in un grafico il segno di ognuno dei termini e poi scegliamo gli intervalli dove i segni sono concordi (entrambi positivi od entrambi negativi).
 
 > Poniamo sempre tutti i fattori componenti maggiori di zero per trovare i segni, indicando poi su un grafico dove sono positivi e dove negativi; poi se dovremo risolvere una disequazione positiva prenderemo gli intervalli dove il quoziente è positivo; se dobbiamo cercare dove la disequazione è negativa prenderemo gli intervalli dove il prodotto dei fattori diventa negativo.
 
 Risolvo la prima disequazione:
-$$\textcolor{red}{x - 2 > 0}$$ $$\implies$$ $$\textcolor{red}{x > 2}$$ (il primo fattore è positivo per $$x$$ maggiore di due).
+$\textcolor{red}{x - 2 > 0}$ $\implies$ $\textcolor{red}{x > 2}$ (il primo fattore è positivo per $x$ maggiore di due).
 
 Risolvo la seconda:
-$$\textcolor{red}{x - 4 > 0}$$ $$\implies$$ $$\textcolor{red}{x > 4}$$ (il secondo fattore è positivo per $$x$$ maggiore di quattro).
+$\textcolor{red}{x - 4 > 0}$ $\implies$ $\textcolor{red}{x > 4}$ (il secondo fattore è positivo per $x$ maggiore di quattro).
 
 Faccio lo schema (Hai bisogno di aiuto per fare lo schema?):
 
-$$\textcolor{red}{x > 2 \implies \text{---- (2) +++++++++++++++}}$$
-$$\textcolor{red}{x > 4 \implies \text{------------ (4) +++++++++}}$$
-$$\textcolor{blue}{\text{Espressione} \implies \text{++++ (2) ----- (4) +++++++++}}$$
+$\textcolor{red}{x > 2 \implies \text{---- (2) +++++++++++++++}}$
+$\textcolor{red}{x > 4 \implies \text{------------ (4) +++++++++}}$
+$\textcolor{blue}{\text{Espressione} \implies \text{++++ (2) ----- (4) +++++++++}}$
 
 L'espressione è negativa dove i due fattori sono uno positivo ed uno negativo, quindi avremo:
 
@@ -48,7 +48,7 @@ $$
 
 oppure in altra notazione:
 
-(Immagine di rappresentazione grafica della disequazione $$2 < x < 4$$)
+(Immagine di rappresentazione grafica della disequazione $2 < x < 4$)
 
 ***
 

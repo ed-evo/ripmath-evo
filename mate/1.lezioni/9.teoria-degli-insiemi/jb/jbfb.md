@@ -8,7 +8,7 @@ $$
 \textcolor{red}{A \cap B}
 $$
 
-(si legge $$A$$ intersezione $$B$$)
+(si legge $A$ intersezione $B$)
 
 Vediamo un esempio:
 
@@ -30,7 +30,7 @@ $$
 \textcolor{red}{A \cap B = \{ 3, 4 \}}
 $$
 
-Devo prendere tutti gli elementi che appartengono ad $$A$$ **e contemporaneamente** appartengono a $$B$$.
+Devo prendere tutti gli elementi che appartengono ad $A$ **e contemporaneamente** appartengono a $B$.
 
 ---
 

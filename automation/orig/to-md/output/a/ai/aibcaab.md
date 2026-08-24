@@ -1,4 +1,4 @@
-Quello al denominatore l'ho già calcolato e vale $$-3$$
+Quello al denominatore l'ho già calcolato e vale $-3$
 Devo calcolare il valore del determinante al numeratore:
 
 $$
@@ -12,8 +12,8 @@ $$
 
 Anche qui conviene sviluppare secondo l'ultima riga perché ho solo due termini diversi da zero.
 La evidenzio in blu.
-Il primo termine della riga ha posto $$a_{4,1}$$ cioè quarta riga e prima colonna quindi è di posto dispari e quindi va cambiato di segno.
-Il terzo termine della riga ha posto $$a_{4,3}$$ cioè quarta riga e terza colonna quindi è di posto dispari e quindi va cambiato di segno.
+Il primo termine della riga ha posto $a_{4,1}$ cioè quarta riga e prima colonna quindi è di posto dispari e quindi va cambiato di segno.
+Il terzo termine della riga ha posto $a_{4,3}$ cioè quarta riga e terza colonna quindi è di posto dispari e quindi va cambiato di segno.
 Dove c'è zero non devo sviluppare perché zero per numero uguale zero.
 
 $$
@@ -160,4 +160,4 @@ $$
 \end{vmatrix} = -\textcolor{blue}{(-2)} \cdot \begin{vmatrix} 1 & 1 & -1 \\ -2 & 0 & 1 \\ 2 & -1 & -1 \end{vmatrix} - (\textcolor{blue}{-1}) \cdot \begin{vmatrix} 1 & 1 & -1 \\ 1 & -2 & 1 \\ 0 & 2 & -1 \end{vmatrix} =
 $$
 
-[$$ = -(-2) \cdot (-1) - (-1) \cdot (-1) = -2 - 1 = -3 $$]{.text-red}
+[$= -(-2) \cdot (-1) - (-1) \cdot (-1) = -2 - 1 = -3$]{.text-red}

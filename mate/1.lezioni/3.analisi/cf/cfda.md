@@ -1,9 +1,9 @@
 # Esempi di calcolo di qualche semplice derivata
 
-Per iniziare proviamo a calcolare la derivata di [$$y = x^2$$]{.text-red}
+Per iniziare proviamo a calcolare la derivata di [$y = x^2$]{.text-red}
 
-[$$f(x) = x^2$$]{.text-red}
-[$$f(x+h) = (x+h)^2$$]{.text-red}
+[$f(x) = x^2$]{.text-red}
+[$f(x+h) = (x+h)^2$]{.text-red}
 
 faccio il limite del rapporto incrementale:
 
@@ -31,14 +31,14 @@ $$
 \lim_{h \to 0} 2x + \lim_{h \to 0} h = 2x
 $$
 
-Quindi la derivata di [$$y = x^2$$]{.text-red} è [$$y' = 2x$$]{.text-red}
+Quindi la derivata di [$y = x^2$]{.text-red} è [$y' = 2x$]{.text-red}
 
 ***
 
-Calcoliamo ora la derivata di [$$y = \sin x$$]{.text-red}
+Calcoliamo ora la derivata di [$y = \sin x$]{.text-red}
 
-[$$f(x) = \sin x$$]{.text-red}
-[$$f(x+h) = \sin(x+h)$$]{.text-red}
+[$f(x) = \sin x$]{.text-red}
+[$f(x+h) = \sin(x+h)$]{.text-red}
 
 faccio il limite del rapporto incrementale:
 
@@ -46,7 +46,7 @@ $$
 \lim_{h \to 0} \frac{\sin(x+h) - \sin x}{h} =
 $$
 
-applico la regola della somma per $$\sin(x+h)$$
+applico la regola della somma per $\sin(x+h)$
 
 $$
 \lim_{h \to 0} \frac{\sin x \cos h + \cos x \sin h - \sin x}{h} =
@@ -70,7 +70,7 @@ $$
 (\sin x) \cdot 0 + (\cos x) \cdot 1 = \cos x
 $$
 
-quindi la derivata di [$$y = \sin x$$]{.text-red} è [$$y' = \cos x$$]{.text-red}
+quindi la derivata di [$y = \sin x$]{.text-red} è [$y' = \cos x$]{.text-red}
 
 ***
 

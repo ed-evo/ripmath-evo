@@ -8,7 +8,7 @@
 > 
 > Ho i punti
 > 
-> $$ \textcolor{red}{P=(p,0)} $$ $$ \textcolor{red}{Q=(0,q)} $$
+> $\textcolor{red}{P=(p,0)}$ $\textcolor{red}{Q=(0,q)}$
 > 
 > Applico la formula per trovare la retta passante per due punti:
 > 
@@ -18,7 +18,7 @@
 > 
 > si ha:
 > 
-> $$ \textcolor{red}{x_1 = p} $$ $$ \textcolor{red}{y_1 = 0} $$ $$ \textcolor{red}{x_2 = 0} $$ $$ \textcolor{red}{y_2 = q} $$
+> $\textcolor{red}{x_1 = p}$ $\textcolor{red}{y_1 = 0}$ $\textcolor{red}{x_2 = 0}$ $\textcolor{red}{y_2 = q}$
 > 
 > sostituendo ottengo
 > 
@@ -48,7 +48,7 @@
 > \textcolor{red}{qx + py = pq}
 > $$
 > 
-> divido tutti i termini per $$pq$$
+> divido tutti i termini per $pq$
 > 
 > $$
 > \textcolor{red}{\frac{qx}{pq} + \frac{py}{pq} = \frac{pq}{pq}}

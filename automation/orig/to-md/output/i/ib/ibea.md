@@ -1,22 +1,22 @@
-# [Angolo di 30 gradi ($$\frac{\pi}{6}$$)]{.text-red}
+# [Angolo di 30 gradi ($\frac{\pi}{6}$)]{.text-red}
 
-Consideriamo l'angolo di $$30^\circ$$: se lo ribalto attorno all'asse delle $$x$$ ottengo un angolo di $$60^\circ$$ ed il triangolo $$OPQ$$ è equilatero.
+Consideriamo l'angolo di $30^\circ$: se lo ribalto attorno all'asse delle $x$ ottengo un angolo di $60^\circ$ ed il triangolo $OPQ$ è equilatero.
 
-> ha un angolo di $$60^\circ$$ e gli altri due uguali perché avendo per lati due raggi è isoscele
+> ha un angolo di $60^\circ$ e gli altri due uguali perché avendo per lati due raggi è isoscele
 
-Essendo il lato $$PQ$$ del triangolo uguale ad $$1$$ (cerchio trigonometrico) $$PH = \sin 30^\circ$$ che è metà lato sarà $$1/2$$, quindi
+Essendo il lato $PQ$ del triangolo uguale ad $1$ (cerchio trigonometrico) $PH = \sin 30^\circ$ che è metà lato sarà $1/2$, quindi
 
 $$
 \textcolor{red}{\sin \frac{\pi}{6} = \sin 30^\circ = \frac{1}{2}}
 $$
 
-Per trovare il coseno dobbiamo trovare $$OH$$, allora applico il Teorema di Pitagora al triangolo $$OHP$$.
+Per trovare il coseno dobbiamo trovare $OH$, allora applico il Teorema di Pitagora al triangolo $OHP$.
 
 $$
 \textcolor{blue}{OH^2 + HP^2 = OP^2}
 $$
 
-Ricavo $$OH$$
+Ricavo $OH$
 
 $$
 \textcolor{blue}{OH^2 = OP^2 - HP^2}

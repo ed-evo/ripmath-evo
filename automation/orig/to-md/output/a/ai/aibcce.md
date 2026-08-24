@@ -24,7 +24,7 @@
 > \textcolor{red}{= 2(a - b) - a(-b + a) =}
 > $$
 >
-> siccome $$(a - b)$$ e $$(-b + a)$$ sono lo stesso binomio, raccolgo ed ottengo
+> siccome $(a - b)$ e $(-b + a)$ sono lo stesso binomio, raccolgo ed ottengo
 >
 > $$
 > \textcolor{blue}{= (a - b)(2 - a)}

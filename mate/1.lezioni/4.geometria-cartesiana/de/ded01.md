@@ -1,6 +1,6 @@
 # esercizio
 
-Trovare l'equazione canonica dell'ellisse passante per i punti $$\textcolor{blue}{A(\frac{9}{5}, 4)}$$ e $$\textcolor{blue}{B(\frac{12}{5}, 3)}$$
+Trovare l'equazione canonica dell'ellisse passante per i punti $\textcolor{blue}{A(\frac{9}{5}, 4)}$ e $\textcolor{blue}{B(\frac{12}{5}, 3)}$
 
 Devo prendere l'equazione canonica dell'ellisse
 
@@ -8,14 +8,14 @@ $$
 \textcolor{blue}{\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1}
 $$
 
-e sostituire alla $$\textcolor{blue}{x}$$ ed alla $$\textcolor{blue}{y}$$:
+e sostituire alla $\textcolor{blue}{x}$ ed alla $\textcolor{blue}{y}$:
 
-- i valori $$\textcolor{blue}{\frac{9}{5}}$$ e $$\textcolor{blue}{4}$$ (condizione di passaggio per il punto $$\textcolor{blue}{A}$$)
-- i valori $$\textcolor{blue}{\frac{12}{5}}$$ e $$\textcolor{blue}{3}$$ (condizione di passaggio per il punto $$\textcolor{blue}{B}$$)
+- i valori $\textcolor{blue}{\frac{9}{5}}$ e $\textcolor{blue}{4}$ (condizione di passaggio per il punto $\textcolor{blue}{A}$)
+- i valori $\textcolor{blue}{\frac{12}{5}}$ e $\textcolor{blue}{3}$ (condizione di passaggio per il punto $\textcolor{blue}{B}$)
 
-Ottengo due equazioni nelle incognite $$\textcolor{blue}{a}$$ e $$\textcolor{blue}{b}$$; risolvo e trovo i valori di $$\textcolor{blue}{a}$$ e $$\textcolor{blue}{b}$$.
+Ottengo due equazioni nelle incognite $\textcolor{blue}{a}$ e $\textcolor{blue}{b}$; risolvo e trovo i valori di $\textcolor{blue}{a}$ e $\textcolor{blue}{b}$.
 
-- Condizione di passaggio per $$\textcolor{blue}{A(\frac{9}{5}, 4)}$$:
+- Condizione di passaggio per $\textcolor{blue}{A(\frac{9}{5}, 4)}$:
 
 $$
 \textcolor{blue}{\frac{(\frac{9}{5})^2}{a^2} + \frac{4^2}{b^2} = 1}
@@ -27,7 +27,7 @@ $$
 \textcolor{blue}{\frac{81}{25a^2} + \frac{16}{b^2} = 1}
 $$
 
-- Condizione di passaggio per $$\textcolor{blue}{B(\frac{12}{5}, 3)}$$:
+- Condizione di passaggio per $\textcolor{blue}{B(\frac{12}{5}, 3)}$:
 
 $$
 \textcolor{blue}{\frac{(\frac{12}{5})^2}{a^2} + \frac{3^2}{b^2} = 1}

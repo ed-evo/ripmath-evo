@@ -1,4 +1,4 @@
-# [Proprietà della parabola con asse parallelo all'asse $$y$$]{.text-red}
+# [Proprietà della parabola con asse parallelo all'asse $y$]{.text-red}
 
 Consideriamo l'equazione
 

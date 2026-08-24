@@ -1,4 +1,4 @@
-I due triangoli $$BAH$$ e $$BDK$$ sono simili perché $$AH$$ e $$DK$$ sono due orizzontali e quindi fra loro parallele, e sono tagliate dalle trasversali $$BK$$ e $$BD$$.
+I due triangoli $BAH$ e $BDK$ sono simili perché $AH$ e $DK$ sono due orizzontali e quindi fra loro parallele, e sono tagliate dalle trasversali $BK$ e $BD$.
 
 Quindi gli [angoli corrispondenti sono uguali]{.text-blue}.
 

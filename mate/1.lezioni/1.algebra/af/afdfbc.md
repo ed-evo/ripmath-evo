@@ -68,9 +68,9 @@ $$
 
 Ora devo verificare se la soluzione va bene nell'equazione di partenza o è dovuta all'elevamento a quadrato.
 
-[Verifica per $$x = 2$$]{.text-purple}
+[Verifica per $x = 2$]{.text-purple}
 
-Sostituisco nell'equazione iniziale alla $$x$$ il valore $$2$$:
+Sostituisco nell'equazione iniziale alla $x$ il valore $2$:
 
 $$
 \textcolor{red}{\sqrt{2 + 7} - 2 = \sqrt{2 - 1}}
@@ -80,4 +80,4 @@ $$
 \textcolor{red}{3 - 2 = 1}
 $$
 
-Avendo ottenuto un'uguaglianza la soluzione $$x=2$$ è accettabile.
+Avendo ottenuto un'uguaglianza la soluzione $x=2$ è accettabile.

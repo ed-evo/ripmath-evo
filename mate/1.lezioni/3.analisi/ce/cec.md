@@ -8,4 +8,4 @@
 >
 > che tipo di discontinuità ha?
 >
-> Nessuno, infatti non può ammettere limite in nessuno dei suoi punti: l'intervallo sulle $$y$$ non si stringe.
+> Nessuno, infatti non può ammettere limite in nessuno dei suoi punti: l'intervallo sulle $y$ non si stringe.

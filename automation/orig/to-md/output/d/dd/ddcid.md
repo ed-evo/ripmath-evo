@@ -18,7 +18,7 @@ $$
 ### Esercizio 2
 Dire sotto quali condizioni l'equazione
 
-$$x^2 + y^2 - 2(1-2k)x - 2(k-1)y + 4(1+k) = 0$$
+$x^2 + y^2 - 2(1-2k)x - 2(k-1)y + 4(1+k) = 0$
 
 rappresenta un fascio di circonferenze e trovare le equazioni delle circonferenze base del fascio
 
@@ -27,7 +27,7 @@ rappresenta un fascio di circonferenze e trovare le equazioni delle circonferenz
 ---
 
 ### Esercizio 3 (metodo dei fasci)
-Trovare le equazioni delle circonferenze passanti per i punti $$A(1;2)$$ e $$B(3;4)$$ e tangenti alla retta $$y = -3x + 3$$
+Trovare le equazioni delle circonferenze passanti per i punti $A(1;2)$ e $B(3;4)$ e tangenti alla retta $y = -3x + 3$
 
 [Soluzione]{.text-red}
 
@@ -40,13 +40,13 @@ $$
 x^2 + y^2 - 2mx + m^2(1-m) = 0
 $$
 
-con $$m \in \mathbb{R}^+$$ e considerata la retta di equazione
+con $m \in \mathbb{R}^+$ e considerata la retta di equazione
 
 $$
 y = hx
 $$
 
-si determini la relazione che deve sussistere fra $$h$$ ed $$m$$ perché tale retta sia tangente alla curva data
+si determini la relazione che deve sussistere fra $h$ ed $m$ perché tale retta sia tangente alla curva data
 
 [Soluzione]{.text-red}
 

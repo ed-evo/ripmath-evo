@@ -6,7 +6,7 @@ Un fascio di rette parallele è l'insieme di tutte le rette parallele ad una ret
 
 > **Nota:** Naturalmente quando parliamo di segmenti in proporzione intendiamo che le loro misure sono in proporzione.
 
-So per ipotesi che le rette $$a$$, $$b$$, $$c$$, $$d$$ sono parallele, devo dimostrare che i segmenti formati sulla prima retta $$t_1$$ e quelli formati sulla seconda retta $$t_2$$ sono fra loro proporzionali:
+So per ipotesi che le rette $a$, $b$, $c$, $d$ sono parallele, devo dimostrare che i segmenti formati sulla prima retta $t_1$ e quelli formati sulla seconda retta $t_2$ sono fra loro proporzionali:
 
 $$
 AB : A'B' = CD : C'D'

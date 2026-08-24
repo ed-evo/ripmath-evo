@@ -9,9 +9,9 @@ $$
 $$
 
 Abbiamo:
-[$$\textcolor{blue}{a = 1}$$]{.text-blue}
-[$$\textcolor{blue}{b = -1}$$]{.text-blue}
-[$$\textcolor{blue}{c = 1}$$]{.text-blue}
+[$\textcolor{blue}{a = 1}$]{.text-blue}
+[$\textcolor{blue}{b = -1}$]{.text-blue}
+[$\textcolor{blue}{c = 1}$]{.text-blue}
 
 $$
 \textcolor{blue}{x_{5,6} = \frac{-(-1) \pm \sqrt{(-1)^2 - 4(1)(1)}}{2}}

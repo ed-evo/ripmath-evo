@@ -2,7 +2,7 @@
 
 Partiamo dalle due formule di addizione e sottrazione per il coseno e sommiamo in verticale.
 
-> (i due termini uguali $$\textcolor{blue}{\sin \alpha \sin \beta}$$ avendo segni contrari si annullano e spariscono)
+> (i due termini uguali $\textcolor{blue}{\sin \alpha \sin \beta}$ avendo segni contrari si annullano e spariscono)
 
 $$
 \begin{aligned}
@@ -16,7 +16,7 @@ $$
 
 Sempre nello stesso modo:
 
-> Poniamo $$\textcolor{red}{\alpha + \beta = p}$$ ed $$\textcolor{red}{\alpha - \beta = q}$$, e quindi sarà:
+> Poniamo $\textcolor{red}{\alpha + \beta = p}$ ed $\textcolor{red}{\alpha - \beta = q}$, e quindi sarà:
 > 
 > $$
 > \alpha = \frac{p + q}{2} \quad \beta = \frac{p - q}{2}

@@ -2,7 +2,7 @@
 
 Vediamo come trovare il volume del cilindro:
 
-Consideriamo la retta orizzontale a distanza $$r$$ dall'asse $$x$$ [($$y = r$$){.text-red}] e consideriamo sull'asse $$x$$ l'intervallo da $$0$$ a $$h$$; troveremo il volume del cilindro di raggio $$r$$ ed altezza $$h$$.
+Consideriamo la retta orizzontale a distanza $r$ dall'asse $x$ [($y = r$){.text-red}] e consideriamo sull'asse $x$ l'intervallo da $0$ a $h$; troveremo il volume del cilindro di raggio $r$ ed altezza $h$.
 
 Applico la formula
 

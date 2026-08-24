@@ -36,13 +36,13 @@ $$
 \textcolor{red}{36m^2 - 64 = 0}
 $$
 
-Posso semplificare per $$4$$
+Posso semplificare per $4$
 
 $$
 \textcolor{red}{9m^2 - 16 = 0}
 $$
 
-> Per semplicità, siccome il termine $$b$$ è divisibile per due, potevo considerare il $$\Delta/4$$, cioè
+> Per semplicità, siccome il termine $b$ è divisibile per due, potevo considerare il $\Delta/4$, cioè
 >
 > $$
 > \textcolor{blue}{\Delta/4 = (b/2)^2 - ac = 0}

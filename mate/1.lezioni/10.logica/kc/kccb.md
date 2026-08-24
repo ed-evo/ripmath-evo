@@ -8,12 +8,12 @@ Come esempio di **giudizio universale negativo** prendiamo:
 
 Che posso trasformare nella frase equivalente:
 
-**Per ogni uomo $$x$$, se $$x$$ è un uomo allora $$x$$ non è immortale**
+**Per ogni uomo $x$, se $x$ è un uomo allora $x$ non è immortale**
 
 Analizziamo la frase:
 - **Per ogni** è il quantificatore universale
-- **$$x$$ è un uomo** è il primo predicato (ad un posto perché c'è la $$x$$), chiamiamolo **$$P(x)$$**
-- **$$x$$ non è immortale** è il secondo predicato (ad un posto perché c'è la $$x$$), essendo negativo chiamiamolo **$$\overline{Q(x)}$$**
+- **$x$ è un uomo** è il primo predicato (ad un posto perché c'è la $x$), chiamiamolo **$P(x)$**
+- **$x$ non è immortale** è il secondo predicato (ad un posto perché c'è la $x$), essendo negativo chiamiamolo **$\overline{Q(x)}$**
 - **se ... allora** è l'implicazione
 
 Quindi potremo scrivere:

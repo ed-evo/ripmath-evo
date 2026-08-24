@@ -1,8 +1,8 @@
 # Area del triangolo noti perimetro e raggio del cerchio inscritto
 
 Considero un triangolo ed il suo cerchio inscritto:
-conosco il valore del perimetro del triangolo $$2p$$
-conosco anche il valore del raggio $$r$$ del cerchio inscritto
+conosco il valore del perimetro del triangolo $2p$
+conosco anche il valore del raggio $r$ del cerchio inscritto
 Con queste condizioni posso calcolare l'area del triangolo
 
 Congiungendo il centro del cerchio con i vertici del triangolo ottengo tre triangoli che hanno come altezza il raggio.
@@ -23,7 +23,7 @@ $$
 \textcolor{red}{A_s} = \textcolor{red}{\frac{2p \cdot r}{2}}
 $$
 
-Oppure più semplicemente, essendo $$p$$ il semiperimetro:
+Oppure più semplicemente, essendo $p$ il semiperimetro:
 
 **L'area del triangolo si ottiene moltiplicando il semiperimetro del triangolo per il valore del raggio del cerchio inscritto**
 

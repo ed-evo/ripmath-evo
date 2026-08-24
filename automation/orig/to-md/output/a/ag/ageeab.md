@@ -1,9 +1,9 @@
 # [Esercizi]{.text-red}
 
-Ho la disequazione $$\textcolor{red}{x^2 + x + 1 > 0}$$
+Ho la disequazione $\textcolor{red}{x^2 + x + 1 > 0}$
 
 Considero l'equazione associata:
-$$\textcolor{blue}{x^2 + x + 1 = 0}$$
+$\textcolor{blue}{x^2 + x + 1 = 0}$
 
 Prendiamo la formula risolutiva:
 
@@ -12,9 +12,9 @@ $$
 $$
 
 Abbiamo:
-- $$\textcolor{blue}{a = 1}$$
-- $$\textcolor{blue}{b = 1}$$
-- $$\textcolor{blue}{c = 1}$$
+- $\textcolor{blue}{a = 1}$
+- $\textcolor{blue}{b = 1}$
+- $\textcolor{blue}{c = 1}$
 
 Sostituiamo nella formula:
 
@@ -28,4 +28,4 @@ $$
 \textcolor{blue}{= \frac{-1 \pm \sqrt{1 - 4}}{2} =}
 $$
 
-Essendo il termine sotto radice $$\Delta$$ minore di zero, avrò che la disequazione $$\textcolor{red}{x^2 + x + 1 > 0}$$ è sempre positiva.
+Essendo il termine sotto radice $\Delta$ minore di zero, avrò che la disequazione $\textcolor{red}{x^2 + x + 1 > 0}$ è sempre positiva.

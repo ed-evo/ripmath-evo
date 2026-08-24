@@ -14,9 +14,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 3}$$
-$$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\beta = -5}$$
-$$\textcolor{blue}{c = 3}$$
+$\textcolor{blue}{a = 3}$
+$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\beta = -5}$
+$\textcolor{blue}{c = 3}$
 
 Sostituiamo nella formula:
 
@@ -54,4 +54,4 @@ $$
 \textcolor{red}{x_1 = \frac{1}{3}, \quad x_2 = 3}
 $$
 
-Essendo $$\textcolor{red}{x^2 - 5x + 6 > 0}$$, dovrò prendere i valori esterni all'intervallo delle radici, quindi $$\textcolor{red}{x < 2 \cup x > 3}$$.
+Essendo $\textcolor{red}{x^2 - 5x + 6 > 0}$, dovrò prendere i valori esterni all'intervallo delle radici, quindi $\textcolor{red}{x < 2 \cup x > 3}$.

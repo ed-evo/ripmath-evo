@@ -6,7 +6,7 @@ Ora possiamo iniziare la teoria della probabilità: grosso modo possiamo disting
 
 > Nel biennio ed in parecchie scuole anche del triennio è sufficiente limitare il calcolo delle probabilità alla probabilità classica con qualche semplice cenno alla frequentista ed alla soggettiva; in tal caso puoi saltare la probabilità assiomatica.
 > 
-> In altre invece nel triennio è richiesta la probabilità assiomatica considerando le altre probabilità come casi particolari; in questo caso devi fare tutto il capitolo sulle $$4$$ probabilità.
+> In altre invece nel triennio è richiesta la probabilità assiomatica considerando le altre probabilità come casi particolari; in questo caso devi fare tutto il capitolo sulle $4$ probabilità.
 
 Premettiamo anche alcune nozioni comuni a tutti i tipi di probabilità:
 

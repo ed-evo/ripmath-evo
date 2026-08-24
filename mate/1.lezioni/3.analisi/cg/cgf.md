@@ -30,12 +30,12 @@ $$
 \textcolor{red}{x = 1}
 $$
 
-Calcolo le coordinate del punto sostituendo $$1$$ alla $$x$$ nella funzione di partenza:
+Calcolo le coordinate del punto sostituendo $1$ alla $x$ nella funzione di partenza:
 $$
 \textcolor{red}{f(1) = 1^3 - 3 \cdot 1^2 + 4 = 1 - 3 + 4 = 2}
 $$
 
-Il punto $$F(1, 2)$$ è un probabile punto di flesso. Per vedere se è un flesso calcolo la derivata terza:
+Il punto $F(1, 2)$ è un probabile punto di flesso. Per vedere se è un flesso calcolo la derivata terza:
 $$
 \textcolor{red}{y''' = 6}
 $$
@@ -45,7 +45,7 @@ Posso inoltre calcolare la tangente di flesso con la formula:
 $$
 \textcolor{red}{y - y_0 = m(x - x_0)}
 $$
-essendo $$x_0$$ ed $$y_0$$ le coordinate del punto di flesso $$F(1, 2)$$ ed $$m$$ il valore della derivata prima nel punto:
+essendo $x_0$ ed $y_0$ le coordinate del punto di flesso $F(1, 2)$ ed $m$ il valore della derivata prima nel punto:
 $$
 \textcolor{red}{y - 2 = -3(x - 1)}
 $$
@@ -70,6 +70,6 @@ $$
 \textcolor{red}{x > 1}
 $$
 
-Per $$x < 1$$ avremo la concavità verso il basso, mentre per $$x > 1$$ avremo la concavità verso l'alto (le proporzioni non sono troppo rispettate).
+Per $x < 1$ avremo la concavità verso il basso, mentre per $x > 1$ avremo la concavità verso l'alto (le proporzioni non sono troppo rispettate).
 
 Se vuoi cimentarti con un [esempio](cgfb.html) un po' più complicato.

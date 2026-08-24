@@ -16,7 +16,7 @@ $$
 \textcolor{blue}{5dx} = \textcolor{red}{dt}
 $$
 
-ricavo $$dx$$
+ricavo $dx$
 
 $$
 \textcolor{blue}{dx} = \frac{\textcolor{red}{dt}}{\textcolor{red}{5}}
@@ -28,13 +28,13 @@ $$
 \int \textcolor{red}{\sin t} \frac{\textcolor{red}{dt}}{\textcolor{red}{5}} =
 $$
 
-Posso estrarre $$1/5$$ dall'integrale ed ottengo un integrale immediato
+Posso estrarre $1/5$ dall'integrale ed ottengo un integrale immediato
 
 $$
 = \frac{\textcolor{red}{1}}{\textcolor{red}{5}} \int \textcolor{red}{\sin t} \, \textcolor{red}{dt} = \frac{\textcolor{red}{1}}{\textcolor{red}{5}} (\textcolor{red}{-\cos t}) + \textcolor{red}{c}
 $$
 
-Ora sostituisco a $$t$$ il suo valore ed ottengo il risultato finale
+Ora sostituisco a $t$ il suo valore ed ottengo il risultato finale
 
 $$
 = -\frac{\textcolor{blue}{1}}{\textcolor{blue}{5}} \textcolor{blue}{\cos 5x} + \textcolor{blue}{c}

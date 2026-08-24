@@ -18,14 +18,14 @@ $$
 \textcolor{blue}{\frac{\sqrt{10 + 2\sqrt{5}}}{\sqrt{5} - 1}}
 $$
 
-Ora devo razionalizzare: moltiplico sopra e sotto per $$\textcolor{blue}{\sqrt{5} + 1}$$:
+Ora devo razionalizzare: moltiplico sopra e sotto per $\textcolor{blue}{\sqrt{5} + 1}$:
 
 $$
 \textcolor{blue}{\frac{\sqrt{10 + 2\sqrt{5}}}{\sqrt{5} - 1} \cdot \frac{\sqrt{5} + 1}{\sqrt{5} + 1}}
 $$
 
 > Sotto moltiplico i denominatori (è un prodotto notevole)
-> sopra porto $$\textcolor{blue}{(\sqrt{5} + 1)}$$ dentro la radice grande (elevando al quadrato)
+> sopra porto $\textcolor{blue}{(\sqrt{5} + 1)}$ dentro la radice grande (elevando al quadrato)
 
 $$
 \textcolor{blue}{\frac{\sqrt{(\sqrt{5} + 1)^2(10 + 2\sqrt{5})}}{(\sqrt{5})^2 - 1^2}}

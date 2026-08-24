@@ -1,6 +1,6 @@
 # [Calcoli]{.text-red}
 
-Basta calcolare il determinante al numeratore perché quello sotto l'abbiamo già calcolato e vale $$-14$$. Calcoliamo il valore del determinante
+Basta calcolare il determinante al numeratore perché quello sotto l'abbiamo già calcolato e vale $-14$. Calcoliamo il valore del determinante
 
 $$
 \textcolor{red}{\begin{vmatrix} 1 & 6 & 1 \\ 2 & 1 & -1 \\ 2 & -1 & 1 \end{vmatrix}}

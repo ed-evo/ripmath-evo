@@ -1,4 +1,4 @@
-$$\textcolor{red}{x^2 - 3x + 2 = 0}$$
+$\textcolor{red}{x^2 - 3x + 2 = 0}$
 
 applico la [formula risolutiva](../../a/af/afcc.html)
 
@@ -16,4 +16,4 @@ $$
 
 quindi
 
-$$\textcolor{red}{x_1 = 1 \quad x_2 = 2}$$
+$\textcolor{red}{x_1 = 1 \quad x_2 = 2}$

@@ -13,9 +13,9 @@ a_{n,1} & a_{n,2} & \cdots & a_{n,n}
 }
 $$
 
-con $$n$$ numero naturale
+con $n$ numero naturale
 
-$$n$$ si dice anche **ordine** della matrice quadrata: ad esempio se una matrice quadrata è di ordine $$5$$ allora ha $$5$$ righe e $$5$$ colonne
+$n$ si dice anche **ordine** della matrice quadrata: ad esempio se una matrice quadrata è di ordine $5$ allora ha $5$ righe e $5$ colonne
 
 Nella matrice quadrata possiamo distinguere la diagonale principale e la diagonale secondaria
 

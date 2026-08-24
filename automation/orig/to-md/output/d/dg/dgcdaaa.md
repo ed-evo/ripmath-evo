@@ -1,4 +1,4 @@
-$$\textcolor{red}{x^2 - 6x + 8 = 0}$$
+$\textcolor{red}{x^2 - 6x + 8 = 0}$
 
 Applico la formula risolutiva
 

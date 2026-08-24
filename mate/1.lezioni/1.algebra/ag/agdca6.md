@@ -1,6 +1,6 @@
 # Esercizio
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{x^2 - 3x + 8 < 0}
@@ -24,4 +24,4 @@ $$
 
 Il delta è minore di zero pertanto il polinomio è sempre positivo e siccome devo cercare i valori minori di zero avrò
 
-[Mai verificata (per nessun valore di $$x$$)]{.text-red}
+[Mai verificata (per nessun valore di $x$)]{.text-red}

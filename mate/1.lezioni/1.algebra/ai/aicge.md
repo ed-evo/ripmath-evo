@@ -16,7 +16,7 @@ $$
 \begin{cases} \textcolor{red}{x^2 - 3xy + y^2 = 2x - y - 2} \\ \textcolor{red}{x^2 - 3xy + y^2 = -y} \end{cases}
 $$
 
-supponendo $$x^2 - 3xy + y^2$$ diverso da zero ed $$y$$ diverso da zero divido membro a membro:
+supponendo $x^2 - 3xy + y^2$ diverso da zero ed $y$ diverso da zero divido membro a membro:
 
 $$
 \frac{\textcolor{blue}{x^2 - 3xy + y^2}}{\textcolor{blue}{x^2 - 3xy + y^2}} = \frac{\textcolor{blue}{2x - y - 2}}{\textcolor{blue}{-y}}
@@ -48,7 +48,7 @@ $$
 \begin{cases} \textcolor{red}{x = 1} \\ \textcolor{red}{x^2 - 3xy + y^2 = -y} \end{cases}
 $$
 
-sostituisco il valore $$x=1$$ nella seconda equazione:
+sostituisco il valore $x=1$ nella seconda equazione:
 
 $$
 \begin{cases} \textcolor{red}{x = 1} \\ \textcolor{red}{1 - 3y + y^2 = -y} \end{cases}
@@ -70,7 +70,7 @@ $$
 \begin{cases} \textcolor{blue}{x_1 = 1} \\ \textcolor{blue}{y_1 = 1} \end{cases}
 $$
 
-devo infine controllare che questi valori sostituiti ad $$x$$ ed $$y$$ nei termini che ho messo al denominatore non me li annullino (altrimenti la soluzione non sarebbe accettabile):
+devo infine controllare che questi valori sostituiti ad $x$ ed $y$ nei termini che ho messo al denominatore non me li annullino (altrimenti la soluzione non sarebbe accettabile):
 
 $$
 \begin{cases} \textcolor{red}{x^2 - 3xy + y^2 = 1 - 3 + 1 \neq 0} \\ \textcolor{red}{y = 1 \neq 0} \end{cases}

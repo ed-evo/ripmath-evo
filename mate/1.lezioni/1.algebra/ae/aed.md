@@ -14,7 +14,7 @@ $$
 \textcolor{red}{\frac{3}{2 \cdot 5} \cdot \frac{2^2}{3 \cdot 7} =}
 $$
 
-Semplifico i termini uguali che siano in un numeratore ed in un denominatore; nel nostro caso tolgo il $$3$$ con il $$3$$ ed il $$2$$ al denominatore con un due del numeratore; resta:
+Semplifico i termini uguali che siano in un numeratore ed in un denominatore; nel nostro caso tolgo il $3$ con il $3$ ed il $2$ al denominatore con un due del numeratore; resta:
 
 $$
 \textcolor{red}{\frac{1}{5} \cdot \frac{2}{7} =}
@@ -66,7 +66,7 @@ $$
 \textcolor{red}{\frac{(x - 2) \cdot (x + 2)}{(x - 3) \cdot (x + 3)} \cdot \frac{3 \cdot (x - 3)}{x \cdot (x - 2)} =}
 $$
 
-b. [Elimino $$\textcolor{red}{(x - 2)}$$ ed $$\textcolor{red}{(x - 3)}$$ che si trovano contemporaneamente al numeratore ed al denominatore; resta]{.text-purple}
+b. [Elimino $\textcolor{red}{(x - 2)}$ ed $\textcolor{red}{(x - 3)}$ che si trovano contemporaneamente al numeratore ed al denominatore; resta]{.text-purple}
 
 $$
 \textcolor{red}{\frac{x + 2}{x + 3} \cdot \frac{3}{x} =}

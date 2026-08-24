@@ -9,9 +9,9 @@ applichiamo la formula ridotta
 $$]{.text-blue}
 
 Abbiamo:
-[$$\textcolor{blue}{a = 1}$$]{.text-blue}
-[$$\textcolor{blue}{b = -2 \quad b/2 = -1}$$]{.text-blue}
-[$$\textcolor{blue}{c = -15}$$]{.text-blue}
+[$\textcolor{blue}{a = 1}$]{.text-blue}
+[$\textcolor{blue}{b = -2 \quad b/2 = -1}$]{.text-blue}
+[$\textcolor{blue}{c = -15}$]{.text-blue}
 
 [$$
 \textcolor{blue}{t_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - (1)(-15)}}{1}}
@@ -31,8 +31,8 @@ $$]{.text-blue}
 
 Ora prendo una volta il meno e una volta il più
 
-[$$\textcolor{blue}{t_1 = 1 - 4 = -3}$$]{.text-blue}
-[$$\textcolor{blue}{t_2 = 1 + 4 = +5}$$]{.text-blue}
+[$\textcolor{blue}{t_1 = 1 - 4 = -3}$]{.text-blue}
+[$\textcolor{blue}{t_2 = 1 + 4 = +5}$]{.text-blue}
 
 Ho quindi le soluzioni
 [$$

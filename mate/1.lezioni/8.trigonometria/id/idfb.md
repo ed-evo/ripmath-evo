@@ -1,9 +1,9 @@
 > **Esempio:**
 >
-> nel triangolo $$ABC$$ ho
-> [$$\textcolor{blue}{a = 5 \text{ cm.}}$$ $$\textcolor{blue}{b = 7 \text{ cm.}}$$ $$\textcolor{blue}{\gamma = 60^\circ}$$]{.text-blue}
+> nel triangolo $ABC$ ho
+> [$\textcolor{blue}{a = 5 \text{ cm.}}$ $\textcolor{blue}{b = 7 \text{ cm.}}$ $\textcolor{blue}{\gamma = 60^\circ}$]{.text-blue}
 >
-> devo trovare $$c$$, imposto la relazione
+> devo trovare $c$, imposto la relazione
 >
 > $$
 > \textcolor{blue}{c^2 = a^2 + b^2 - 2ab \cos \gamma}

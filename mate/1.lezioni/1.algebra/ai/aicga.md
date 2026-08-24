@@ -14,9 +14,9 @@ $$
 $$
 
 Osserviamo la seconda equazione:
-$$\textcolor{red}{x + y = 13}$$
-per avere gli stessi gruppi di variabili presenti nell'equazione sopra basta aggiungere e togliere $$1$$ (cosa che non cambia di valore l'espressione)
-$$\textcolor{red}{x + 1 + y - 1 = 13}$$
+$\textcolor{red}{x + y = 13}$
+per avere gli stessi gruppi di variabili presenti nell'equazione sopra basta aggiungere e togliere $1$ (cosa che non cambia di valore l'espressione)
+$\textcolor{red}{x + 1 + y - 1 = 13}$
 ora pongo
 
 $$
@@ -41,7 +41,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco $$5$$ al posto di $$(t+u)$$
+Sostituisco $5$ al posto di $(t+u)$
 
 $$
 \begin{cases}
@@ -61,12 +61,12 @@ $$
 
 considero l'equazione associata
 
-$$\textcolor{blue}{z^2 - 5z + 6 = 0}$$
+$\textcolor{blue}{z^2 - 5z + 6 = 0}$
 
 risolvo ed ottengo:
 
-$$\textcolor{blue}{z_1 = 2}$$
-$$\textcolor{blue}{z_2 = 3}$$
+$\textcolor{blue}{z_1 = 2}$
+$\textcolor{blue}{z_2 = 3}$
 
 $$
 \begin{cases}

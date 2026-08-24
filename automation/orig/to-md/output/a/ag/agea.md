@@ -11,8 +11,8 @@ $$
 \textcolor{blue}{\begin{cases} x^2 - 5x + 6 > 0 \\ x^2 - 16 < 0 \end{cases}}
 $$
 
-la prima $$\textcolor{red}{x^2 - 5x + 6 > 0}$$ è verificata per $$\textcolor{red}{x < 2 \cup x > 3}$$
-la seconda $$\textcolor{red}{x^2 - 16 < 0}$$ è verificata per $$\textcolor{red}{-4 < x < 4}$$
+la prima $\textcolor{red}{x^2 - 5x + 6 > 0}$ è verificata per $\textcolor{red}{x < 2 \cup x > 3}$
+la seconda $\textcolor{red}{x^2 - 16 < 0}$ è verificata per $\textcolor{red}{-4 < x < 4}$
 quindi il mio sistema è equivalente al sistema
 
 $$

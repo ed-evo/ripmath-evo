@@ -4,7 +4,7 @@ Se il teorema di Lagrange era una generalizzazione del teorema di Rolle ora il t
 
 Matematicamente:
 
-Date due funzioni $$\textcolor{red}{y=f(x)}$$ e $$\textcolor{red}{y=g(x)}$$ continue in un intervallo chiuso e limitato $$\textcolor{red}{[a, b]$$ e derivabili all'interno dell'intervallo con $$\textcolor{red}{g(x) \neq 0}$$ nell'intervallo e $$\textcolor{red}{g'(x) \neq 0}$$ all'interno dell'intervallo allora esiste all'interno dell'intervallo un punto $$\textcolor{red}{c}$$ tale che:
+Date due funzioni $\textcolor{red}{y=f(x)}$ e $\textcolor{red}{y=g(x)}$ continue in un intervallo chiuso e limitato $\textcolor{red}{[a, b]$ e derivabili all'interno dell'intervallo con $\textcolor{red}{g(x) \neq 0}$ nell'intervallo e $\textcolor{red}{g'(x) \neq 0}$ all'interno dell'intervallo allora esiste all'interno dell'intervallo un punto $\textcolor{red}{c}$ tale che:
 
 $$
 \textcolor{red}{\frac{f'(c)}{g'(c)} = \frac{f(b) - f(a)}{g(b) - g(a)}}

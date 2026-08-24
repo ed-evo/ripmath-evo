@@ -11,4 +11,4 @@ Controlla i seguenti link alla teoria degli insiemi:
 
 Vediamo alcuni semplici esempi come da una funzione si possa passare alla sua funzione inversa.
 
-Graficamente da una funzione si può ottenere il [grafico della funzione inversa](../ci/ciae.html) semplicemente operando un ribaltamento del piano cartesiano attorno alla bisettrice del primo e terzo quadrante: infatti essendo tale bisettrice di equazione $$y=x$$ la bisettrice è la linea (funzione) che [scambia](cceba.html) fra loro le $$x$$ e le $$y$$ (funzione identica).
+Graficamente da una funzione si può ottenere il [grafico della funzione inversa](../ci/ciae.html) semplicemente operando un ribaltamento del piano cartesiano attorno alla bisettrice del primo e terzo quadrante: infatti essendo tale bisettrice di equazione $y=x$ la bisettrice è la linea (funzione) che [scambia](cceba.html) fra loro le $x$ e le $y$ (funzione identica).

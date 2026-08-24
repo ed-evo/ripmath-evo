@@ -7,7 +7,7 @@ $$
 \end{cases}
 $$
 
-Nella prima equazione metto in evidenza $$xy$$:
+Nella prima equazione metto in evidenza $xy$:
 
 $$
 \begin{cases}
@@ -16,7 +16,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore di $$(x^2 + y^2)$$ dalla seconda equazione nella prima:
+Sostituisco il valore di $(x^2 + y^2)$ dalla seconda equazione nella prima:
 
 $$
 \begin{cases}
@@ -32,7 +32,7 @@ $$
 \end{cases}
 $$
 
-Divido per $$29$$ nella prima equazione:
+Divido per $29$ nella prima equazione:
 
 $$
 \begin{cases}
@@ -50,7 +50,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore di $$xy$$ della prima equazione nella seconda:
+Sostituisco il valore di $xy$ della prima equazione nella seconda:
 
 $$
 \begin{cases}
@@ -82,7 +82,7 @@ $$
 \end{cases}
 $$
 
-Adesso, siccome ho $$(x+y)^2$$, posso fare la radice per trovare $$(x+y)$$ e, siccome le radici di $$49$$ sono $$-7$$ e $$+7$$, ottengo i due sistemi equivalenti al sistema di partenza:
+Adesso, siccome ho $(x+y)^2$, posso fare la radice per trovare $(x+y)$ e, siccome le radici di $49$ sono $-7$ e $+7$, ottengo i due sistemi equivalenti al sistema di partenza:
 
 $$
 \begin{cases}

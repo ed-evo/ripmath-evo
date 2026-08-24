@@ -1,6 +1,6 @@
 # [Formule di duplicazione]{.text-red}
 
-se invece di considerare due angoli diversi $$\alpha$$ e $$\beta$$ consideriamo due angoli uguali $$\alpha$$ otterremo le cosiddette formule di duplicazione
+se invece di considerare due angoli diversi $\alpha$ e $\beta$ consideriamo due angoli uguali $\alpha$ otterremo le cosiddette formule di duplicazione
 
 avremo:
 - formula di duplicazione per il seno

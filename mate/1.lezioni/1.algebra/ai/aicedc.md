@@ -4,7 +4,7 @@ $$
 \textcolor{red}{\begin{cases} x - y = -5 \\ xy = -6 \end{cases}}
 $$
 
-Stavolta poniamo $$y = -k$$; otteniamo
+Stavolta poniamo $y = -k$; otteniamo
 
 $$
 \textcolor{blue}{\begin{cases} x - (-k) = -5 \\ x(-k) = -6 \end{cases}}
@@ -26,7 +26,7 @@ $$
 
 risolvo ed ottengo [Calcoli](aicedca.html){.text-red}
 
-$$\textcolor{blue}{z_1 = -2} \quad \textcolor{blue}{z_2 = -3}$$
+$\textcolor{blue}{z_1 = -2} \quad \textcolor{blue}{z_2 = -3}$
 
 ho quindi le soluzioni
 
@@ -36,7 +36,7 @@ $$
 
 ora essendo
 
-$$\textcolor{blue}{y = -k}$$
+$\textcolor{blue}{y = -k}$
 
 sostituisco ed ottengo
 

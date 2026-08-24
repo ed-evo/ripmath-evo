@@ -24,7 +24,7 @@ e la congiungente dei centri di due circonferenze del fascio sarà sempre perpen
 > x^2 + kx^2 + y^2 + ky^2 - 6x + 6kx + 5 + 5k = 0
 > $$
 > 
-> Raccolgo i termini senza la $$k$$ e i termini con la $$k$$:
+> Raccolgo i termini senza la $k$ e i termini con la $k$:
 > 
 > $$
 > x^2 + y^2 - 6x + 5 + k(x^2 + y^2 + 6x + 5) = 0
@@ -36,13 +36,13 @@ e la congiungente dei centri di due circonferenze del fascio sarà sempre perpen
 > x^2 + y^2 - 6x + 5 = 0
 > $$
 > 
-> Circonferenza blu: è la circonferenza di centro $$ (3; 0) $$ e raggio $$ 2 $$.
+> Circonferenza blu: è la circonferenza di centro $(3; 0)$ e raggio $2$.
 > 
 > $$
 > x^2 + y^2 + 6x + 5 = 0
 > $$
 > 
-> Circonferenza rossa: è la circonferenza di centro $$ (-3; 0) $$ e raggio $$ 2 $$.
+> Circonferenza rossa: è la circonferenza di centro $(-3; 0)$ e raggio $2$.
 > 
 > L'asse radicale è la retta
 > 
@@ -50,4 +50,4 @@ e la congiungente dei centri di due circonferenze del fascio sarà sempre perpen
 > x = 0
 > $$
 > 
-> cioè l'asse delle $$y$$.
+> cioè l'asse delle $y$.

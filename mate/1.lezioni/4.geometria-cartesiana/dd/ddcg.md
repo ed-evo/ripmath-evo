@@ -6,19 +6,19 @@ $$
 \textcolor{red}{x^2 + y^2 + ax + by + c = 0}
 $$
 
-dipende da tre parametri indipendenti: $$\textcolor{red}{a}$$ $$\textcolor{red}{b}$$ $$\textcolor{red}{c}$$
+dipende da tre parametri indipendenti: $\textcolor{red}{a}$ $\textcolor{red}{b}$ $\textcolor{red}{c}$
 
 pertanto per trovare l'equazione di una particolare circonferenza dovrò sempre avere tre condizioni diverse che valgano contemporaneamente
 
-> Significa che dovrò fare un sistema di tre equazioni nelle tre incognite $$a, b, c$$
+> Significa che dovrò fare un sistema di tre equazioni nelle tre incognite $a, b, c$
 
 le condizioni potranno essere:
 
 - passaggio per un punto
 - tangenza ad una retta
-- valore di una coordinata del centro (il centro da solo vale $$2$$ condizioni, una per ogni coordinata)
+- valore di una coordinata del centro (il centro da solo vale $2$ condizioni, una per ogni coordinata)
 - misura del raggio
-- valore di uno dei parametri $$\textcolor{red}{a}$$ $$\textcolor{red}{b}$$ $$\textcolor{red}{c}$$
+- valore di uno dei parametri $\textcolor{red}{a}$ $\textcolor{red}{b}$ $\textcolor{red}{c}$
 
 Quindi potremo avere i seguenti problemi:
 

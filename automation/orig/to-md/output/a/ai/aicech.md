@@ -4,15 +4,15 @@ $$
 \begin{cases} \textcolor{red}{x^4 + y^4 = 17} \\ \textcolor{red}{xy = 2} \end{cases}
 $$
 
-Potremmo usare la formula di Waring, ma qui possiamo usare un procedimento più semplice: eleviamo alla quarta la seconda espressione in modo da avere dappertutto $$x^4$$ ed $$y^4$$.
+Potremmo usare la formula di Waring, ma qui possiamo usare un procedimento più semplice: eleviamo alla quarta la seconda espressione in modo da avere dappertutto $x^4$ ed $y^4$.
 
-> In questo modo trasformiamo un sistema di grado $$8$$ in un sistema di grado $$32$$, cioè con $$32$$ soluzioni, ma poi vedrai che prenderemo solamente le soluzioni che verificano l'equazione iniziale $$xy=2$$ e quindi troveremo solo $$8$$ soluzioni accettabili.
+> In questo modo trasformiamo un sistema di grado $8$ in un sistema di grado $32$, cioè con $32$ soluzioni, ma poi vedrai che prenderemo solamente le soluzioni che verificano l'equazione iniziale $xy=2$ e quindi troveremo solo $8$ soluzioni accettabili.
 
 $$
 \begin{cases} \textcolor{red}{x^4 + y^4 = 17} \\ \textcolor{red}{x^4y^4 = 16} \end{cases}
 $$
 
-Ora poniamo $$x^4=q$$ ed $$y^4=t$$; otteniamo
+Ora poniamo $x^4=q$ ed $y^4=t$; otteniamo
 
 $$
 \begin{cases} \textcolor{red}{q + t = 17} \\ \textcolor{red}{qt = 16} \end{cases}
@@ -56,7 +56,7 @@ $$
 \begin{cases} \textcolor{blue}{x^4 = 16} \\ \textcolor{blue}{y^4 = 1} \end{cases}
 $$
 
-> (Mettiamo anche le soluzioni complesse) dovrei considerare $$16$$ soluzioni: per ottenere tutte le soluzioni devi combinare ognuna delle $$4$$ soluzioni della $$x$$ con ognuna delle $$4$$ soluzioni della $$y$$, ma poi siccome devo rispettare la condizione $$xy=2$$ allora avremo accettabili solamente le $$4$$ soluzioni:
+> (Mettiamo anche le soluzioni complesse) dovrei considerare $16$ soluzioni: per ottenere tutte le soluzioni devi combinare ognuna delle $4$ soluzioni della $x$ con ognuna delle $4$ soluzioni della $y$, ma poi siccome devo rispettare la condizione $xy=2$ allora avremo accettabili solamente le $4$ soluzioni:
 
 $$
 \begin{cases} \textcolor{red}{x_1 = 2} \\ \textcolor{red}{y_1 = 1} \end{cases} \quad \begin{cases} \textcolor{red}{x_2 = -2} \\ \textcolor{red}{y_2 = -1} \end{cases} \quad \begin{cases} \textcolor{red}{x_3 = 2i} \\ \textcolor{red}{y_3 = -i} \end{cases} \quad \begin{cases} \textcolor{red}{x_4 = -2i} \\ \textcolor{red}{y_4 = i} \end{cases}
@@ -74,4 +74,4 @@ $$
 \begin{cases} \textcolor{red}{x_5 = 1} \\ \textcolor{red}{y_5 = 2} \end{cases} \quad \begin{cases} \textcolor{red}{x_6 = -1} \\ \textcolor{red}{y_6 = -2} \end{cases} \quad \begin{cases} \textcolor{red}{x_7 = -i} \\ \textcolor{red}{y_7 = 2i} \end{cases} \quad \begin{cases} \textcolor{red}{x_8 = i} \\ \textcolor{red}{y_8 = -2i} \end{cases}
 $$
 
-Anche qui considero accettabili solo le $$4$$ soluzioni appaiate nel modo sopraddetto perché devono rispettare la condizione iniziale $$xy=2$$.
+Anche qui considero accettabili solo le $4$ soluzioni appaiate nel modo sopraddetto perché devono rispettare la condizione iniziale $xy=2$.

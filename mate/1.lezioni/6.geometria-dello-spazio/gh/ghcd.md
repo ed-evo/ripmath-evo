@@ -7,13 +7,13 @@ Dimostriamo che **in un angoloide ogni faccia è minore di un angolo giro**.
 Dimostriamolo per un triedro; per un qualunque angoloide basterà prolungare i lati di un opportuno poligono generatore fino ad ottenere un triedro e successivamente usare il teorema che una faccia è minore della somma delle altre due.
 
 [**Ipotesi**]{.text-blue}
-$$\textcolor{blue}{P(a,b,c)}$$ è un triedro
+$\textcolor{blue}{P(a,b,c)}$ è un triedro
 
 [**Tesi**]{.text-blue}
-$$\textcolor{blue}{\widehat{aPb} + \widehat{aPc} + \widehat{bPc} < \text{Angolo giro}}$$
+$\textcolor{blue}{\widehat{aPb} + \widehat{aPc} + \widehat{bPc} < \text{Angolo giro}}$
 
-Consideriamo il triedro $$P(a,b,c)$$.
-Considero la generatrice $$Pa$$ e, oltre $$P$$, la considero come retta $$m$$ e quindi considero il triedro $$P(b,c,m)$$.
+Consideriamo il triedro $P(a,b,c)$.
+Considero la generatrice $Pa$ e, oltre $P$, la considero come retta $m$ e quindi considero il triedro $P(b,c,m)$.
 
 Per esso vale:
 

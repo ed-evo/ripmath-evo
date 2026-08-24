@@ -1,6 +1,6 @@
 # Mediane di un triangolo
 
-Chiamiamo $$\delta$$ l'angolo **BMA**, di conseguenza l'angolo **CMA** sarà $$180 - \delta$$.
+Chiamiamo $\delta$ l'angolo **BMA**, di conseguenza l'angolo **CMA** sarà $180 - \delta$.
 Applichiamo il teorema di Carnot ai triangoli **BMA** e **CMA** ricordando che essendo **AM** la mediana sarà:
 
 $$
@@ -35,7 +35,7 @@ $$
 b^2 = m_a^2 + \left( \frac{a}{2} \right)^2 - 2 m_a \frac{a}{2} \cos(180 - \delta)
 $$
 
-Calcolando e ricordando che $$\cos(180 - \delta) = - \cos \delta$$:
+Calcolando e ricordando che $\cos(180 - \delta) = - \cos \delta$:
 
 $$
 \textcolor{red}{b^2 = m_a^2 + \frac{a^2}{4} + a m_a \cos \delta}
@@ -53,7 +53,7 @@ $$
 b^2 + c^2 = 2 m_a^2 + \frac{a^2}{2}
 $$
 
-Ora da questa uguaglianza ricavo $$m_a$$, cioè il valore della mediana:
+Ora da questa uguaglianza ricavo $m_a$, cioè il valore della mediana:
 
 $$
 2 m_a^2 = b^2 + c^2 - \frac{a^2}{2}

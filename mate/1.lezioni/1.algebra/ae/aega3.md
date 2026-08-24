@@ -18,7 +18,7 @@ $]{.text-red}
 \frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x^2+2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}}
 $]{.text-red}
 
-moltiplico dopo la $$x$$ il numeratore per l'inverso del denominatore
+moltiplico dopo la $x$ il numeratore per l'inverso del denominatore
 
 [$$
 \frac{\frac{x-1}{3x+3} + x \cdot \frac{x^2+2x+1}{3x} \cdot \frac{1}{x^2-1}}{\frac{x^2+1}{x-1}}

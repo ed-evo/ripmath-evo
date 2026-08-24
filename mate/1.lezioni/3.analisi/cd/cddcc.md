@@ -1,13 +1,13 @@
-# Limite meno infinito per $$x$$ tendente a più infinito
+# Limite meno infinito per $x$ tendente a più infinito
 
-Per dire che abbiamo limite meno infinito quando $$x$$ tende a più infinito dobbiamo dire che quando il bordo dell'intorno di infinito sulle $$y$$ si allontana verso il basso (meno infinito), allora anche il bordo del corrispondente intorno di infinito sull'asse $$x$$ si allontana sempre più verso destra (più infinito).
+Per dire che abbiamo limite meno infinito quando $x$ tende a più infinito dobbiamo dire che quando il bordo dell'intorno di infinito sulle $y$ si allontana verso il basso (meno infinito), allora anche il bordo del corrispondente intorno di infinito sull'asse $x$ si allontana sempre più verso destra (più infinito).
 
 > **Definizione:**
 >
-> [Si dice che la funzione $$y=f(x)$$ ammette limite $$-\infty$$ per $$x$$ tendente a $$+\infty$$ e si scrive:]{.text-purple}
+> [Si dice che la funzione $y=f(x)$ ammette limite $-\infty$ per $x$ tendente a $+\infty$ e si scrive:]{.text-purple}
 >
 > $$
 > \lim_{x \to +\infty} f(x) = -\infty
 > $$
 >
-> [se esiste un numero positivo $$M$$ grande a piacere ed in sua corrispondenza un numero $$N$$ grande in dipendenza da $$M$$ tali che da $$f(x) < -M$$ segua $$x > N$$.]{.text-purple}
+> [se esiste un numero positivo $M$ grande a piacere ed in sua corrispondenza un numero $N$ grande in dipendenza da $M$ tali che da $f(x) < -M$ segua $x > N$.]{.text-purple}

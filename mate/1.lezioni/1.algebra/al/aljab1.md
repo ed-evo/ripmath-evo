@@ -62,7 +62,7 @@ $$
 
 Ora devo controllare se le soluzioni cadono nell'intervallo di definizione:
 
-- la soluzione $$\textcolor{blue}{x = -\sqrt{2}}$$ è esterna all'intervallo di definizione perché è minore di 1 e quindi non è accettabile
-- la soluzione $$\textcolor{blue}{x = +\sqrt{2}}$$ è interna all'intervallo di definizione perché è maggiore di 1 e quindi è accettabile
+- la soluzione $\textcolor{blue}{x = -\sqrt{2}}$ è esterna all'intervallo di definizione perché è minore di 1 e quindi non è accettabile
+- la soluzione $\textcolor{blue}{x = +\sqrt{2}}$ è interna all'intervallo di definizione perché è maggiore di 1 e quindi è accettabile
 
-cioè $$\textcolor{red}{x = +\sqrt{2}}$$ è accettabile
+cioè $\textcolor{red}{x = +\sqrt{2}}$ è accettabile

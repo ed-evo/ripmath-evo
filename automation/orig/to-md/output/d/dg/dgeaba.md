@@ -4,21 +4,21 @@ Data la parabola
 $$
 y = x^2 - 3x + 2
 $$
-trovare le equazioni delle tangenti condotte alla parabola dal suo punto di ascissa $$-1$$.
+trovare le equazioni delle tangenti condotte alla parabola dal suo punto di ascissa $-1$.
 
 ***
 
 **Soluzione:**
 
-Prima disegniamo la parabola e poi calcoliamo le coordinate del punto: essendo l'ascissa $$-1$$ basta sostituire alla $$x$$ della parabola il valore $$-1$$ per trovare l'ordinata del punto:
+Prima disegniamo la parabola e poi calcoliamo le coordinate del punto: essendo l'ascissa $-1$ basta sostituire alla $x$ della parabola il valore $-1$ per trovare l'ordinata del punto:
 
 $$
 y = (-1)^2 - 3(-1) + 2 = 1 + 3 + 2 = 6
 $$
 
-quindi il punto (chiamiamolo $$A$$) ha coordinate $$A(-1; 6)$$.
+quindi il punto (chiamiamolo $A$) ha coordinate $A(-1; 6)$.
 
-Considero il fascio di rette passante per il punto $$A(-1; 6)$$:
+Considero il fascio di rette passante per il punto $A(-1; 6)$:
 
 $$
 y - 6 = m[x - (-1)]
@@ -39,7 +39,7 @@ y = x^2 - 3x + 2
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
+Sostituisco il valore della $y$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
 
 $$
 mx + m + 6 = x^2 - 3x + 2
@@ -54,7 +54,7 @@ $$
 x^2 - 3x - mx - m - 6 + 2 = 0
 $$
 
-> **Nota:** usando la proprietà riflessiva dell'uguaglianza: se $$a = b$$ anche $$b = a$$.
+> **Nota:** usando la proprietà riflessiva dell'uguaglianza: se $a = b$ anche $b = a$.
 
 Raccolgo ad equazione di secondo grado:
 

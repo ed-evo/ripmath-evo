@@ -16,13 +16,13 @@ $$
 \textcolor{blue}{2x + 2kx + 3y - ky - 8k = 0}
 $$
 
-Ora separo i termini con la $$k$$ e quelli senza la $$k$$
+Ora separo i termini con la $k$ e quelli senza la $k$
 
 $$
 \textcolor{blue}{2kx - ky - 8k = -2x - 3y}
 $$
 
-Raccolgo la $$k$$
+Raccolgo la $k$
 
 $$
 \textcolor{blue}{k(2x-y-8) = -2x - 3y}
@@ -52,7 +52,7 @@ $$
 
 Se ora voglio trovare il centro del fascio ho due strade:
 
-- Posso prendere il fascio originale ed assegnare a $$k$$ due valori a piacere: troverò due rette del fascio e siccome tutte le rette passano per il centro del fascio facendone il sistema troverò il centro del fascio.
+- Posso prendere il fascio originale ed assegnare a $k$ due valori a piacere: troverò due rette del fascio e siccome tutte le rette passano per il centro del fascio facendone il sistema troverò il centro del fascio.
 - Posso fare il sistema fra le due rette base del fascio, visto che le ho già trovate:
 
 $$

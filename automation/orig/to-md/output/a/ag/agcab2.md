@@ -36,12 +36,12 @@ $$
 \textcolor{red}{f(x) \quad \text{++++++ ]-2[ ----------- (4) +++++++++++}}
 $$
 
-> **Nota:** $$f(x)$$ indica l'espressione di partenza. La parentesi tonda indica che l'espressione si annulla nel punto, mentre la quadra indica che il valore non è accettabile. $]-2[$ non è accettabile perché annulla il denominatore e non si può mai dividere per zero.
+> **Nota:** $f(x)$ indica l'espressione di partenza. La parentesi tonda indica che l'espressione si annulla nel punto, mentre la quadra indica che il valore non è accettabile. $]-2[$ non è accettabile perché annulla il denominatore e non si può mai dividere per zero.
 
-Io devo cercare dove l'espressione è negativa o nulla e questo succede per $$x$$ maggiore di $$-2$$ ed $$x$$ minore o uguale a $$4$$:
+Io devo cercare dove l'espressione è negativa o nulla e questo succede per $x$ maggiore di $-2$ ed $x$ minore o uguale a $4$:
 
 $$
 \textcolor{blue}{-2 < x \leq 4}
 $$
 
-> **Nota:** $$-2$$ lo devo scartare mentre devo accettare $$4$$.
+> **Nota:** $-2$ lo devo scartare mentre devo accettare $4$.

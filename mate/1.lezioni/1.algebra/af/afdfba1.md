@@ -42,7 +42,7 @@ Ora devo verificare se la soluzione va bene nell'equazione di partenza o è dovu
 
 **Verifica:**
 
-Sostituisco nell'equazione iniziale alla $$x$$ il valore $$-2$$:
+Sostituisco nell'equazione iniziale alla $x$ il valore $-2$:
 $$
 \textcolor{red}{-2 + 2 - \sqrt{(-2)^2 - 4} = 0}
 $$
@@ -53,4 +53,4 @@ $$
 \textcolor{red}{0 = 0}
 $$
 
-Avendo ottenuto un'uguaglianza la soluzione $$x = -2$$ è accettabile.
+Avendo ottenuto un'uguaglianza la soluzione $x = -2$ è accettabile.

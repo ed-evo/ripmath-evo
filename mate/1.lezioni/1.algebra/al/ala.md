@@ -10,7 +10,7 @@ I matematici possedevano le formule di prostaferesi che permettono di trasformar
 
 Con i logaritmi è possibile trasformare prodotti in somme, quozienti in differenze, elevamenti a potenza in prodotti e calcoli di radici in quozienti, quindi tutte le operazioni vengono molto semplificate.
 
-> A questo aggiungiamo che i nostri sensi sono "logaritmici": se ad esempio ascoltiamo un suono e sentiamo poi un altro suono che ci sembra di intensità doppia in effetti misurandolo ha intensità $$4$$ volte superiore, la stessa cosa se vediamo una luce; se vediamo poi un'altra luce che ci sembra $$3$$ volte più forte e misuriamo vediamo che è $$9$$ volte più forte; cioè i nostri sensi sono in scala logaritmica, cosa che ci permette di poter avere uno spettro di sensazioni molto più ampio di quello che avremmo se i nostri sensi fossero lineari.
+> A questo aggiungiamo che i nostri sensi sono "logaritmici": se ad esempio ascoltiamo un suono e sentiamo poi un altro suono che ci sembra di intensità doppia in effetti misurandolo ha intensità $4$ volte superiore, la stessa cosa se vediamo una luce; se vediamo poi un'altra luce che ci sembra $3$ volte più forte e misuriamo vediamo che è $9$ volte più forte; cioè i nostri sensi sono in scala logaritmica, cosa che ci permette di poter avere uno spettro di sensazioni molto più ampio di quello che avremmo se i nostri sensi fossero lineari.
 > 
 > Utilizziamo i logaritmi nella vita di tutti i giorni, un esempio di logaritmo l'hai sicuramente notato dal gommista: quando ti misura la pressione di una gomma sul suo strumento la scala non è lineare ma è logaritmica; ma prova anche a guardare le scale sulla tua macchina fotografica.
 > 

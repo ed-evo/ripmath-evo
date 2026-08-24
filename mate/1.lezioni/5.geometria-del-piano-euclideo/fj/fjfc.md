@@ -4,7 +4,7 @@
 
 **Ogni triangolo inscritto in una semicirconferenza è rettangolo**
 
-Infatti l'angolo $$\widehat{APB}$$ è metà dell'angolo piatto $$\widehat{AOB}$$.
+Infatti l'angolo $\widehat{APB}$ è metà dell'angolo piatto $\widehat{AOB}$.
 
 Naturalmente vale anche il viceversa.
 

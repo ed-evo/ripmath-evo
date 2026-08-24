@@ -1,3 +1,3 @@
 ## [Sistema di coordinate ascisse sulla retta]{.text-red}
 
-Prendo una retta e su di essa fisso un punto $$O$$ (origine) e ad esso associo il valore $$0$$, poi, a destra di $$0$$, fisso un altro punto e lo chiamo $$U$$ (punto unità) e ad esso associo il valore $$1$$. In questo modo viene definita una corrispondenza biunivoca fra tutti i punti della retta ed i numeri reali, nel senso che ad ogni punto corrisponde un numero reale e ad ogni numero reale corrisponde un punto della retta.
+Prendo una retta e su di essa fisso un punto $O$ (origine) e ad esso associo il valore $0$, poi, a destra di $0$, fisso un altro punto e lo chiamo $U$ (punto unità) e ad esso associo il valore $1$. In questo modo viene definita una corrispondenza biunivoca fra tutti i punti della retta ed i numeri reali, nel senso che ad ogni punto corrisponde un numero reale e ad ogni numero reale corrisponde un punto della retta.

@@ -8,4 +8,4 @@ $$
 
 e si leggerà
 
-[modulo di $$x$$]{.text-red}
+[modulo di $x$]{.text-red}

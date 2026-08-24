@@ -1,6 +1,6 @@
 # Formule di bisezione
 
-Utilizzando le $$2$$ formule equivalenti per la duplicazione del coseno è possibile esprimere un angolo metà mediante l'angolo di partenza
+Utilizzando le $2$ formule equivalenti per la duplicazione del coseno è possibile esprimere un angolo metà mediante l'angolo di partenza
 
 avremo:
 - [formula di bisezione per il seno](icaca.html)

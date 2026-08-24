@@ -21,7 +21,7 @@ $$
 
 Ottengo
 
-$$\textcolor{blue}{x_1 = 1} \quad \textcolor{blue}{x_2 = 5}$$
+$\textcolor{blue}{x_1 = 1} \quad \textcolor{blue}{x_2 = 5}$
 
 Risolvo la disequazione
 
@@ -37,10 +37,10 @@ $$
 
 Ottengo le soluzioni
 
-$$\textcolor{red}{x_1 = -4} \quad \textcolor{red}{x_2 = 4}$$
+$\textcolor{red}{x_1 = -4} \quad \textcolor{red}{x_2 = 4}$
 
 E la disequazione è verificata per valori esterni all'intervallo delle radici e quindi ottengo
 
-$$\textcolor{blue}{x < -4 \cup x > 4}$$
+$\textcolor{blue}{x < -4 \cup x > 4}$
 
-Se ora considero le due soluzioni dell'equazione l'unica che cade nell'intervallo accettabile è $$\textcolor{blue}{x = 5}$$
+Se ora considero le due soluzioni dell'equazione l'unica che cade nell'intervallo accettabile è $\textcolor{blue}{x = 5}$

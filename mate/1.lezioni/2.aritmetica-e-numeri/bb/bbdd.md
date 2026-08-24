@@ -2,7 +2,7 @@ $$
 (- \textcolor{blue}{3}) \cdot (- \textcolor{blue}{2}) =
 $$
 
-Considero il primo numero su $$Z$$.
+Considero il primo numero su $Z$.
 
 Per moltiplicare per il segno meno, riporto il numero dalla parte opposta da dove si trova.
 

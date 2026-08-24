@@ -4,13 +4,13 @@ $$
 \textcolor{red}{2^{x^2 - 5x + 6} > 1}
 $$
 
-metto il termine dopo il disuguale sotto forma di potenza di $$2$$ ($$1 = 2^0$$)
+metto il termine dopo il disuguale sotto forma di potenza di $2$ ($1 = 2^0$)
 
 $$
 \textcolor{blue}{2^{x^2 - 5x + 6} > 2^0}
 $$
 
-essendo uguali le basi, ed essendo la base maggiore di $$1$$, la disuguaglianza si conserva per gli esponenti
+essendo uguali le basi, ed essendo la base maggiore di $1$, la disuguaglianza si conserva per gli esponenti
 
 $$
 \textcolor{blue}{x^2 - 5x + 6 > 0}

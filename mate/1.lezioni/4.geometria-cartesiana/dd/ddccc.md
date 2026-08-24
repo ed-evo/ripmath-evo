@@ -4,7 +4,7 @@ $$
 \textcolor{blue}{x_o^2 + y_o^2 - r^2 = c}
 $$
 
-Devo ricavare $$r$$, lo isolo portando gli altri termini dopo l'uguale
+Devo ricavare $r$, lo isolo portando gli altri termini dopo l'uguale
 
 $$
 \textcolor{blue}{-r^2 = c - x_o^2 - y_o^2}

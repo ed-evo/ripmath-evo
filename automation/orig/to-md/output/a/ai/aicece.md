@@ -5,7 +5,7 @@ $$
 $$
 
 Facciamo qualche passaggio per semplificare un po'.
-Qui mi conviene ricavare $$(x^2 + y^2)$$ dalla seconda equazione e sostituire nella prima:
+Qui mi conviene ricavare $(x^2 + y^2)$ dalla seconda equazione e sostituire nella prima:
 
 $$
 \textcolor{blue}{\begin{cases} x^2 + y^2 + 2x + 2y = 23 \\ x^2 + y^2 = 19 - xy \end{cases}}
@@ -39,7 +39,7 @@ $$
 \textcolor{blue}{\begin{cases} (x + y)^2 - 2(x + y) = 15 \\ 2(x + y) - xy = 4 \end{cases}}
 $$
 
-Considero ora la prima equazione: si può considerare un'equazione di secondo grado nell'incognita $$(x + y) = t$$:
+Considero ora la prima equazione: si può considerare un'equazione di secondo grado nell'incognita $(x + y) = t$:
 
 $$
 \textcolor{blue}{t^2 - 2t - 15 = 0}
@@ -68,7 +68,7 @@ $$
 \textcolor{red}{\begin{cases} x + y = -3 \\ 2(x + y) - xy = 4 \end{cases}}
 $$
 
-Sostituisco nella seconda $$-3$$ al posto di $$(x + y)$$:
+Sostituisco nella seconda $-3$ al posto di $(x + y)$:
 
 $$
 \textcolor{red}{\begin{cases} x + y = -3 \\ 2(-3) - xy = 4 \end{cases}}
@@ -108,7 +108,7 @@ $$
 \textcolor{red}{\begin{cases} x + y = 5 \\ 2(x + y) - xy = 4 \end{cases}}
 $$
 
-Sostituisco nella seconda $$5$$ al posto di $$(x + y)$$:
+Sostituisco nella seconda $5$ al posto di $(x + y)$:
 
 $$
 \textcolor{red}{\begin{cases} x + y = 5 \\ 2(5) - xy = 4 \end{cases}}

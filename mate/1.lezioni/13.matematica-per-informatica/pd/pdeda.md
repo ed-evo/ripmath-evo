@@ -1,6 +1,6 @@
 # Tautologia
 
-È la proprietà per cui il filo è sempre percorso da corrente comunque siano le funzioni componenti; possiamo rappresentarlo con un $$1$$.
+È la proprietà per cui il filo è sempre percorso da corrente comunque siano le funzioni componenti; possiamo rappresentarlo con un $1$.
 
 Un circuito potrebbe essere rappresentato come segue:
 
@@ -19,12 +19,12 @@ Per esercizio dimostriamolo algebricamente:
 $$
 1 = 1 \cdot (a + à) =
 $$
-> **Nota:** Moltiplico per $$(a + à) = 1$$ per la prima legge del complemento.
+> **Nota:** Moltiplico per $(a + à) = 1$ per la prima legge del complemento.
 
 $$
 = a + à = (a + à)(b + b') =
 $$
-> **Nota:** Moltiplico per $$(b + b') = 1$$ per la prima legge del complemento.
+> **Nota:** Moltiplico per $(b + b') = 1$ per la prima legge del complemento.
 
 $$
 = ab + ab' + àb + àb'

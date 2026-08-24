@@ -1,1 +1,1 @@
-per "cucire" devi considerare che le due soluzioni trovate $$\textcolor{red}{-3 \le x < -2}$$ e $$\textcolor{red}{x < -3}$$ sono intervalli adiacenti ed inoltre hanno anche il punto di connessione $$x = -3$$ che appartiene ad uno degli intervalli e quindi si possono considerare continui
+per "cucire" devi considerare che le due soluzioni trovate $\textcolor{red}{-3 \le x < -2}$ e $\textcolor{red}{x < -3}$ sono intervalli adiacenti ed inoltre hanno anche il punto di connessione $x = -3$ che appartiene ad uno degli intervalli e quindi si possono considerare continui

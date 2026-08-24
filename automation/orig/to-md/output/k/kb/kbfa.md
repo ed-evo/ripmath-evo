@@ -10,7 +10,7 @@ Calcoliamo le tavole di verità del termine prima dell'uguale e del termine dopo
 
 La tavola di verità del termine prima dell'uguale è quella dell'implicazione materiale:
 
-| $$p$$ | $$q$$ | $$p \rightarrow q$$ |
+| $p$ | $q$ | $p \rightarrow q$ |
 | :---: | :---: | :---: |
 | [v]{.text-red} | [v]{.text-red} | [v]{.text-red} |
 | [v]{.text-red} | [f]{.text-red} | [f]{.text-red} |
@@ -19,7 +19,7 @@ La tavola di verità del termine prima dell'uguale è quella dell'implicazione m
 
 Tavole di verità del termine dopo l'uguale
 
-| $$p$$ | $$q$$ | $$\neg p$$ | $$\neg p \lor q$$ |
+| $p$ | $q$ | $\neg p$ | $\neg p \lor q$ |
 | :---: | :---: | :---: | :---: |
 | [v]{.text-red} | [v]{.text-red} | [f]{.text-red} | [v]{.text-red} |
 | [v]{.text-red} | [f]{.text-red} | [f]{.text-red} | [f]{.text-red} |

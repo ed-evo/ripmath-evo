@@ -1,4 +1,4 @@
-Equazione della retta passante per i due punti $$B(-4,1)$$ e $$C(-1,-3)$$
+Equazione della retta passante per i due punti $B(-4,1)$ e $C(-1,-3)$
 
 [$$
 \frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}

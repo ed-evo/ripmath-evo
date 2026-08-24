@@ -2,5 +2,5 @@
 
 Vediamo altri tipi di prodotti che possono generare successioni
 
-- Prodotto per $$0$$
-- Prodotto per una costante diversa da $$0$$
+- Prodotto per $0$
+- Prodotto per una costante diversa da $0$

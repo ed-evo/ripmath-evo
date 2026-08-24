@@ -12,7 +12,7 @@ $$
 
 ***
 
-> siccome alla circonferenza corrisponde un angolo di $$360^\circ$$, ad ogni settore corrisponderà un angolo tale da rispettare la proporzione
+> siccome alla circonferenza corrisponde un angolo di $360^\circ$, ad ogni settore corrisponderà un angolo tale da rispettare la proporzione
 
 ***
 
@@ -23,7 +23,7 @@ $$
 $$
 
 **Esempio:**
-Considerando un cerchio di raggio $$r = 6 \text{ cm}$$, trovare l'area del settore con angolo al centro di $$120^\circ$$.
+Considerando un cerchio di raggio $r = 6 \text{ cm}$, trovare l'area del settore con angolo al centro di $120^\circ$.
 
 **Soluzione:**
 
@@ -40,7 +40,7 @@ $$
 $$
 
 **Esempio:**
-Considerando un cerchio di raggio $$r = 6 \text{ cm}$$ e considerato un settore circolare di area $$18\pi \text{ cm}^2$$, trovare il valore dell'angolo al centro.
+Considerando un cerchio di raggio $r = 6 \text{ cm}$ e considerato un settore circolare di area $18\pi \text{ cm}^2$, trovare il valore dell'angolo al centro.
 
 **Soluzione:**
 

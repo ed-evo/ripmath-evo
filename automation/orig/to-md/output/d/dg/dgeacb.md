@@ -1,22 +1,22 @@
 # [Esercizio]{.text-red}
 
-Date le parabole $$y = x^2 - 2x$$ e $$y = -x^2 + 2x$$, trovare le equazioni delle tangenti nei punti comuni alle due parabole e dire quale tipo di figura individuano tali tangenti.
+Date le parabole $y = x^2 - 2x$ e $y = -x^2 + 2x$, trovare le equazioni delle tangenti nei punti comuni alle due parabole e dire quale tipo di figura individuano tali tangenti.
 
 ***
 
 ### Soluzione
 
 Prima disegniamo le due parabole e, facendolo, abbiamo trovato che i punti di intersezione sono:
-$$O = (0, 0) \quad A = (2, 0)$$
+$O = (0, 0) \quad A = (2, 0)$
 
-Dovremo trovare 4 tangenti: due alla prima parabola nei punti $$O$$ ed $$A$$ e due alla seconda sempre negli stessi punti.
+Dovremo trovare 4 tangenti: due alla prima parabola nei punti $O$ ed $A$ e due alla seconda sempre negli stessi punti.
 
-- Tangente alla parabola $$y = x^2 - 2x$$ nell'origine:
+- Tangente alla parabola $y = x^2 - 2x$ nell'origine:
   Ricordando l'osservazione del problema 0 sulle tangenti di una curva in un suo punto possiamo scrivere:
-  $$y = -2x$$
+  $y = -2x$
 
-- Tangente alla parabola $$y = x^2 - 2x$$ nel punto $$A = (2, 0)$$:
-  Considero il fascio di rette passante per il punto $$A$$:
+- Tangente alla parabola $y = x^2 - 2x$ nel punto $A = (2, 0)$:
+  Considero il fascio di rette passante per il punto $A$:
   $$
   y - 0 = m(x - 2)
   $$
@@ -28,7 +28,7 @@ Dovremo trovare 4 tangenti: due alla prima parabola nei punti $$O$$ ed $$A$$ e d
   \begin{cases} y = mx - 2m \\ y = x^2 - 2x \end{cases}
   $$
 
-  Sostituisco il valore della $$y$$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
+  Sostituisco il valore della $y$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
   $$
   mx - 2m = x^2 - 2x
   $$
@@ -39,7 +39,7 @@ Dovremo trovare 4 tangenti: due alla prima parabola nei punti $$O$$ ed $$A$$ e d
   $$
   x^2 - 2x - mx + 2m = 0
   $$
-  (usando la proprietà riflessiva dell'uguaglianza: se $$a = b$$ anche $$b = a$$)
+  (usando la proprietà riflessiva dell'uguaglianza: se $a = b$ anche $b = a$)
 
   Raccolgo ad equazione di secondo grado:
   $$
@@ -77,14 +77,14 @@ Dovremo trovare 4 tangenti: due alla prima parabola nei punti $$O$$ ed $$A$$ e d
   y = 2x - 4
   $$
 
-- Tangente alla parabola $$y = -x^2 + 2x$$ nell'origine:
+- Tangente alla parabola $y = -x^2 + 2x$ nell'origine:
   Ricordando l'osservazione del problema 0 sulle tangenti di una curva in un suo punto possiamo scrivere:
   $$
   y = 2x
   $$
 
-- Tangente alla parabola $$y = -x^2 + 2x$$ nel punto $$A = (2, 0)$$:
-  Considero il fascio di rette passante per il punto $$A$$:
+- Tangente alla parabola $y = -x^2 + 2x$ nel punto $A = (2, 0)$:
+  Considero il fascio di rette passante per il punto $A$:
   $$
   y - 0 = m(x - 2)
   $$
@@ -96,7 +96,7 @@ Dovremo trovare 4 tangenti: due alla prima parabola nei punti $$O$$ ed $$A$$ e d
   \begin{cases} y = mx - 2m \\ y = -x^2 + 2x \end{cases}
   $$
 
-  Sostituisco il valore della $$y$$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
+  Sostituisco il valore della $y$ dalla prima equazione nella seconda ed ottengo l'equazione risolvente:
   $$
   mx - 2m = -x^2 + 2x
   $$
@@ -152,8 +152,8 @@ $$
 y = -2x + 4
 $$
 vedo che le rette hanno due a due gli stessi coefficienti angolari, cioè:
-$$y = -2x$$ e $$y = -2x + 4$$ sono tra loro parallele (coefficienti angolari $$m_1 = m_2 = -2$$)
-$$y = 2x - 4$$ e $$y = 2x$$ sono tra loro parallele (coefficienti angolari $$m_1 = m_2 = 2$$)
+$y = -2x$ e $y = -2x + 4$ sono tra loro parallele (coefficienti angolari $m_1 = m_2 = -2$)
+$y = 2x - 4$ e $y = 2x$ sono tra loro parallele (coefficienti angolari $m_1 = m_2 = 2$)
 
 Pertanto, senza procedere oltre posso dire che il quadrilatero, avendo i lati due a due paralleli, è un parallelogramma.
 

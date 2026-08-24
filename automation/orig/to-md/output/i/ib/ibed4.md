@@ -1,4 +1,4 @@
-[$$\tan 18^\circ = \frac{\sin 18^\circ}{\cos 18^\circ}$$]{.text-blue}
+[$\tan 18^\circ = \frac{\sin 18^\circ}{\cos 18^\circ}$]{.text-blue}
 
 [$$
 = \frac{\frac{-1 + \sqrt{5}}{4}}{\frac{\sqrt{10 + 2\sqrt{5}}}{4}}
@@ -10,7 +10,7 @@ numeratore per l'inverso del denominatore
 = \frac{-1 + \sqrt{5}}{4} \cdot \frac{4}{\sqrt{10 + 2\sqrt{5}}}
 $$]{.text-blue}
 
-semplifico il $$4$$ al numeratore ed al denominatore
+semplifico il $4$ al numeratore ed al denominatore
 
 [$$
 = \frac{-1 + \sqrt{5}}{\sqrt{10 + 2\sqrt{5}}}
@@ -24,7 +24,7 @@ $$]{.text-blue}
 
 > **Nota:** Sotto moltiplico i denominatori (è un prodotto notevole).
 
-sopra porto $$-1 + \sqrt{5}$$ dentro la radice grande (bisogna elevare al quadrato)
+sopra porto $-1 + \sqrt{5}$ dentro la radice grande (bisogna elevare al quadrato)
 
 [$$
 = \frac{\sqrt{(-1 + \sqrt{5})^2 (10 - 2\sqrt{5})}}{\sqrt{(10 + 2\sqrt{5})(10 - 2\sqrt{5})}}
@@ -50,7 +50,7 @@ $$]{.text-blue}
 = \sqrt{\frac{80 - 32\sqrt{5}}{80}}
 $$]{.text-blue}
 
-divido sopra e sotto per $$16$$
+divido sopra e sotto per $16$
 
 [$$
 = \sqrt{\frac{5 - 2\sqrt{5}}{5}}

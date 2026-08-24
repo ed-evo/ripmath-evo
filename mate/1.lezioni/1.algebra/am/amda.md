@@ -1,6 +1,6 @@
 # Disequazioni esponenziali a base maggiore di 1
 
-Se la base è maggiore di $$1$$ allora il verso della disequazione si mantiene; cioè:
+Se la base è maggiore di $1$ allora il verso della disequazione si mantiene; cioè:
 
 $$
 \textcolor{blue}{a^{f(x)} > a^{g(x)} \iff f(x) > g(x)}
@@ -20,15 +20,15 @@ $$
 \textcolor{red}{2^x < 2^3}
 $$
 
-essendo la base maggiore di $$1$$ la disuguaglianza si conserva per gli esponenti; ottengo il risultato:
+essendo la base maggiore di $1$ la disuguaglianza si conserva per gli esponenti; ottengo il risultato:
 
 $$
 \textcolor{blue}{x < 3}
 $$
 
-> Naturalmente uno sviluppo di questo genere dipende dalla possibilità di poter avere ai due membri della disequazione una potenza con la stessa base; se questo non è possibile allora dovremo trasformare mediante i logaritmi per poter esplicitare l'incognita (esempio numero $$4$$).
+> Naturalmente uno sviluppo di questo genere dipende dalla possibilità di poter avere ai due membri della disequazione una potenza con la stessa base; se questo non è possibile allora dovremo trasformare mediante i logaritmi per poter esplicitare l'incognita (esempio numero $4$).
 >
-> Esiste anche il caso che l'equazione non sia risolvibile in modo esatto, come ad esempio quando la $$x$$ compare sia all'esponente che a livello delle basi, in tal caso occorre fare ricorso al calcolo approssimato: (esempio numero $$6$$).
+> Esiste anche il caso che l'equazione non sia risolvibile in modo esatto, come ad esempio quando la $x$ compare sia all'esponente che a livello delle basi, in tal caso occorre fare ricorso al calcolo approssimato: (esempio numero $6$).
 
 Vediamo qualche esercizio
 

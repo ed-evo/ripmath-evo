@@ -50,20 +50,20 @@ $$
 
 Faccio lo schema:
 
-$$x > -2$$ $\quad \text{--- (-2) + + + + + + + + + + + + + + + + + + +}$
-$$x > 5$$ $\quad \text{--- --- --- --- --- --- --- --- --- --- --- (5) + + + + + + + +}$
-$$x > 1$$ $\quad \text{--- --- --- --- --- --- --- --- --- ]1[ + + + + + + + + + + + + + +}$
-$$\textcolor{red}{f(x)}$$ $\quad \text{--- (-2) + + + ]1[ --- --- --- --- --- (5) + + + + + + +}$
+$x > -2$ $\quad \text{--- (-2) + + + + + + + + + + + + + + + + + + +}$
+$x > 5$ $\quad \text{--- --- --- --- --- --- --- --- --- --- --- (5) + + + + + + + +}$
+$x > 1$ $\quad \text{--- --- --- --- --- --- --- --- --- ]1[ + + + + + + + + + + + + + +}$
+$\textcolor{red}{f(x)}$ $\quad \text{--- (-2) + + + ]1[ --- --- --- --- --- (5) + + + + + + +}$
 
 > **Nota:** La parentesi tonda indica che l'espressione si annulla nel punto, mentre la quadra indica che il valore non è accettabile.
 
-Io devo cercare dove l'espressione è positiva o nulla e questo succede tra $$-2$$ e $$1$$ e oltre $$5$$:
+Io devo cercare dove l'espressione è positiva o nulla e questo succede tra $-2$ e $1$ e oltre $5$:
 
 $$
 \textcolor{blue}{-2 \le x < 1 \cup x \ge 5}
 $$
 
-> **Nota:** Devo scartare $$1$$ perché annullerebbe il denominatore.
+> **Nota:** Devo scartare $1$ perché annullerebbe il denominatore.
 
 Oppure in altra notazione:
 (Immagine non disponibile)

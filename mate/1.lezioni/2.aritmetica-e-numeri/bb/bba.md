@@ -6,7 +6,7 @@ $$
 \mathbb{Z}: \dots, -6, -5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5, +6, \dots
 $$
 
-e per distinguere i numeri a destra da quelli a sinistra dello zero metteremo davanti al numero $$+$$ se siamo a destra e $$-$$ se siamo a sinistra
+e per distinguere i numeri a destra da quelli a sinistra dello zero metteremo davanti al numero $+$ se siamo a destra e $-$ se siamo a sinistra
 
 > Detto così sembra una cosa semplice, ma storicamente arrivare a questa semplice definizione è stata una [cosa piuttosto sofferta](bba1.html)
 

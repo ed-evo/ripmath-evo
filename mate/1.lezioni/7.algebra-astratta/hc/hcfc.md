@@ -12,13 +12,13 @@ Per la struttura di campo aggiungeremo:
 
 ***
 
-1. Insieme $$\mathbf{Q}$$ dei numeri razionali con le operazioni di addizione e moltiplicazione
+1. Insieme $\mathbf{Q}$ dei numeri razionali con le operazioni di addizione e moltiplicazione
    [dimostrazione](hcfca.html)
 
-2. Insieme $$\mathbf{R}$$ dei numeri reali con le operazioni di addizione e moltiplicazione
+2. Insieme $\mathbf{R}$ dei numeri reali con le operazioni di addizione e moltiplicazione
    [dimostrazione](hcfcb.html)
 
-3. Insieme $$\mathbf{r}_2$$ dei resti modulo $$2$$ con le operazioni di addizione e moltiplicazione
+3. Insieme $\mathbf{r}_2$ dei resti modulo $2$ con le operazioni di addizione e moltiplicazione
    [dimostrazione](hcfcc.html)
 
 ***

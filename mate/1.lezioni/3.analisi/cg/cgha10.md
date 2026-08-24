@@ -26,13 +26,13 @@ $$
 \textcolor{red}{x = 1}
 $$
 
-Devo scartare $$1$$ perché fuori dell'intervallo richiesto ma posso trovare il valore della $$y$$ corrispondente a $$1$$ calcolando il limite destro (cioè avvicinandomi ad $$1$$ da dentro l'intervallo):
+Devo scartare $1$ perché fuori dell'intervallo richiesto ma posso trovare il valore della $y$ corrispondente a $1$ calcolando il limite destro (cioè avvicinandomi ad $1$ da dentro l'intervallo):
 
 $$
 \textcolor{red}{\lim_{x \to 1^+} xe^{-x} = 1/e}
 $$
 
-Calcoliamo anche il [valore per $$x$$ tendente a più infinito]{.text-blue}:
+Calcoliamo anche il [valore per $x$ tendente a più infinito]{.text-blue}:
 
 $$
 \textcolor{red}{\lim_{x \to +\infty} xe^{-x} = 0}

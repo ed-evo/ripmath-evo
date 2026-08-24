@@ -10,13 +10,13 @@ $$
 \textcolor{red}{\frac{x - 1}{2} + \frac{2x + 1}{10} = \frac{2x - 2}{1} + \frac{1 - 3x}{5}}
 $$
 
-Prima devo risolvere come fosse un'espressione quindi faccio il minimo comune multiplo che è $$10$$.
+Prima devo risolvere come fosse un'espressione quindi faccio il minimo comune multiplo che è $10$.
 
 $$
 \textcolor{red}{\frac{5(x - 1) + 2x + 1}{10} = \frac{10(2x - 2) + 2(1 - 3x)}{10}}
 $$
 
-> Per il secondo principio [posso eliminare i denominatori]{.text-purple}: sarebbe come moltiplicare entrambi i membri per $$10$$.
+> Per il secondo principio [posso eliminare i denominatori]{.text-purple}: sarebbe come moltiplicare entrambi i membri per $10$.
 
 $$
 \textcolor{red}{5(x - 1) + 2x + 1 = 10(2x - 2) + 2(1 - 3x)}
@@ -28,7 +28,7 @@ $$
 \textcolor{red}{5x - 5 + 2x + 1 = 20x - 20 + 2 - 6x}
 $$
 
-Trasporto i termini con le $$x$$ prima dell'uguale e quelli senza dopo l'uguale e chi salta l'uguale cambia di segno:
+Trasporto i termini con le $x$ prima dell'uguale e quelli senza dopo l'uguale e chi salta l'uguale cambia di segno:
 
 $$
 \textcolor{red}{5x + 2x - 20x + 6x = 5 - 1 - 20 + 2}
@@ -40,7 +40,7 @@ $$
 \textcolor{red}{-7x = -14}
 $$
 
-Divido entrambi i membri per $$-7$$ per ricavare la $$x$$:
+Divido entrambi i membri per $-7$ per ricavare la $x$:
 
 $$
 \textcolor{red}{\frac{-7x}{-7} = \frac{-14}{-7}}
@@ -52,11 +52,11 @@ $$
 \textcolor{red}{x = 2}
 $$
 
-$$x = 2$$ è la soluzione.
+$x = 2$ è la soluzione.
 
 ## Verifica:
 
-Sostituisco a $$x$$ il valore $$2$$ nell'equazione di partenza:
+Sostituisco a $x$ il valore $2$ nell'equazione di partenza:
 
 $$
 \textcolor{red}{\frac{x - 1}{2} + \frac{2x + 1}{10} = 2x - 2 + \frac{1 - 3x}{5}}

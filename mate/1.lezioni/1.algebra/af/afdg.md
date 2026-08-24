@@ -2,7 +2,7 @@
 
 Sono equazioni caratterizzate dal fatto che per ogni soluzione esiste sempre come soluzione anche la sua reciproca (senza considerare il segno).
 
-> cioè se ho soluzione $$x = \frac{2}{3}$$ avrò come soluzione anche $$x = \frac{3}{2}$$ oppure $$x = -\frac{3}{2}$$
+> cioè se ho soluzione $x = \frac{2}{3}$ avrò come soluzione anche $x = \frac{3}{2}$ oppure $x = -\frac{3}{2}$
 
 Si riconoscono per il fatto che, considerando il polinomio associato, i coefficienti equidistanti dal centro del polinomio sono uguali come modulo (possono anche avere segni contrari).
 

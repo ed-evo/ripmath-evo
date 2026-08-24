@@ -10,13 +10,13 @@ $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{\frac{2bc - (b^2 + c^2 - a^2)}{2bc}}{2}}}
 $$
 
-Ora tolgo la parentesi e, per togliere il $$2$$ al denominatore moltiplico per $$1/2$$
+Ora tolgo la parentesi e, per togliere il $2$ al denominatore moltiplico per $1/2$
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{2bc - b^2 - c^2 + a^2}{2bc} \cdot \frac{1}{2}}}
 $$
 
-Sotto moltiplico e sopra metto in evidenza il meno fra i primi $$3$$ termini
+Sotto moltiplico e sopra metto in evidenza il meno fra i primi $3$ termini
 
 $$
 \textcolor{blue}{\sin \frac{\alpha}{2} = \sqrt{\frac{-( -2bc + b^2 + c^2) + a^2}{4bc}}}

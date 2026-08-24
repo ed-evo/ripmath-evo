@@ -14,9 +14,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 7}$$
-$$\textcolor{blue}{b = -50} \quad \textcolor{blue}{\beta = -25}$$
-$$\textcolor{blue}{c = 7}$$
+$\textcolor{blue}{a = 7}$
+$\textcolor{blue}{b = -50} \quad \textcolor{blue}{\beta = -25}$
+$\textcolor{blue}{c = 7}$
 
 Sostituiamo nella formula:
 

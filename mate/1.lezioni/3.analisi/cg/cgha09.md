@@ -20,10 +20,10 @@ $$
 \textcolor{red}{\cos x = 0}
 $$
 
-I. $$\textcolor{red}{x = \frac{\pi}{2}}$$
-II. $$\textcolor{red}{x = \frac{3\pi}{2}}$$
+I. $\textcolor{red}{x = \frac{\pi}{2}}$
+II. $\textcolor{red}{x = \frac{3\pi}{2}}$
 
-scarto $$\frac{3\pi}{2}$$ perché fuori dell'intervallo richiesto
+scarto $\frac{3\pi}{2}$ perché fuori dell'intervallo richiesto
 
-Trovo il valore della $$y$$ corrispondente sostituendo $$\frac{\pi}{2}$$ al posto di $$x$$ nell'equazione di partenza
+Trovo il valore della $y$ corrispondente sostituendo $\frac{\pi}{2}$ al posto di $x$ nell'equazione di partenza
 

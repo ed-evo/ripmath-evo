@@ -1,10 +1,10 @@
-[$$PH^2 + OH^2 = OP^2$$]{.text-blue}
+[$PH^2 + OH^2 = OP^2$]{.text-blue}
 
-Ricavo $$OH$$
+Ricavo $OH$
 
-[$$OH^2 = OP^2 - PH^2$$]{.text-blue}
+[$OH^2 = OP^2 - PH^2$]{.text-blue}
 
-[$$OH = \sqrt{OP^2 - PH^2} =$$]{.text-blue}
+[$OH = \sqrt{OP^2 - PH^2} =$]{.text-blue}
 
 [
 $$
@@ -24,7 +24,7 @@ $$
 $$
 ]{.text-blue}
 
-> **Nota:** Minimo comune multiplo $$16$$
+> **Nota:** Minimo comune multiplo $16$
 
 [
 $$

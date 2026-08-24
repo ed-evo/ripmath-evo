@@ -4,7 +4,7 @@ $$
 \textcolor{red}{3^{x+1} - 2^x = 2^{x+2} - 3^{x-1}}
 $$
 
-Separo le basi $$3$$ dalle basi $$2$$
+Separo le basi $3$ dalle basi $2$
 
 $$
 \textcolor{blue}{3^{x+1} + 3^{x-1} = 2^{x+2} + 2^x}

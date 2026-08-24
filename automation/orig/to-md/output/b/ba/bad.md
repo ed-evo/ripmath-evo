@@ -7,18 +7,18 @@ D'ora in avanti useremo indifferentemente i termini somma e addizione anche se l
 Disegno su una semiretta l'insieme dei numeri naturali:
 
 Se voglio fare
-$$\textcolor{blue}{3} + \textcolor{green}{2}$$
+$\textcolor{blue}{3} + \textcolor{green}{2}$
 
-disegno a partire da $$0$$ un segmento lungo $$3$$ ed un segmento lungo $$2$$.
+disegno a partire da $0$ un segmento lungo $3$ ed un segmento lungo $2$.
 
-Per sommare metto in fila i segmenti e vedo che ottengo un segmento che termina in $$5$$.
+Per sommare metto in fila i segmenti e vedo che ottengo un segmento che termina in $5$.
 
 quindi
 $$
 \textcolor{blue}{3} + \textcolor{green}{2} = 5
 $$
 
-C'è subito da dire che facendo la somma fra numeri naturali mi muovo sempre verso destra e, a destra, i numeri sono infiniti; quindi potrò sempre fare l'addizione cioè l'addizione fra numeri naturali è un'operazione interna e l'insieme $$N$$ è chiuso rispetto all'addizione.
+C'è subito da dire che facendo la somma fra numeri naturali mi muovo sempre verso destra e, a destra, i numeri sono infiniti; quindi potrò sempre fare l'addizione cioè l'addizione fra numeri naturali è un'operazione interna e l'insieme $N$ è chiuso rispetto all'addizione.
 
 Fra tutti i numeri naturali ne esiste uno particolare: lo zero; lo zero ha la proprietà di non cambiare niente infatti preso un numero qualunque:
 

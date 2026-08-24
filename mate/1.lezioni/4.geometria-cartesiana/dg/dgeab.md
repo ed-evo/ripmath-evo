@@ -11,7 +11,7 @@ Infatti possiamo pensare la tangente anche come posizione limite di due tangenti
 ## Esercizio 0
 
 Data la parabola
-$$y = x^2 - 3x$$
+$y = x^2 - 3x$
 trovare l'equazione della retta tangente nell'origine.
 
 [Soluzione](dgeab0.html)
@@ -21,8 +21,8 @@ trovare l'equazione della retta tangente nell'origine.
 ## Esercizio 1
 
 Data la parabola
-$$y = x^2 - 3x + 2$$
-trovare l'equazione della retta tangente nel suo punto di ascissa $$-1$$.
+$y = x^2 - 3x + 2$
+trovare l'equazione della retta tangente nel suo punto di ascissa $-1$.
 
 [Soluzione](dgeaba.html)
 
@@ -31,8 +31,8 @@ trovare l'equazione della retta tangente nel suo punto di ascissa $$-1$$.
 ## Esercizio 2
 
 Data la parabola
-$$y = x^2 - 6x + 5$$
-trovare le equazioni delle tangenti condotte alla parabola nei punti di intersezione con l'asse delle ascisse. Detti $$A$$ e $$B$$ tali punti, indicato con $$C$$ il punto di intersezione delle due tangenti calcolare l'area del triangolo $$ABC$$.
+$y = x^2 - 6x + 5$
+trovare le equazioni delle tangenti condotte alla parabola nei punti di intersezione con l'asse delle ascisse. Detti $A$ e $B$ tali punti, indicato con $C$ il punto di intersezione delle due tangenti calcolare l'area del triangolo $ABC$.
 
 [Soluzione](dgeabb.html)
 
@@ -41,8 +41,8 @@ trovare le equazioni delle tangenti condotte alla parabola nei punti di intersez
 ## Esercizio 3
 
 Data la parabola
-$$y = x^2$$
-trovare le equazioni della sua tangente parallela alla retta $$y = 2x$$.
+$y = x^2$
+trovare le equazioni della sua tangente parallela alla retta $y = 2x$.
 
 [Soluzione](dgeabc.html)
 

@@ -4,7 +4,7 @@ $$
 $$
 abbia il centro nell'origine degli assi.
 
-Le coordinate del centro sono $$\textcolor{red}{C=(3,4)}$$ quindi
+Le coordinate del centro sono $\textcolor{red}{C=(3,4)}$ quindi
 $$
 \textcolor{red}{a = 3 \quad b = 4}
 $$

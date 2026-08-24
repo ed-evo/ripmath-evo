@@ -11,9 +11,9 @@ x + y = 1
 }
 $$
 
-[La somma di due numeri è $$3$$ e la loro somma è $$1$$.]{.text-red}
+[La somma di due numeri è $3$ e la loro somma è $1$.]{.text-red}
 
-Non è possibile che due numeri sommati valgano una volta $$3$$ ed una volta $$1$$, quindi tutto il sistema è impossibile.
+Non è possibile che due numeri sommati valgano una volta $3$ ed una volta $1$, quindi tutto il sistema è impossibile.
 Se lo risolvo col metodo di sostituzione, col metodo di addizione oppure di confronto ottengo un'equazione impossibile, mentre col metodo di Cramer otterrò:
 
 $$

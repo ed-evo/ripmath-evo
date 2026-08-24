@@ -2,7 +2,7 @@
 
 Definiamo matrice nulla la matrice con tutti gli elementi uguali a zero.
 
-Esempio di matrice nulla di tipo $$4 \times 4$$
+Esempio di matrice nulla di tipo $4 \times 4$
 
 $$
 \textcolor{red}{\begin{pmatrix}

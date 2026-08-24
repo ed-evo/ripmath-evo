@@ -73,19 +73,19 @@ $$
 
 Ora devo verificare se le soluzioni vanno bene nell'equazione di partenza o sono dovute all'elevamento a quadrato:
 
-- [Verifica per $$x = 4$${.text-purple}]
-  Sostituisco nell'equazione iniziale alla $$x$$ il valore $$4$$:
+- [Verifica per $x = 4${.text-purple}]
+  Sostituisco nell'equazione iniziale alla $x$ il valore $4$:
   $$
   \textcolor{red}{\sqrt{4 + 5} - \sqrt{4} = \sqrt{2 \cdot 4 - 7}}
   $$
   $$
   \textcolor{red}{3 - 2 = 1}
   $$
-  Avendo ottenuto un'uguaglianza la soluzione $$x = 4$$ è accettabile.
+  Avendo ottenuto un'uguaglianza la soluzione $x = 4$ è accettabile.
 
-- [Verifica per $$x = -9$${.text-purple}]
-  Sostituisco nell'equazione iniziale alla $$x$$ il valore $$-9$$:
+- [Verifica per $x = -9${.text-purple}]
+  Sostituisco nell'equazione iniziale alla $x$ il valore $-9$:
   $$
   \textcolor{red}{\sqrt{-9 + 5} - \sqrt{-9} = \sqrt{2 \cdot (-9) - 7}}
   $$
-  Avendo ottenuto radici con argomento negativo la soluzione $$x = -9$$ non è accettabile.
+  Avendo ottenuto radici con argomento negativo la soluzione $x = -9$ non è accettabile.

@@ -1,6 +1,6 @@
 # Operazioni elementari
 
-Chiamiamo **operazioni elementari** le operazioni interne nell'insieme $$N$$ dei numeri naturali: cioè:
+Chiamiamo **operazioni elementari** le operazioni interne nell'insieme $N$ dei numeri naturali: cioè:
 
 - L'addizione;
 - La moltiplicazione;

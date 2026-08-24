@@ -2,7 +2,7 @@
 
 Prima di affrontare questo argomento dovresti leggere le prime parti dei [numeri immaginari e complessi](../../b/be/be.html) fino alla definizione di numero complesso.
 
-Si definisce discriminante o $$\Delta$$ (delta) il termine che si trova sotto radice nella formula risolutiva dell'equazione di secondo grado.
+Si definisce discriminante o $\Delta$ (delta) il termine che si trova sotto radice nella formula risolutiva dell'equazione di secondo grado.
 
 $$
 \textcolor{red}{x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}
@@ -28,7 +28,7 @@ Siccome il termine è dentro radice abbiamo tre possibilità:
   $$
   \textcolor{red}{\Delta = b^2 - 4ac = 0}
   $$
-  In tal caso la radice vale zero e poiché devo sommare e sottrarre zero otterrò due radici uguali (valori reali e coincidenti) e la doppia [soluzione vale](afccc1.html) $$\textcolor{red}{-b/2a}$$.
+  In tal caso la radice vale zero e poiché devo sommare e sottrarre zero otterrò due radici uguali (valori reali e coincidenti) e la doppia [soluzione vale](afccc1.html) $\textcolor{red}{-b/2a}$.
 
 - il discriminante è [minore di zero](afcccc.html)
   $$

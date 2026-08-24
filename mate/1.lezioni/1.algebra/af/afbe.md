@@ -13,6 +13,6 @@ Vediamo di spiegarci meglio con qualche esempio:
 Riassumendo:
 gli esempi che hai visto sono elementari ma quando ho un'equazione complicata è quasi impossibile dire senza risolverla se è possibile, impossibile od indeterminata ed a questo posso risalire solo dalla soluzione:
 
-- [$$x = \text{numero}$$]{.text-purple} Equazione possibile
-- [$$0 = \text{numero}$$]{.text-purple} Equazione impossibile
-- [$$0 = 0$$]{.text-purple} Equazione indeterminata
+- [$x = \text{numero}$]{.text-purple} Equazione possibile
+- [$0 = \text{numero}$]{.text-purple} Equazione impossibile
+- [$0 = 0$]{.text-purple} Equazione indeterminata

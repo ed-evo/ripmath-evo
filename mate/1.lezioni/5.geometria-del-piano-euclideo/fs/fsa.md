@@ -8,6 +8,6 @@ Veniva utilizzato quasi universalmente nelle opere di pittura ed architettura.
 
 > **Nota:** Va detto che la ricerca delle applicazioni della sezione aurea fu condotta anche in modo esagerato: pensate che si cercò di trovare addirittura una corrispondenza fra i tre segmenti della proporzione e la Divina Trinità.
 
-Attualmente l'interesse per questo argomento si è molto ridimensionato, mentre ancora $$50$$ anni fa era uno degli argomenti centrali della geometria.
+Attualmente l'interesse per questo argomento si è molto ridimensionato, mentre ancora $50$ anni fa era uno degli argomenti centrali della geometria.
 
 Oggi resta ancora importante per gli Istituti d'Arte e per tutte le scuole che si occupino di pittura, scultura ed architettura.

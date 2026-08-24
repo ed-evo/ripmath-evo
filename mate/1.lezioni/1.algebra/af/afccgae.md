@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{\frac{5}{2(x - 1)} + \frac{1}{2x - 3} = \frac{1}{2(x + 1)}}
 $$
 
-È un'equazione fratta quindi prima di risolverla dobbiamo porre le condizioni di realtà: ogni termine al denominatore, che contenga la $$x$$, va posto diverso da zero; le costanti moltiplicate (il $$2$$) puoi saltarle perché sono certamente diverse da zero.
+È un'equazione fratta quindi prima di risolverla dobbiamo porre le condizioni di realtà: ogni termine al denominatore, che contenga la $x$, va posto diverso da zero; le costanti moltiplicate (il $2$) puoi saltarle perché sono certamente diverse da zero.
 
 [.text-red]**C.R.**
 $$
@@ -25,7 +25,7 @@ $$
 \textcolor{red}{x + 1 \neq 0 \implies x \neq -1}
 $$
 
-Cioè se troveremo come soluzione $$x = -1$$, $$x = 1$$ o $$x = 3/2$$ diremo che l'equazione è impossibile.
+Cioè se troveremo come soluzione $x = -1$, $x = 1$ o $x = 3/2$ diremo che l'equazione è impossibile.
 
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
 
@@ -39,7 +39,7 @@ $$
 
 Elimino i denominatori
 
-> Devo moltiplicare da entrambe le parti per $$2(x-1)(x+1)(2x-3)$$; posso farlo perché so che ogni termine è diverso da zero.
+> Devo moltiplicare da entrambe le parti per $2(x-1)(x+1)(2x-3)$; posso farlo perché so che ogni termine è diverso da zero.
 
 $$
 \textcolor{blue}{5(x+1)(2x-3) + 2(x-1)(x+1) = (x-1)(2x-3)}
@@ -71,7 +71,7 @@ $$
 \textcolor{blue}{10x^2 - 20 = 0}
 $$
 
-divido entrambi i membri per il coefficiente di $$x^2$$
+divido entrambi i membri per il coefficiente di $x^2$
 
 $$
 \textcolor{blue}{\frac{10x^2}{10} = \frac{20}{10}}
@@ -97,4 +97,4 @@ $$
 
 e rispettano le condizioni di realtà.
 
-> Non ti devi meravigliare se il risultato viene un numero con la radice: se consideri i numeri naturali $$1, 2, 3$$, i numeri con alcuni termini dopo la virgola (detti razionali perché esprimibili mediante frazioni) sono infiniti rispetto ai numeri naturali, cioè per ogni numero naturale ci sono infiniti numeri razionali; si può dimostrare che per ogni numero razionale esistono infiniti numeri esprimibili con la radice (reali); se hai un problema reale di solito ottieni un numero con la radice: è raro ottenere come soluzione un numero razionale e i numeri interi li ottieni solo in problemi preparati apposta.
+> Non ti devi meravigliare se il risultato viene un numero con la radice: se consideri i numeri naturali $1, 2, 3$, i numeri con alcuni termini dopo la virgola (detti razionali perché esprimibili mediante frazioni) sono infiniti rispetto ai numeri naturali, cioè per ogni numero naturale ci sono infiniti numeri razionali; si può dimostrare che per ogni numero razionale esistono infiniti numeri esprimibili con la radice (reali); se hai un problema reale di solito ottieni un numero con la radice: è raro ottenere come soluzione un numero razionale e i numeri interi li ottieni solo in problemi preparati apposta.

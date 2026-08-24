@@ -1,6 +1,6 @@
 # [Esercizio]{.text-red}
 
-[Trovare la distanza fra i punti $$A(1,2)$$ e $$B(5,5)$$]{.text-blue}
+[Trovare la distanza fra i punti $A(1,2)$ e $B(5,5)$]{.text-blue}
 
 Scrivo la formula:
 
@@ -11,16 +11,16 @@ Scrivo la formula:
 $$]{.text-blue}
 
 So che
-[$$A = (1,2) = (x_1, y_1)$$]{.text-blue}
+[$A = (1,2) = (x_1, y_1)$]{.text-blue}
 
 e che
-[$$B = (5,5) = (x_2, y_2)$$]{.text-blue}
+[$B = (5,5) = (x_2, y_2)$]{.text-blue}
 
 quindi:
-[$$x_1 = 1$$]{.text-blue}
-[$$y_1 = 2$$]{.text-blue}
-[$$x_2 = 5$$]{.text-blue}
-[$$y_2 = 5$$]{.text-blue}
+[$x_1 = 1$]{.text-blue}
+[$y_1 = 2$]{.text-blue}
+[$x_2 = 5$]{.text-blue}
+[$y_2 = 5$]{.text-blue}
 
 sostituisco nella formula:
 
@@ -32,4 +32,4 @@ sostituisco nella formula:
 \end{aligned}
 $$]{.text-blue}
 
-quindi il segmento $$\underline{AB}$$ è lungo $$5$$ unità del piano come puoi anche vedere (grosso modo) dalla figura
+quindi il segmento $\underline{AB}$ è lungo $5$ unità del piano come puoi anche vedere (grosso modo) dalla figura

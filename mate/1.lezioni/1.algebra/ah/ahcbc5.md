@@ -14,7 +14,7 @@ $$
 \textcolor{red}{\overline{AC} = \frac{1}{3} \overline{BD}}
 $$
 
-La seconda relazione dice che la somma delle diagonali vale $$32\text{m}$$:
+La seconda relazione dice che la somma delle diagonali vale $32\text{m}$:
 
 $$
 \textcolor{red}{\overline{AC} + \overline{BD} = 32}
@@ -32,7 +32,7 @@ $$
 \textcolor{red}{x = \frac{1}{3} y}
 $$
 
-Moltiplico per $$3$$ entrambi i termini:
+Moltiplico per $3$ entrambi i termini:
 
 $$
 \textcolor{blue}{3x = y}
@@ -50,13 +50,13 @@ $$
 \textcolor{blue}{\begin{cases} 3x = y \\ x + y = 32 \end{cases}}
 $$
 
-Ricavo la $$y$$ dalla prima equazione (basta leggere l'uguaglianza a rovescio):
+Ricavo la $y$ dalla prima equazione (basta leggere l'uguaglianza a rovescio):
 
 $$
 \textcolor{blue}{\begin{cases} y = 3x \\ x + y = 32 \end{cases}}
 $$
 
-Sostituisco il valore della $$y$$ della prima equazione nella seconda equazione:
+Sostituisco il valore della $y$ della prima equazione nella seconda equazione:
 
 $$
 \textcolor{blue}{\begin{cases} y = 3x \\ x + 3x = 32 \end{cases}}
@@ -68,13 +68,13 @@ $$
 \textcolor{blue}{\begin{cases} y = 3x \\ 4x = 32 \end{cases}}
 $$
 
-Nella seconda equazione divido entrambi i termini per $$4$$:
+Nella seconda equazione divido entrambi i termini per $4$:
 
 $$
 \textcolor{blue}{\begin{cases} y = 3x \\ x = 8 \end{cases}}
 $$
 
-Sostituisco il valore della $$x$$ che ho trovato nella prima equazione:
+Sostituisco il valore della $x$ che ho trovato nella prima equazione:
 
 $$
 \textcolor{blue}{\begin{cases} y = 3 \cdot 8 = 24 \\ x = 8 \end{cases}}
@@ -92,7 +92,7 @@ $$
 \textcolor{blue}{\overline{AC} = x = 8\text{m} \quad \overline{BD} = y = 24\text{m}}
 $$
 
-Devo trovare l'area (Diagonale per diagonale diviso $$2$$):
+Devo trovare l'area (Diagonale per diagonale diviso $2$):
 
 $$
 \textcolor{red}{A_s = \frac{\overline{BC} \cdot \overline{AB}}{2} = \frac{24\text{m} \cdot 8\text{m}}{2} = 96\text{m}^2}

@@ -1,16 +1,16 @@
 # Problema
 
-[Il perimetro di un triangolo isoscele è m. $$58$$ e il lato supera di $$4$$ il doppio della base. Determinare la misura dei lati e della base]{.text-blue}
+[Il perimetro di un triangolo isoscele è m. $58$ e il lato supera di $4$ il doppio della base. Determinare la misura dei lati e della base]{.text-blue}
 
 Come prima cosa costruiamo la figura.
 
-La prima relazione dice che il perimetro è $$58\text{m}$$
+La prima relazione dice che il perimetro è $58\text{m}$
 
 $$
 \textcolor{red}{\overline{AB} + \overline{BC} + \overline{AC} = 58}
 $$
 
-La seconda relazione dice il lato supera di $$4$$ il doppio della base.
+La seconda relazione dice il lato supera di $4$ il doppio della base.
 
 $$
 \textcolor{red}{\overline{AB} = 4 + 2\overline{BC}}
@@ -51,7 +51,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$x$$ della seconda equazione nella prima equazione
+Sostituisco il valore della $x$ della seconda equazione nella prima equazione
 
 $$
 \begin{cases}
@@ -69,7 +69,7 @@ $$
 \end{cases}
 $$
 
-Sommo le $$y$$ e porto $$8$$ dopo l'uguale
+Sommo le $y$ e porto $8$ dopo l'uguale
 
 $$
 \begin{cases}
@@ -85,7 +85,7 @@ $$
 \end{cases}
 $$
 
-Nella prima equazione divido entrambi i termini per $$5$$
+Nella prima equazione divido entrambi i termini per $5$
 
 $$
 \begin{cases}
@@ -94,7 +94,7 @@ $$
 \end{cases}
 $$
 
-Sostituisco il valore della $$y$$ che ho trovato nella seconda equazione
+Sostituisco il valore della $y$ che ho trovato nella seconda equazione
 
 $$
 \begin{cases}

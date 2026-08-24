@@ -3,7 +3,7 @@
 Mostriamo che, mediante la teoria degli insiemi, è possibile evidenziare la verità o meno del giudizio universale negativo:
 
 Partiamo dal nostro giudizio:
-**Per ogni uomo $$x$$, se $$x$$ è un uomo allora $$x$$ non è immortale**
+**Per ogni uomo $x$, se $x$ è un uomo allora $x$ non è immortale**
 
 Considero gli insiemi
 
@@ -27,9 +27,9 @@ $$
 \textcolor{red}{\forall x, P(x) \to \overline{Q(x)}}
 $$
 
-implica che l'insieme $$P(x)$$ è contenuto nell'insieme complementare di $$Q(x)$$
-quindi è vera solamente se $$P(x)$$ non ha elementi comuni con $$Q(x)$$;
-equivale a dire che $$P(x)$$ e $$Q(x)$$ sono insiemi disgiunti
+implica che l'insieme $P(x)$ è contenuto nell'insieme complementare di $Q(x)$
+quindi è vera solamente se $P(x)$ non ha elementi comuni con $Q(x)$;
+equivale a dire che $P(x)$ e $Q(x)$ sono insiemi disgiunti
 
 $$
 \textcolor{red}{P(x) \cap Q(x) = \varnothing}

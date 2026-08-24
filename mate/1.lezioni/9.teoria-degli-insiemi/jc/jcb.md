@@ -1,6 +1,6 @@
 # Relazione binaria di un insieme su sé stesso
 
-Particolarmente interessante è parlare di relazioni quando i due insiemi $$A$$ e $$B$$ coincidono; in tal caso si parla di relazione binaria di un insieme su sé stesso oppure semplicemente **relazione binaria su un insieme**.
+Particolarmente interessante è parlare di relazioni quando i due insiemi $A$ e $B$ coincidono; in tal caso si parla di relazione binaria di un insieme su sé stesso oppure semplicemente **relazione binaria su un insieme**.
 
 > D'ora in avanti considereremo solo questo tipo di relazione, e, nelle prossime pagine ne considereremo i vari tipi elementari, cosa che ci permetterà di "partizionare" od anche "ordinare" un insieme.
 
@@ -21,7 +21,7 @@ per ogni coppia di alunni è possibile dire se il primo è più alto del secondo
 
 ***
 
-Considero l'insieme dei primi $$10$$ numeri naturali e considero la relazione ["è maggiore od uguale di"]{.text-red}
+Considero l'insieme dei primi $10$ numeri naturali e considero la relazione ["è maggiore od uguale di"]{.text-red}
 per ogni coppia di numeri puoi dire se il primo è maggiore od uguale rispetto al secondo
 
 ***

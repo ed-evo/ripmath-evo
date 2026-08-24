@@ -6,7 +6,7 @@ $$
 \textcolor{#aa0000}{\tan(\alpha + \beta) = \frac{\tan \alpha + \tan \beta}{1 - \tan \alpha \tan \beta}}
 $$
 
-Poniamo $$\beta = \alpha$$, cioè mettiamo $$\alpha$$ al posto di $$\beta$$ nella formula
+Poniamo $\beta = \alpha$, cioè mettiamo $\alpha$ al posto di $\beta$ nella formula
 
 $$
 \textcolor{#aa0000}{\tan(\alpha + \alpha) = \frac{\tan \alpha + \tan \alpha}{1 - \tan \alpha \tan \alpha}}

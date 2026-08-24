@@ -6,7 +6,7 @@ $$
 \textcolor{blue}{\frac{x}{p} + \frac{y}{q} = 1}
 $$
 
-chiamata [forma segmentaria]{.text-purple} perché riferita ai segmenti $$p$$ e $$q$$ che la retta stessa taglia sugli assi.
+chiamata [forma segmentaria]{.text-purple} perché riferita ai segmenti $p$ e $q$ che la retta stessa taglia sugli assi.
 
 Possiamo trasformare facilmente la retta dalla forma segmentaria alle altre forme.
 

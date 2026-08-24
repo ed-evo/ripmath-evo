@@ -1,6 +1,6 @@
 # [esercizio]{.text-red}
 
-Eseguire il seguente prodotto fra numeri binari: $$101010 \cdot 1001100 =$$
+Eseguire il seguente prodotto fra numeri binari: $101010 \cdot 1001100 =$
 
 Procedo direttamente al calcolo eseguendo le somme parziali nello svolgimento stesso:
 
@@ -20,8 +20,8 @@ $$
 $$
 
 > **Nota:**
-> - $$\textcolor{red}{111111000}$$ rappresenta la prima somma parziale.
-> - $$\textcolor{red}{11100111000}$$ rappresenta la seconda somma parziale e il risultato finale.
+> - $\textcolor{red}{111111000}$ rappresenta la prima somma parziale.
+> - $\textcolor{red}{11100111000}$ rappresenta la seconda somma parziale e il risultato finale.
 
 Quindi:
-$$101010 \cdot 1001100 = 11100111000$$
+$101010 \cdot 1001100 = 11100111000$

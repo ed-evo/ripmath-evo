@@ -12,11 +12,11 @@ $$
 ## [Prima formula]{.text-blue}
 
 > Sapendo che 
-> $$\textcolor{red}{\cos^2 \alpha + \text{sen}^2 \alpha = 1}$$
-> ricavo $$\textcolor{red}{\cos^2 \alpha}$$
-> $$\textcolor{red}{\cos^2 \alpha = 1 - \text{sen}^2 \alpha}$$
+> $\textcolor{red}{\cos^2 \alpha + \text{sen}^2 \alpha = 1}$
+> ricavo $\textcolor{red}{\cos^2 \alpha}$
+> $\textcolor{red}{\cos^2 \alpha = 1 - \text{sen}^2 \alpha}$
 > sostituisco nella formula di partenza
-> $$\textcolor{red}{\cos 2\alpha = 1 - \text{sen}^2 \alpha - \text{sen}^2 \alpha}$$
+> $\textcolor{red}{\cos 2\alpha = 1 - \text{sen}^2 \alpha - \text{sen}^2 \alpha}$
 > ottengo la prima formula
 
 $$
@@ -27,12 +27,12 @@ $$
 
 ## [Seconda formula]{.text-blue}
 
-> stavolta ricavo $$\textcolor{red}{\text{sen}^2 \alpha}$$
-> $$\textcolor{red}{\text{sen}^2 \alpha = 1 - \cos^2 \alpha}$$
+> stavolta ricavo $\textcolor{red}{\text{sen}^2 \alpha}$
+> $\textcolor{red}{\text{sen}^2 \alpha = 1 - \cos^2 \alpha}$
 > sostituisco nella formula di partenza
-> $$\textcolor{red}{\cos 2\alpha = \cos^2 \alpha - (1 - \cos^2 \alpha)}$$
+> $\textcolor{red}{\cos 2\alpha = \cos^2 \alpha - (1 - \cos^2 \alpha)}$
 > faccio cadere la parentesi
-> $$\textcolor{red}{\cos 2\alpha = \cos^2 \alpha - 1 + \cos^2 \alpha}$$
+> $\textcolor{red}{\cos 2\alpha = \cos^2 \alpha - 1 + \cos^2 \alpha}$
 > ottengo la seconda formula
 
 $$

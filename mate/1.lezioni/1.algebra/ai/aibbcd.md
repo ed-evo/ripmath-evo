@@ -12,9 +12,9 @@ x - y + z = 2
 \end{cases}
 $$
 
-Il sistema è impossibile perché la prima equazione è in contrasto con la seconda: la somma degli stessi tre numeri non può dare una volta $$6$$ ed una volta $$5$$.
+Il sistema è impossibile perché la prima equazione è in contrasto con la seconda: la somma degli stessi tre numeri non può dare una volta $6$ ed una volta $5$.
 
-Se risolviamo per sostituzione otterremmo un'uguaglianza tipo $$0 = 1$$.
+Se risolviamo per sostituzione otterremmo un'uguaglianza tipo $0 = 1$.
 
 Se osserviamo la matrice incompleta e completa:
 

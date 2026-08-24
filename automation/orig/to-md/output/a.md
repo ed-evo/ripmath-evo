@@ -153,12 +153,12 @@
             - Delta del polinomio uguale zero
             - Delta del polinomio minore di zero
         - Metodo della parabola
-            - Parabola che taglia l'asse $$x$$ in due punti
-            - Parabola tangente all'asse $$x$$
-            - Parabola senza punti comuni con l'asse $$x$$
+            - Parabola che taglia l'asse $x$ in due punti
+            - Parabola tangente all'asse $x$
+            - Parabola senza punti comuni con l'asse $x$
         - Tabella di riepilogo
-            - $$a > 0$$
-            - $$a < 0$$
+            - $a > 0$
+            - $a < 0$
     - Sistemi con disequazioni di secondo grado
         - Soluzione di un sistema di disequazioni di secondo grado
         - Sistema con disequazioni di primo e di secondo grado
@@ -205,7 +205,7 @@
             - metodo di sostituzione
             - metodo di Cramer
                 - Matrici del sistema
-                - Il determinante $$3x3$$
+                - Il determinante $3x3$
                 - Calcolo del determinante col metodo normale
                 - Calcolo del determinante con la regola di Sarrus
                 - Soluzione del sistema
@@ -219,11 +219,11 @@
                 - Rango di una matrice
                 - Teorema di Rouché-Capelli
             - sistema omogeneo
-        - Sistema di $$n$$ equazioni in $$n$$ incognite
+        - Sistema di $n$ equazioni in $n$ incognite
             - Sistema lineare non omogeneo
             - Sistema lineare omogeneo
             - Sistema lineare con parametro
-        - Sistema di $$k$$ equazioni in $$n$$ incognite
+        - Sistema di $k$ equazioni in $n$ incognite
     - Sistemi di grado superiore al primo
         - Grado di un sistema
         - Sistemi di secondo grado in due incognite
@@ -271,8 +271,8 @@
         - applicazioni
     - [.text-red]espressioni con i radicali
     - Disequazioni irrazionali ad indice pari
-        - Disequazione elementare del tipo $$F(x) > G(x)$$
-        - Disequazione elementare del tipo $$F(x) < G(x)$$
+        - Disequazione elementare del tipo $F(x) > G(x)$
+        - Disequazione elementare del tipo $F(x) < G(x)$
         - Disequazioni più complesse
         - Caso particolare
     - Disequazioni irrazionali ad indice dispari
@@ -283,8 +283,8 @@
     - Un po' di nomenclatura
     - Valori possibili
     - Possibili basi per i logaritmi
-        - Logaritmi a base maggiore di $$1$$
-        - Logaritmi a base minore di $$1$$
+        - Logaritmi a base maggiore di $1$
+        - Logaritmi a base minore di $1$
     - Proprietà dei logaritmi
         - Logaritmo di un prodotto
         - Logaritmo di un quoziente
@@ -293,21 +293,21 @@
         - Esercizio
     - Cambiamento di base
     - Grafico della funzione logaritmo
-        - la base $$a$$ è maggiore di $$1$$
-        - la base $$a$$ è compresa fra $$0$$ ed $$1$$
+        - la base $a$ è maggiore di $1$
+        - la base $a$ è compresa fra $0$ ed $1$
     - Equazioni logaritmiche
         - Esercizi
     - Disequazioni logaritmiche
-        - disequazioni con logaritmi a base maggiore di $$1$$
-        - disequazioni con logaritmi a base compresa fra $$0$$ ed $$1$$
+        - disequazioni con logaritmi a base maggiore di $1$
+        - disequazioni con logaritmi a base compresa fra $0$ ed $1$
 - Esponenziali
     - Funzione esponenziale
     - Grafico della funzione esponenziale
-        - la base $$a$$ è maggiore di $$1$$
-        - la base $$a$$ è compresa fra $$0$$ ed $$1$$
+        - la base $a$ è maggiore di $1$
+        - la base $a$ è compresa fra $0$ ed $1$
     - Equazioni esponenziali
     - Disequazioni esponenziali
-        - la base $$a$$ è maggiore di $$1$$
-        - la base $$a$$ è compresa tra $$0$$ ed $$1$$
+        - la base $a$ è maggiore di $1$
+        - la base $a$ è compresa tra $0$ ed $1$
 
 piano generale del sito

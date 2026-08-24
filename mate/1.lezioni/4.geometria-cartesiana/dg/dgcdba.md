@@ -1,31 +1,31 @@
 # esercizio
 
-Trovare l'equazione della parabola con asse verticale che passa per i punti $$\textcolor{blue}{A=(1,0)}$$, $$\textcolor{blue}{B=(0,2)}$$ e $$\textcolor{blue}{C=(3,2)}$$
+Trovare l'equazione della parabola con asse verticale che passa per i punti $\textcolor{blue}{A=(1,0)}$, $\textcolor{blue}{B=(0,2)}$ e $\textcolor{blue}{C=(3,2)}$
 
 L'equazione generica della parabola con asse verticale è
 $$
 \textcolor{blue}{y = ax^2 + bx + c}
 $$
 
-- Condizione di passaggio per il punto $$\textcolor{blue}{A = (1, 0)}$$
-  sostituisco a $$x$$ il valore $$1$$ ed a $$y$$ il valore $$0$$
-  $$\textcolor{blue}{0 = a \cdot 1^2 + b \cdot 1 + c}$$
+- Condizione di passaggio per il punto $\textcolor{blue}{A = (1, 0)}$
+  sostituisco a $x$ il valore $1$ ed a $y$ il valore $0$
+  $\textcolor{blue}{0 = a \cdot 1^2 + b \cdot 1 + c}$
   quindi la condizione richiesta è
-  $$\textcolor{red}{a + b + c = 0}$$
+  $\textcolor{red}{a + b + c = 0}$
 
-- Condizione di passaggio per il punto $$\textcolor{blue}{B = (0, 2)}$$
-  sostituisco a $$x$$ il valore $$0$$ ed a $$y$$ il valore $$2$$
-  $$\textcolor{blue}{2 = a \cdot 0^2 + b \cdot 0 + c}$$
+- Condizione di passaggio per il punto $\textcolor{blue}{B = (0, 2)}$
+  sostituisco a $x$ il valore $0$ ed a $y$ il valore $2$
+  $\textcolor{blue}{2 = a \cdot 0^2 + b \cdot 0 + c}$
   quindi la condizione richiesta è
-  $$\textcolor{red}{c = 2}$$
+  $\textcolor{red}{c = 2}$
 
-- Condizione di passaggio per il punto $$\textcolor{blue}{C = (3, 2)}$$
-  sostituisco a $$x$$ il valore $$3$$ ed a $$y$$ il valore $$2$$
-  $$\textcolor{blue}{2 = a \cdot 3^2 + b \cdot 3 + c}$$
+- Condizione di passaggio per il punto $\textcolor{blue}{C = (3, 2)}$
+  sostituisco a $x$ il valore $3$ ed a $y$ il valore $2$
+  $\textcolor{blue}{2 = a \cdot 3^2 + b \cdot 3 + c}$
   quindi la condizione richiesta è
-  $$\textcolor{red}{9a + 3b + c = 2}$$
+  $\textcolor{red}{9a + 3b + c = 2}$
 
-Poiché le tre condizioni devono valere contemporaneamente facciamo il [sistema]{.text-red} per trovare le incognite $$\textcolor{red}{a}$$, $$\textcolor{red}{b}$$ e $$\textcolor{red}{c}$$.
+Poiché le tre condizioni devono valere contemporaneamente facciamo il [sistema]{.text-red} per trovare le incognite $\textcolor{red}{a}$, $\textcolor{red}{b}$ e $\textcolor{red}{c}$.
 
 > In questo primo sistema farò tutti i passaggi, naturalmente tu puoi abbreviare
 
@@ -37,7 +37,7 @@ $$
 \end{cases}
 $$
 
-sostituisco il valore di $$c$$ ricavato dalla seconda equazione nella prima e terza equazione; al posto della seconda equazione mettiamo una linea
+sostituisco il valore di $c$ ricavato dalla seconda equazione nella prima e terza equazione; al posto della seconda equazione mettiamo una linea
 
 > **Nota:** conviene farlo perché una volta usata un'equazione non devi più usarla sino alla soluzione, altrimenti il sistema diventa indeterminato.
 
@@ -49,7 +49,7 @@ $$
 \end{cases}
 $$
 
-ricavo $$a$$ dalla prima equazione
+ricavo $a$ dalla prima equazione
 
 $$
 \begin{cases}
@@ -113,7 +113,7 @@ $$
 \end{cases}
 $$
 
-sostituisco il valore di $$b$$
+sostituisco il valore di $b$
 
 $$
 \begin{cases}

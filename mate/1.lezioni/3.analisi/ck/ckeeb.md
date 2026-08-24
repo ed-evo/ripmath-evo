@@ -2,7 +2,7 @@
 
 Vediamo come trovare il volume del cono:
 
-Consideriamo la retta obliqua passante per l'origine $$\textcolor{red}{y = mx}$$ e consideriamo sull'asse $$x$$ l'intervallo da $$0$$ ad $$h$$; troveremo il volume del cono di raggio $$r$$ ed altezza $$h$$, considerando come $$r$$ l'ordinata che si trova ad ascissa $$h$$.
+Consideriamo la retta obliqua passante per l'origine $\textcolor{red}{y = mx}$ e consideriamo sull'asse $x$ l'intervallo da $0$ ad $h$; troveremo il volume del cono di raggio $r$ ed altezza $h$, considerando come $r$ l'ordinata che si trova ad ascissa $h$.
 
 Notiamo che per la formula della retta per l'origine abbiamo:
 

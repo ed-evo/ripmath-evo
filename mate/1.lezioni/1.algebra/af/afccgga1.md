@@ -11,9 +11,9 @@ $$
 $$
 
 abbiamo:
-$$\textcolor{blue}{a = 6}$$
-$$\textcolor{blue}{b = -2}$$ $$\textcolor{blue}{\beta = -1}$$
-$$\textcolor{blue}{c = -8}$$
+$\textcolor{blue}{a = 6}$
+$\textcolor{blue}{b = -2}$ $\textcolor{blue}{\beta = -1}$
+$\textcolor{blue}{c = -8}$
 
 sostituiamo nella formula
 

@@ -6,13 +6,13 @@ $$
 \begin{cases} \textcolor{red}{x + y = 5} \\ \textcolor{red}{xy = 6} \end{cases}
 $$
 
-in pratica equivale a risolvere il problema [già visto](../af/afccge.html) di trovare due numeri di cui conosciamo la somma ed il prodotto; cioè basterà risolvere un'equazione di secondo grado in $$\textcolor{red}{z}$$ del tipo
+in pratica equivale a risolvere il problema [già visto](../af/afccge.html) di trovare due numeri di cui conosciamo la somma ed il prodotto; cioè basterà risolvere un'equazione di secondo grado in $\textcolor{red}{z}$ del tipo
 
 $$
 \textcolor{red}{z^2 - sz + p = 0}
 $$
 
-con $$\textcolor{red}{s}$$ somma delle incognite e $$\textcolor{red}{p}$$ prodotto delle incognite.
+con $\textcolor{red}{s}$ somma delle incognite e $\textcolor{red}{p}$ prodotto delle incognite.
 
 ***
 
@@ -40,7 +40,7 @@ $$
 \textcolor{blue}{z^2 - 5z + 6 = 0}
 $$
 
-per trovare $$x$$ ed $$y$$ risolviamo l'equazione applicando la formula risolutiva:
+per trovare $x$ ed $y$ risolviamo l'equazione applicando la formula risolutiva:
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}
@@ -48,9 +48,9 @@ $$
 
 abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -5}$$
-$$\textcolor{blue}{c = 6}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -5}$
+$\textcolor{blue}{c = 6}$
 
 sostituiamo nella formula:
 
@@ -82,7 +82,7 @@ $$
 \textcolor{blue}{z_2 = \frac{5 + 1}{2} = 3}
 $$
 
-Ogni soluzione trovata è una volta $$x$$ ed una volta $$y$$, infatti il sistema simmetrico implica che le soluzioni siano simmetriche.
+Ogni soluzione trovata è una volta $x$ ed una volta $y$, infatti il sistema simmetrico implica che le soluzioni siano simmetriche.
 
 quindi le due soluzioni saranno:
 

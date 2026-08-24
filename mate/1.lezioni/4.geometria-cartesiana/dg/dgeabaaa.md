@@ -11,9 +11,9 @@ $$
 $$
 
 Abbiamo:
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -3}$$
-$$\textcolor{blue}{c = 2}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -3}$
+$\textcolor{blue}{c = 2}$
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-(-3) \pm \sqrt{(-3)^2 - 4(1)(2)}}{2}}

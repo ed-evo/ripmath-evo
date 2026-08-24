@@ -2,7 +2,7 @@
 
 > **In ogni triangolo rettangolo un cateto è medio proporzionale fra l'ipotenusa e la proiezione del cateto stesso sull'ipotenusa**
 
-Utilizziamo il teorema di base: considero i due triangoli simili $$ABH$$ e $$ABC$$.
+Utilizziamo il teorema di base: considero i due triangoli simili $ABH$ e $ABC$.
 Per vederli meglio te li stacco.
 
 Metto gli angoli uguali corrispondenti uno sopra l'altro in verticale:

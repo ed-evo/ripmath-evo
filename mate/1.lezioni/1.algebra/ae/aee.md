@@ -15,7 +15,7 @@ $$
 \textcolor{red}{= \frac{2 \times 5}{3} \cdot \frac{2 \times 3^2}{7} =}
 $$
 
-Semplifico i termini uguali che siano in un numeratore ed in un denominatore; nel nostro caso tolgo il $$3$$ del denominatore con un tre del numeratore; resta:
+Semplifico i termini uguali che siano in un numeratore ed in un denominatore; nel nostro caso tolgo il $3$ del denominatore con un tre del numeratore; resta:
 $$
 \textcolor{red}{= \frac{2 \times 5}{1} \cdot \frac{2 \times 3}{7} =}
 $$
@@ -47,16 +47,16 @@ $$
 $$
 
 b. [scompongo numeratori e denominatori]{.text-purple}
-- $$\textcolor{red}{a^2 - 1 = (a - 1) \cdot (a + 1)}$$
-- $$\textcolor{red}{a^2 - 4 = (a - 2) \cdot (a + 2)}$$
-- $$\textcolor{red}{2a + 4 = 2 \cdot (a + 2)}$$
-- $$\textcolor{red}{2a^2 - 2a = 2a \cdot (a - 1)}$$
+- $\textcolor{red}{a^2 - 1 = (a - 1) \cdot (a + 1)}$
+- $\textcolor{red}{a^2 - 4 = (a - 2) \cdot (a + 2)}$
+- $\textcolor{red}{2a + 4 = 2 \cdot (a + 2)}$
+- $\textcolor{red}{2a^2 - 2a = 2a \cdot (a - 1)}$
 
 $$
 \textcolor{red}{= \frac{(a - 1) \cdot (a + 1)}{(a - 2) \cdot (a + 2)} \cdot \frac{2 \cdot (a + 2)}{2a \cdot (a - 1)}}
 $$
 
-c. [elimino $$\textcolor{red}{(a - 1)}$$, $$\textcolor{red}{(a + 2)}$$ ed il $$\textcolor{red}{2}$$ che si trovano contemporaneamente al numeratore ed al denominatore; resta]{.text-purple}
+c. [elimino $\textcolor{red}{(a - 1)}$, $\textcolor{red}{(a + 2)}$ ed il $\textcolor{red}{2}$ che si trovano contemporaneamente al numeratore ed al denominatore; resta]{.text-purple}
 $$
 \textcolor{red}{= \frac{a + 1}{a - 2} \cdot \frac{1}{a} =}
 $$

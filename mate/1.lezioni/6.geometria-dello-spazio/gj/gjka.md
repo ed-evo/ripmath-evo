@@ -11,7 +11,7 @@ Possiamo estendere la proprietà nello spazio (lo facciamo però senza dimostraz
 
 **Se due solidi sono simili allora i volumi stanno fra loro come i cubi delle relative altezze, apoteme, lati corrispondenti**
 
-I due solidi in figura, intuitivamente, sono simili perché i piani su cui poggiano le basi $$ABC$$ e $$DEF$$ sono paralleli, quindi è valido il teorema di Talete nello spazio.
+I due solidi in figura, intuitivamente, sono simili perché i piani su cui poggiano le basi $ABC$ e $DEF$ sono paralleli, quindi è valido il teorema di Talete nello spazio.
 
 > In figura ti ho tracciato alcuni triangoli simili: in rosso quelli per le apoteme ed i raggi, in blu quelli per le altezze e gli spigoli.
 

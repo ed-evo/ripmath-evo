@@ -1,6 +1,6 @@
 # [Sistemi di grado superiore al primo]{.text-red}
 
-Sono sistemi che dipendono, per la loro soluzione, dal risolvere un'equazione di grado maggiore di $$1$$
+Sono sistemi che dipendono, per la loro soluzione, dal risolvere un'equazione di grado maggiore di $1$
 
 - Grado di un sistema
 - Sistemi di secondo grado in due incognite

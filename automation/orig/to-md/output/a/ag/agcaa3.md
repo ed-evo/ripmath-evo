@@ -44,7 +44,7 @@ $$
 \textcolor{blue}{x - 1 \ge 0 \quad x \ge 1}
 $$
 
-il primo fattore è positivo o nullo per $$x$$ maggiore o uguale a uno.
+il primo fattore è positivo o nullo per $x$ maggiore o uguale a uno.
 
 Risolvo la seconda:
 
@@ -52,7 +52,7 @@ $$
 \textcolor{blue}{x + 3 \ge 0 \quad x \ge -3}
 $$
 
-il secondo fattore è positivo o nullo per $$x$$ maggiore o uguale a meno 3.
+il secondo fattore è positivo o nullo per $x$ maggiore o uguale a meno 3.
 
 Faccio lo schema:
 
@@ -66,7 +66,7 @@ Faccio lo schema:
 > \textcolor{red}{f(x) \quad \text{++++(-3)----------(1)++++++++++++}}
 > $$
 >
-> $$f(x)$$ indica l'espressione di partenza.
+> $f(x)$ indica l'espressione di partenza.
 > La parentesi tonda indica che l'espressione si annulla nel punto.
 
 Io devo cercare dove l'espressione è negativa o nulla e questo succede per

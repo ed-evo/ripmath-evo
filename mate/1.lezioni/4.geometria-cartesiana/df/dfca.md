@@ -14,7 +14,7 @@ $$
 
 Questa equazione rappresenta una coppia di rette passanti per l'origine;
 
-> Intuitivamente queste due rette si comporteranno, man mano che andremo verso valori più alti, come l'iperbole perché aumentando i valori delle $$x$$ e delle $$y$$ il fattore $$1$$ dopo l'uguale perderà di influenza e le due equazioni: iperbole e coppia di rette, tenderanno verso gli stessi valori.
+> Intuitivamente queste due rette si comporteranno, man mano che andremo verso valori più alti, come l'iperbole perché aumentando i valori delle $x$ e delle $y$ il fattore $1$ dopo l'uguale perderà di influenza e le due equazioni: iperbole e coppia di rette, tenderanno verso gli stessi valori.
 
 scompongo come [differenza di quadrati](../../a/ad/ad6ca.html)
 

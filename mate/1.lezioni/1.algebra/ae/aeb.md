@@ -16,7 +16,7 @@ $$
 \textcolor{red}{\frac{2 \times 5}{3 \times 5}}
 $$
 
-divido numeratore e denominatore per $$\textcolor{red}{5}$$ ed ottengo:
+divido numeratore e denominatore per $\textcolor{red}{5}$ ed ottengo:
 
 $$
 \textcolor{red}{\frac{2}{3}}
@@ -40,10 +40,10 @@ $$
 $$
 
 scompongo il numeratore:
-$$\textcolor{red}{x^2 - 4}$$ è una differenza di quadrati e si scompone come $$\textcolor{red}{(x - 2) \cdot (x + 2)}$$
+$\textcolor{red}{x^2 - 4}$ è una differenza di quadrati e si scompone come $\textcolor{red}{(x - 2) \cdot (x + 2)}$
 
 scompongo il denominatore:
-$$\textcolor{red}{x^2 - 5x + 6}$$ è un trinomio notevole e si scompone come $$\textcolor{red}{(x - 2) \cdot (x - 3)}$$
+$\textcolor{red}{x^2 - 5x + 6}$ è un trinomio notevole e si scompone come $\textcolor{red}{(x - 2) \cdot (x - 3)}$
 
 quindi ho:
 
@@ -51,7 +51,7 @@ $$
 \textcolor{red}{\frac{(x - 2) \cdot (x + 2)}{(x - 2) \cdot (x - 3)}}
 $$
 
-numeratore e denominatore hanno uguale il fattore $$\textcolor{red}{(x - 2)}$$, lo tolgo sia sopra che sotto ed ottengo:
+numeratore e denominatore hanno uguale il fattore $\textcolor{red}{(x - 2)}$, lo tolgo sia sopra che sotto ed ottengo:
 
 $$
 \textcolor{red}{\frac{x + 2}{x - 3}}

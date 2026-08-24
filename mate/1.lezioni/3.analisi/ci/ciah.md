@@ -22,23 +22,23 @@ e dire se essa è continua e derivabile.
 
 Considero il grafico della funzione.
 
-Per studiarne la continuità e la derivabilità devo vedere cosa succede nei punti di congiunzione, cioè per $$x = 0$$ ed $$x = 1$$.
+Per studiarne la continuità e la derivabilità devo vedere cosa succede nei punti di congiunzione, cioè per $x = 0$ ed $x = 1$.
 
 Per definizione di continuità dovrà essere:
 
-nel punto $$0$$
+nel punto $0$
 [$$
 \lim_{x \to 0^-} x + 1 = \lim_{x \to 0^+} e^x
 $$]{.text-red}
-e sostituendo $$0$$ alla $$x$$ ottengo $$1 = 1$$, quindi la funzione è continua in $$0$$.
+e sostituendo $0$ alla $x$ ottengo $1 = 1$, quindi la funzione è continua in $0$.
 
-nel punto $$1$$
+nel punto $1$
 [$$
 \lim_{x \to 1^-} e^x = \lim_{x \to 1^+} ex
 $$]{.text-red}
-e sostituendo $$1$$ alla $$x$$ ottengo $$e = e$$, quindi la funzione è continua in $$1$$.
+e sostituendo $1$ alla $x$ ottengo $e = e$, quindi la funzione è continua in $1$.
 
-quindi la funzione è continua su tutto $$\mathbb{R}$$.
+quindi la funzione è continua su tutto $\mathbb{R}$.
 
 Consideriamo la derivata della funzione (basterà derivare ogni componente):
 
@@ -50,28 +50,28 @@ e & \text{se } x > 1
 \end{cases}
 $$]{.text-blue}
 
-e controlliamo cosa succede in $$0$$ ed $$1$$.
+e controlliamo cosa succede in $0$ ed $1$.
 
 Per definizione di derivabilità dovrà essere la derivata destra uguale alla derivata sinistra nel punto, cioè:
 
-nel punto $$0$$
+nel punto $0$
 [$$
 \lim_{x \to 0^-} 1 = 1
 $$]{.text-red}
 [$$
 \lim_{x \to 0^+} e^x = e^0 = 1
 $$]{.text-red}
-quindi la funzione è derivabile in $$0$$.
+quindi la funzione è derivabile in $0$.
 
-nel punto $$1$$
+nel punto $1$
 [$$
 \lim_{x \to 1^-} e^x = e^1 = e
 $$]{.text-red}
 [$$
 \lim_{x \to 1^+} e = e
 $$]{.text-red}
-quindi la funzione è derivabile in $$1$$.
+quindi la funzione è derivabile in $1$.
 
-quindi la funzione è derivabile su tutto $$\mathbb{R}$$.
+quindi la funzione è derivabile su tutto $\mathbb{R}$.
 
-[**Risultato: la funzione è continua e derivabile su tutto $$\mathbb{R}$$**]{.text-blue}
+[**Risultato: la funzione è continua e derivabile su tutto $\mathbb{R}$**]{.text-blue}

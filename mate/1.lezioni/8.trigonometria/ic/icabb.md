@@ -6,7 +6,7 @@ $$
 \textcolor{red}{\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta}
 $$
 
-poniamo $$\beta = \alpha$$, cioè mettiamo $$\alpha$$ al posto di $$\beta$$ nella formula
+poniamo $\beta = \alpha$, cioè mettiamo $\alpha$ al posto di $\beta$ nella formula
 
 $$
 \textcolor{red}{\cos(\alpha + \alpha) = \cos \alpha \cos \alpha - \sin \alpha \sin \alpha}

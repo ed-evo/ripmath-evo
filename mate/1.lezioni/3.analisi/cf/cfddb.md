@@ -24,8 +24,8 @@ $$
 \textcolor{red}{y = x^3 \sin x}
 $$
 
-La derivata di $$\textcolor{red}{x^3}$$ è $$\textcolor{red}{3x^2}$$.
-La derivata di $$\textcolor{red}{\sin x}$$ è $$\textcolor{red}{\cos x}$$.
+La derivata di $\textcolor{red}{x^3}$ è $\textcolor{red}{3x^2}$.
+La derivata di $\textcolor{red}{\sin x}$ è $\textcolor{red}{\cos x}$.
 
 Quindi
 
@@ -43,7 +43,7 @@ $$
 \textcolor{red}{y = 3x^4}
 $$
 
-Essendo $$\textcolor{red}{3}$$ una costante, la moltiplico per la derivata di $$\textcolor{red}{x^4}$$:
+Essendo $\textcolor{red}{3}$ una costante, la moltiplico per la derivata di $\textcolor{red}{x^4}$:
 
 $$
 \textcolor{red}{y' = 3 \cdot 4x^3}
@@ -77,9 +77,9 @@ $$
 \textcolor{red}{y = x^5 \cdot \cos x \cdot \log x}
 $$
 
-La derivata di $$\textcolor{red}{x^5}$$ è $$\textcolor{red}{5x^4}$$.
-La derivata di $$\textcolor{red}{\cos x}$$ è $$\textcolor{red}{-\sin x}$$.
-La derivata di $$\textcolor{red}{\log x}$$ è $$\textcolor{red}{1/x}$$.
+La derivata di $\textcolor{red}{x^5}$ è $\textcolor{red}{5x^4}$.
+La derivata di $\textcolor{red}{\cos x}$ è $\textcolor{red}{-\sin x}$.
+La derivata di $\textcolor{red}{\log x}$ è $\textcolor{red}{1/x}$.
 
 Quindi
 

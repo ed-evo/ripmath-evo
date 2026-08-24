@@ -20,13 +20,13 @@ $$
 = \textcolor{blue}{\sqrt{3 + \sqrt{8}}} =
 $$
 
-Ora controllo che sia possibile considerando il termine: $$a^2 - b$$ se è un quadrato perfetto procedo perché è estraibile di radice, altrimenti dico che non conviene procedere, cioè non si può trasformare in somma di radicali semplici.
+Ora controllo che sia possibile considerando il termine: $a^2 - b$ se è un quadrato perfetto procedo perché è estraibile di radice, altrimenti dico che non conviene procedere, cioè non si può trasformare in somma di radicali semplici.
 
 $$
 \textcolor{red}{a^2 - b = 3^2 - 8 = 9 - 8 = 1}
 $$
 
-$$1$$ è il quadrato di $$1$$ quindi è estraibile di radice; procedo.
+$1$ è il quadrato di $1$ quindi è estraibile di radice; procedo.
 
 Applico la formula:
 
@@ -34,7 +34,7 @@ $$
 \textcolor{red}{\sqrt{a + \sqrt{b}} = \sqrt{\frac{a + \sqrt{a^2 - b}}{2}} + \sqrt{\frac{a - \sqrt{a^2 - b}}{2}}}
 $$
 
-Sostituisco $$a=3$$ e $$b=8$$:
+Sostituisco $a=3$ e $b=8$:
 
 $$
 = \textcolor{blue}{\sqrt{\frac{3 + \sqrt{3^2 - 8}}{2}} + \sqrt{\frac{3 - \sqrt{3^2 - 8}}{2}}} =

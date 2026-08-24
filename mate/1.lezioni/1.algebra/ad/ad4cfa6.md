@@ -6,13 +6,13 @@ $$
 (3x-y)^5 =
 $$
 
-> So che le parti letterali sono $$\textcolor{red}{a^5, a^4b, a^3b^2, a^2b^3, ab^4, b^5}$$.
-> So, dal triangolo di Tartaglia, che i coefficienti sono $$1, 5, 10, 10, 5, 1$$.
+> So che le parti letterali sono $\textcolor{red}{a^5, a^4b, a^3b^2, a^2b^3, ab^4, b^5}$.
+> So, dal triangolo di Tartaglia, che i coefficienti sono $1, 5, 10, 10, 5, 1$.
 > Quindi vale la regola:
 > $$
 > \textcolor{red}{(a+b)^5 = a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + b^5}
 > $$
-> Al posto di $$a$$ ho $$\textcolor{red}{3x}$$ ed al posto di $$b$$ ho $$\textcolor{red}{-y}$$.
+> Al posto di $a$ ho $\textcolor{red}{3x}$ ed al posto di $b$ ho $\textcolor{red}{-y}$.
 > Quindi vado a sostituire nella regola.
 
 $$

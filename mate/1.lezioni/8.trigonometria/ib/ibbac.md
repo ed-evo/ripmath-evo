@@ -1,8 +1,8 @@
-# Come si disegna la funzione $$y = \operatorname{sen} x$$
+# Come si disegna la funzione $y = \operatorname{sen} x$
 
-Dobbiamo immaginare di "srotolare" una circonferenza sull'asse delle $$x$$.
+Dobbiamo immaginare di "srotolare" una circonferenza sull'asse delle $x$.
 
-Ora per ogni angolo prendiamo sulle $$x$$ la lunghezza dell'arco e per le $$y$$ mandiamo l'orizzontale dall'estremo dell'arco.
+Ora per ogni angolo prendiamo sulle $x$ la lunghezza dell'arco e per le $y$ mandiamo l'orizzontale dall'estremo dell'arco.
 
 Aumentiamo l'angolo e facciamo lo stesso.
 

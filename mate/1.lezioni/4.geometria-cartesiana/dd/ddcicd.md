@@ -24,8 +24,8 @@ x^2 + y^2 - 8x + 4y + 2 + k(x^2 + y^2 + 2x - 6y + 2) = 0
 $$
 
 Abbiamo quindi le due circonferenze di base:
-- $$x^2 + y^2 - 8x + 4y + 2 = 0$$
-- $$x^2 + y^2 + 2x - 6y + 2 = 0$$
+- $x^2 + y^2 - 8x + 4y + 2 = 0$
+- $x^2 + y^2 + 2x - 6y + 2 = 0$
 
 ---
 
@@ -44,9 +44,9 @@ x^2 + y^2 - 2x - 6y + 2 &= 0 \\
 \end{aligned}
 $$
 
-Posso dividere per $$10$$ ed ottengo l'equazione dell'asse radicale:
-$$-x + y = 0$$
-$$y = x$$ (Bisettrice del primo e terzo quadrante)
+Posso dividere per $10$ ed ottengo l'equazione dell'asse radicale:
+$-x + y = 0$
+$y = x$ (Bisettrice del primo e terzo quadrante)
 
 Quindi, risolviamo i sistemi per mostrare che vale la condizione di tangenza nello stesso punto ed alla stessa retta:
 
@@ -68,6 +68,6 @@ $$
 e trovo come risultato un solo punto, cioè due punti coincidenti (il delta del sistema è uguale a zero), essendo il punto trovato il punto di tangenza:
 [$$T(1;1)$]{.text-red}
 
-Quindi l'asse radicale $$y = x$$ è la tangente comune alle due circonferenze base del fascio nello stesso punto [$$T(1;1)$]{.text-red}.
+Quindi l'asse radicale $y = x$ è la tangente comune alle due circonferenze base del fascio nello stesso punto [$$T(1;1)$]{.text-red}.
 
 ---

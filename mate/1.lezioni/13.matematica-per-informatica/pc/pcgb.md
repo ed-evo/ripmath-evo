@@ -8,7 +8,7 @@ $$
 a + 1 = 1
 $$
 
-Parto da $$a + 1$$, so che:
+Parto da $a + 1$, so che:
 
 $$
 a + 1 = (a + 1) \cdot 1
@@ -38,13 +38,13 @@ $$
 
 come volevamo.
 
-> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $$0$$ in $$1$$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
+> **Nota:** Dimostriamo anche la formula complementare: nota che la dimostrazione è la stessa cambiando il prodotto in somma, cambiando lo $0$ in $1$ e considerando la stessa legge ma con numero diverso: seconda al posto della prima e prima al posto della seconda. Tenendo presente ciò, puoi fare tu la dimostrazione complementare e controllare poi i passaggi così ti serve di esercizio anche per ripassare le regole.
 
 $$
 a \cdot 0 = 0
 $$
 
-Parto da $$a \cdot 0$$, so che:
+Parto da $a \cdot 0$, so che:
 
 $$
 a \cdot 0 = (a \cdot 0) + 0

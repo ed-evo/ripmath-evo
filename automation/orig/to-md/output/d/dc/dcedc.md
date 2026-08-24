@@ -21,13 +21,13 @@ A destra in blu la prima retta ed in verde la seconda.
 
 ***
 
-C'è un piccolo problema: dando dei valori a $$k$$ possiamo trovare tutte le rette del fascio eccetto la retta:
+C'è un piccolo problema: dando dei valori a $k$ possiamo trovare tutte le rette del fascio eccetto la retta:
 
 $$
 \textcolor{blue}{2x - y - 8 = 0}
 $$
 
-infatti tale retta si otterrebbe per un valore $$k = \infty$$ (l'infinito sarà trattato più avanti in analisi).
+infatti tale retta si otterrebbe per un valore $k = \infty$ (l'infinito sarà trattato più avanti in analisi).
 allora si può procedere in due modi diversi:
 
 - si considera come fascio l'insieme delle rette precedenti aggiungendovi la seconda retta cioè:
@@ -37,7 +37,7 @@ $$
 \textcolor{blue}{2x - y - 8 = 0} 
 \end{cases}
 $$
-- Introduciamo due parametri $$\lambda$$ e $$\mu$$, allora il fascio di rette sarà dato da:
+- Introduciamo due parametri $\lambda$ e $\mu$, allora il fascio di rette sarà dato da:
 $$
 \textcolor{blue}{\lambda(2x + 3y) + \mu(2x - y - 8) = 0}
 $$
@@ -59,12 +59,12 @@ $$
 \end{cases}
 $$
 
-Osserviamo che la retta $$2x + 3y = 0$$ si ottiene per $$k = 0$$.
-Se diamo dei valori a $$k$$ in modo ordinato ($$+1, +2, +3, \dots$$ oppure $$-1, -2, -3, \dots$$) otteniamo altre rette che, partendo dalla prima retta, ruotando attorno al punto di intersezione, si avvicinano alla seconda retta;
-Ora posso avvicinarmi a $$\infty$$ sia considerando valori superiori a $$0$$ che valori inferiori: quindi abbiamo $$2$$ possibilità per le rette di sovrapporsi:
+Osserviamo che la retta $2x + 3y = 0$ si ottiene per $k = 0$.
+Se diamo dei valori a $k$ in modo ordinato ($+1, +2, +3, \dots$ oppure $-1, -2, -3, \dots$) otteniamo altre rette che, partendo dalla prima retta, ruotando attorno al punto di intersezione, si avvicinano alla seconda retta;
+Ora posso avvicinarmi a $\infty$ sia considerando valori superiori a $0$ che valori inferiori: quindi abbiamo $2$ possibilità per le rette di sovrapporsi:
 
-- una che nell'angolo per andare dalla prima alla seconda retta si svolge in senso antiorario e, nel nostro caso, corrisponde a valori di $$k > 0$$
-- l'altra, invece, si svolge in senso orario e corrisponde, nel nostro caso, a valori di $$k < 0$$.
+- una che nell'angolo per andare dalla prima alla seconda retta si svolge in senso antiorario e, nel nostro caso, corrisponde a valori di $k > 0$
+- l'altra, invece, si svolge in senso orario e corrisponde, nel nostro caso, a valori di $k < 0$.
 
 > **Nota:** Queste considerazioni ci serviranno nella discussione del problema geometrico.
 

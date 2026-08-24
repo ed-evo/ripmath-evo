@@ -1,4 +1,4 @@
-# Il valore del determinante non cambia se sommo (sottraggo) ad una riga (colonna) una qualunque riga (colonna) parallela moltiplicata per un numero reale $$C$$
+# Il valore del determinante non cambia se sommo (sottraggo) ad una riga (colonna) una qualunque riga (colonna) parallela moltiplicata per un numero reale $C$
 
 > Questa è la regola che ci permetterà di ottenere righe o colonne con più elementi nulli e quindi ci permetterà di sviluppare determinanti complessi in modo abbastanza semplificato
 
@@ -8,7 +8,7 @@ $$
 \textcolor{blue}{\begin{vmatrix} a & b & c \\ d & e & f \\ g & h & i \end{vmatrix} = \begin{vmatrix} a+kd & b+ke & c+kf \\ d & e & f \\ g & h & i \end{vmatrix}}
 $$
 
-con $$k$$ numero reale
+con $k$ numero reale
 
 Infatti per la regola precedente abbiamo
 

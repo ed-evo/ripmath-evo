@@ -6,7 +6,7 @@ Esempio: l'insieme
 $$
 a_1+a_2+a_3+a_4
 $$
-è la ridotta di ordine $$4$$ della successione
+è la ridotta di ordine $4$ della successione
 $$
 a_1, a_2, a_3, \dots, a_n, \dots
 $$
@@ -70,7 +70,7 @@ $$
 \dots
 $$
 
-Diremo che una serie $$s_k$$ converge (o converge semplicemente) se converge la successione delle sue ridotte
+Diremo che una serie $s_k$ converge (o converge semplicemente) se converge la successione delle sue ridotte
 $$
 s_1, s_2, s_3, \dots, s_n, \dots
 $$
@@ -78,7 +78,7 @@ Se la serie
 $$
 a_1+a_2+a_3+a_4+\dots
 $$
-converge allora il limite $$s$$ si chiama anche somma della serie e vale
+converge allora il limite $s$ si chiama anche somma della serie e vale
 $$
 s = a_1+a_2+a_3+\dots +a_n+\dots
 $$
@@ -94,7 +94,7 @@ $$
 In pratica quindi una serie non è altro che una successione e si potrebbero studiare concettualmente le serie come successioni, ma ormai è nella tradizione studiare le serie come enti autonomi e presentare alcuni teoremi come teoremi sulle serie ed altri come teoremi sulle successioni ed altri ancora nella doppia forma.
 
 Come esempio vediamo un teorema sulle serie che ci fornisce un teorema sulle successioni.
-Per il teorema generale di convergenza delle successioni avremo che, se la serie $$s_n$$ converge (essendo una successione applico il criterio di convergenza di Cauchy) si ha
+Per il teorema generale di convergenza delle successioni avremo che, se la serie $s_n$ converge (essendo una successione applico il criterio di convergenza di Cauchy) si ha
 $$
 \lim_{n \to \infty} |s_n-s_{n-1}| = 0
 $$
@@ -106,6 +106,6 @@ otteniamo
 $$
 \lim_{n \to \infty} a_n = 0
 $$
-cioè il termine generale $$a_n$$ di una successione che genera una serie numerica convergente è infinitesimo al divergere di $$n$$.
+cioè il termine generale $a_n$ di una successione che genera una serie numerica convergente è infinitesimo al divergere di $n$.
 
 > **Nota:** la condizione è necessaria, ma non sufficiente, cioè se la serie è convergente il termine generico è infinitesimo, ma non vale sempre il viceversa: esistono successioni con termine generico infinitesimo che danno luogo a serie divergenti.

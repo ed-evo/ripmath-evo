@@ -1,6 +1,6 @@
-# Identità $$0$$
+# Identità $0$
 
-È l'identità $$0$$
+È l'identità $0$
 
 corrisponde alla contraddizione in logica
 

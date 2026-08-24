@@ -12,7 +12,7 @@ $$
 \textcolor{red}{\cos \alpha = \frac{b}{c}}
 $$
 
-Ricavo $$b$$:
+Ricavo $b$:
 
 $$
 \textcolor{red}{c \cos \alpha = b}
@@ -26,7 +26,7 @@ $$
 
 ***
 
-Ora posso ribaltare il triangolo in modo che nel punto $$O$$ vada l'angolo $$\beta$$. Dopo il ribaltamento ho cambiato le lettere ai vertici mantenendo inalterati invece i nomi degli angoli e dei lati.
+Ora posso ribaltare il triangolo in modo che nel punto $O$ vada l'angolo $\beta$. Dopo il ribaltamento ho cambiato le lettere ai vertici mantenendo inalterati invece i nomi degli angoli e dei lati.
 
 Dalla definizione di coseno abbiamo:
 
@@ -40,7 +40,7 @@ $$
 \textcolor{red}{\cos \beta = \frac{a}{c}}
 $$
 
-Ricavo $$a$$:
+Ricavo $a$:
 
 $$
 \textcolor{red}{c \cos \beta = a}
@@ -66,4 +66,4 @@ Quindi, raccogliendo possiamo dire:
 > \textcolor{red}{a = c \cos \beta}
 > $$
 
-Per farla più intuitiva si può dire che il coseno proietta l'ipotenusa sul cateto: il lato $$b$$ è la proiezione verticale del lato $$c$$. Questo fatto assumerà molta importanza in fisica.
+Per farla più intuitiva si può dire che il coseno proietta l'ipotenusa sul cateto: il lato $b$ è la proiezione verticale del lato $c$. Questo fatto assumerà molta importanza in fisica.

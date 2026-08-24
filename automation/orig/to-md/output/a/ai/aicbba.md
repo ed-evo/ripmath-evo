@@ -1,17 +1,17 @@
 Risolviamo l'equazione
-$$\textcolor{blue}{x^2 + 2ax - 3a^2 + 4a - 1 = 0}$$
+$\textcolor{blue}{x^2 + 2ax - 3a^2 + 4a - 1 = 0}$
 Nelle equazioni letterali, quando possibile, conviene applicare la [formula ridotta](../af/afccb.html).
 
 $$
 \textcolor{red}{x_{1,2} = \frac{-\beta \pm \sqrt{\beta^2 - ac}}{a}}
 $$
 
-Facciamo attenzione a non confondere la $$\textcolor{red}{a}$$ della formula con la $$\textcolor{blue}{a}$$ lettera dell'esercizio.
+Facciamo attenzione a non confondere la $\textcolor{red}{a}$ della formula con la $\textcolor{blue}{a}$ lettera dell'esercizio.
 
 Abbiamo:
-$$\textcolor{red}{a} = \textcolor{blue}{1}$$
-$$\textcolor{red}{\beta} = \textcolor{blue}{a}$$
-$$\textcolor{red}{c} = \textcolor{blue}{-3a^2 + 4a - 1}$$
+$\textcolor{red}{a} = \textcolor{blue}{1}$
+$\textcolor{red}{\beta} = \textcolor{blue}{a}$
+$\textcolor{red}{c} = \textcolor{blue}{-3a^2 + 4a - 1}$
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{-a \pm \sqrt{a^2 - (1)(-3a^2 + 4a - 1)}}{1}}

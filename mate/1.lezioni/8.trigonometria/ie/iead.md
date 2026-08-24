@@ -12,7 +12,7 @@ $$
 \textcolor{red}{r = \frac{\text{Area}}{p}}
 $$
 
-essendo $$p$$ il semiperimetro.
+essendo $p$ il semiperimetro.
 
 Sostituendo all'area la formula di Erone avremo la formula per trovare il raggio del cerchio inscritto essendo noti i lati
 
@@ -26,19 +26,19 @@ $$
 \textcolor{blue}{r = \sqrt{\frac{p(p-a)(p-b)(p-c)}{p^2}}}
 $$
 
-Semplifico sopra e sotto per $$p$$
+Semplifico sopra e sotto per $p$
 
 $$
 \textcolor{blue}{r = \sqrt{\frac{(p-a)(p-b)(p-c)}{p}}}
 $$
 
-adesso moltiplico sopra e sotto per $$(p-a)$$: cerco di trasformare in modo da avere una delle formule di Briggs
+adesso moltiplico sopra e sotto per $(p-a)$: cerco di trasformare in modo da avere una delle formule di Briggs
 
 $$
 \textcolor{blue}{r = \sqrt{\frac{(p-a)^2(p-b)(p-c)}{p(p-a)}}}
 $$
 
-Estraggo dalla radice $$(p-a)$$ ed ottengo
+Estraggo dalla radice $(p-a)$ ed ottengo
 
 $$
 \textcolor{blue}{r = (p-a) \sqrt{\frac{(p-b)(p-c)}{p(p-a)}}}
@@ -56,7 +56,7 @@ $$
 \textcolor{red}{r = (p-a) \tan \frac{\alpha}{2}}
 $$
 
-Potendo applicare lo stesso ragionamento per estrarre dalla radice $$(p-b)$$ e $$(p-c)$$ avremo le tre formule per il raggio del cerchio inscritto nel triangolo:
+Potendo applicare lo stesso ragionamento per estrarre dalla radice $(p-b)$ e $(p-c)$ avremo le tre formule per il raggio del cerchio inscritto nel triangolo:
 
 $$
 \textcolor{red}{r = (p-a) \tan \frac{\alpha}{2}}

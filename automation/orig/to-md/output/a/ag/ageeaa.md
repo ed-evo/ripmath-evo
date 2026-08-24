@@ -1,10 +1,10 @@
 Abbiamo la disequazione:
 
-$$\textcolor{red}{x^2 - 4x + 3 > 0}$$
+$\textcolor{red}{x^2 - 4x + 3 > 0}$
 
 Risolviamo l'equazione associata:
 
-$$\textcolor{blue}{x^2 - 4x + 3 = 0}$$
+$\textcolor{blue}{x^2 - 4x + 3 = 0}$
 
 Prendiamo la formula risolutiva ridotta:
 
@@ -14,9 +14,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -4 \quad \beta = -2}$$
-$$\textcolor{blue}{c = 3}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -4 \quad \beta = -2}$
+$\textcolor{blue}{c = 3}$
 
 Sostituiamo nella formula:
 
@@ -50,8 +50,8 @@ $$
 
 Ho quindi le due soluzioni:
 
-$$\textcolor{red}{x_1 = 1} \quad \textcolor{red}{x_2 = 3}$$
+$\textcolor{red}{x_1 = 1} \quad \textcolor{red}{x_2 = 3}$
 
-Siccome le due radici sono reali e distinte (e quindi $$\Delta$$ maggiore di zero) allora la mia disequazione sarà valida per valori [esterni]{.text-blue} all'intervallo delle radici, cioè:
+Siccome le due radici sono reali e distinte (e quindi $\Delta$ maggiore di zero) allora la mia disequazione sarà valida per valori [esterni]{.text-blue} all'intervallo delle radici, cioè:
 
-$$\textcolor{red}{x < 1 \cup x > 3}$$
+$\textcolor{red}{x < 1 \cup x > 3}$

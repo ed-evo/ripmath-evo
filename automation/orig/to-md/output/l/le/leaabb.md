@@ -1,7 +1,7 @@
 In questo caso ho che può essere
 
-$$\text{t c}$$ la prima testa e la seconda croce $$p = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$$
-$$\text{c t}$$ la prima croce e la seconda testa $$p = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$$
+$\text{t c}$ la prima testa e la seconda croce $p = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$
+$\text{c t}$ la prima croce e la seconda testa $p = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$
 
 Essendo il lancio contemporaneo, per questo evento devo considerare assieme entrambe le possibilità (o vale la prima o vale la seconda)
 

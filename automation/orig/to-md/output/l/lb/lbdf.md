@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{\binom{n}{k} \cdot \frac{n-k}{k+1} = \frac{n!}{k!(n-k)!} \cdot \frac{n-k}{k+1}}
 $$
 
-Per semplificare sopra e sotto ricordo che $$\textcolor{blue}{(n-k)! = (n-k)(n-k-1)!}$$ inoltre ricordo che $$\textcolor{blue}{(k+1) \cdot k! = (k+1)!}$$
+Per semplificare sopra e sotto ricordo che $\textcolor{blue}{(n-k)! = (n-k)(n-k-1)!}$ inoltre ricordo che $\textcolor{blue}{(k+1) \cdot k! = (k+1)!}$
 
 $$
 \textcolor{blue}{= \frac{n! \cdot (n-k)}{(k+1)k!(n-k)(n-k-1)!}}

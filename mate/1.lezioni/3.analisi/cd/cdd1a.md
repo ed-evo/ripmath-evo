@@ -2,13 +2,13 @@
 
 Se noi dividiamo un numero per zero otteniamo dei [risultati assurdi](../../divisozero.html) ma ora il concetto di limite ci permette di dare un significato anche alla divisione per zero:
 
-Considero un numero (ad esempio $$1$$) e lo divido per un altro numero (ad esempio $$0,1$$) ottengo
+Considero un numero (ad esempio $1$) e lo divido per un altro numero (ad esempio $0,1$) ottengo
 
 $$
 \textcolor{red}{1/(0,1) = 1/(1/10) = 1 \times 10 = 10}
 $$
 
-Ora faccio diventare il divisore sempre più piccolo: $$0,01$$, $$0,001$$, $$0,001$$ ecc.
+Ora faccio diventare il divisore sempre più piccolo: $0,01$, $0,001$, $0,001$ ecc.
 
 $$
 \textcolor{red}{1/(0,01) = 1/(1/100) = 1 \times 100 = 100}

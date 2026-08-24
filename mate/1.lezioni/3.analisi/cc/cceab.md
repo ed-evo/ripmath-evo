@@ -4,15 +4,15 @@ $$
 y = 2x - 6
 $$
 
-> la funzione $$y = 2x - 6$$ è una retta quindi è sia iniettiva che suriettiva e di conseguenza è invertibile
+> la funzione $y = 2x - 6$ è una retta quindi è sia iniettiva che suriettiva e di conseguenza è invertibile
 
-Scambiamo fra loro la $$x$$ e la $$y$$
+Scambiamo fra loro la $x$ e la $y$
 
 $$
 x = 2y - 6
 $$
 
-Esplicito la $$y$$
+Esplicito la $y$
 
 $$
 -2y = -x - 6
@@ -24,7 +24,7 @@ $$
 2y = x + 6
 $$
 
-Divido ogni termine per $$2$$ ed ottengo la funzione inversa
+Divido ogni termine per $2$ ed ottengo la funzione inversa
 
 $$
 \frac{2y}{2} = \frac{x}{2} + \frac{6}{2}

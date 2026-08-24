@@ -19,8 +19,8 @@ x^5 - 2x^4 - 3x^3 + 2x^2 - 4x + 3 & x^3 - 2x^2 - x + 2 \\
 \end{array}
 $$
 
-Il quoziente vale $$x^2 - 2$$
-il resto vale $$-4x^2 - 6x + 7$$
+Il quoziente vale $x^2 - 2$
+il resto vale $-4x^2 - 6x + 7$
 quindi, invece dell'integrale iniziale, posso calcolare gli integrali:
 
 $$
@@ -38,14 +38,14 @@ $$
 = (x - 1)(x + 1)(x - 2)
 $$
 
-Le tre radici (reali e distinte) del denominatore sono $$1$$, $$-1$$, $$2$$.
+Le tre radici (reali e distinte) del denominatore sono $1$, $-1$, $2$.
 Posso scrivere la frazione come somma delle tre frazioni:
 
 $$
 \frac{-4x^2 - 6x + 7}{x^3 - 2x^2 - x + 2} = \frac{A}{x - 1} + \frac{B}{x + 1} + \frac{C}{x - 2}
 $$
 
-Devo trovare $$A$$, $$B$$ e $$C$$.
+Devo trovare $A$, $B$ e $C$.
 A destra faccio il minimo comune multiplo:
 
 $$
@@ -73,7 +73,7 @@ $$
 -2A + 2B - C = 7
 $$
 
-Pongo a sistema le tre equazioni per calcolare $$A$$, $$B$$ e $$C$$:
+Pongo a sistema le tre equazioni per calcolare $A$, $B$ e $C$:
 
 $$
 \begin{cases}

@@ -13,9 +13,9 @@ Di solito la proposizione inversa non è vera.
 **Esempio:**
 
 Dal teorema precedente:
-**Se un numero è divisibile per $$4$$ allora il numero è pari**
+**Se un numero è divisibile per $4$ allora il numero è pari**
 
 Scambiando l'ipotesi e la tesi ottengo:
-**Se un numero è pari allora il numero è divisibile per $$4$$**
+**Se un numero è pari allora il numero è divisibile per $4$**
 
-In generale non è vero: ad esempio $$2$$ è un numero pari ma non è divisibile per $$4$$.
+In generale non è vero: ad esempio $2$ è un numero pari ma non è divisibile per $4$.

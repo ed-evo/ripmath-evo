@@ -1,6 +1,6 @@
 # Parabola con vertice nell'origine ed asse verticale
 
-Consideriamo il Fuoco sull'asse $$y$$ e la direttrice come retta orizzontale da banda opposta dell'origine rispetto al fuoco e avente dall'origine la stessa distanza che il fuoco.
+Consideriamo il Fuoco sull'asse $y$ e la direttrice come retta orizzontale da banda opposta dell'origine rispetto al fuoco e avente dall'origine la stessa distanza che il fuoco.
 
 $$
 \textcolor{blue}{PF = PH}

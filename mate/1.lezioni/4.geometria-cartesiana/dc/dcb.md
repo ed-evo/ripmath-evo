@@ -37,10 +37,10 @@ $$
 ***
 
 Inoltre:
-$$\textcolor{blue}{O}$$ indicherà sempre l'origine.
+$\textcolor{blue}{O}$ indicherà sempre l'origine.
 
 ***
 
 Quindi:
-$$\textcolor{blue}{A = (x_1, y_1)}$$ indicherà un punto di cui conosciamo il valore.
-$$\textcolor{blue}{P = (x, y)}$$ indicherà un punto di cui dobbiamo trovare il valore.
+$\textcolor{blue}{A = (x_1, y_1)}$ indicherà un punto di cui conosciamo il valore.
+$\textcolor{blue}{P = (x, y)}$ indicherà un punto di cui dobbiamo trovare il valore.

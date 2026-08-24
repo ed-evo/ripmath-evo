@@ -8,7 +8,7 @@ $$
 \textcolor{red}{3x - 6 = 0}
 $$
 
-se al posto di $$x$$ metto il valore $$2$$ l'uguaglianza diventa vera:
+se al posto di $x$ metto il valore $2$ l'uguaglianza diventa vera:
 
 $$
 \textcolor{red}{3 \cdot 2 - 6 = 0}
@@ -28,4 +28,4 @@ Allora quando avremo un problema, per trovare il valore di un dato che non conos
 
 ***
 
-Abbiamo detto che le equazioni sono le frasi della matematica: l'equazione precedente dice che devo trovare il numero (e questo vuol dire considerare la $$x$$) tale che se dal triplo del numero ($$\textcolor{red}{3x}$$) tolgo ($\textcolor{red}{-}$) sei ($\textcolor{red}{6}$) ottengo ($\textcolor{red}{=}$) zero ($\textcolor{red}{0}$). Comunque del linguaggio delle equazioni parleremo più ampiamente nei [problemi](../ah/ah.html).
+Abbiamo detto che le equazioni sono le frasi della matematica: l'equazione precedente dice che devo trovare il numero (e questo vuol dire considerare la $x$) tale che se dal triplo del numero ($\textcolor{red}{3x}$) tolgo ($\textcolor{red}{-}$) sei ($\textcolor{red}{6}$) ottengo ($\textcolor{red}{=}$) zero ($\textcolor{red}{0}$). Comunque del linguaggio delle equazioni parleremo più ampiamente nei [problemi](../ah/ah.html).

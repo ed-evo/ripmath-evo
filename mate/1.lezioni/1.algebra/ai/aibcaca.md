@@ -11,8 +11,8 @@ $$
 
 Mi conviene sviluppare secondo la prima riga perché ho solo due termini diversi da zero.
 L'evidenzio in blu.
-Il primo termine della riga ha posto $$a_{1,1}$$, cioè prima riga e prima colonna $$1+1=2$$, quindi è di posto pari e quindi mantiene il segno.
-Il secondo termine della prima riga ha posto $$a_{1,2}$$, cioè prima riga e seconda colonna $$1+2=3$$, quindi è di posto dispari e va cambiato di segno.
+Il primo termine della riga ha posto $a_{1,1}$, cioè prima riga e prima colonna $1+1=2$, quindi è di posto pari e quindi mantiene il segno.
+Il secondo termine della prima riga ha posto $a_{1,2}$, cioè prima riga e seconda colonna $1+2=3$, quindi è di posto dispari e va cambiato di segno.
 Dove c'è zero non devo sviluppare perché zero per numero uguale zero.
 
 $$

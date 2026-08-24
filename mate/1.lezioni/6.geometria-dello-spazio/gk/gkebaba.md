@@ -1,4 +1,4 @@
-I triangoli considerati sono $$AA'B'$$ è simile a $$MOM'$$.
+I triangoli considerati sono $AA'B'$ è simile a $MOM'$.
 
 Li stacco per farteli vedere meglio e metto dentro gli angoli congruenti un quadratino con lo stesso colore.
 
@@ -23,4 +23,4 @@ $$
 AB : MO = A'B' : MM'
 $$
 
-> **Nota:** ti ricordo che $$B$$ e $$B'$$ sono lo stesso punto.
+> **Nota:** ti ricordo che $B$ e $B'$ sono lo stesso punto.

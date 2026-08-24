@@ -31,12 +31,12 @@ $$
 $$
 
 Equazione biquadratica. Risolvo:
-pongo $$\textcolor{red}{x^2 = y}$$ e quindi $$\textcolor{red}{x^4 = y^2}$$
+pongo $\textcolor{red}{x^2 = y}$ e quindi $\textcolor{red}{x^4 = y^2}$
 $$
 \textcolor{red}{y^2 - y + 4 = 0}
 $$
 
-Risolvo rispetto ad $$y$$:
+Risolvo rispetto ad $y$:
 $$
 \textcolor{red}{y_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}
 $$
@@ -45,5 +45,5 @@ $$
 \textcolor{red}{y_{1,2} = \frac{-1 \pm \sqrt{1^2 - 16}}{2}}
 $$
 
-Essendo il $$\Delta$$ minore di zero l'equazione non ha soluzioni reali.
+Essendo il $\Delta$ minore di zero l'equazione non ha soluzioni reali.
 Nessuna soluzione.

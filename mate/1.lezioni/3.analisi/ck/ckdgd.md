@@ -1,4 +1,4 @@
-Infatti abbiamo, indicando la derivata con $$'$$:
+Infatti abbiamo, indicando la derivata con $'$:
 
 $$
 \textcolor{red}{(f \cdot h)' = f' \cdot h + f \cdot h'}
@@ -6,13 +6,13 @@ $$
 
 > [La derivata di un prodotto di funzioni è uguale alla derivata della prima funzione per la seconda non derivata più la derivata della seconda funzione per la prima non derivata]{.text-blue}
 
-Ricavando $$\textcolor{red}{f \cdot h'}$$ ottengo:
+Ricavando $\textcolor{red}{f \cdot h'}$ ottengo:
 
 $$
 \textcolor{red}{f \cdot h' = (f \cdot h)' - f' \cdot h}
 $$
 
-Ora se $$\textcolor{red}{h' = g}$$ sarà $$\textcolor{red}{h = \int g}$$
+Ora se $\textcolor{red}{h' = g}$ sarà $\textcolor{red}{h = \int g}$
 
 Sostituendo:
 

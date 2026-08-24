@@ -14,13 +14,13 @@ $$
 
 Cioè ogni termine successivo si ottiene aggiungendo al termine precedente tante unità quanto è il posto del termine che cerco: ad esempio:
 
-- $$1$$ è il primo termine, per avere il secondo termine devo fare $$1+2$$
-- $$3$$ è il secondo termine, per avere il terzo termine devo fare $$3+3$$
-- $$6$$ è il terzo termine, per avere il quarto termine devo fare $$6+4$$
-- $$10$$ è il quarto termine, per avere il quinto termine devo fare $$10+5$$
-- $$15$$ è il quinto termine, per avere il sesto termine devo fare $$15+6$$
+- $1$ è il primo termine, per avere il secondo termine devo fare $1+2$
+- $3$ è il secondo termine, per avere il terzo termine devo fare $3+3$
+- $6$ è il terzo termine, per avere il quarto termine devo fare $6+4$
+- $10$ è il quarto termine, per avere il quinto termine devo fare $10+5$
+- $15$ è il quinto termine, per avere il sesto termine devo fare $15+6$
 
-È una successione $$a: \mathbb{N} \to \mathbb{N}$$ divergente.
+È una successione $a: \mathbb{N} \to \mathbb{N}$ divergente.
 
 ***
 

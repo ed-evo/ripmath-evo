@@ -1,6 +1,6 @@
 # Esercizi
 
-$$\textcolor{blue}{y^2 - 6y + 5 = 0}$$
+$\textcolor{blue}{y^2 - 6y + 5 = 0}$
 
 Prendiamo la formula risolutiva:
 
@@ -10,9 +10,9 @@ $$
 
 Abbiamo:
 
-$$\textcolor{blue}{a = 1}$$
-$$\textcolor{blue}{b = -6}$$
-$$\textcolor{blue}{c = 5}$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -6}$
+$\textcolor{blue}{c = 5}$
 
 Sostituiamo nella formula:
 

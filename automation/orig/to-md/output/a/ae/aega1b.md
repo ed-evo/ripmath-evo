@@ -22,7 +22,7 @@ $$
 \textcolor{red}{= \frac{y + x - y}{(x - y) \cdot (x^{2} + xy + y^{2})} =}
 $$
 
-sommo i termini simili: $$y$$ va via con $$-y$$ ed ottengo
+sommo i termini simili: $y$ va via con $-y$ ed ottengo
 
 $$
 \textcolor{red}{= \frac{x}{(x - y) \cdot (x^{2} + xy + y^{2})}}

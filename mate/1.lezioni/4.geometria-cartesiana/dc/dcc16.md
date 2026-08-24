@@ -1,9 +1,9 @@
 # Esercizio
 
-## [Trovare la distanza fra i punti $$A(-2, 1)$$ e $$B(-2, -4)$${.text-blue}]
+## [Trovare la distanza fra i punti $A(-2, 1)$ e $B(-2, -4)${.text-blue}]
 
-Se guardi le coordinate vedi che i due punti hanno le $$x$$ uguali.
-Se osservi la figura vedi che il segmento da trovare è verticale e vale esattamente $$5$$; cioè la differenza fra le $$y$$ presa sempre positiva (modulo), perché le distanze sono sempre positive.
+Se guardi le coordinate vedi che i due punti hanno le $x$ uguali.
+Se osservi la figura vedi che il segmento da trovare è verticale e vale esattamente $5$; cioè la differenza fra le $y$ presa sempre positiva (modulo), perché le distanze sono sempre positive.
 
 $$
 \overline{AB} = |y_2 - y_1|

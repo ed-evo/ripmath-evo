@@ -14,7 +14,7 @@ $$
 \textcolor{red}{y' = m \left( \frac{1 + x^n}{1 - x^n} \right)^{m-1} \frac{n x^{n-1} (1 - x^n) + n x^{n-1} (1 + x^n)}{(1 - x^n)^2}}
 $$
 
-Possiamo scriverlo in modo più compatto mettendo in evidenza al numeratore $$n x^{n-1}$$, ottengo:
+Possiamo scriverlo in modo più compatto mettendo in evidenza al numeratore $n x^{n-1}$, ottengo:
 
 $$
 \textcolor{red}{y' = m \left( \frac{1 + x^n}{1 - x^n} \right)^{m-1} \frac{n x^{n-1} (1 - x^n + 1 + x^n)}{(1 - x^n)^2}}

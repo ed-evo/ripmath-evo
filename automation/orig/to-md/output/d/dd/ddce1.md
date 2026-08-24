@@ -21,7 +21,7 @@ $$
 
 ***
 
-> **Nota:** Possiamo dire subito che la circonferenza passa per l'origine perché manca il termine noto $$c$$. Inoltre è sempre consigliabile fare la rappresentazione geometrica per poter controllare se i risultati sono accettabili.
+> **Nota:** Possiamo dire subito che la circonferenza passa per l'origine perché manca il termine noto $c$. Inoltre è sempre consigliabile fare la rappresentazione geometrica per poter controllare se i risultati sono accettabili.
 
 ***
 
@@ -76,7 +76,7 @@ $$
 }
 $$
 
-Divido tutto per $$10$$ (così semplifico i calcoli)
+Divido tutto per $10$ (così semplifico i calcoli)
 
 $$
 \textcolor{red}{
@@ -166,7 +166,7 @@ x = 3
 }
 $$
 
-Primo punto di intersezione $$\textcolor{red}{A(3,0)}$$
+Primo punto di intersezione $\textcolor{red}{A(3,0)}$
 
 Sostituisco la seconda soluzione nel sistema
 
@@ -197,6 +197,6 @@ x = 1
 }
 $$
 
-Secondo punto di intersezione $$\textcolor{red}{B(1,4)}$$
+Secondo punto di intersezione $\textcolor{red}{B(1,4)}$
 
 A destra la rappresentazione grafica.

@@ -1,12 +1,12 @@
 # [Sistema lineare non omogeneo]{.text-red}
 
-Per risolvere un sistema lineare non omogeneo di $$n$$ equazioni di primo grado in $$n$$ incognite dobbiamo:
+Per risolvere un sistema lineare non omogeneo di $n$ equazioni di primo grado in $n$ incognite dobbiamo:
 
-1. Controllare la matrice completa ed incompleta e vedere se il loro rango vale $$\textcolor{red}{n}$$: se vale $$\textcolor{red}{n}$$ allora posso usare Cramer per trovare la soluzione.
+1. Controllare la matrice completa ed incompleta e vedere se il loro rango vale $\textcolor{red}{n}$: se vale $\textcolor{red}{n}$ allora posso usare Cramer per trovare la soluzione.
 2. Se i ranghi sono diversi il sistema non ammette soluzioni.
-3. Se i ranghi sono uguali ad un numero $$\textcolor{red}{s}$$ inferiore a $$\textcolor{red}{n}$$ allora devo scegliere le equazioni corrispondenti al determinante il cui valore sia diverso da zero e considerare solo un numero di incognite uguale al numero di equazioni considerate spostando le altre incognite dopo l'uguale trattandole come fossero parametri e risolvere il sistema che ottengo con il metodo di Cramer (o di sostituzione). Otterrò un numero $$\textcolor{red}{\infty^{n-s}}$$ di soluzioni.
+3. Se i ranghi sono uguali ad un numero $\textcolor{red}{s}$ inferiore a $\textcolor{red}{n}$ allora devo scegliere le equazioni corrispondenti al determinante il cui valore sia diverso da zero e considerare solo un numero di incognite uguale al numero di equazioni considerate spostando le altre incognite dopo l'uguale trattandole come fossero parametri e risolvere il sistema che ottengo con il metodo di Cramer (o di sostituzione). Otterrò un numero $\textcolor{red}{\infty^{n-s}}$ di soluzioni.
 
-> **Nota:** fino a 4 incognite useremo le lettere $$\textcolor{red}{x}$$, $$\textcolor{red}{y}$$, $$\textcolor{red}{z}$$, $$\textcolor{red}{t}$$ mentre invece da 5 incognite in avanti useremo $$\textcolor{red}{x_1}$$, $$\textcolor{red}{x_2}$$, $$\textcolor{red}{x_3}$$, $$\textcolor{red}{x_4}$$, $$\textcolor{red}{x_5}$$, $$\textcolor{red}{x_6}$$, $$\textcolor{red}{x_7}$$,...
+> **Nota:** fino a 4 incognite useremo le lettere $\textcolor{red}{x}$, $\textcolor{red}{y}$, $\textcolor{red}{z}$, $\textcolor{red}{t}$ mentre invece da 5 incognite in avanti useremo $\textcolor{red}{x_1}$, $\textcolor{red}{x_2}$, $\textcolor{red}{x_3}$, $\textcolor{red}{x_4}$, $\textcolor{red}{x_5}$, $\textcolor{red}{x_6}$, $\textcolor{red}{x_7}$,...
 
 Vediamo un paio di esercizi:
 

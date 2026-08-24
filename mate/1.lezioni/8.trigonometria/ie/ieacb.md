@@ -1,7 +1,7 @@
 # Formula di Erone
 ## Area del triangolo conoscendone la misura dei tre lati
 
-Consideriamo un triangolo qualunque $$ABC$$ e supponiamo di conoscerne la misura dei tre lati; in queste condizioni posso ricavare una formula che mi permetta di calcolare l'area del triangolo stesso.
+Consideriamo un triangolo qualunque $ABC$ e supponiamo di conoscerne la misura dei tre lati; in queste condizioni posso ricavare una formula che mi permetta di calcolare l'area del triangolo stesso.
 
 Supponiamo di conoscere:
 
@@ -15,7 +15,7 @@ $$
 \overline{AC} = b
 $$
 
-con $$a$$, $$b$$ e $$c$$ numeri noti.
+con $a$, $b$ e $c$ numeri noti.
 
 Partiamo dalla formula dell'area del triangolo conoscendone due lati e l'angolo compreso:
 
@@ -47,7 +47,7 @@ $$
 A_s = ac \sqrt{\frac{p(p-a)(p-b)(p-c)}{a^2c^2}}
 $$
 
-Ora estraggo $$a^2c^2$$ di radice:
+Ora estraggo $a^2c^2$ di radice:
 
 $$
 A_s = \frac{ac}{ac} \sqrt{p(p-a)(p-b)(p-c)}

@@ -18,6 +18,6 @@ $$
 \textcolor{blue}{\tan \alpha = \frac{2t}{1-t^2}}
 $$
 
-ricordando che $$\tan(\alpha/2) = t$$
+ricordando che $\tan(\alpha/2) = t$
 
 > Questa formula sarà usata piuttosto raramente (colpa del segno meno fra i due termini al denominatore che può rendere positivo o negativo il denominatore stesso)

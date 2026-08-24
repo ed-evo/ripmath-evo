@@ -24,7 +24,7 @@ $$
 \textcolor{red}{x_1 = -2} \quad \textcolor{red}{x_2 = 2}
 $$
 
-Essendo $$\textcolor{red}{x^2 - 4 \ge 0}$$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
+Essendo $\textcolor{red}{x^2 - 4 \ge 0}$ dovrò prendere i valori esterni all'intervallo delle radici, quindi
 $$
 \textcolor{red}{x \le -2 \cup x \ge 2}
 $$

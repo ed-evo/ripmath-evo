@@ -8,13 +8,13 @@ $$
 \textcolor{red}{(2a+3b)x + (2a+3b)y= }
 $$
 
-Ho detto giusto! binomio, infatti non vi fate trarre in inganno dalla lunghezza, i termini dentro parentesi valgono come un solo termine quindi questo binomio è composto dai due monomi $$\textcolor{red}{(2a+3b)x}$$ e $$\textcolor{red}{(2a+3b)y}$$ ed è come se fosse:
+Ho detto giusto! binomio, infatti non vi fate trarre in inganno dalla lunghezza, i termini dentro parentesi valgono come un solo termine quindi questo binomio è composto dai due monomi $\textcolor{red}{(2a+3b)x}$ e $\textcolor{red}{(2a+3b)y}$ ed è come se fosse:
 
 $$
 \textcolor{red}{zx + zy= }
 $$
 
-quindi raccogliendo la $$\textcolor{red}{z}$$:
+quindi raccogliendo la $\textcolor{red}{z}$:
 
 $$
 \textcolor{red}{zx + zy = z(x+y)}
@@ -36,7 +36,7 @@ $$
 \textcolor{red}{2x(x+3) + y(x+3) = }
 $$
 
-la parte comune è $$\textcolor{red}{(x+3)}$$ quindi:
+la parte comune è $\textcolor{red}{(x+3)}$ quindi:
 
 $$
 \textcolor{red}{2x(x+3) + y(x+3) = (x+3)(2x+y)}
@@ -50,7 +50,7 @@ $$
 \textcolor{red}{4x(x+y) + 2x^{2}(x+y) = }
 $$
 
-stavolta la parte in comune è $$\textcolor{red}{2x(x+y)}$$ quindi avremo:
+stavolta la parte in comune è $\textcolor{red}{2x(x+y)}$ quindi avremo:
 
 $$
 \textcolor{red}{4x(x+y) + 2x^{2}(x+y) = 2x(x+y)(2+x)}

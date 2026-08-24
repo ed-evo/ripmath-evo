@@ -4,7 +4,7 @@ $$
 \textcolor{red}{5^x - 4 \cdot 3^{x+1} \le 2 \cdot 3^x - 5^{x+1}}
 $$
 
-Ricordando che $$3^{x+1} = 3 \cdot 3^x$$ cerco di avere le potenze allo stesso esponente
+Ricordando che $3^{x+1} = 3 \cdot 3^x$ cerco di avere le potenze allo stesso esponente
 
 $$
 \textcolor{blue}{5^x - 4 \cdot 3 \cdot 3^x \le 2 \cdot 3^x - 5 \cdot 5^x}
@@ -42,7 +42,7 @@ $$
 \textcolor{blue}{\log 6 + x \log 5 \le \log 14 + x \log 3}
 $$
 
-ricavo la $$x$$
+ricavo la $x$
 
 $$
 \textcolor{blue}{x \log 5 - x \log 3 \le \log 14 - \log 6}

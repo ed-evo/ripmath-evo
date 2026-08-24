@@ -1,6 +1,6 @@
 Risolviamo l'equazione:
 
-[$$x^2 + 2x + 4 = 0$$]{.text-red}
+[$x^2 + 2x + 4 = 0$]{.text-red}
 
 Prendiamo la formula risolutiva ridotta:
 
@@ -10,9 +10,9 @@ $$
 
 Abbiamo:
 
-[$$a = 1$$]{.text-blue}
-[$$b = 2$$]{.text-blue} [$$\beta = 1$$]{.text-blue}
-[$$c = 4$$]{.text-blue}
+[$a = 1$]{.text-blue}
+[$b = 2$]{.text-blue} [$\beta = 1$]{.text-blue}
+[$c = 4$]{.text-blue}
 
 Sostituiamo nella formula:
 
@@ -32,8 +32,8 @@ $$
 
 Essendo negativo il termine all'interno della radice, otterrò due radici complesse e coniugate:
 
-[$$= 1 \pm i\sqrt{3}$$]{.text-blue}
+[$= 1 \pm i\sqrt{3}$]{.text-blue}
 
 Ho quindi le due soluzioni:
 
-[$$x_1 = 1 - i\sqrt{3}$$]{.text-red} \quad [$$x_2 = 1 + i\sqrt{3}$$]{.text-red}
+[$x_1 = 1 - i\sqrt{3}$]{.text-red} \quad [$x_2 = 1 + i\sqrt{3}$]{.text-red}

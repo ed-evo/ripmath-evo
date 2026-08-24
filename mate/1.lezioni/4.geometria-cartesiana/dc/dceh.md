@@ -5,9 +5,9 @@
 - intersezione fra la retta e la perpendicolare, trovo il piede della perpendicolare
 - distanza fra il punto ed il piede della perpendicolare
 
-> **Nota:** Però è usata tanto spesso che merita una formula a sé stante; do solamente la formula finale. Se vuoi dimostrarla, devi fare il procedimento indicato sopra per la retta generica ed il punto $$P(x_0, y_0)$$.
+> **Nota:** Però è usata tanto spesso che merita una formula a sé stante; do solamente la formula finale. Se vuoi dimostrarla, devi fare il procedimento indicato sopra per la retta generica ed il punto $P(x_0, y_0)$.
 
-## Distanza del punto [$$P(x_0, y_0)$$]{.text-blue} dalla retta [$$y = mx + q$$]{.text-blue}
+## Distanza del punto [$P(x_0, y_0)$]{.text-blue} dalla retta [$y = mx + q$]{.text-blue}
 
 **Formula**
 
@@ -19,7 +19,7 @@ $$
 
 ***
 
-## Distanza del punto [$$P(x_0, y_0)$$]{.text-blue} dalla retta [$$ax + by + c = 0$$]{.text-blue}
+## Distanza del punto [$P(x_0, y_0)$]{.text-blue} dalla retta [$ax + by + c = 0$]{.text-blue}
 
 **Formula**
 
@@ -32,17 +32,17 @@ $$
 ***
 
 ### Esempio
-Trovare la distanza fra la retta [$$y = -x - 2$$]{.text-red} ed il punto [$$P(0, 4)$$]{.text-red}. Applico la formula:
+Trovare la distanza fra la retta [$y = -x - 2$]{.text-red} ed il punto [$P(0, 4)$]{.text-red}. Applico la formula:
 
 $$
 d = \frac{y_0 - mx_0 - q}{\pm \sqrt{1 + m^2}}
 $$
 
 Sapendo che:
-- [$$x_0 = 0$$]{.text-red}
-- [$$y_0 = 4$$]{.text-red}
-- [$$m = -1$$]{.text-red}
-- [$$q = -2$$]{.text-red}
+- [$x_0 = 0$]{.text-red}
+- [$y_0 = 4$]{.text-red}
+- [$m = -1$]{.text-red}
+- [$q = -2$]{.text-red}
 
 $$
 d = \frac{4 - (-1) \cdot 0 - (-2)}{\pm \sqrt{[1 + (-1)^2]}}

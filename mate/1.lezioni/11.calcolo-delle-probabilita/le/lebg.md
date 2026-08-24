@@ -2,18 +2,18 @@
 
 Per la varianza consideriamo al solito lo scarto dal valore medio e poi facciamo la somma dei quadrati degli scarti (ricordo che l'integrale è il limite della somma)
 
-Variabile casuale $$X$$
+Variabile casuale $X$
 
 Valore medio 
 $$
 m = M(X) = \int_{a}^{b} x f(x) dx
 $$
 
-scarto $$X - m$$
+scarto $X - m$
 
-scarto al quadrato $$(X - m)^2$$
+scarto al quadrato $(X - m)^2$
 
-anche gli scarti sono variabili casuali e quindi dobbiamo considerare la probabilità solita, cioè moltiplicarli per $$dF(x)$$
+anche gli scarti sono variabili casuali e quindi dobbiamo considerare la probabilità solita, cioè moltiplicarli per $dF(x)$
 
 Valore medio dello scarto 
 $$
@@ -41,13 +41,13 @@ $$
 
 ---
 
-Calcoliamo la varianza per la variabile aleatoria che prende valori nell'intervallo $$[0;4]$$ con funzione densità
+Calcoliamo la varianza per la variabile aleatoria che prende valori nell'intervallo $[0;4]$ con funzione densità
 
 $$
 y = \frac{x}{8}
 $$
 
-Ricordando che il valore medio, trovato nella pagina precedente è $$8/3$$
+Ricordando che il valore medio, trovato nella pagina precedente è $8/3$
 
 $$
 \sigma^2(X) = \int_{a}^{b} x^2 f(x) dx - \left[\int_{a}^{b} x f(x) dx\right]^2

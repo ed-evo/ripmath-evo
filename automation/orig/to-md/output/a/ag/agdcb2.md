@@ -1,6 +1,6 @@
 ## [Esercizio]{.text-red}
 
-Calcolare i valori di $$x$$ per cui si ha:
+Calcolare i valori di $x$ per cui si ha:
 
 $$
 \textcolor{red}{-2x^2 + 7x - 5 < 0}
@@ -46,7 +46,7 @@ $$
 
 > **Nota:** Ho ordinato le soluzioni: prima quella più a sinistra.
 
-Ho due soluzioni quindi il delta è maggiore di zero: essendo $$a$$ minore di zero ed il polinomio negativo avrò soluzioni esterne all'intervallo delle radici quindi avremo:
+Ho due soluzioni quindi il delta è maggiore di zero: essendo $a$ minore di zero ed il polinomio negativo avrò soluzioni esterne all'intervallo delle radici quindi avremo:
 
 $$
 \textcolor{red}{x < 1 \cup x > 5/2}

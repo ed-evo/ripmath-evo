@@ -2,7 +2,7 @@
 
 Troveremo questa disuguaglianza soprattutto quando dovremo verificare il valore di un limite di successione o di funzione.
 
-Vale sempre, essendo $$b$$ un numero reale positivo;
+Vale sempre, essendo $b$ un numero reale positivo;
 
 $$
 |a| \le b \iff -b \le a \le b
@@ -18,30 +18,30 @@ Cioè se un modulo è minore di un numero reale si può togliere il modulo ponen
 
 > **Dimostrazione**
 >
-> $$a$$ può essere positivo, nullo oppure negativo; prima considero il caso positivo o nullo, poi il caso negativo.
+> $a$ può essere positivo, nullo oppure negativo; prima considero il caso positivo o nullo, poi il caso negativo.
 >
-> Supponiamo che $$a$$ sia positivo o nullo, allora avremo sicuramente $$a \ge -b$$.
-> Ed inoltre, essendo $$|a| \le b$$, questo implica $$a \le b$$ (per ipotesi $$a$$ è positivo e $$b$$ è positivo).
+> Supponiamo che $a$ sia positivo o nullo, allora avremo sicuramente $a \ge -b$.
+> Ed inoltre, essendo $|a| \le b$, questo implica $a \le b$ (per ipotesi $a$ è positivo e $b$ è positivo).
 > Quindi, raccogliendo, ottengo:
 > $$
 > -b \le a \le b
 > $$
 > come volevo.
 >
-> Suppongo che $$a$$ sia negativo; allora risulta certamente $$a < b$$.
-> Inoltre la disuguaglianza $$|a| < b$$ implica $$-a < b$$ (per ipotesi $$a$$ è negativo e quindi $$-a$$ è positivo).
-> Essendo $$b$$ un numero reale positivo, se moltiplico la disuguaglianza precedente per $$-1$$, ottengo la disuguaglianza vera $$-b < a$$.
+> Suppongo che $a$ sia negativo; allora risulta certamente $a < b$.
+> Inoltre la disuguaglianza $|a| < b$ implica $-a < b$ (per ipotesi $a$ è negativo e quindi $-a$ è positivo).
+> Essendo $b$ un numero reale positivo, se moltiplico la disuguaglianza precedente per $-1$, ottengo la disuguaglianza vera $-b < a$.
 > Quindi, raccogliendo, ottengo:
 > $$
 > -b < a < b
 > $$
 > come volevo.
 >
-> Raccogliendo assieme tutti i risultati, ottengo che per qualunque $$a \in \mathbb{R}$$ vale:
+> Raccogliendo assieme tutti i risultati, ottengo che per qualunque $a \in \mathbb{R}$ vale:
 > $$
 > -b \le a \le b
 > $$
-> essendo $$b$$ un numero reale positivo.
+> essendo $b$ un numero reale positivo.
 
 ## Esempio
 

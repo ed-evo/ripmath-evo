@@ -8,15 +8,15 @@ $$
 \textcolor{red}{\sqrt[3]{a} \cdot \sqrt[4]{b^2}}
 $$
 
-il minimo comune multiplo fra $$3$$ e $$4$$ è $$12$$ quindi devo trasformare i due radicali in modo che abbiano indice $$12$$ moltiplicando sia l'indice di radice che l'esponente del radicando per uno stesso numero.
+il minimo comune multiplo fra $3$ e $4$ è $12$ quindi devo trasformare i due radicali in modo che abbiano indice $12$ moltiplicando sia l'indice di radice che l'esponente del radicando per uno stesso numero.
 
 $$
 \textcolor{red}{\sqrt[3]{a} = \sqrt[12]{a^4}}
-$$ ho moltiplicato per $$4$$
+$ho moltiplicato per$4$$
 
 $$
 \textcolor{red}{\sqrt[4]{b^2} = \sqrt[12]{b^6}}
-$$ ho moltiplicato per $$3$$
+$ho moltiplicato per$3$$
 
 quindi:
 
@@ -32,9 +32,9 @@ $$
 \textcolor{red}{3\sqrt[3]{3} \cdot 4\sqrt{3} =}
 $$
 
-gli indici sono $$3$$ e $$2$$ quindi il minimo comune multiplo è $$6$$;
+gli indici sono $3$ e $2$ quindi il minimo comune multiplo è $6$;
 
-> (quando l'indice di radice non è indicato si intende $$2$$)
+> (quando l'indice di radice non è indicato si intende $2$)
 
 trasformo i due radicali
 

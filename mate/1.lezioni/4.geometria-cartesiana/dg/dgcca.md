@@ -17,7 +17,7 @@ $$
 \textcolor{red}{V = \left( -\frac{b}{2a}, -\frac{b^2 - 4ac}{4a} \right)}
 $$
 
-Determinare le coordinate del vertice della parabola di equazione $$\textcolor{red}{y = x^2 - 5x + 6}$$ [soluzione](dgccae.html)
+Determinare le coordinate del vertice della parabola di equazione $\textcolor{red}{y = x^2 - 5x + 6}$ [soluzione](dgccae.html)
 
 ---
 
@@ -28,7 +28,7 @@ $$
 \textcolor{red}{F = \left( -\frac{b}{2a}, \frac{1}{4a} - \frac{b^2 - 4ac}{4a} \right)}
 $$
 
-Determinare le coordinate del fuoco della parabola di equazione $$\textcolor{red}{y = x^2 - 5x + 6}$$ [soluzione](dgccaf.html)
+Determinare le coordinate del fuoco della parabola di equazione $\textcolor{red}{y = x^2 - 5x + 6}$ [soluzione](dgccaf.html)
 
 ---
 
@@ -39,7 +39,7 @@ $$
 \textcolor{red}{x = -\frac{b}{2a}}
 $$
 
-Determinare l'equazione dell'asse della parabola di equazione $$\textcolor{red}{y = x^2 - 5x + 6}$$ [soluzione](dgccag.html)
+Determinare l'equazione dell'asse della parabola di equazione $\textcolor{red}{y = x^2 - 5x + 6}$ [soluzione](dgccag.html)
 
 ---
 
@@ -50,6 +50,6 @@ $$
 \textcolor{red}{y = -\frac{1}{4a} - \frac{b^2 - 4ac}{4a}}
 $$
 
-Determinare l'equazione della direttrice della parabola di equazione $$\textcolor{red}{y = x^2 - 5x + 6}$$ [soluzione](dgccah.html)
+Determinare l'equazione della direttrice della parabola di equazione $\textcolor{red}{y = x^2 - 5x + 6}$ [soluzione](dgccah.html)
 
 ---

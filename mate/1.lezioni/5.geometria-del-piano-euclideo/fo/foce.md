@@ -14,8 +14,8 @@ $$
 $$
 avremo valide anche le proporzioni:
 
-- $$ \textcolor{red}{(3-2) : 2 = (9-6) : 6 \quad 1 : 2 = 3 : 6} $$
-- $$ \textcolor{red}{(3-2) : 3 = (9-6) : 9 \quad 1 : 3 = 3 : 9} $$
+- $\textcolor{red}{(3-2) : 2 = (9-6) : 6 \quad 1 : 2 = 3 : 6}$
+- $\textcolor{red}{(3-2) : 3 = (9-6) : 9 \quad 1 : 3 = 3 : 9}$
 
 ***
 
@@ -25,7 +25,7 @@ avremo valide anche le proporzioni:
 > $$
 > \textcolor{red}{3 : 2 = x : y}
 > $$
-> con $$x$$ ed $$y$$ incognite; se però sappiamo che, ad esempio
+> con $x$ ed $y$ incognite; se però sappiamo che, ad esempio
 > $$
 > \textcolor{red}{x - y = 3}
 > $$
@@ -33,7 +33,7 @@ avremo valide anche le proporzioni:
 > $$
 > \textcolor{red}{(3-2) : 2 = (x-y) : y \quad 1 : 2 = 3 : y}
 > $$
-> posso trovare la $$y$$; applico la proprietà fondamentale:
+> posso trovare la $y$; applico la proprietà fondamentale:
 > $$
 > \textcolor{red}{2 \cdot 3 = 1 \cdot y}
 > $$
@@ -51,7 +51,7 @@ avremo valide anche le proporzioni:
 > $$
 > \textcolor{red}{x - 6 = 3}
 > $$
-> togliendo $$6$$ da $$x$$ ottengo $$3$$, quindi
+> togliendo $6$ da $x$ ottengo $3$, quindi
 > $$
 > \textcolor{red}{x = 9}
 > $$

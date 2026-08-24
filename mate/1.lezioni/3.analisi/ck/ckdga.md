@@ -14,7 +14,7 @@ $$
 \textcolor{red}{\int (\sin x) \cdot (\sin x) \, dx}
 $$
 
-Si tratta di un prodotto di funzioni: e della funzione $$\sin x$$ conosco bene sia la derivata che l'integrale. Quindi pongo
+Si tratta di un prodotto di funzioni: e della funzione $\sin x$ conosco bene sia la derivata che l'integrale. Quindi pongo
 
 $$
 \begin{aligned}
@@ -23,13 +23,13 @@ $$
 \end{aligned}
 $$
 
-Applicando la formula e ricordando che la derivata di $$\sin x$$ è $$\cos x$$:
+Applicando la formula e ricordando che la derivata di $\sin x$ è $\cos x$:
 
 $$
 \textcolor{red}{\int (\sin x) \cdot (\sin x) \, dx = \sin x \int \sin x \, dx - \int \left( \cos x \int \sin x \, dx \right) dx}
 $$
 
-ricordando che l'integrale di $$\sin x$$ è $$-\cos x$$ avrò
+ricordando che l'integrale di $\sin x$ è $-\cos x$ avrò
 
 $$
 \textcolor{red}{= \sin x (-\cos x) - \int [(\cos x)(-\cos x)] \, dx}
@@ -41,7 +41,7 @@ $$
 \textcolor{red}{= -\sin x \cos x + \int \cos^2 x \, dx}
 $$
 
-ora ricordando che $$\cos^2 x = 1 - \sin^2 x$$
+ora ricordando che $\cos^2 x = 1 - \sin^2 x$
 [prima relazione fondamentale della trigonometria](../../i/ib/ibca.html)
 
 $$
@@ -66,7 +66,7 @@ $$
 \textcolor{blue}{\int \sin^2 x \, dx} \textcolor{red}{= -\sin x \cos x + x} \textcolor{blue}{- \int \sin^2 x \, dx}
 $$
 
-è un'equazione di incognita $$\int \sin^2 x \, dx$$ la ricavo:
+è un'equazione di incognita $\int \sin^2 x \, dx$ la ricavo:
 
 $$
 \textcolor{red}{2} \textcolor{blue}{\int \sin^2 x \, dx} \textcolor{red}{= x - \sin x \cos x}

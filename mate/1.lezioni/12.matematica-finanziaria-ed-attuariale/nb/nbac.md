@@ -7,5 +7,5 @@
 - Determinazione della formula
 - Capitalizzazione composta
 - Formule inverse
-- Calcolo dell'interesse $$I$$
+- Calcolo dell'interesse $I$
 - Rappresentazioni grafiche

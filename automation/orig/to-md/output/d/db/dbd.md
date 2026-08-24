@@ -8,7 +8,7 @@
 > \overline{AB} = 10
 > $$
 >
-> E si legge: la misura di $$AB$$ vale $$10$$ unità di misura.
+> E si legge: la misura di $AB$ vale $10$ unità di misura.
 > Poiché però mi sarebbe difficile indicare la misura correttamente su queste pagine, invece di mettere una linea sopra metterò una linea sotto nel seguente modo:
 >
 > $$
@@ -17,9 +17,9 @@
 >
 > Dovrai essere tu a riscrivere la misura correttamente quando eseguirai un esercizio.
 
-Siano dati [$$A=(a)$$]{.text-blue} e [$$B=(b)$$]{.text-blue}
+Siano dati [$A=(a)$]{.text-blue} e [$B=(b)$]{.text-blue}
 
-per trovare la distanza [$$\underline{AB}$$]{.text-blue}, se siamo in una situazione quale in figura, dovrò fare:
+per trovare la distanza [$\underline{AB}$]{.text-blue}, se siamo in una situazione quale in figura, dovrò fare:
 
 $$
 \textcolor{blue}{d(AB) = \underline{AB} = \underline{OB} - \underline{OA} = b - a}

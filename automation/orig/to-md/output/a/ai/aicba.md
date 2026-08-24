@@ -12,8 +12,8 @@ $$
 \end{cases}
 $$
 
-Il sistema è di secondo grado perché la prima equazione è di grado $$2$$ e la seconda di grado $$1$$.
-Ricavo la $$x$$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione:
+Il sistema è di secondo grado perché la prima equazione è di grado $2$ e la seconda di grado $1$.
+Ricavo la $x$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione:
 
 $$
 \begin{cases}
@@ -51,9 +51,9 @@ $$
 \textcolor{red}{y_1 = 1 \quad y_2 = -2}
 $$
 
-Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $$x$$ corrispondenti:
+Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $x$ corrispondenti:
 
-- Primo valore $$y = -2$$
+- Primo valore $y = -2$
 $$
 \begin{cases}
 \textcolor{red}{y = -2} \\
@@ -75,7 +75,7 @@ $$
 \end{cases}
 $$
 
-- Secondo valore $$y = 1$$
+- Secondo valore $y = 1$
 $$
 \begin{cases}
 \textcolor{red}{y = 1} \\
@@ -98,7 +98,7 @@ $$
 $$
 
 Ottengo quindi le soluzioni:
-prima soluzione $$ \begin{cases} \textcolor{blue}{x = -1} \\ \textcolor{blue}{y = -2} \end{cases} $$ seconda soluzione $$ \begin{cases} \textcolor{blue}{x = 2} \\ \textcolor{blue}{y = 1} \end{cases} $$
+prima soluzione $\begin{cases} \textcolor{blue}{x = -1} \\ \textcolor{blue}{y = -2} \end{cases}$ seconda soluzione $\begin{cases} \textcolor{blue}{x = 2} \\ \textcolor{blue}{y = 1} \end{cases}$
 
 ---
 
@@ -138,7 +138,7 @@ $$
 \end{cases}
 $$
 
-Ora il sistema è ridotto a forma normale: ricavo la $$x$$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione:
+Ora il sistema è ridotto a forma normale: ricavo la $x$ dalla seconda equazione e sostituisco il valore trovato nella prima equazione:
 
 $$
 \begin{cases}
@@ -185,9 +185,9 @@ $$
 \textcolor{red}{y_1 = -\frac{23}{8} \quad y_2 = -1}
 $$
 
-Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $$x$$ corrispondenti:
+Ora devo sostituire i valori trovati **uno alla volta** al posto dell'equazione mancante e calcolare le $x$ corrispondenti:
 
-- Primo valore $$y = -23/8$$
+- Primo valore $y = -23/8$
 $$
 \begin{cases}
 \textcolor{red}{y = - 23/8} \\
@@ -209,7 +209,7 @@ $$
 \end{cases}
 $$
 
-- Secondo valore $$y = -1$$
+- Secondo valore $y = -1$
 $$
 \begin{cases}
 \textcolor{red}{y = -1} \\
@@ -232,8 +232,8 @@ $$
 $$
 
 Ottengo quindi le soluzioni:
-prima soluzione $$ \begin{cases} \textcolor{blue}{x = -2} \\ \textcolor{blue}{y = -1} \end{cases} $$ seconda soluzione $$ \begin{cases} \textcolor{blue}{x = 7/4} \\ \textcolor{blue}{y = -23/8} \end{cases} $$
+prima soluzione $\begin{cases} \textcolor{blue}{x = -2} \\ \textcolor{blue}{y = -1} \end{cases}$ seconda soluzione $\begin{cases} \textcolor{blue}{x = 7/4} \\ \textcolor{blue}{y = -23/8} \end{cases}$
 
 ---
 
-> Ho ordinato le soluzioni secondo i valori della $$x$$: dal più piccolo al più grande, intendendo per più piccolo quello più spostato a sinistra verso i valori negativi.
+> Ho ordinato le soluzioni secondo i valori della $x$: dal più piccolo al più grande, intendendo per più piccolo quello più spostato a sinistra verso i valori negativi.

@@ -10,9 +10,9 @@
 
 Riassumendo: posso schematizzare nel modo seguente:
 
-- $$x = \text{numero}$$, $$y = \text{numero}$$ $\to$ Sistema possibile
-- $$x = \frac{\text{numero}}{0}$$, $$y = \frac{\text{numero}}{0}$$ $\to$ Sistema impossibile
-- $$x = \frac{0}{0}$$, $$y = \frac{0}{0}$$ $\to$ Sistema indeterminato
+- $x = \text{numero}$, $y = \text{numero}$ $\to$ Sistema possibile
+- $x = \frac{\text{numero}}{0}$, $y = \frac{\text{numero}}{0}$ $\to$ Sistema impossibile
+- $x = \frac{0}{0}$, $y = \frac{0}{0}$ $\to$ Sistema indeterminato
 
 Quando ho un sistema
 

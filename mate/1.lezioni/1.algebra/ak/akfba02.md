@@ -14,7 +14,7 @@ $$
 \textcolor{blue}{\frac{5}{\sqrt{7} + \sqrt{2}}}
 $$
 
-Devo moltiplicare sopra e sotto per $$\textcolor{blue}{\sqrt{7} - \sqrt{2}}$$.
+Devo moltiplicare sopra e sotto per $\textcolor{blue}{\sqrt{7} - \sqrt{2}}$.
 
 $$
 \textcolor{blue}{\frac{5}{\sqrt{7} + \sqrt{2}} \cdot \frac{\sqrt{7} - \sqrt{2}}{\sqrt{7} - \sqrt{2}}}

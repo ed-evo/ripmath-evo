@@ -8,7 +8,7 @@ Intuitivamente possiamo dire che una funzione si dice continua quando possiamo d
 
 In linguaggio matematico
 
-[$$y=f(x)$$ è continua nel punto $$c$$ se]{.text-red}
+[$y=f(x)$ è continua nel punto $c$ se]{.text-red}
 
 $$
 \lim_{x \to c} f(x) = f(c)
@@ -16,7 +16,7 @@ $$
 
 e
 
-[$$y=f(x)$$ è continua in un intervallo se per ogni punto $$c$$ dell'intervallo vale]{.text-red}
+[$y=f(x)$ è continua in un intervallo se per ogni punto $c$ dell'intervallo vale]{.text-red}
 
 $$
 \lim_{x \to c} f(x) = f(c)
@@ -26,7 +26,7 @@ $$
 
 Si può anche usare la seguente definizione:
 
-[Una funzione è continua in un punto $$c$$ se in quel punto esistono il suo limite destro e sinistro ed i due limiti sono finiti ed uguali]{.text-blue}
+[Una funzione è continua in un punto $c$ se in quel punto esistono il suo limite destro e sinistro ed i due limiti sono finiti ed uguali]{.text-blue}
 
 $$
 \lim_{x \to c^-} f(x) = \lim_{x \to c^+} f(x) = k \quad \text{con } k=f(c)

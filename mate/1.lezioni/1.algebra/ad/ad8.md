@@ -5,7 +5,7 @@ Per calcolare il minimo comune multiplo devo prendere tutti i fattori comuni e n
 Vediamo su un esempio.
 
 Trovare il m.c.m. fra i seguenti polinomi:
-$$\textcolor{red}{x^2 - 9}$$; $$\textcolor{red}{2x^2 + 12x + 18}$$; $$\textcolor{red}{3x^3 - 81}$$
+$\textcolor{red}{x^2 - 9}$; $\textcolor{red}{2x^2 + 12x + 18}$; $\textcolor{red}{3x^3 - 81}$
 
 Scompongo i tre polinomi:
 

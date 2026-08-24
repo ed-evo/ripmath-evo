@@ -1,8 +1,8 @@
 # esercizio
 
-Calcolare l'area della regione di piano compresa fra la curva $$y=1/x^2$$ e l'asse delle $$x$$ da $$1$$ a più infinito.
+Calcolare l'area della regione di piano compresa fra la curva $y=1/x^2$ e l'asse delle $x$ da $1$ a più infinito.
 
-Facciamo la rappresentazione grafica dell'area cercata ricordando che la funzione $$y=1/x^2$$ è come l'iperbole dell'esercizio precedente ma con i rami che si avvicinano più rapidamente agli assi.
+Facciamo la rappresentazione grafica dell'area cercata ricordando che la funzione $y=1/x^2$ è come l'iperbole dell'esercizio precedente ma con i rami che si avvicinano più rapidamente agli assi.
 
 L'area cercata è quella evidenziata; sarebbe:
 
@@ -16,7 +16,7 @@ $$
 \textcolor{blue}{\lim_{a \to +\infty} \int_{1}^{a} \frac{1}{x^2} \, dx} =
 $$
 
-L'integrale di $$1/x^2$$ vale $$-1/x$$.
+L'integrale di $1/x^2$ vale $-1/x$.
 
 $$
 \textcolor{blue}{= \lim_{a \to +\infty} \left[ -\frac{1}{x} \right]_{1}^{a} =}

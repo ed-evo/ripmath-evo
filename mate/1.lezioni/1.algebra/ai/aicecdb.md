@@ -8,9 +8,9 @@ $$
 $$
 
 Abbiamo:
-[$$\textcolor{blue}{a = 1}$$]{.text-blue}
-[$$\textcolor{blue}{b = -7}$$]{.text-blue}
-[$$\textcolor{blue}{c = 10}$$]{.text-blue}
+[$\textcolor{blue}{a = 1}$]{.text-blue}
+[$\textcolor{blue}{b = -7}$]{.text-blue}
+[$\textcolor{blue}{c = 10}$]{.text-blue}
 
 $$
 \textcolor{blue}{z_{1,2} = \frac{-(-7) \pm \sqrt{(-7)^2 - 4(1)(10)}}{2(1)}}
@@ -38,4 +38,4 @@ $$
 $$
 
 Ho quindi le soluzioni
-[$$\textcolor{red}{z_1 = 2 \quad z_2 = 5}$$]{.text-red}
+[$\textcolor{red}{z_1 = 2 \quad z_2 = 5}$]{.text-red}

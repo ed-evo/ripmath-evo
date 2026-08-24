@@ -8,9 +8,9 @@
 
 ***
 
-Tra questi l'unico che viene usato normalmente è il **prodotto righe per colonne**, indichiamolo con il simbolo $$\otimes$$.
-Vediamone un esempio: per poterlo usare dobbiamo avere lo stesso numero di colonne nella prima matrice del numero delle righe nella seconda; facciamo un prodotto fra una matrice $$2 \times 3$$ con una matrice $$3 \times 4$$.
-La prima ha tre colonne e la seconda tre righe; otterremo una matrice $$2 \times 4$$ con due righe e $$4$$ colonne.
+Tra questi l'unico che viene usato normalmente è il **prodotto righe per colonne**, indichiamolo con il simbolo $\otimes$.
+Vediamone un esempio: per poterlo usare dobbiamo avere lo stesso numero di colonne nella prima matrice del numero delle righe nella seconda; facciamo un prodotto fra una matrice $2 \times 3$ con una matrice $3 \times 4$.
+La prima ha tre colonne e la seconda tre righe; otterremo una matrice $2 \times 4$ con due righe e $4$ colonne.
 
 $$
 \begin{pmatrix} \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{3} \\ \textcolor{red}{3} & \textcolor{red}{4} & \textcolor{red}{2} \end{pmatrix} \otimes \begin{pmatrix} \textcolor{blue}{1} & \textcolor{blue}{4} & \textcolor{blue}{2} & \textcolor{blue}{6} \\ \textcolor{blue}{2} & \textcolor{blue}{1} & \textcolor{blue}{3} & \textcolor{blue}{4} \\ \textcolor{blue}{3} & \textcolor{blue}{-1} & \textcolor{blue}{5} & \textcolor{blue}{2} \end{pmatrix} =
@@ -18,22 +18,22 @@ $$
 
 devo moltiplicare ogni termine di una riga per ogni termine di una colonna:
 
-- al primo posto $$a_{1,1}$$ metto la somma dei prodotti degli elementi della prima riga per la prima colonna:
-  $$\textcolor{red}{1} \cdot \textcolor{blue}{1} + \textcolor{red}{2} \cdot \textcolor{blue}{2} + \textcolor{red}{3} \cdot \textcolor{blue}{3} = 14$$
-- al posto $$a_{1,2}$$ metto la somma dei prodotti degli elementi della prima riga per la seconda colonna:
-  $$\textcolor{red}{1} \cdot \textcolor{blue}{4} + \textcolor{red}{2} \cdot \textcolor{blue}{1} + \textcolor{red}{3} \cdot \textcolor{blue}{-1} = 3$$
-- al posto $$a_{1,3}$$ metto la somma dei prodotti degli elementi della prima riga per la terza colonna:
-  $$\textcolor{red}{1} \cdot \textcolor{blue}{2} + \textcolor{red}{2} \cdot \textcolor{blue}{3} + \textcolor{red}{3} \cdot \textcolor{blue}{5} = 23$$
-- al posto $$a_{1,4}$$ metto la somma dei prodotti degli elementi della prima riga per la quarta colonna:
-  $$\textcolor{red}{1} \cdot \textcolor{blue}{6} + \textcolor{red}{2} \cdot \textcolor{blue}{4} + \textcolor{red}{3} \cdot \textcolor{blue}{2} = 20$$
-- al posto $$a_{2,1}$$ metto la somma dei prodotti degli elementi della seconda riga per la prima colonna:
-  $$\textcolor{red}{3} \cdot \textcolor{blue}{1} + \textcolor{red}{4} \cdot \textcolor{blue}{2} + \textcolor{red}{2} \cdot \textcolor{blue}{3} = 17$$
-- al posto $$a_{2,2}$$ metto la somma dei prodotti degli elementi della seconda riga per la seconda colonna:
-  $$\textcolor{red}{3} \cdot \textcolor{blue}{4} + \textcolor{red}{4} \cdot \textcolor{blue}{1} + \textcolor{red}{2} \cdot \textcolor{blue}{-1} = 14$$
-- al posto $$a_{2,3}$$ metto la somma dei prodotti degli elementi della seconda riga per la terza colonna:
-  $$\textcolor{red}{3} \cdot \textcolor{blue}{2} + \textcolor{red}{4} \cdot \textcolor{blue}{3} + \textcolor{red}{2} \cdot \textcolor{blue}{5} = 28$$
-- al posto $$a_{2,4}$$ metto la somma dei prodotti degli elementi della seconda riga per la quarta colonna:
-  $$\textcolor{red}{3} \cdot \textcolor{blue}{6} + \textcolor{red}{4} \cdot \textcolor{blue}{4} + \textcolor{red}{2} \cdot \textcolor{blue}{2} = 38$$
+- al primo posto $a_{1,1}$ metto la somma dei prodotti degli elementi della prima riga per la prima colonna:
+  $\textcolor{red}{1} \cdot \textcolor{blue}{1} + \textcolor{red}{2} \cdot \textcolor{blue}{2} + \textcolor{red}{3} \cdot \textcolor{blue}{3} = 14$
+- al posto $a_{1,2}$ metto la somma dei prodotti degli elementi della prima riga per la seconda colonna:
+  $\textcolor{red}{1} \cdot \textcolor{blue}{4} + \textcolor{red}{2} \cdot \textcolor{blue}{1} + \textcolor{red}{3} \cdot \textcolor{blue}{-1} = 3$
+- al posto $a_{1,3}$ metto la somma dei prodotti degli elementi della prima riga per la terza colonna:
+  $\textcolor{red}{1} \cdot \textcolor{blue}{2} + \textcolor{red}{2} \cdot \textcolor{blue}{3} + \textcolor{red}{3} \cdot \textcolor{blue}{5} = 23$
+- al posto $a_{1,4}$ metto la somma dei prodotti degli elementi della prima riga per la quarta colonna:
+  $\textcolor{red}{1} \cdot \textcolor{blue}{6} + \textcolor{red}{2} \cdot \textcolor{blue}{4} + \textcolor{red}{3} \cdot \textcolor{blue}{2} = 20$
+- al posto $a_{2,1}$ metto la somma dei prodotti degli elementi della seconda riga per la prima colonna:
+  $\textcolor{red}{3} \cdot \textcolor{blue}{1} + \textcolor{red}{4} \cdot \textcolor{blue}{2} + \textcolor{red}{2} \cdot \textcolor{blue}{3} = 17$
+- al posto $a_{2,2}$ metto la somma dei prodotti degli elementi della seconda riga per la seconda colonna:
+  $\textcolor{red}{3} \cdot \textcolor{blue}{4} + \textcolor{red}{4} \cdot \textcolor{blue}{1} + \textcolor{red}{2} \cdot \textcolor{blue}{-1} = 14$
+- al posto $a_{2,3}$ metto la somma dei prodotti degli elementi della seconda riga per la terza colonna:
+  $\textcolor{red}{3} \cdot \textcolor{blue}{2} + \textcolor{red}{4} \cdot \textcolor{blue}{3} + \textcolor{red}{2} \cdot \textcolor{blue}{5} = 28$
+- al posto $a_{2,4}$ metto la somma dei prodotti degli elementi della seconda riga per la quarta colonna:
+  $\textcolor{red}{3} \cdot \textcolor{blue}{6} + \textcolor{red}{4} \cdot \textcolor{blue}{4} + \textcolor{red}{2} \cdot \textcolor{blue}{2} = 38$
 
 cioè
 
@@ -50,7 +50,7 @@ $$
 
 ***
 
-Un'interessante applicazione del prodotto righe per colonne è che permette di dare una rappresentazione matriciale di un sistema di $$n$$ equazioni in $$n$$ incognite.
+Un'interessante applicazione del prodotto righe per colonne è che permette di dare una rappresentazione matriciale di un sistema di $n$ equazioni in $n$ incognite.
 
 ad esempio il sistema:
 

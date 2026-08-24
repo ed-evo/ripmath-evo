@@ -4,9 +4,9 @@ Si tratta ora di trovare il sistema di individuare un punto sulla circonferenza:
 
 Definiamo ora le principali funzioni trigonometriche. Per ogni funzione sarà data la definizione, i valori sugli assi, come si disegna la funzione ed il grafico relativo.
 
-- $$\operatorname{sen} \alpha$$
-- $$\operatorname{cos} \alpha$$
-- $$\operatorname{tan} \alpha$$
-- $$\operatorname{cotan} \alpha$$
-- $$\operatorname{cosec} \alpha$$
-- $$\operatorname{sec} \alpha$$
+- $\operatorname{sen} \alpha$
+- $\operatorname{cos} \alpha$
+- $\operatorname{tan} \alpha$
+- $\operatorname{cotan} \alpha$
+- $\operatorname{cosec} \alpha$
+- $\operatorname{sec} \alpha$

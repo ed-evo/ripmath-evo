@@ -2,7 +2,7 @@
 
 Sono equazioni in cui l'incognita è l'angolo.
 
-> **Nota:** Una delle cose da tener presente è che il seno e il coseno sono funzioni limitate tra $$-1$$ e $$1$$, quindi scritture quali
+> **Nota:** Una delle cose da tener presente è che il seno e il coseno sono funzioni limitate tra $-1$ e $1$, quindi scritture quali
 > 
 > $$
 > \textcolor{red}{\sin x = 3}

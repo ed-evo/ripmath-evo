@@ -4,7 +4,7 @@ $$
 \textcolor{red}{2^{2x+1} - 3 \cdot 2^{x+2} < -10}
 $$
 
-Prima cerco di avere le potenze senza aggiunta di numeri 1 e 2 ricordando che vale $$2^{x+1} = 2^x \cdot 2^1 = 2 \cdot 2^x$$
+Prima cerco di avere le potenze senza aggiunta di numeri 1 e 2 ricordando che vale $2^{x+1} = 2^x \cdot 2^1 = 2 \cdot 2^x$
 
 $$
 \textcolor{blue}{2^{2x} \cdot 2^1 - 3 \cdot 2^x \cdot 2^2 < -10}
@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{2^{2x} - 6 \cdot 2^x + 5 < 0}
 $$
 
-Ora siccome un termine ha potenza doppia rispetto all'altro pongo $$\textcolor{blue}{2^x = y}$$ e quindi $$\textcolor{blue}{2^{2x} = y^2}$$ ed ottengo:
+Ora siccome un termine ha potenza doppia rispetto all'altro pongo $\textcolor{blue}{2^x = y}$ e quindi $\textcolor{blue}{2^{2x} = y^2}$ ed ottengo:
 
 $$
 \textcolor{blue}{y^2 - 6y + 5 < 0}
@@ -48,7 +48,7 @@ $$
 \textcolor{blue}{1 < y < 5}
 $$
 
-Ora devo risolvere le due disequazioni $$\textcolor{blue}{1 < 2^x < 5}$$
+Ora devo risolvere le due disequazioni $\textcolor{blue}{1 < 2^x < 5}$
 
 Le risolvo una per volta:
 

@@ -15,7 +15,7 @@ $$
 }
 $$
 
-Sposto i termini con $$x$$ prima dell'uguale, quelli noti dopo l'uguale cambiando di segno quelli che saltano l'uguale:
+Sposto i termini con $x$ prima dell'uguale, quelli noti dopo l'uguale cambiando di segno quelli che saltano l'uguale:
 
 $$
 \textcolor{red}{

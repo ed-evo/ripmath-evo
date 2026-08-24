@@ -10,15 +10,15 @@ $$
 \int 1 \cdot \log x \, dx =
 $$
 
-Considero $$1$$ come funzione di cui trovare l'integrale e $$\log x$$ come funzione di cui trovare la derivata, cioè dalla formula:
+Considero $1$ come funzione di cui trovare l'integrale e $\log x$ come funzione di cui trovare la derivata, cioè dalla formula:
 
 [$$
 \int f \cdot g = f \cdot \int g - \int \left( f' \cdot \int g \right)
 $$]{.text-red}
 
 pongo
-[$$f = \textcolor{blue}{\log x}$$]{.text-red}
-[$$g = \textcolor{blue}{1}$$]{.text-red}
+[$f = \textcolor{blue}{\log x}$]{.text-red}
+[$g = \textcolor{blue}{1}$]{.text-red}
 
 quindi ottengo
 
@@ -38,7 +38,7 @@ $$]{.text-blue}
 = x \log x - x + c =
 $$]{.text-blue}
 
-Raccogliendo $$x$$
+Raccogliendo $x$
 
 [$$
 = x(\log x - 1) + c

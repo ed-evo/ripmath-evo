@@ -11,7 +11,7 @@ Considero l'insieme degli alunni di un istituto scolastico e considero la relazi
 - **simmetrica:** se Alice è nella stessa aula di Bruno anche Bruno è nella stessa aula di Alice
 - **transitiva:** se Alice è nella stessa classe di Bruno e Bruno è nella stessa aula di Carla allora Alice è nella stessa aula di Carla
 
-Quindi è una relazione di **equivalenza**. Questa relazione divide tutti gli alunni dell'istituto scolastico in gruppi (classi) che corrispondono alle classi dell'istituto e l'insieme quoziente ha come elementi queste classi: $$1A$$, $$1B$$, $$1C$$, $$2A$$, $$2B$$, ...
+Quindi è una relazione di **equivalenza**. Questa relazione divide tutti gli alunni dell'istituto scolastico in gruppi (classi) che corrispondono alle classi dell'istituto e l'insieme quoziente ha come elementi queste classi: $1A$, $1B$, $1C$, $2A$, $2B$, ...
 
 ***
 

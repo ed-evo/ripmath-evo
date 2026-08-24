@@ -24,7 +24,7 @@ $$
 \textcolor{red}{= a(a - b) - 1(-b + a) =}
 $$
 
-siccome $$(a - b)$$ e $$(-b + a)$$ sono lo stesso binomio, raccolgo ed ottengo
+siccome $(a - b)$ e $(-b + a)$ sono lo stesso binomio, raccolgo ed ottengo
 
 $$
 \textcolor{blue}{= (a - b)(a - 1)}

@@ -10,7 +10,7 @@ Per indicarti l'importanza del concetto ti elenco i sinonimi che vengono usati i
 - Operatore
 - Mappa
 
-> Veramente qualche piccola differenza di significato c'è; ad esempio se dici applicazione pensi al passaggio da $$A$$ a $$B$$ termine a termine, mentre se dici funzione poni l'accento sul legame totale che c'è fra $$A$$ e $$B$$; e così anche per le altre denominazioni, però queste sono sottigliezze che puoi tranquillamente trascurare.
+> Veramente qualche piccola differenza di significato c'è; ad esempio se dici applicazione pensi al passaggio da $A$ a $B$ termine a termine, mentre se dici funzione poni l'accento sul legame totale che c'è fra $A$ e $B$; e così anche per le altre denominazioni, però queste sono sottigliezze che puoi tranquillamente trascurare.
 >
 > Userò indifferentemente i termini "applicazione" e "funzione".
 

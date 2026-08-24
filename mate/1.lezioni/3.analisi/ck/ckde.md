@@ -1,7 +1,7 @@
 ## Integrali immediati
 
 Sono i più facili, in pratica devi vedere se l'integrale che consideri appartiene a qualche integrale della tabella.
-Fai attenzione però che se l'argomento non è la $$x$$ ma una funzione allora dovrà essere presente anche la derivata della funzione.
+Fai attenzione però che se l'argomento non è la $x$ ma una funzione allora dovrà essere presente anche la derivata della funzione.
 
 > se hai bisogno di vedere le [regole per esteso](ckdba.html)
 > (se te ne accorgi che si può fare in questo modo tanto meglio, se non te ne accorgi non succede niente: ti viene in automatico applicando l'integrazione per sostituzione)
