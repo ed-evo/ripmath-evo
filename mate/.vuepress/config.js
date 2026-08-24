@@ -4,6 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 
 export default defineUserConfig({
+  base: '/ripmath-evo/',
   lang: 'it-IT',
 
   title: 'RipMat EVO',
