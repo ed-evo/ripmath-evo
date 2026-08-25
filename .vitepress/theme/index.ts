@@ -2,8 +2,7 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import 'katex/dist/katex.min.css'
-import './style.css'
+import './style.scss'
 
 export default {
   extends: DefaultTheme,

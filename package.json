@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@mdit/plugin-katex": "^1.1.0",
     "katex": "^0.18.4",
-    "markdown-it-katex": "^2.0.3",
     "vitepress": "2.0.0-alpha.19"
   }
 }

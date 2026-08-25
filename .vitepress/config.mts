@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import markdownItKatex from 'markdown-it-katex'
+import { katex } from '@mdit/plugin-katex'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -29,11 +29,13 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
+
+  // build
   mpa: true,
   ignoreDeadLinks: true, // FIXME: after full migration this must be removed
   markdown: {
     config: (md) => {
-      md.use(markdownItKatex)
+      md.use(katex)
     }
   }
 })
