@@ -8,9 +8,13 @@ Prima di concludere, anche se non servirebbe per informatica, vediamo almeno un 
 
 Dato l'insieme $A = \{a, b, c\}$, consideriamone l'insieme [potenza](../../j/jb/jbe.html)
 
+<div v-pre>
+
 $$
 \wp(A) = \{\{\emptyset\}, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\}\}
 $$
+
+</div>
 
 Tale insieme, dotato delle normali operazioni di unione, intersezione e complementare è un'algebra di Boole con $0$ che corrisponde all'insieme vuoto $\{\emptyset\}$ ed $1$ che corrisponde all'insieme universo $\{a, b, c\}$.
 

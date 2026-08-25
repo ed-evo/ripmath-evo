@@ -306,7 +306,7 @@ dist
 # vitepress
 dist
 cache
-temp
+.temp
 
 # Serverless directories
 .serverless/

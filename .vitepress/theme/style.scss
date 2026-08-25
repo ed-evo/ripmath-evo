@@ -43,8 +43,6 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
-@use 'katex/src/styles/katex.scss';
-
 :root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
@@ -130,3 +128,5 @@
   --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
+
+@import 'katex/dist/katex.min.css';
