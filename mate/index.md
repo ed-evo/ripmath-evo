@@ -1,13 +1,14 @@
 ---
-home: true
-title: Home
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
 ---
 
 # Ripasso di Matematica
 
 Questo sito è dedicato a chi ha qualche difficoltà con la matematica: la matematica non deve complicarci la vita ma aiutarci a viverla meglio. Se hai qualche difficoltà significa che nella tua carriera scolastica hai recepito qualcosa in modo sbagliato oppure lacunoso; spero che questo sito ti aiuti a capire dove sbagli ed a superare le tue *difficoltà*
 
-# AVVERTENZE PER L'USO
+## AVVERTENZE PER L'USO
 
 Questo sito è pensato per chi ha bisogno di recuperare in matematica, pertanto non ci troverai grandi costruzioni logiche, ma cose semplici e spiegate nella maniera più semplice che l'esperienza mi ha suggerito; talvolta qualche costrutto logico non sarà proprio ortodosso ma servirà a capire meglio il concetto.  
 Una volta capito il concetto vedrai che la matematica è facile ed anche piacevole.  

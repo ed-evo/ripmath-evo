@@ -303,6 +303,11 @@ dist
 **/.vuepress/.temp/
 **/.vuepress/dist/
 
+# vitepress
+dist
+cache
+temp
+
 # Serverless directories
 .serverless/
 
