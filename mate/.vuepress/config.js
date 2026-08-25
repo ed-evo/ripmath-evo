@@ -5,6 +5,7 @@ import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 
 export default defineUserConfig({
   base: '/ripmath-evo/',
+  mpa: true,
   lang: 'it-IT',
 
   title: 'RipMat EVO',
