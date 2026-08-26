@@ -1,3 +1,0 @@
-# Euclide
-
-testo

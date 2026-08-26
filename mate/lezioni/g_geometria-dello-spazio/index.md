@@ -1,0 +1,119 @@
+[I link rossi non sono ancora attivi]{.text-red}
+
+# Geometria dello spazio
+
+- a. Introduzione
+- b. Nomenclatura
+- c. Postulati dello spazio
+    - a. Esistenza
+    - b. Appartenenza
+    - c. Uguaglianza
+- d. Relazioni fra punti rette e piani nello spazio
+    - a. Relazioni fra rette nello spazio
+    - b. Relazione fra piani nello spazio: un primo teorema
+- e. Perpendicolarità fra retta e piano
+    - a. perpendicolarità fra due rette
+    - b. perpendicolarità fra una retta ed un piano
+        - a. Considerazioni generali
+        - b. Criterio di perpendicolarità retta-piano
+        - c. Teorema delle tre perpendicolari
+- f. Parallelismo nello spazio
+    - a. Parallelismo fra rette
+    - b. Parallelismo fra una retta ed un piano
+        - a. Proiezione di una retta su un piano
+        - b. Segmenti perpendicolari ed obliqui
+        - c. Angolo fra una retta ed un piano
+    - c. Parallelismo fra piani
+    - d. Teorema di Talete nello spazio
+- g. Perpendicolarità fra piani
+    - a. Definizione
+    - b. Criterio di perpendicolarità fra due piani
+    - c. Angolo diedro
+- h. Generalità sui poliedri
+    - a. Angoloidi
+    - b. Triedri
+    - c. Alcune proprietà importanti
+        - a. In un triedro ogni faccia è minore della somma delle altre due
+        - b. In un triedro ogni faccia è maggiore della differenza delle altre due
+        - c. In un angoloide ogni faccia è minore della somma di tutte le altre
+        - d. In un angoloide la somma delle facce è minore di un angolo giro
+    - d. Poliedri
+        - a. Definizione
+        - b. Relazione fondamentale
+        - c. Poliedri regolari
+            - a. Tetraedro regolare
+            - b. Ottaedro regolare
+            - c. Icosaedro regolare
+            - d. Cubo
+            - e. Dodecaedro regolare
+- i. Prismi
+    - a. Prisma indefinito
+    - b. Prisma
+    - c. Parallelepipedo
+    - d. Superficie laterale e totale
+    - e. Concetto di volume
+    - f. Volume del parallelepipedo rettangolo
+    - g. Volume del parallelepipedo retto
+    - h. Volume del prisma retto
+- j. Piramidi
+    - a. Piramide indefinita
+    - b. Piramide
+    - c. Piramide retta
+    - d. Nota importante
+    - e. Superficie laterale e totale della piramide
+    - f. Principio di Cavalieri
+    - g. Equiestensione prisma-piramide
+    - h. Volume di una piramide
+    - i. Tronco di piramide
+    - j. Superficie laterale e totale del tronco di piramide
+    - k. Volume del tronco di piramide
+        - 1. Approfondimento sulla proporzionalità
+        - 2. Calcolo del volume
+- k. Solidi di rotazione
+    - a. Come si disegna un solido di rotazione
+    - b. Cilindro
+        - a. Definizione
+        - b. Area della superficie
+        - c. Volume
+    - c. Cono
+        - a. Definizione
+        - b. Area della superficie
+        - c. Volume
+    - d. Tronco di cono
+        - a. Definizione
+        - b. Area della superficie
+        - c. Volume
+    - e. Sfera e superficie sferica
+        - Definizioni
+        - Area della superficie sferica
+            - a. Teorema sulla superficie di rotazione di un segmento
+            - b. Teorema sulla rotazione di una poligonale regolare
+            - c. Applicazione alla superficie di una sfera
+        - Volume della sfera
+            - a. Definizione di anticlessidra
+            - b. Equiestensione sfera-anticlessidra
+            - c. Volume della sfera
+        - Parti della superficie sferica e della sfera
+            - Fuso sferico e spicchio sferico
+                - a. Definizioni
+                - b. Area del fuso sferico
+                - c. Volume dello spicchio sferico
+            - Calotta sferica e segmento sferico ad una base
+                - a. Definizioni
+                - b. Area della calotta sferica
+                - c. Volume del segmento sferico ad una base
+            - Zona sferica e segmento sferico a due basi
+                - a. Definizioni
+                - b. Area della zona sferica
+                - c. Volume del segmento sferico a due basi
+            - Settore sferico
+                - a. Definizione
+                - b. Area della superficie del settore sferico
+                - c. Volume del settore sferico
+- [Similitudine fra solidi]{.text-red}
+- [Tabelle di riepilogo]{.text-red}
+- [Problemi di applicazione ???? (forse)]{.text-red}
+
+***
+
+piano generale del sito
