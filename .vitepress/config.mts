@@ -52,6 +52,7 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: 'https://ed-evo.github.io/ripmath-evo'
+    hostname: 'https://ed-evo.github.io/ripmath-evo',
+    lastmodDateOnly: true
   }
 })
