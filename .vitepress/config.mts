@@ -12,7 +12,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Lezioni', link: '/lezioni' }
+      { text: 'Lezioni', link: '/lezioni' },
+      { text: 'RipMat[orig.]', link: 'https://www.ripmat.it/'}
     ],
 
     sidebar: [
@@ -38,7 +39,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ed-evo/ripmath-evo' }
     ]
   },
 
@@ -50,4 +51,7 @@ export default defineConfig({
       md.use(katex)
     }
   },
+  sitemap: {
+    hostname: 'https://ed-evo.github.io/ripmath-evo'
+  }
 })
