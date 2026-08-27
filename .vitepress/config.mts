@@ -44,10 +44,11 @@ export default defineConfig({
 
   // build
   mpa: true,
+  cleanUrls: true,
   ignoreDeadLinks: true, // FIXME: after full migration this must be removed
   markdown: {
     config: (md) => {
       md.use(katex)
     }
-  }
+  },
 })

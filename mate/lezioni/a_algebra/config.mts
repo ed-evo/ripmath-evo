@@ -1,15 +1,12 @@
 import { defineAdditionalConfig } from "vitepress";
+import { buildSidebar } from "../../../.vitepress/utils/sidebar";
+
+
+
+console.log("hello")
 
 export default defineAdditionalConfig({
   themeConfig: {
-    sidebar: [
-      {
-        text: "A. Algebra",
-        items: [
-          { text: "1. Potenze", link: "lezioni/a_algebra/1.potenze" },
-          
-        ],
-      },
-    ],
+    sidebar: buildSidebar(import.meta.url),
   },
 });
