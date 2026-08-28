@@ -21,6 +21,7 @@ type ProcessData struct {
 	Cfg          *config.Config
 	Resources    []*resources.Resource
 	SystemPrompt string
+	Sequential   bool
 }
 
 var baseLogger = logger.Get()
@@ -38,6 +39,7 @@ func produceRequests(
 	d *ProcessData,
 	reqCh chan<- *AiRequest,
 ) error {
+	defer close(reqCh)
 	producerLogger.Info("Producer started")
 	defer func() { producerLogger.Info("Producer completed.") }()
 	cfg := d.Cfg
@@ -55,8 +57,10 @@ func produceRequests(
 
 	limiter := rate.NewLimiter(limit, tpm)
 	// Empty wait, to reduce hitting Genai limit on startup burst
-	if err := limiter.WaitN(ctx, tpm); err != nil {
-		return logger.ErrThrough(producerLogger, fmt.Errorf("Rate limite error: limit err %w", err))
+	if !d.Sequential {
+		if err := limiter.WaitN(ctx, tpm); err != nil {
+			return logger.ErrThrough(producerLogger, fmt.Errorf("Rate limite error: limit err %w", err))
+		}
 	}
 
 	for _, resource := range d.Resources {
@@ -87,25 +91,29 @@ func produceRequests(
 		if err != nil {
 			return logger.ErrThrough(l, fmt.Errorf("Error counting tokens %w", err))
 		}
-		consumes := int(float64(count.TotalTokens) * 1.5)
-		l.Info(fmt.Sprintf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, consumes))
-		if consumes >= tpm {
-			l.Info(fmt.Sprintf("Resource %v exceed max token skip.", resource))
-			continue
-		}
+		config := &genai.GenerateContentConfig{
+				SystemInstruction: genai.Text(d.SystemPrompt)[0],
+			}
+		if !d.Sequential {
 
-		if err := limiter.WaitN(ctx, consumes); err != nil {
-			return logger.ErrThrough(l, fmt.Errorf("Rate limite error: limit err %w, grouperr %w", err, ctx.Err()))
+			consumes := int(float64(count.TotalTokens) * 1.5)
+			l.Info(fmt.Sprintf("Token count %v, input %v, output estimate %v", resource.Name, count.TotalTokens, consumes))
+			if consumes >= tpm {
+				l.Info(fmt.Sprintf("Resource %v exceed max token skip.", resource))
+				continue
+			}
+	
+			if err := limiter.WaitN(ctx, consumes); err != nil {
+				return logger.ErrThrough(l, fmt.Errorf("Rate limite error: limit err %w, grouperr %w", err, ctx.Err()))
+			}
+			config.MaxOutputTokens = int32(consumes)
 		}
 		l.Info("Producing request for " + resource.Name)
 		reqCh <- &AiRequest{
 			Resource: *resource,
 			Model:    cfg.GeminiModel,
 			Contents: []*genai.Content{userContent},
-			Config: &genai.GenerateContentConfig{
-				SystemInstruction: genai.Text(d.SystemPrompt)[0],
-				MaxOutputTokens:   int32(consumes),
-			},
+			Config: config,
 		}
 	}
 	return nil
@@ -165,30 +173,42 @@ func Process(
 	c *genai.Client,
 	d *ProcessData,
 ) error {
-
 	reqCh := make(chan *AiRequest, 1)
 
-	g, gCtx := errgroup.WithContext(ctx)
-
-	g.Go(func() error {
-		defer close(reqCh)
-		err := produceRequests(gCtx, c, d, reqCh)
-		if err != nil {
-			aiLogger.Error("Error request producer: " + err.Error())
-		}
-		return err
-	})
-	g.Go(func() error {
+	if d.Sequential {
+		produceRequests(ctx, c, d, reqCh)
 		for r := range reqCh {
-			g.Go(func() error {
-				err := consume(gCtx, d.Cfg, c, r)
-				if err != nil {
-					aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
-				}
+			err := consume(ctx, d.Cfg, c, r)
+			if err != nil {
+				aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
 				return err
-			})
+			}
 		}
 		return nil
-	})
-	return g.Wait()
+	} else {
+
+		g, gCtx := errgroup.WithContext(ctx)
+	
+		g.Go(func() error {
+			err := produceRequests(gCtx, c, d, reqCh)
+			if err != nil {
+				aiLogger.Error("Error request producer: " + err.Error())
+			}
+			return err
+		})
+		g.Go(func() error {
+			for r := range reqCh {
+				g.Go(func() error {
+					err := consume(gCtx, d.Cfg, c, r)
+					if err != nil {
+						aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
+					}
+					return err
+				})
+			}
+			return nil
+		})
+		return g.Wait()
+	}
+
 }

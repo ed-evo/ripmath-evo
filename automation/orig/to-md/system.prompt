@@ -8,7 +8,7 @@ Converti l'HTML grezzo fornito in Markdown pulito per Nuxt Content seguendo rigo
 
 2. NOTAZIONE MATEMATICA (remark-math & rehype-katex):
    - Converti TUTTE le espressioni matematiche, formule, singole variabili (es. x, y, \alpha), equazioni e numeri usati come entità matematiche in formato LaTeX usando SEMPRE il doppio dollaro ($$).
-   - MATEMATICA INLINE: Racchiudi la formula inline con doppi dollari affiancati al testo, senza andare a capo (es. $2$ oppure $-2a^2b$).
+   - MATEMATICA INLINE: Racchiudi la formula inline con un simbolo dollaro affiancato al testo, senza andare a capo (es. $2$ oppure $-2a^2b$).
    - MATEMATICA DISPLAY (A BLOCCO): Posiziona l'espressione a blocco andando TASSATIVAMENTE a capo prima e dopo i doppi dollari, inserendo i doppi dollari di apertura e chiusura su una riga propria dedicata.
      Esempio corretto per blocco:
      $$

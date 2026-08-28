@@ -74,6 +74,7 @@ func run(r *string) error {
 			Cfg:          cfg,
 			Resources:    resList,
 			SystemPrompt: systemPrompt,
+			Sequential: len(resList) < 10,
 		},
 	)
 
