@@ -1,6 +1,6 @@
-import { chromium } from 'playwright';
-import path from 'node:path';
 import { glob, mkdir } from 'node:fs/promises'
+import path from 'node:path';
+import { chromium } from 'playwright';
 
 async function captureStaticSite(src: string, dst: string) {
   // Launch headless browser

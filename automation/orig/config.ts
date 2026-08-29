@@ -1,6 +1,6 @@
 
 import { glob } from 'node:fs/promises'
-import { relative, resolve, join } from 'node:path'
+import { join, relative, resolve } from 'node:path'
 
 export const rootDir = resolve(join(import.meta.dirname, "../.."))
 export const mateDir = join(rootDir, 'static/originale/mate')

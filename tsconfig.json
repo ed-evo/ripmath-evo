@@ -14,7 +14,8 @@
   },
   "include": [
     "**/*",
-    ".vitepress/**/*"
+    ".vitepress/**/*",
+    "*.d.ts"
   ],
   "exclude": [
     "node_modules",
