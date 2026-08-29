@@ -3,18 +3,18 @@ import { type DefaultTheme, defineAdditionalConfig } from "vitepress";
 const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
   text: 'A. Algebra',
   items: [
-    { text: '01. Potenze', link: 'lezioni/a_algebra/01.potenze'},
+    { text: '01. Potenze', link: '/lezioni/a_algebra/01.potenze'},
     {
       text: '02. Calcolo Letterale',
-      link: 'lezioni/a_algebra/02.calcolo-letterale',
+      link: '/lezioni/a_algebra/02.calcolo-letterale/',
       items: [
-        { text: 'Monomi', link: 'lezioni/a_algebra/02.calcolo-letterale/01.monomi' },
+        { text: 'Monomi', link: '/lezioni/a_algebra/02.calcolo-letterale/01.monomi' },
         {
           text: 'Polinomi',
-          link: 'lezioni/a_algebra/02.calcolo-letterale/02.polinomi',
+          link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/',
           items: [
-            { text: 'Operazioni base', link: 'lezioni/a_algebra/02.calcolo-letterale/02.polinomi/01.operazioni'},
-            { text: 'Prodotti Notevoli', link: 'lezioni/a_algebra/02.calcolo-letterale/02.polinomi/02.prodotti-notevoli' },
+            { text: 'Operazioni base', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/01.operazioni'},
+            { text: 'Prodotti Notevoli', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/02.prodotti-notevoli' },
           ],
         },
         { text: 'Frazioni algebriche' },

@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Lezioni', link: '/lezioni' },
+      { text: 'Lezioni', link: '/lezioni/' },
       { text: 'RipMat[orig.]', link: 'https://www.ripmat.it/'}
     ],
 
