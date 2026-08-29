@@ -130,3 +130,18 @@
 }
 
 @import 'katex/dist/katex.min.css';
+
+/**
+ * CUSTOMIZATION
+ */
+
+// katex in summary
+details summary > p:has(.katex) {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.katex {
+  color: red;
+}

@@ -18,13 +18,16 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ed-evo/ripmath-evo' }
-    ]
+    ],
+
+    outline: 'deep',
   },
 
   // build
   cleanUrls: true,
   ignoreDeadLinks: true, // FIXME: after full migration this must be removed
   markdown: {
+    html: true,
     config: (md) => {
       md.use(katex)
     }
