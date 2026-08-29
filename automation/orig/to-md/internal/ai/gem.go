@@ -39,7 +39,6 @@ func produceRequests(
 	d *ProcessData,
 	reqCh chan<- *AiRequest,
 ) error {
-	defer close(reqCh)
 	producerLogger.Info("Producer started")
 	defer func() { producerLogger.Info("Producer completed.") }()
 	cfg := d.Cfg
@@ -173,31 +172,34 @@ func Process(
 	c *genai.Client,
 	d *ProcessData,
 ) error {
+	aiLogger.Info("Start processing with Genai: " + d.Cfg.GeminiModel)
 	reqCh := make(chan *AiRequest, 1)
 
-	if d.Sequential {
-		produceRequests(ctx, c, d, reqCh)
-		for r := range reqCh {
-			err := consume(ctx, d.Cfg, c, r)
-			if err != nil {
-				aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
-				return err
-			}
-		}
-		return nil
-	} else {
+	g, gCtx := errgroup.WithContext(ctx)
 
-		g, gCtx := errgroup.WithContext(ctx)
-	
-		g.Go(func() error {
-			err := produceRequests(gCtx, c, d, reqCh)
-			if err != nil {
-				aiLogger.Error("Error request producer: " + err.Error())
-			}
-			return err
-		})
-		g.Go(func() error {
-			for r := range reqCh {
+	g.Go(func() error {
+		defer close(reqCh)
+		err := produceRequests(gCtx, c, d, reqCh)
+		if err != nil {
+			aiLogger.Error("Error request producer: " + err.Error())
+		}
+		return err
+	})
+
+	g.Go(func() error {
+		if d.Sequential {
+			aiLogger.Info("Sequetial flow")
+		} else {
+			aiLogger.Info("Multi thread flow")
+		}
+		for r := range reqCh {
+			if d.Sequential {
+				err := consume(ctx, d.Cfg, c, r)
+				if err != nil {
+					aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
+					return err
+				}
+			} else {
 				g.Go(func() error {
 					err := consume(gCtx, d.Cfg, c, r)
 					if err != nil {
@@ -206,9 +208,9 @@ func Process(
 					return err
 				})
 			}
-			return nil
-		})
-		return g.Wait()
-	}
-
+		}
+		return nil
+	})
+	
+	return g.Wait()
 }

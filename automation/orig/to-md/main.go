@@ -67,15 +67,20 @@ func run(r *string) error {
 		}
 	}
 
+	params := &ai.ProcessData{
+		Cfg:          cfg,
+		Resources:    resList,
+		SystemPrompt: systemPrompt,
+	}
+
+	if len(resList) < 10 || cfg.Sequential {
+		params.Sequential = true
+	}
+
 	err = ai.Process(
 		ctx,
 		client,
-		&ai.ProcessData{
-			Cfg:          cfg,
-			Resources:    resList,
-			SystemPrompt: systemPrompt,
-			Sequential: len(resList) < 10,
-		},
+		params,
 	)
 
 	if err != nil {

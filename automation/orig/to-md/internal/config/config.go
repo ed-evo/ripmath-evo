@@ -13,6 +13,7 @@ type Config struct {
 	ScreenshotsZip string `env:"TOMD_SCREENSHOTS_ZIP"`
 	MateZip        string `env:"TOMD_MATE_ZIP"`
 	OutputDir      string `env:"TOMD_OUTPUT_DIR"`
+	Sequential     bool   `env:"TOMD_SEQUENTIAL"`
 	LogFile        string `env:"TOMD_LOG_FILE"`
 }
 
