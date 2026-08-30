@@ -3,13 +3,13 @@
 Il caso classico del raggruppamento a quattro termini è quello in cui tre termini concorrono in un quadrato ed il quarto è ancora un quadrato:
 
 $$
-\textcolor{red}{x^2+2xy+y^2 -z^2=}
+\textcolor{red}{x^2+2xy+y^2-z^2=}
 $$
 
-Raggruppo i primi tre termini:
+Raggruppo i primi tre termini
 
 $$
-\textcolor{red}{=(x^2 +2xy+y^2)-z^2=}
+\textcolor{red}{=(x^2+2xy+y^2)-z^2=}
 $$
 
 $$
@@ -22,27 +22,32 @@ $$
 \textcolor{red}{=[(x+y)+z][(x+y)-z]=}
 $$
 
-Tolgo le parentesi interne:
+tolgo le parentesi interne
 
 $$
 \textcolor{red}{=(x+y+z)(x+y-z)}
 $$
 
-***
+---
 
 Un altro caso possibile è quello in cui abbiamo una differenza di quadrati che si combina con un raccoglimento:
 
 $$
-\textcolor{red}{x^2-a^2 +5x+5a=}
+\textcolor{red}{x^2-a^2+5x+5a=}
 $$
 
-Scompongo i primi due termini come differenza di quadrati e fra il terzo ed il quarto termine raccolgo il $\textcolor{red}{5}$:
+Scompongo i primi due termini come differenza di quadrati e fra il terzo ed il quarto termine raccolgo il $\textcolor{red}{5}$
 
 $$
 \textcolor{red}{=(x+a)(x-a)+5(x+a)=}
 $$
 
-Ora sono due termini e tra loro posso raccogliere $\textcolor{red}{(x+a)}$:
+ora sono due termini e tra loro posso raccogliere $\textcolor{red}{(x+a)}$
 
 $$
-\textcolor{
+\textcolor{red}{=(x+a)[(x-a)+5]=(x+a)(x-a+5)}
+$$
+
+---
+
+Altri casi possibili si hanno con somme o differenze di potenze dispari unite ad un raccoglimento

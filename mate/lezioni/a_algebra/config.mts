@@ -15,9 +15,11 @@ const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
           items: [
             { text: 'Operazioni base', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/01.operazioni'},
             { text: 'Prodotti Notevoli', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/02.prodotti-notevoli' },
+            { text: 'Scomposizione', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/03.scomposizione' },
+            { text: 'M.C.D m.c.m.', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/04.mcd-mcm' },
           ],
         },
-        { text: 'Frazioni algebriche' },
+        { text: 'Frazioni Algebriche', link: '/lezioni/a_algebra/02.calcolo-letterale/03.frazioni-algebriche' },
       ]
     },
   ]
