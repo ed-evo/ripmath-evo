@@ -2,6 +2,7 @@ import { type DefaultTheme, defineAdditionalConfig } from "vitepress";
 
 const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
   text: 'A. Algebra',
+  link: '/lezioni/a_algebra/',
   items: [
     { text: '01. Potenze', link: '/lezioni/a_algebra/01.potenze'},
     {
@@ -22,11 +23,17 @@ const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
         { text: 'Frazioni Algebriche', link: '/lezioni/a_algebra/02.calcolo-letterale/03.frazioni-algebriche' },
       ]
     },
+    {
+      text: '03. Equazioni', link: '/lezioni/a_algebra/03.equazioni/'
+    }
   ]
 }
 
 export default defineAdditionalConfig({
   themeConfig: {
-    sidebar: [ AlgebraSidebarItem ],
+    sidebar: [
+      AlgebraSidebarItem,
+      { text: 'B. Aritmentica e Numeri', link: '/lezioni/b_aritmetica-e-numeri/' }
+    ],
   },
 });

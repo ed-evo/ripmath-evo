@@ -1,67 +1,67 @@
-Per ogni passaggio puoi vedere le operazioni nei particolari cliccando sulla dicitura
+Per ogni passaggio puoi vedere le operazioni nei particolari cliccando sulla dicitura.
 
-> **Nota:** io farò tutti i passaggi ma di solito si cerca di abbreviare
+> **Nota:** Io farò tutti i passaggi, ma di solito si cerca di abbreviare.
 
-[$$
-\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{(x+2)^2 - 2(2x-1) - 5}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{(x+2)^2 - 2(2x-1) - 5}{x-1}} =}
+$$
 
-[eseguo i calcoli al numeratore della frazione in basso]{.text-blue}
+Eseguo i calcoli al numeratore della frazione in basso
 
-[$$
-\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+$$
 
-[sommo le due frazioni al numeratore]{.text-blue}
+Sommo le due frazioni al numeratore
 
-[$$
-\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x^2+2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x^2+2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+$$
 
-moltiplico dopo la $x$ il numeratore per l'inverso del denominatore
+Moltiplico dopo la $x$ il numeratore per l'inverso del denominatore
 
-[$$
-\frac{\frac{x-1}{3x+3} + x \cdot \frac{x^2+2x+1}{3x} \cdot \frac{1}{x^2-1}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{x^2+2x+1}{3x} \cdot \frac{1}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+$$
 
-[eseguo le moltiplicazioni]{.text-blue}
+Eseguo le moltiplicazioni
 
-[$$
-\frac{\frac{x-1}{3x+3} + \frac{x^3 + 2x^2 + x}{3x(x^2-1)}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3x+3} + \frac{x^3+2x^2+x}{3x \cdot (x^2-1)}}{\frac{x^2+1}{x-1}} =}
+$$
 
-[scompongo i denominatori delle frazioni sopra]{.text-blue}
+Scompongo i denominatori delle frazioni sopra
 
-[$$
-\frac{\frac{x-1}{3(x+1)} + \frac{x^3 + 2x^2 + x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x-1}{3(x+1)} + \frac{x^3+2x^2+x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+$$
 
-[faccio il minimo comune multiplo fra le due frazioni al numeratore]{.text-blue}
+Faccio il minimo comune multiplo fra le due frazioni al numeratore
 
-[$$
-\frac{\frac{x \cdot (x-1)^2 + x^3 + 2x^2 + x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{x \cdot (x-1)^2 + x^3+2x^2+x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+$$
 
-[eseguo le operazioni e sommo i termini simili]{.text-blue}
+Eseguo le operazioni e sommo i termini simili
 
-[$$
-\frac{\frac{2x^3 + 2x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
-$]{.text-red}
+$$
+\textcolor{red}{\frac{\frac{2x^3+2x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+$$
 
-moltiplico il numeratore per l'inverso del denominatore
+Moltiplico il numeratore per l'inverso del denominatore
 
-[$$
-\frac{2x^3 + 2x}{3x(x-1)(x+1)} \cdot \frac{x-1}{x^2+1}
-$]{.text-red}
+$$
+\textcolor{red}{= \frac{2x^3+2x}{3x \cdot (x-1) \cdot (x+1)} \cdot \frac{x-1}{x^2+1} =}
+$$
 
-[scompongo ove possibile]{.text-blue}
+Scompongo ove possibile
 
-[$$
-\frac{2x \cdot (x^2+1)}{3x(x-1)(x+1)} \cdot \frac{x-1}{x^2+1}
-$]{.text-red}
+$$
+\textcolor{red}{= \frac{2x \cdot (x^2+1)}{3x \cdot (x-1) \cdot (x+1)} \cdot \frac{x-1}{x^2+1} =}
+$$
 
-[semplifico i fattori uguali sopra e sotto]{.text-blue}
+Semplifico i fattori uguali sopra e sotto
 
-[$$
-\frac{2}{3 \cdot (x+1)}
-$]{.text-red}
+$$
+\textcolor{red}{= \frac{2}{3 \cdot (x+1)}}
+$$
