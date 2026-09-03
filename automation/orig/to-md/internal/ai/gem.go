@@ -91,8 +91,8 @@ func produceRequests(
 			return logger.ErrThrough(l, fmt.Errorf("Error counting tokens %w", err))
 		}
 		config := &genai.GenerateContentConfig{
-				SystemInstruction: genai.Text(d.SystemPrompt)[0],
-			}
+			SystemInstruction: genai.Text(d.SystemPrompt)[0],
+		}
 		if !d.Sequential {
 
 			consumes := int(float64(count.TotalTokens) * 1.5)
@@ -101,18 +101,24 @@ func produceRequests(
 				l.Info(fmt.Sprintf("Resource %v exceed max token skip.", resource))
 				continue
 			}
-	
+
 			if err := limiter.WaitN(ctx, consumes); err != nil {
 				return logger.ErrThrough(l, fmt.Errorf("Rate limite error: limit err %w, grouperr %w", err, ctx.Err()))
 			}
 			config.MaxOutputTokens = int32(consumes)
 		}
 		l.Info("Producing request for " + resource.Name)
-		reqCh <- &AiRequest{
+		select {
+		case reqCh <- &AiRequest{
 			Resource: *resource,
 			Model:    cfg.GeminiModel,
 			Contents: []*genai.Content{userContent},
-			Config: config,
+			Config:   config,
+		}:
+		// AiRequest sent into reqCh
+		case <-ctx.Done():
+			return logger.ErrThrough(l, fmt.Errorf("producer aborted due to context cancellation: %w", ctx.Err()))
+
 		}
 	}
 	return nil
@@ -194,7 +200,7 @@ func Process(
 		}
 		for r := range reqCh {
 			if d.Sequential {
-				err := consume(ctx, d.Cfg, c, r)
+				err := consume(gCtx, d.Cfg, c, r)
 				if err != nil {
 					aiLogger.Error(fmt.Sprintf("Error Consuming request(%v): %v", r.Resource.Name, err))
 					return err
@@ -211,6 +217,6 @@ func Process(
 		}
 		return nil
 	})
-	
+
 	return g.Wait()
 }
