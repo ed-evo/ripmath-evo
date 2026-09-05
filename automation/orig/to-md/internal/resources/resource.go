@@ -7,6 +7,7 @@ import (
 	"io/fs"
 	"os"
 	"path"
+	"sort"
 	"strings"
 
 	"github.com/ed-evo/ripmath-evo/markdownify/internal/config"
@@ -65,6 +66,10 @@ func ListHtml(
 
 		resList = append(resList, r)
 	}
+
+	sort.Slice(resList, func(i, j int) bool {
+        return resList[i].Name < resList[j].Name
+    })
 
 	rLogger.Info(fmt.Sprintf("Found %d html files to process.", len(resList)))
 
