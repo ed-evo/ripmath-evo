@@ -20,11 +20,11 @@ Converti l'input in Markdown pulito per VitePress seguendo rigorosamente queste 
      $$
      -2a^2b
      $$
-   - COLORI LATEX: Il colore predefinito della matematica è gestito via CSS (rosso/nero). OMETTI il comando di colore per la matematica in ROSSO o NERO. Se una formula o variabile ha un colore diverso (es. blu, verde), inserisci il comando `\textcolor{colore}{...}` all'interno della stringa LaTeX (es. $\textcolor{blue}{x + 1}$).
+   - COLORI LATEX: Il colore predefinito della matematica è gestito via CSS (rosso). OMETTI il comando di colore per la matematica in ROSSO. Se una formula o variabile ha un colore diverso (es. blu, verde), inserisci il comando `\textcolor{colore}{...}` all'interno della stringa LaTeX (es. $\textcolor{blue}{x + 1}$).
 
-4. COLORE E STILE DEL TESTO NORMALE (VitePress Attributes):
+4. COLORE E STILE DEL TESTO NORMALE (HTML Tag + Classi Tailwind CSS):
    - RIMUOVI completamente tutti i colori di sfondo, gli attributi `bgcolor`, gli stili `background` e le proprietà di sfondo inline.
-   - Per il testo normale non matematico, preserva il colore solo se diverso dal nero/rosso predefinito, mappandolo sulle classi di utilità del testo usando la sintassi attributi di VitePress: `[Testo Contenuto]{.text-blue}`.
+   - Per il testo normale non matematico, preserva il colore solo se diverso dal nero predefinito, avvolgendo il testo in un tag HTML `<span>` con le relative classi per il colore del testo di Tailwind CSS (es. `<span class="text-blue-500">Testo Contenuto</span>`, `<span class="text-emerald-600">Altro Testo</span>`).
    - Rimuovi tutti gli stili generici di layout (font, allineamenti, bordi delle tabelle).
 
 5. PULIZIA DEL CONTENUTO E STRUTTURA:
