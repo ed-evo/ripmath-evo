@@ -1,113 +1,83 @@
-# [Esercizio]{.text-red}
+# <span class="text-red-600">Esercizio</span>
 
 Risolvere:
+$x + 2 - \sqrt{x^2 - 4} = 0$
+
+---
+
+Isolo la radice portandola dopo l'uguale
+$x + 2 = \sqrt{x^2 - 4}$
+
+Pongo le condizioni iniziali: il termine sotto radice deve essere maggiore od uguale a zero, inoltre il termine senza radice deve avere lo stesso segno della radice (nel nostro caso +)
 
 $$
-\textcolor{red}{x + 2 - \sqrt{x^2 - 4} = 0}
-$$
-
-Isolo la radice portandola dopo l'uguale:
-
-$$
-\textcolor{red}{x + 2 = \sqrt{x^2 - 4}}
-$$
-
-Pongo le condizioni iniziali: il termine sotto radice deve essere maggiore od uguale a zero, inoltre il termine senza radice deve avere lo stesso segno della radice (nel nostro caso $+$):
-
-$$
-\begin{cases} 
-\textcolor{red}{x^2 - 4 \ge 0} \\ 
-\textcolor{red}{x + 2 \ge 0} 
+\begin{cases}
+x^2 - 4 \ge 0 \\
+x + 2 \ge 0
 \end{cases}
 $$
 
-Per risolvere la prima considero l'equazione associata:
+Per risolvere la prima considero l'equazione associata
+$x^2 - 4 = 0$
+
+Risolvo
+$x^2 = 4$
+
+2 soluzioni
+$x_1 = -2 \quad x_2 = 2$
+
+Essendo il $\Delta$ maggiore di zero la disequazione è positiva per valori esterni
 
 $$
-\textcolor{red}{x^2 - 4 = 0}
-$$
-
-Risolvo:
-
-$$
-\textcolor{red}{x^2 = 4}
-$$
-
-$2$ soluzioni:
-
-$$
-\textcolor{red}{x_1 = -2 \quad x_2 = 2}
-$$
-
-Essendo il Delta maggiore di zero la disequazione è positiva per valori esterni:
-
-$$
-\begin{cases} 
-\textcolor{red}{x \le -2 \cup x \ge 2} \\ 
-\textcolor{red}{x \ge -2} 
+\begin{cases}
+x \le -2 \cup x \ge 2 \\
+x \ge -2
 \end{cases}
 $$
 
-Quindi la soluzione è:
+Quindi la soluzione è
 
 $$
-\textcolor{red}{x = -2 \cup x \ge 2}
+x = -2 \cup x \ge 2
 $$
 
-oppure usando un'altra notazione:
+oppure usando un'altra notazione
 
-$$
-\begin{array}{c}
-\textcolor{blue}{+ \quad + \quad + \quad \textcolor{red}{(-2)} \quad - \quad - \quad - \quad \textcolor{red}{(+2)} \quad + \quad + \quad +} \\
-\textcolor{blue}{- \quad - \quad - \quad \textcolor{red}{(-2)} \quad + \quad + \quad + \quad + \quad + \quad + \quad + \quad + \quad + \quad +} \\
-\textcolor{blue}{\quad \quad \quad \quad \quad \quad \quad \quad ( ) \quad \quad \quad \quad \quad ( ) \underline{\quad \quad \quad \quad \quad \quad}}
-\end{array}
-$$
+<span class="text-blue-600">+ + + <span class="text-red-600">(-2)</span> - - - <span class="text-red-600">(+2)</span> + + + +</span>
+<span class="text-blue-600">- - - <span class="text-red-600">(-2)</span> + + + + + + + + + + +</span>
+<span class="text-blue-600">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ()___________________</span>
 
-Quindi saranno accettabili solo le soluzioni che siano uguali a $-2$ oppure maggiori od uguali a $+2$.
+Quindi saranno accettabili solo le soluzioni che siano uguali a $-2$ oppure maggiori od uguali a $+2$
 
-> **Nota:** Le parentesi indicano che è accettabile anche il valore indicato.
+---
+
+> Le parentesi indicano che è accettabile anche il valore indicato
+
+---
 
 Ora risolvo normalmente:
+Isolo la radice portandola dopo l'uguale
+$x + 2 = \sqrt{x^2 - 4}$
 
-Isolo la radice portandola dopo l'uguale:
+Elevo a quadrato da una parte e dall'altra
+$(x + 2)^2 = (\sqrt{x^2 - 4})^2$
 
-$$
-\textcolor{red}{x + 2 = \sqrt{x^2 - 4}}
-$$
+Eseguo il quadrato prima dell'uguale. Dopo l'uguale semplifico il quadrato con la radice
+$x^2 + 4x + 4 = x^2 - 4$
 
-Elevo a quadrato da una parte e dall'altra:
+Trasporto tutto prima dell'uguale
+$x^2 + 4x + 4 - x^2 + 4 = 0$
 
-$$
-\textcolor{red}{(x + 2)^2 = [\sqrt{x^2 - 4}]^2}
-$$
+Sommo
+$4x + 8 = 0$
 
-Eseguo il quadrato prima dell'uguale. Dopo l'uguale semplifico il quadrato con la radice:
-
-$$
-\textcolor{red}{x^2 + 4x + 4 = x^2 - 4}
-$$
-
-Trasporto tutto prima dell'uguale:
+Risolvo
+$4x = -8$
 
 $$
-\textcolor{red}{x^2 + 4x + 4 - x^2 + 4 = 0}
+x = -\frac{8}{4} = -2
 $$
 
-Sommo:
+Ora la soluzione $x = -2$ essendo fra i valori accettabili è accettabile
 
-$$
-\textcolor{red}{4x + 8 = 0}
-$$
-
-Risolvo:
-
-$$
-\textcolor{red}{4x = -8}
-$$
-
-$$
-\textcolor{red}{x = -\frac{8}{4} = -2}
-$$
-
-Ora la soluzione $x = -2$ essendo fra i valori accettabili è accettabile.
+---

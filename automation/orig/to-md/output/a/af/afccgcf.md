@@ -1,87 +1,105 @@
-# [esercizio]{.text-red}
+# <span class="text-red-600">Esercizio</span>
 
-risolvere la seguente equazione:
+Risolvere la seguente equazione:
 
-[$\sqrt{3}(x^2-1) = x + 2(x + \sqrt{3})$]{.text-red}
+$$
+\sqrt{3}(x^2 - 1) = x + 2(x + \sqrt{3})
+$$
 
-Prima devo sviluppare i calcoli; moltiplico
+Prima devo sviluppare i calcoli; moltiplico:
 
-[$x^2\sqrt{3} - \sqrt{3} = x + 2x + 2\sqrt{3}$]{.text-blue}
+$$
+\textcolor{blue}{x^2\sqrt{3} - \sqrt{3} = x + 2x + 2\sqrt{3}}
+$$
 
-porto tutti i termini prima dell'uguale
+Porto tutti i termini prima dell'uguale:
 
-[$x^2\sqrt{3} - \sqrt{3} - x - 2x - 2\sqrt{3} = 0$]{.text-blue}
+$$
+\textcolor{blue}{x^2\sqrt{3} - \sqrt{3} - x - 2x - 2\sqrt{3} = 0}
+$$
 
-sommo i termini simili
+Sommo i termini simili:
 
-[$x^2\sqrt{3} - 3x - 3\sqrt{3} = 0$]{.text-blue}
+$$
+\textcolor{blue}{x^2\sqrt{3} - 3x - 3\sqrt{3} = 0}
+$$
 
-prendiamo la formula risolutiva
+Prendiamo la formula risolutiva:
 
-[$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-$$]{.text-blue}
+$$
+\textcolor{blue}{x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}
+$$
 
-abbiamo:
+Abbiamo:
 
-[$a = \sqrt{3}$]{.text-blue}
-[$b = -3$]{.text-blue}
-[$c = -3\sqrt{3}$]{.text-blue}
+$$
+\textcolor{blue}{a = \sqrt{3}}
+$$
 
-sostituiamo nella formula
+$$
+\textcolor{blue}{b = -3}
+$$
 
-[$$
-x_{1,2} = \frac{+3 \pm \sqrt{(-3)^2 - 4(\sqrt{3})(-3\sqrt{3})}}{2(\sqrt{3})} =
-$$]{.text-blue}
+$$
+\textcolor{blue}{c = -3\sqrt{3}}
+$$
 
-facciamo i calcoli dentro la radice
+Sostituiamo nella formula:
 
-[$$
-= \frac{3 \pm \sqrt{9 + 36}}{2\sqrt{3}} =
-$$]{.text-blue}
+$$
+\textcolor{blue}{x_{1,2} = \frac{3 \pm \sqrt{(-3)^2 - 4(\sqrt{3})(-3\sqrt{3})}}{2\sqrt{3}}}
+$$
 
-[$$
-= \frac{3 \pm \sqrt{45}}{2\sqrt{3}} =
-$$]{.text-blue}
+Facciamo i calcoli all'interno della radice:
 
-estraggo la radice ricordando che $45 = 3^2 \cdot 5$
+$$
+\textcolor{blue}{x_{1,2} = \frac{3 \pm \sqrt{9 + 36}}{2\sqrt{3}}}
+$$
 
-[$$
-= \frac{3 \pm 3\sqrt{5}}{2\sqrt{3}}
-$$]{.text-blue}
+$$
+\textcolor{blue}{= \frac{3 \pm \sqrt{45}}{2\sqrt{3}}}
+$$
 
-quindi abbiamo come prima radice
+Estraggo la radice ricordando che $45 = 3^2 \cdot 5$:
 
-[$$
-x_1 = \frac{3 + 3\sqrt{5}}{2\sqrt{3}}
-$$]{.text-blue}
+$$
+\textcolor{blue}{= \frac{3 \pm 3\sqrt{5}}{2\sqrt{3}}}
+$$
 
-ora devo razionalizzare
+Quindi abbiamo come prima radice:
 
-[$$
-= \frac{3 + 3\sqrt{5}}{2\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{3\sqrt{3} + 3\sqrt{15}}{6}
-$$]{.text-blue}
+$$
+\textcolor{blue}{x_1 = \frac{3 + 3\sqrt{5}}{2\sqrt{3}}}
+$$
 
-[$$
-= \frac{3(\sqrt{3} + \sqrt{15})}{6} = \frac{\sqrt{3} + \sqrt{15}}{2}
-$$]{.text-blue}
+Ora devo razionalizzare:
 
-abbiamo come seconda radice
+$$
+\textcolor{blue}{= \frac{3 + 3\sqrt{5}}{2\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{3\sqrt{3} + 3\sqrt{15}}{6}}
+$$
 
-[$$
-x_2 = \frac{3 - 3\sqrt{5}}{2\sqrt{3}}
-$$]{.text-blue}
+$$
+\textcolor{blue}{= \frac{3(\sqrt{3} + \sqrt{15})}{6} = \frac{\sqrt{3} + \sqrt{15}}{2}}
+$$
 
-ora devo razionalizzare
+Abbiamo come seconda radice:
 
-[$$
-= \frac{3 - 3\sqrt{5}}{2\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{3\sqrt{3} - 3\sqrt{15}}{6}
-$$]{.text-blue}
+$$
+\textcolor{blue}{x_2 = \frac{3 - 3\sqrt{5}}{2\sqrt{3}}}
+$$
 
-[$$
-= \frac{3(\sqrt{3} - \sqrt{15})}{6} = \frac{\sqrt{3} - \sqrt{15}}{2}
-$$]{.text-blue}
+Ora devo razionalizzare:
 
-ottengo quindi le soluzioni
+$$
+\textcolor{blue}{= \frac{3 - 3\sqrt{5}}{2\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{3\sqrt{3} - 3\sqrt{15}}{6}}
+$$
 
-[$x_1 = \frac{\sqrt{3} + \sqrt{15}}{2}$]{.text-red} \quad [$x_2 = \frac{\sqrt{3} - \sqrt{15}}{2}$]{.text-red}
+$$
+\textcolor{blue}{= \frac{3(\sqrt{3} - \sqrt{15})}{6} = \frac{\sqrt{3} - \sqrt{15}}{2}}
+$$
+
+Ottengo quindi le soluzioni:
+
+$$
+x_1 = \frac{\sqrt{3} + \sqrt{15}}{2} \quad x_2 = \frac{\sqrt{3} - \sqrt{15}}{2}
+$$

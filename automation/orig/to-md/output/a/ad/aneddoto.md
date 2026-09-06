@@ -1,10 +1,12 @@
-# [ANEDDOTO]{.text-red}
+# <span class="text-red-600">ANEDDOTO</span>
 
-Era l'anno 1966 e io ed il mio compagno prima di classe poi di università Riccardo frequentavamo il corso di Geometria tenuto dal Prof. Villa, un professore vecchio tipo grande matematico.
+Era l'anno $1966$ e io ed il mio compagno prima di classe poi di università Riccardo frequentavamo il corso di Geometria tenuto dal Prof. Villa, un professore vecchio tipo grande matematico.
 
 Riccardo non era proprio quello che si può definire uno studente modello e non era troppo preparato, ma per ragioni di borsa di studio doveva sostenere un esame.
 
-All'esame Riccardo, piuttosto abbacchiato, capitò proprio a dare l'esame da Villa. Prima domanda: scena muta, seconda domanda: scena muta, alla fine Villa si arrabbiò e disse a Riccardo:
+All'esame Riccardo, piuttosto abbacchiato, capitò proprio a dare l'esame da Villa.
+
+Prima domanda: scena muta, seconda domanda: scena muta, alla fine Villa si arrabbiò e disse a Riccardo:
 
 "Ma insomma! Lei non saprebbe nemmeno cuocere due uova al tegamino!"
 

@@ -1,4 +1,4 @@
-# [Esercizi sulle disequazioni di primo grado]{.text-red}
+# <span class="text-red-600">Esercizi sulle disequazioni di primo grado</span>
 
 1) $\textcolor{blue}{x + 2 - 2x < 4x - 3 - 6x}$ [soluzione](agbac1.html)
 
@@ -6,10 +6,6 @@
 
 3) $\textcolor{blue}{6x + 12 - 2x > 4x - 3}$ [soluzione](agbac3.html)
 
-4) 
-$$
-\textcolor{blue}{\frac{x + 2}{2} - 2x \ge \frac{4x + 3}{3}}
-$$
-[soluzione](agbac4.html)
+4) $\textcolor{blue}{\frac{x + 2}{2} - 2x \ge \frac{4x + 3}{3}}$ [soluzione](agbac4.html)
 
 5) $\textcolor{blue}{(x + 2)^2 - 2x < x^2 - 4x - 3}$ [soluzione](agbac5.html)

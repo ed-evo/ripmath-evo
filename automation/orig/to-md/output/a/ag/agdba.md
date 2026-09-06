@@ -1,7 +1,8 @@
-# Parabola che interseca in due punti l'asse delle x
+# <span class="text-red-500">Parabola che interseca in due punti l'asse delle x</span>
 
 È equivalente al caso ove il delta del polinomio è maggiore di zero ($2$ soluzioni reali = $2$ punti sull'asse $x$).
 Distinguiamo i due casi:
+
 - $a > 0$
 - $a < 0$
 
@@ -11,16 +12,16 @@ Distinguiamo i due casi:
 
 Se $a$ è maggiore di zero la parabola ha la concavità verso l'alto, quindi avremo che il trinomio è positivo per valori esterni all'intervallo delle intersezioni ed è negativo per valori interni.
 
-Per $\Delta > 0$ e $a > 0$:
-- [$ax^2 + bx + c > 0$]{.text-blue}: [valori esterni all'intervallo delle radici]{.text-red}
-- [$ax^2 + bx + c < 0$]{.text-blue}: [valori interni all'intervallo delle radici]{.text-red}
-
----
+$\textcolor{blue}{\Delta > 0}$, $\textcolor{blue}{a > 0}$
+- $\textcolor{blue}{ax^2 + bx + c > 0} \implies <span class="text-red-500">valori esterni all'intervallo delle radici</span>
+- $\textcolor{blue}{ax^2 + bx + c < 0} \implies <span class="text-red-500">valori interni all'intervallo delle radici</span>
 
 ## $a < 0$
 
 Se $a$ è minore di zero la parabola ha la concavità verso il basso, quindi avremo che il trinomio è positivo per valori interni all'intervallo delle intersezioni ed è negativo per valori esterni.
 
-Per $\Delta > 0$ e $a < 0$:
-- [$ax^2 + bx + c > 0$]{.text-blue}: [valori interni all'intervallo delle radici]{.text-red}
-- [$ax^2 + bx + c < 0$]{.text-blue}: [valori esterni all'intervallo delle radici]{.text-red}
+$\textcolor{blue}{\Delta > 0}$, $\textcolor{blue}{a < 0}$
+- $\textcolor{blue}{ax^2 + bx + c > 0} \implies <span class="text-red-500">valori interni all'intervallo delle radici</span>
+- $\textcolor{blue}{ax^2 + bx + c < 0} \implies <span class="text-red-500">valori esterni all'intervallo delle radici</span>
+
+[Pagina iniziale](../../../../index.html) [Indice di algebra](../../a.html) [Pagina successiva](agdbb.html) [Pagina precedente](agdb.html)

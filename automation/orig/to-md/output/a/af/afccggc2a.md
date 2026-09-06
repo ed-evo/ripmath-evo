@@ -1,7 +1,6 @@
 Scompongo $48$ in fattori
 
 $$
-\textcolor{red}{
 \begin{array}{r|l}
 48 & 2 \\
 24 & 2 \\
@@ -10,11 +9,10 @@ $$
 3 & 3 \\
 1 & 1
 \end{array}
-}
 $$
 
 $$
-\textcolor{red}{48 = 2^4 \cdot 3}
+48 = 2^4 \cdot 3
 $$
 
 Quindi $2^4$ può uscire di radice ed abbiamo che

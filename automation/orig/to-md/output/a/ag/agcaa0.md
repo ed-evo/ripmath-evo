@@ -1,39 +1,41 @@
-# [Come costruire lo schema]{.text-red}
+# Come costruire lo schema
 
 Pongo che i due termini del prodotto siano maggiori di zero:
 
 $$
-\textcolor{red}{x - 2 > 0}
+x - 2 > 0
 $$
 $$
-\textcolor{red}{x - 4 > 0}
+x - 4 > 0
 $$
 
-Comincio dal primo: $\textcolor{red}{x - 2 > 0}$ risolvo come fosse un'equazione: porto il numero dall'altra parte cambiandolo di segno $\textcolor{red}{x > 2}$ cioè partendo da sinistra prima di $2$ indico $-$ e dopo $2$ indico $+$
+Comincio dal primo: $x - 2 > 0$, risolvo come fosse un'equazione: porto il numero dall'altra parte cambiandolo di segno $x > 2$, cioè partendo da sinistra prima di $2$ indico $-$ e dopo $2$ indico $+$.
 
-> $\textcolor{red}{x > 2} \quad - - - - - (2) + + + + + + + + + + + + +$
+> $x > 2 \quad - - - - - (2) + + + + + + + + + + + + +$
 
-Ora prendo $\textcolor{red}{x - 4 > 0}$ risolvo come fosse un'equazione: porto il numero dall'altra parte cambiandolo di segno $\textcolor{red}{x > 4}$ cioè partendo da sinistra prima di $4$ indico $-$ e dopo $4$ indico $+$
+Ora prendo $x - 4 > 0$, risolvo come fosse un'equazione: porto il numero dall'altra parte cambiandolo di segno $x > 4$, cioè partendo da sinistra prima di $4$ indico $-$ e dopo $4$ indico $+$.
 
-> $\textcolor{red}{x > 2} \quad - - - - - (2) + + + + + + + + + + + + +$
-> $\textcolor{red}{x > 4} \quad - - - - - - - - - - - - (4) + + + + + + + + +$
+> $x > 2 \quad - - - - - (2) + + + + + + + + + + + + +$
+> $x > 4 \quad - - - - - - - - - - - - (4) + + + + + + + + +$
 
-Ora l'espressione è il prodotto dei fattori considerati
-[Espressione]{.text-blue} $= \textcolor{red}{(x - 2)(x - 4)}$
-quindi il segno dell'espressione si otterrà con il prodotto dei segni dei fattori. Partendo da sinistra prima di $2$ il primo fattore è negativo ed il secondo è negativo, allora il prodotto è positivo (meno per meno uguale più)
+Ora l'espressione è il prodotto dei fattori considerati:
 
-> $\textcolor{red}{x > 2} \quad - - - - - - (2) + + + + + + + + + + + + +$
-> $\textcolor{red}{x > 4} \quad - - - - - - - - - - - - - (4) + + + + + + + + +$
-> [Espressione]{.text-blue} $\quad + + + + (2)$
+$\textcolor{blue}{\text{Espressione}} = (x-2)(x-4)$
 
-Tra $2$ e $4$ il primo fattore è positivo ed il secondo è negativo (più per meno uguale meno) quindi l'espressione è negativa
+quindi il segno dell'espressione si otterrà con il prodotto dei segni dei fattori. Partendo da sinistra prima di due il primo fattore è negativo ed il secondo è negativo, allora il prodotto è positivo (meno per meno uguale più).
 
-> $\textcolor{red}{x > 2} \quad - - - - - - (2) + + + + + + + + + + + + +$
-> $\textcolor{red}{x > 4} \quad - - - - - - - - - - - - - (4) + + + + + + + + +$
-> [Espressione]{.text-blue} $\quad + + + + (2) - - - - - (4)$
+> $x > 2 \quad - - - - - - (2) + + + + + + + + + + + + +$
+> $x > 4 \quad - - - - - - - - - - - - - (4) + + + + + + + + +$
+> $\textcolor{blue}{\text{Espressione}} \quad + + + + (2)$
 
-Oltre $4$ sia il primo che il secondo fattore è positivo quindi l'espressione sarà positiva (più per più uguale più)
+Tra $2$ e $4$ il primo fattore è positivo ed il secondo è negativo (più per meno uguale meno), quindi l'espressione è negativa.
 
-> $\textcolor{red}{x > 2} \quad - - - - - (2) + + + + + + + + + + + + +$
-> $\textcolor{red}{x > 4} \quad - - - - - - - - - - - - (4) + + + + + + + + +$
-> [Espressione]{.text-blue} $\quad + + + + (2) - - - - - (4) + + + + + + + + +$
+> $x > 2 \quad - - - - - - (2) + + + + + + + + + + + + +$
+> $x > 4 \quad - - - - - - - - - - - - - (4) + + + + + + + + +$
+> $\textcolor{blue}{\text{Espressione}} \quad + + + + (2) - - - - - (4)$
+
+Oltre $4$ sia il primo che il secondo fattore è positivo, quindi l'espressione sarà positiva (più per più uguale più).
+
+> $x > 2 \quad - - - - - (2) + + + + + + + + + + + + +$
+> $x > 4 \quad - - - - - - - - - - - - (4) + + + + + + + + +$
+> $\textcolor{blue}{\text{Espressione}} \quad + + + + (2) - - - - - (4) + + + + + + + + +$

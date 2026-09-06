@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# <span class="text-[#FF2200]">Esercizio</span>
 
 $$
 \textcolor{blue}{\frac{x + 2}{2} - 2x \ge \frac{4x + 3}{3}}
@@ -46,4 +46,4 @@ $$
 
 soluzione:
 
-> il punto è cerchiato per indicare che il valore è compreso
+il punto è cerchiato per indicare che il valore è compreso

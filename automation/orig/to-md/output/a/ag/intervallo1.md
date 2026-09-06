@@ -1,3 +1,3 @@
 $$
-\textcolor{blue}{\Delta >} \textcolor{darkblue}{0}
+\textcolor{blue}{\Delta > 0}
 $$

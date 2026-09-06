@@ -1,22 +1,20 @@
-# [esercizio]{.text-red}
+# <span class="text-red-600">esercizio</span>
 
 Facciamo un esercizio con le lettere
 
 Trovare l'equazione che ha come radici
 
 $$
-\textcolor{red}{x_1 = b - a} \quad \textcolor{red}{x_2 = -b}
+x_1 = b - a \quad x_2 = -b
 $$
 
----
-
-Sempre per la forma dell'equazione di secondo grado
+Sempre per la [forma](afccdc.html) dell'equazione di secondo grado
 
 $$
 \textcolor{blue}{x^2 - sx + p = 0}
 $$
 
-con $\textcolor{blue}{s}$ e $\textcolor{blue}{p}$ somma e prodotto delle radici
+con $s$ e $p$ somma e prodotto delle radici
 
 $$
 \textcolor{blue}{s = x_1 + x_2 = b - a + (-b) = b - a - b = -a}
@@ -29,11 +27,7 @@ $$
 Otteniamo quindi
 
 $$
-\textcolor{red}{x^2 + ax + ab - b^2 = 0}
+x^2 + ax + ab - b^2 = 0
 $$
 
----
-
 > Per verificare che hai fatto tutto giusto basta risolvere l'equazione
-
----

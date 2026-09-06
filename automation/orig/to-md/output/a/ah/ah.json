@@ -8,13 +8,13 @@
         "application/json; charset=UTF-8"
       ],
       "Date": [
-        "Sat, 22 Aug 2026 14:54:16 GMT"
+        "Sun, 06 Sep 2026 06:57:05 GMT"
       ],
       "Server": [
         "scaffolding on HTTPServer2"
       ],
       "Server-Timing": [
-        "gfet4t7; dur=16463"
+        "gfet4t7; dur=27402"
       ],
       "Vary": [
         "Origin",
@@ -36,21 +36,21 @@
     }
   },
   "modelVersion": "gemma-4-31b-it",
-  "responseId": "CLiJaoaiE-XlkdUP0eXK8QE",
+  "responseId": "pg6dapGZOsfmxN8PuNaviAI",
   "usageMetadata": {
-    "candidatesTokenCount": 42,
-    "promptTokenCount": 1609,
+    "candidatesTokenCount": 82,
+    "promptTokenCount": 1823,
     "promptTokensDetails": [
       {
         "modality": "TEXT",
-        "tokenCount": 1351
+        "tokenCount": 1565
       },
       {
         "modality": "IMAGE",
         "tokenCount": 258
       }
     ],
-    "thoughtsTokenCount": 440,
-    "totalTokenCount": 2091
+    "thoughtsTokenCount": 805,
+    "totalTokenCount": 2710
   }
 }

@@ -1,21 +1,17 @@
-# [Esercizi]{.text-red}
+# <span class="text-red-500">Esercizi</span>
 
 Risolviamo l'equazione:
-
-$$
-\textcolor{blue}{3x^2 - 10x + 3 = 0}
-$$
+$\textcolor{blue}{3x^2 - 10x + 3 = 0}$
 
 Prendiamo la formula risolutiva ridotta:
 
 $$
-\textcolor{blue}{x_{1,2} = \frac{-\beta \pm \sqrt{\beta^2 - ac}}{a}}
+\textcolor{blue}{x_{1,2} = \frac{-\mathcal{B} \pm \sqrt{\mathcal{B}^2 - ac}}{a}}
 $$
 
 Abbiamo:
-
 $\textcolor{blue}{a = 3}$
-$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\beta = -5}$
+$\textcolor{blue}{b = -10} \quad \textcolor{blue}{\mathcal{B} = -5}$
 $\textcolor{blue}{c = 3}$
 
 Sostituiamo nella formula:
@@ -38,20 +34,20 @@ $$
 \textcolor{blue}{= \frac{5 \pm 4}{3}}
 $$
 
-Adesso devo prendere una volta il più e una volta il meno:
+Adesso dobbiamo prendere una volta il più e una volta il meno:
 
 $$
-\textcolor{blue}{\frac{5 - 4}{3} = \frac{1}{3}}
+\textcolor{blue}{= \frac{5 - 4}{3} = \frac{1}{3}}
 $$
 
 $$
-\textcolor{blue}{\frac{5 + 4}{3} = 3}
+\textcolor{blue}{= \frac{5 + 4}{3} = 3}
 $$
 
 Ho quindi le due soluzioni:
 
 $$
-\textcolor{red}{x_1 = \frac{1}{3}, \quad x_2 = 3}
+x_1 = \frac{1}{3} \quad x_2 = 3
 $$
 
-Essendo $\textcolor{red}{x^2 - 5x + 6 > 0}$, dovrò prendere i valori esterni all'intervallo delle radici, quindi $\textcolor{red}{x < 2 \cup x > 3}$.
+Essendo $x^2 - 5x + 6 > 0$ dovrò prendere i valori esterni all'intervallo delle radici, quindi $x < 2 \cup x > 3$.

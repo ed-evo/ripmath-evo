@@ -1,22 +1,22 @@
 $$
-\textcolor{red}{(x-1)(y-1) = xy - 15}
+(x-1)(y-1) = xy - 15
 $$
 
 $$
-\textcolor{red}{xy - x - y + 1 = xy - 15}
+xy - x - y + 1 = xy - 15
 $$
 
-Gli $xy$ si eliminano tra loro e porto $1$ dopo l'uguale
+gli $xy$ si eliminano tra loro e porto $1$ dopo l'uguale
 
 $$
-\textcolor{red}{-x - y = -1 - 15}
+-x - y = -1 - 15
 $$
 
 $$
-\textcolor{red}{-x - y = -16}
+-x - y = -16
 $$
 
-Cambio di segno ed ottengo
+cambio di segno ed ottengo
 
 $$
 \textcolor{blue}{x + y = 16}

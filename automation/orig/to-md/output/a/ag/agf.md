@@ -1,7 +1,7 @@
-# [Disequazioni di grado superiore]{.text-red}
+# Disequazioni di grado superiore
 
 Ora possiamo affrontare lo studio di disequazioni di grado $3, 4, 5, \dots$
-Per poter procedere al meglio però devi saper fare bene le [scomposizioni](../../ad/ad6g.html) in generale e la [scomposizione di Ruffini](../../ad/ad6b.html) in particolare.
+Per poter procedere al meglio però devi saper fare bene le [scomposizioni](../ad/ad6g.html) in generale e la [scomposizione di Ruffini](../ad/ad6b.html) in particolare.
 
 Devi scomporre le espressioni in fattori di primo e secondo grado e quindi applicare i metodi già visti.
 Alcuni esempi ti chiariranno meglio come procedere.

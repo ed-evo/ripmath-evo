@@ -1,8 +1,8 @@
 $$
-\begin{array}{ccc|c}
-\textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\
-\textcolor{red}{1/2} & & \textcolor{red}{1} & \textcolor{red}{1} \\
+\begin{array}{c|ccc|c}
+& 2 & 1 & 1 & -1 \\
+1/2 & & 1 & 1 & \\
 \hline
-& \textcolor{red}{2} & \textcolor{red}{2} & \textcolor{red}{2}
+& 2 & 2 & 2 & 
 \end{array}
 $$

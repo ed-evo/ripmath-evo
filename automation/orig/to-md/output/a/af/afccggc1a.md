@@ -1,18 +1,16 @@
-Scompongo $147$ in fattori
+scompongo $147$ in fattori
 
 $$
-\textcolor{red}{
 \begin{array}{r|l}
 147 & 3 \\
 49 & 7 \\
 7 & 7 \\
 1 & 1
 \end{array}
-}
 $$
 
 $$
-\textcolor{red}{147 = 3 \cdot 7^2}
+147 = 3 \cdot 7^2
 $$
 
 quindi $7^2$ può uscire di radice ed abbiamo che

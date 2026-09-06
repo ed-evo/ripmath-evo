@@ -1,4 +1,4 @@
-# [esercizi sulle equazioni di secondo grado complete]{.text-red}
+# <span class="text-red-600">esercizi sulle equazioni di secondo grado complete</span>
 
 Risolvere le seguenti equazioni:
 
@@ -18,7 +18,9 @@ $\textcolor{blue}{5x^2 - 6x + 5 = 0}$ [soluzione](afccgcc.html)
 
 $$
 \textcolor{blue}{3x - \frac{x^2 - 3x - 10}{3} + \frac{(x - 2)^2}{2} = 0}
-$$ [soluzione](afccgcd.html)
+$$
+
+[soluzione](afccgcd.html)
 
 ### esercizio 5
 
@@ -36,4 +38,6 @@ $\textcolor{blue}{(x+a)(x-a) + x(x-2b) = (x+b)(x-b)}$ [soluzione](afccgcg.html)
 
 $$
 \textcolor{blue}{\frac{a - 3x}{a} + \frac{a + 3x}{2a} = \frac{x^2 - ax}{b}}
-$$ [soluzione](afccgch.html)
+$$
+
+[soluzione](afccgch.html)

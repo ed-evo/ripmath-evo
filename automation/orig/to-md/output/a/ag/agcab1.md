@@ -1,29 +1,31 @@
-# [Esercizio]{.text-red}
+# <span class="text-red-500">Esercizio</span>
 
-[$\frac{x - 3}{x + 1} > 0$]{.text-blue}
+$$
+\textcolor{blue}{\frac{x - 3}{x + 1} > 0}
+$$
 
 Pongo sia il numeratore che il denominatore maggiori di zero:
 
-[$x - 3 > 0$]{.text-blue}
-[$x + 1 > 0$]{.text-blue}
+$\textcolor{blue}{x - 3 > 0}$
+$\textcolor{blue}{x + 1 > 0}$
 
 Risolvo:
 
-[$x > 3$]{.text-blue}
-[$x > -1$]{.text-blue}
+$\textcolor{blue}{x > 3}$
+$\textcolor{blue}{x > -1}$
 
 Faccio lo schema:
 
-[$x > 3 \quad \text{-------------------- (3) ++++++++++++}$]{.text-blue}
-[$x > -1 \quad \text{----------- ]-1[ ++++++++++++}$]{.text-blue}
-[$f(x) \quad \text{++++++ ]-1[ ---------------- (3) ++++++++++++}$]{.text-red}
+$\textcolor{blue}{x > 3} \quad \text{-------------------- (3) ++++++++++++}$
+$\textcolor{blue}{x > -1} \quad \text{---------- ]-1[ ++++++++++++}$
+$f(x) \quad \text{++++ ]-1[ -------------------- (3) ++++++++++++}$
 
-> $f(x)$ indica l'espressione di partenza.
+> **Nota:** $f(x)$ indica l'espressione di partenza.
 > La parentesi tonda indica che l'espressione si annulla nel punto, mentre la quadra indica che il valore non è accettabile.
 > $]-1[$ non è accettabile perché annulla il denominatore e non si può mai dividere per zero.
 
 Io devo cercare dove l'espressione è positiva e questo succede per:
 
-[$x < -1 \cup x > 3$]{.text-blue}
+$\textcolor{blue}{x < -1 \cup x > 3}$
 
-Oppure in altra notazione.
+Oppure in altra notazione:

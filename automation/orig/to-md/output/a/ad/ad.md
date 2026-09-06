@@ -1,6 +1,6 @@
-> [attenzione: i link rossi non sono attivi]{.text-pink}
+> <span class="text-pink-500">attenzione: i link rossi non sono attivi</span>
 
-# [I POLINOMI]{.text-red}
+# <span class="text-red-600">I POLINOMI</span>
 
 ---
 
@@ -16,3 +16,7 @@
 - [scomposizione di un polinomio in fattori](ad6.html)
 - [M.C.D. fra polinomi](ad7.html)
 - [m.c.m. fra polinomi](ad8.html)
+
+[Pagina iniziale](../../../index.html)
+[Indice di algebra](../../a.html)
+[Pagina successiva](ad1.html)

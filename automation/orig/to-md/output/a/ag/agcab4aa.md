@@ -2,7 +2,7 @@ $$
 \textcolor{blue}{x^2 - 4x - 5 = 0}
 $$
 
-Uso la formula ridotta
+Uso la [formula ridotta](../af/afccb.html)
 
 $$
 \textcolor{blue}{x_{1,2} = 2 \pm \sqrt{(2)^2 - 1 \cdot (-5)}}
@@ -34,4 +34,4 @@ $$
 \textcolor{blue}{x^2 - 4x - 5 = (x+1)(x-5)}
 $$
 
-> Nota come i calcoli sono più semplici
+> Nota come i calcoli siano più semplici

@@ -1,4 +1,4 @@
-# [esercizio]{.text-red}
+# <span class="text-red-600">esercizio</span>
 
 risolvere la seguente equazione:
 
@@ -6,26 +6,26 @@ $$
 \textcolor{blue}{\frac{10}{3} - \frac{x - 5}{x + 5} = \frac{x + 5}{x - 5}}
 $$
 
-È un'equazione fratta quindi prima di risolverla dobbiamo porre le condizioni di realtà.
+È un' [equazione fratta](afbg.html) quindi prima di risolverla dobbiamo porre le condizioni di realtà.
 
-> [**C.R.**]{.text-red}
+> **C.R.**
 > $$
-> \textcolor{red}{x - 5 \neq 0 \implies x \neq 5}
+> x - 5 \neq 0 \implies x \neq 5
 > $$
 > $$
-> \textcolor{red}{x + 5 \neq 0 \implies x \neq -5}
+> x + 5 \neq 0 \implies x \neq -5
 > $$
 
-Cioè se troveremo come soluzione $x = 5$ o $x = -5$ diremo che l'equazione è impossibile.
+cioè se troveremo come soluzione $x = 5$ o $x = -5$ diremo che l'equazione è impossibile.
 
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
-[$$\text{m.c.m.} = 3(x-5)(x+5)$]{.text-blue}
+$\textcolor{blue}{m.c.m. = 3(x-5)(x+5)}$
 
 $$
 \textcolor{blue}{\frac{10(x-5)(x+5) - 3(x-5)^2}{3(x-5)(x+5)} = \frac{3(x + 5)^2}{3(x-5)(x+5)}}
 $$
 
-Elimino i denominatori.
+Elimino i denominatori:
 
 > Devo moltiplicare da entrambe le parti per $3(x-5)(x+5)$; posso farlo perché ho posto che è diverso da zero.
 
@@ -36,7 +36,7 @@ $$
 eseguo i calcoli, prima i prodotti notevoli:
 
 $$
-\textcolor{blue}{10(x^2 - 25) - 3(x^2 - 10x + 25) = 3(x^2 + 10x + 25)}
+\textcolor{blue}{10(x^2-25) - 3(x^2-10x+25) = 3(x^2+10x+25)}
 $$
 
 poi le moltiplicazioni:
@@ -84,7 +84,7 @@ $$
 Ho quindi le due soluzioni:
 
 $$
-\textcolor{red}{x_1 = -10} \quad \textcolor{red}{x_2 = +10}
+x_1 = -10 \quad x_2 = +10
 $$
 
 e rispettano le condizioni di realtà.

@@ -1,313 +1,314 @@
-[.text-red]I link rossi non sono attivi
+<span class="text-red-500">I link rossi non sono attivi</span>
 
 # Algebra
 
-- potenze
-    1. Definizione
-    2. Prodotto
-    3. Quoziente
-    4. Potenza di potenza
-    5. Potenza di un prodotto
-- Introduzione al calcolo letterale
-- Monomi
-    1. Cos'è un monomio
-    2. Grado
-    3. Somma e differenza
-    4. Prodotto
-    5. Quoziente
-    6. Potenza
-    7. M.C.D.
-    8. m.c.m.
-- Polinomi
-    1. Perché i polinomi
-        - Definizione
-        - Grado
-        - Polinomio ordinato
-        - Polinomio completo
-    2. Somma
-    3. Differenza
-    4. Prodotto
-        - Prodotto fra monomio e polinomio
-        - Prodotto fra due polinomi
-        - Prodotti notevoli
-            - Somma di due monomi per la loro differenza
-            - quadrato del binomio
-            - Quadrato del trinomio
-            - Cubo del binomio
-            - Cubo del trinomio
-            - Potenza qualunque del binomio
-                - Metodo di Tartaglia
-                - Regola di Newton
-    5. Quoziente
-        - Divisione fra un polinomio ed un monomio
-        - Divisione fra due polinomi
-            1. Metodo canonico
-            2. Metodo di Ruffini
-            3. Teorema di Ruffini
-    6. Scomposizione
-        - Perché la scomposizione
-        - Raccoglimento
-            - Raccoglimento totale
-            - Raccoglimento parziale
-        - Scomposizione di Ruffini
-            - casi particolari
-                1. polinomio non completo
-                2. polinomio scomponibile mediante termini frazionari
-                3. polinomio letterale
-                4. scomposizione con binomio di grado superiore ad uno
-        - Scomposizioni secondo i prodotti notevoli
-            - Differenza di quadrati
-            - Quadrato del binomio
-            - Cubo del binomio
-            - Quadrato del trinomio
-        - Somma e differenza di potenze pari e dispari
-            - Differenza di potenze dispari
-            - Somma di potenze dispari
-            - Differenza di potenze pari
-            - Somma di potenze pari
-        - Trinomio notevole
-        - Raggruppamenti
-        - Tabella di riepilogo
-    7. M.C.D.
-    8. m.c.m.
-- Frazioni algebriche
-    - Perché le frazioni algebriche
-    - Equivalenza
-    - Somma e differenza
-    - Prodotto
-    - Quoziente
-    - Elevamento a potenza
-    - Espressioni
-- Equazioni
-    - Perché le equazioni
-    - Equazioni di primo grado
-        - Uguaglianze identità equazioni
-        - Primo principio di equivalenza
-        - Secondo principio di equivalenza
-        - Soluzione di un'equazione di primo grado ad una incognita
-        - Equazione possibile, impossibile, indeterminata
-        - Equazioni letterali
-        - Equazioni fratte
-        - Equazioni ai moduli
-            - perché il modulo
-            - definizione di modulo
-            - equazioni con un modulo
-            - equazioni con due moduli
-            - equazioni con più moduli
-    - Equazioni di secondo grado
-        - Equazione pura
-        - Equazione spuria
-        - Equazione completa
-            - Formula risolutiva
-            - Formula ridotta
-            - Discriminante
-            - Relazioni fra coefficienti e radici
-                - Somma delle radici
-                - Prodotto delle radici
-                - Equazione con somma e prodotto
-            - Regola di cartesio
-                - Tabella riassuntiva per la regola di Cartesio
-            - Decomposizione del trinomio
-                - Dimostrazione
-            - Esercizi
-                - .....
-                - Equazioni con parametro
-                - ....
-        - Discussione di equazioni con parametro
-            - Introduzione
-            - Discussione di equazioni di primo grado
-                - Metodo diretto
-                - Metodo grafico
-            - Discussione di equazioni di secondo grado
-                - Metodo di Tartinville
-                - Metodo grafico
-    - Equazioni di grado superiore
-        - Teorema fondamentale dell'algebra
-        - Equazioni abbassabili di grado
-        - Equazioni biquadratiche
-        - Equazioni binomie
-        - Equazioni trinomie
-        - Equazioni irrazionali
-        - Equazioni reciproche
-            - di terzo grado
-            - di quarto grado
-                - di prima specie
-                - di seconda specie
-            - di quinto grado
-        - Equazioni da risolvere con artifici
-        - Equazioni risolubili graficamente
-- Disequazioni
-    - Definizione
-    - Disequazioni di primo grado
-        - Disequazioni di primo grado ad una incognita
-        - Disequazioni di primo grado a due incognite
-        - Disequazioni di primo grado a più incognite (cenno)
-    - Sistemi di disequazioni di primo grado
-        - Applicazioni
-            - espressioni prodotto di due espressioni elementari
-            - espressioni quoziente di due espressioni elementari
-            - disequazioni con moduli
-    - Disequazioni di secondo grado
-        - Metodo algebrico
-            - Delta del polinomio maggiore di zero
-            - Delta del polinomio uguale zero
-            - Delta del polinomio minore di zero
-        - Metodo della parabola
-            - Parabola che taglia l'asse $x$ in due punti
-            - Parabola tangente all'asse $x$
-            - Parabola senza punti comuni con l'asse $x$
-        - Tabella di riepilogo
-            - $a > 0$
-            - $a < 0$
-    - Sistemi con disequazioni di secondo grado
-        - Soluzione di un sistema di disequazioni di secondo grado
-        - Sistema con disequazioni di primo e di secondo grado
-        - Applicazioni a prodotti
-        - Applicazioni a frazioni
-        - Applicazioni ad espressioni più complesse
-        - Sistemi di equazione e disequazioni
-    - Disequazioni di grado superiore
-    - Disequazioni ai moduli
-        - Riprendiamo il concetto di valore assoluto
-        - Disuguaglianze fra valori assoluti
-            - Disuguaglianza fra un modulo ed un numero reale positivo
-            - modulo di una somma
-            - modulo della differenza dei moduli
-        - Esercizi
-- Problemi
-    - Generalità sui problemi
-    - Vocabolario
-    - Problemi di primo grado
-        - problemi risolubili mediante un'equazione
-            - Problemi numerici
-            - Problemi tipo "Settimana enigmistica"
-            - Problemi geometrici
-        - problemi risolubili mediante un sistema
-            - Problemi numerici
-            - Problemi tipo "Settimana enigmistica"
-            - Problemi geometrici
-    - Problemi di secondo grado
-        - problemi di tipo numerico
-        - problemi di tipo geometrico
-    - Problemi di grado superiore
-- Sistemi di equazioni
-    - Definizione
-    - Sistemi di primo grado
-        - Sistema di due equazioni in due incognite
-            - Soluzione di un sistema di due equazioni in due incognite
-                - Metodo di sostituzione
-                - Metodo di addizione
-                - Metodo di confronto
-                - Metodo di Cramer
-            - Sistema possibile, impossibile, indeterminato
-            - Significato geometrico di un sistema
-        - Sistema di tre equazioni in tre incognite
-            - metodo di sostituzione
-            - metodo di Cramer
-                - Matrici del sistema
-                - Il determinante $3x3$
-                - Calcolo del determinante col metodo normale
-                - Calcolo del determinante con la regola di Sarrus
-                - Soluzione del sistema
-            - sistema possibile, impossibile e indeterminato
-                - Sistema possibile
-                - Sistema indeterminato
-                    - due equazioni equivalenti
-                    - tre equazioni equivalenti
-                - Dipendenza ed indipendenza lineare fra equazioni
-                - Sistema impossibile
-                - Rango di una matrice
-                - Teorema di Rouché-Capelli
-            - sistema omogeneo
-        - Sistema di $n$ equazioni in $n$ incognite
-            - Sistema lineare non omogeneo
-            - Sistema lineare omogeneo
-            - Sistema lineare con parametro
-        - Sistema di $k$ equazioni in $n$ incognite
-    - Sistemi di grado superiore al primo
-        - Grado di un sistema
-        - Sistemi di secondo grado in due incognite
-        - Sistemi di secondo grado a più incognite
-        - Sistemi di grado superiore
-        - Sistemi simmetrici
-            - Soluzione di un sistema simmetrico elementare
-            - Formule di Waring
-            - Soluzione di sistemi simmetrici generali
-            - Sistemi riconducibili a simmetrici
-        - Sistemi omogenei
-        - Sistemi che si risolvono con artifici
-- Matrici e determinanti
-    - Matrici: concetti di base
-    - Matrici quadrate
-    - Determinante di una matrice quadrata
-        - Complemento algebrico di un elemento del determinante
-        - Calcolo del determinante col metodo di Laplace
-        - Proprietà dei determinanti (utili per il loro calcolo)
-        - Esempi di calcolo di un determinante utilizzandone le proprietà
-    - Cenni di algebra delle matrici
-        - Prodotto fra matrici
-        - Somma fra matrici quadrate
-        - Matrice nulla
-        - Prodotto righe per colonne fra matrici quadrate
-        - Matrice unitaria
-        - Matrice inversa di una matrice quadrata
-        - Prodotto esterno: scalare per matrice
-        - Algebra delle matrici
-- Introduzione ai radicali
-    - definizione di radicale
-    - radicali aritmetici
-    - radicali algebrici
-    - operazioni con i radicali
-        - equivalenza
-        - somma e differenza
-        - prodotto
-        - quoziente
-        - elevamento a potenza
-        - portare fuori radice
-        - [.text-red]esercizi sulle operazioni con radicali
-    - radicali doppi
-    - razionalizzazione
-    - forma esponenziale dei radicali
-        - applicazioni
-    - [.text-red]espressioni con i radicali
-    - Disequazioni irrazionali ad indice pari
-        - Disequazione elementare del tipo $F(x) > G(x)$
-        - Disequazione elementare del tipo $F(x) < G(x)$
-        - Disequazioni più complesse
-        - Caso particolare
-    - Disequazioni irrazionali ad indice dispari
-- Logaritmi
-    - Utilità dei logaritmi
-    - Cos'è il logaritmo
-    - Definizione di logaritmo
-    - Un po' di nomenclatura
-    - Valori possibili
-    - Possibili basi per i logaritmi
-        - Logaritmi a base maggiore di $1$
-        - Logaritmi a base minore di $1$
-    - Proprietà dei logaritmi
-        - Logaritmo di un prodotto
-        - Logaritmo di un quoziente
-        - Logaritmo di una potenza
-        - Logaritmo di una radice
-        - Esercizio
-    - Cambiamento di base
-    - Grafico della funzione logaritmo
-        - la base $a$ è maggiore di $1$
-        - la base $a$ è compresa fra $0$ ed $1$
-    - Equazioni logaritmiche
-        - Esercizi
-    - Disequazioni logaritmiche
-        - disequazioni con logaritmi a base maggiore di $1$
-        - disequazioni con logaritmi a base compresa fra $0$ ed $1$
-- Esponenziali
-    - Funzione esponenziale
-    - Grafico della funzione esponenziale
-        - la base $a$ è maggiore di $1$
-        - la base $a$ è compresa fra $0$ ed $1$
-    - Equazioni esponenziali
-    - Disequazioni esponenziali
-        - la base $a$ è maggiore di $1$
-        - la base $a$ è compresa tra $0$ ed $1$
+- [Potenze](a/aa/aa.html)
+    - [Definizione](a/aa/aa1.html)
+    - [Prodotto](a/aa/aa2.html)
+    - [Quoziente](a/aa/aa3.html)
+    - [Potenza di potenza](a/aa/aa4.html)
+    - [Potenza di un prodotto](a/aa/aa5.html)
+    - [Prodotto di potenze con stesso esponente](a/aa/aa6.html)
+- [Introduzione al calcolo letterale](a/ab/ab.html)
+- [Monomi](a/ac/ac.html)
+    - [Cos'è un monomio](a/ac/ac1.html)
+    - [Grado](a/ac/ac2.html)
+    - [Somma e differenza](a/ac/ac3.html)
+    - [Prodotto](a/ac/ac4.html)
+    - [Quoziente](a/ac/ac5.html)
+    - [Potenza](a/ac/ac6.html)
+    - [M.C.D.](a/ac/ac7.html)
+    - [m.c.m.](a/ac/ac8.html)
+- [Polinomi](a/ad/ad.html)
+    - [Perché i polinomi](a/ad/ad1.html)
+        - [Definizione](a/ad/ad1a.html)
+        - [Grado](a/ad/ad1b.html)
+        - [Polinomio ordinato](a/ad/ad1c.html)
+        - [Polinomio completo](a/ad/ad1d.html)
+    - [Somma](a/ad/ad2.html)
+    - [Differenza](a/ad/ad3.html)
+    - [Prodotto](a/ad/ad4.html)
+        - [Prodotto fra monomio e polinomio](a/ad/ad4a.html)
+        - [Prodotto fra due polinomi](a/ad/ad4b.html)
+        - [Prodotti notevoli](a/ad/ad4c.html)
+            - [Somma di due monomi per la loro differenza](a/ad/ad4ca.html)
+            - [Quadrato del binomio](a/ad/ad4cb.html)
+            - [Quadrato del trinomio](a/ad/ad4cc.html)
+            - [Cubo del binomio](a/ad/ad4cd.html)
+            - [Cubo del trinomio](a/ad/ad4ce.html)
+            - [Potenza qualunque del binomio](a/ad/ad4cf.html)
+                - [Metodo di Tartaglia](a/ad/ad4cfa.html)
+                - [Regola di Newton](a/ad/ad4cfb.html)
+    - [Quoziente](a/ad/ad50.html)
+        - [Divisione fra un polinomio ed un monomio](a/ad/ad50a.html)
+        - [Divisione fra due polinomi](a/ad/ad5.html)
+            - [Metodo canonico](a/ad/ad5a.html)
+            - [Metodo di Ruffini](a/ad/ad5b.html)
+            - [Teorema di Ruffini](a/ad/ad5c.html)
+    - [Scomposizione](a/ad/ad6.html)
+        - [Perché la scomposizione](a/ad/ad6a0.html)
+        - [Raccoglimento](a/ad/ad6a.html)
+            - [Raccoglimento totale](a/ad/ad6aa.html)
+            - [Raccoglimento parziale](a/ad/ad6ab.html)
+        - [Scomposizione di Ruffini](a/ad/ad6b.html)
+            - [Casi particolari](a/ad/ad6ba.html)
+                - [Polinomio non completo](a/ad/ad6ba1.html)
+                - [Polinomio scomponibile mediante termini frazionari](a/ad/ad6ba2.html)
+                - [Polinomio letterale](a/ad/ad6ba3.html)
+                - [Scomposizione con binomio di grado superiore ad uno](a/ad/ad6ba4.html)
+            - [Esercizi](../cdrom/cd/a0/ab/abe/abef/abefc.html)
+        - [Scomposizioni secondo i prodotti notevoli](a/ad/ad6c.html)
+            - [Differenza di quadrati](a/ad/ad6ca.html)
+            - [Quadrato del binomio](a/ad/ad6cb.html)
+            - [Cubo del binomio](a/ad/ad6cc.html)
+            - [Quadrato del trinomio](a/ad/ad6cd.html)
+        - [Somma e differenza di potenze pari e dispari](a/ad/ad6d.html)
+            - [Differenza di potenze dispari](a/ad/ad6da.html)
+            - [Somma di potenze dispari](a/ad/ad6db.html)
+            - [Differenza di potenze pari](a/ad/ad6dc.html)
+            - [Somma di potenze pari](a/ad/ad6dd.html)
+        - [Trinomio notevole](a/ad/ad6e.html)
+        - [Raggruppamenti](a/ad/ad6f.html)
+        - [Tabella di riepilogo](a/ad/ad6g.html)
+    - [M.C.D.](a/ad/ad7.html)
+    - [m.c.m.](a/ad/ad8.html)
+- [Frazioni algebriche](a/ae/ae.html)
+    - [Perché le frazioni algebriche](a/ae/aea.html)
+    - [Equivalenza](a/ae/aeb.html)
+    - [Somma e differenza](a/ae/aec.html)
+    - [Prodotto](a/ae/aed.html)
+    - [Quoziente](a/ae/aee.html)
+    - [Elevamento a potenza](a/ae/aef.html)
+    - [Espressioni](a/ae/aeg.html)
+    - [Esercizi di riepilogo](../cdrom/cd/a0/ac/ace.html)
+- [Equazioni](a/af/af.html)
+    - [Perché le equazioni](a/af/afa.html)
+    - [Equazioni di primo grado](a/af/afb.html)
+        - [Uguaglianze identità equazioni](a/af/afba.html)
+        - [Primo principio di equivalenza](a/af/afbb.html)
+        - [Secondo principio di equivalenza](a/af/afbc.html)
+        - [Soluzione di un'equazione di primo grado ad una incognita](a/af/afbd.html)
+        - [Equazione possibile, impossibile, indeterminata](a/af/afbe.html)
+        - [Equazioni letterali](a/af/afbf.html)
+        - [Equazioni fratte](a/af/afbg.html)
+        - [Equazioni ai moduli](a/af/afbh.html)
+            - [Perché il modulo](a/af/afbha.html)
+            - [Definizione di modulo](a/af/afbhb.html)
+            - [Equazioni con un modulo](a/af/afbhc.html)
+            - [Equazioni con due moduli](a/af/afbhd.html)
+            - [Equazioni con più moduli](a/af/afbhe.html)
+    - [Equazioni di secondo grado](a/af/afc.html)
+        - [Equazione pura](a/af/afca.html)
+        - [Equazione spuria](a/af/afcb.html)
+        - [Equazione completa](a/af/afcc.html)
+            - [Formula risolutiva](a/af/afcca.html)
+            - [Formula ridotta](a/af/afccb.html)
+            - [Discriminante](a/af/afccc.html)
+            - [Relazioni fra coefficienti e radici](a/af/afccd.html)
+                - [Somma delle radici](a/af/afccda.html)
+                - [Prodotto delle radici](a/af/afccdb.html)
+                - [Equazione con somma e prodotto](a/af/afccdc.html)
+            - [Regola di Cartesio](a/af/afcce.html)
+                - [Tabella riassuntiva per la regola di Cartesio](a/af/afccea.html)
+            - [Decomposizione del trinomio](a/af/afccf.html)
+                - [Dimostrazione](a/af/afccfa.html)
+            - [Esercizi](a/af/afccg.html)
+                - [Equazioni con parametro](a/af/afccgf.html)
+        - [Discussione di equazioni con parametro](a/af/afcch.html)
+            - [Introduzione](a/af/afccha.html)
+            - [Discussione di equazioni di primo grado](a/af/afcchb.html)
+                - [Metodo diretto](a/af/afcchba.html)
+                - [Metodo grafico](a/af/afcchbb.html)
+            - [Discussione di equazioni di secondo grado](a/af/afcchc.html)
+                - [Metodo di Tartinville](a/af/afcchca.html)
+                - [Metodo grafico](a/af/afcchcb.html)
+    - [Equazioni di grado superiore](a/af/afd.html)
+        - [Teorema fondamentale dell'algebra](a/af/afda.html)
+        - [Equazioni abbassabili di grado](a/af/afdb.html)
+        - [Equazioni biquadratiche](a/af/afdc.html)
+        - [Equazioni binomie](a/af/afdd.html)
+        - [Equazioni trinomie](a/af/afde.html)
+        - [Equazioni irrazionali](a/af/afdf.html)
+        - [Equazioni reciproche](a/af/afdg.html)
+            - [Di terzo grado](a/af/afdga.html)
+            - [Di quarto grado](a/af/afdgb.html)
+                - [Di prima specie](a/af/afdgba.html)
+                - [Di seconda specie](a/af/afdgbb.html)
+            - [Di quinto grado](a/af/afdgc.html)
+        - [Equazioni da risolvere con artifici](a/af/afdh.html)
+        - [Equazioni risolubili graficamente](a/af/afdi.html)
+- [Disequazioni](a/ag/ag.html)
+    - [Definizione](a/ag/aga.html)
+    - [Disequazioni di primo grado](a/ag/agb.html)
+        - [Disequazioni di primo grado ad una incognita](a/ag/agba.html)
+        - [Disequazioni di primo grado a due incognite](a/ag/agbb.html)
+        - [Disequazioni di primo grado a più incognite (cenno)](a/ag/agbc.html)
+    - [Sistemi di disequazioni di primo grado](a/ag/agc.html)
+        - [Applicazioni](a/ag/agca.html)
+            - [Espressioni prodotto di due espressioni elementari](a/ag/agcaa.html)
+            - [Espressioni quoziente di due espressioni elementari](a/ag/agcab.html)
+            - [Disequazioni con moduli](a/ag/agcac.html)
+    - [Disequazioni di secondo grado](a/ag/agd.html)
+        - [Metodo algebrico](a/ag/agda.html)
+            - [Delta del polinomio maggiore di zero](a/ag/agdaa.html)
+            - [Delta del polinomio uguale zero](a/ag/agdab.html)
+            - [Delta del polinomio minore di zero](a/ag/agdac.html)
+        - [Metodo della parabola](a/ag/agdb.html)
+            - [Parabola che taglia l'asse $x$ in due punti](a/ag/agdba.html)
+            - [Parabola tangente all'asse $x$](a/ag/agdbb.html)
+            - [Parabola senza punti comuni con l'asse $x$](a/ag/agdbc.html)
+        - [Tabella di riepilogo](a/ag/agdc.html)
+            - [$a > 0$](a/ag/agdca.html)
+            - [$a < 0$](a/ag/agdcb.html)
+    - [Sistemi con disequazioni di secondo grado](a/ag/age.html)
+        - [Soluzione di un sistema di disequazioni di secondo grado](a/ag/agea.html)
+        - [Sistema con disequazioni di primo e di secondo grado](a/ag/ageb.html)
+        - [Applicazioni a prodotti](a/ag/agec.html)
+        - [Applicazioni a frazioni](a/ag/aged.html)
+        - [Applicazioni ad espressioni più complesse](a/ag/agee.html)
+        - [Sistemi di equazione e disequazioni](a/ag/agef.html)
+    - [Disequazioni di grado superiore](a/ag/agf.html)
+    - [Disequazioni ai moduli](a/ag/agg.html)
+        - [Riprendiamo il concetto di valore assoluto](a/ag/agga.html)
+        - [Disuguaglianze fra valori assoluti](a/ag/aggb.html)
+            - [Disuguaglianza fra un modulo ed un numero reale positivo](a/ag/aggba.html)
+            - [Modulo di una somma](a/ag/aggbb.html)
+            - [Modulo della differenza dei moduli](a/ag/aggbc.html)
+        - [Esercizi](a/ag/aggc.html)
+- [Problemi](a/ah/ah.html)
+    - [Generalità sui problemi](a/ah/aha.html)
+    - [Vocabolario](a/ah/ahb.html)
+    - [Problemi di primo grado](a/ah/ahc.html)
+        - [Problemi risolubili mediante un'equazione](a/ah/ahca.html)
+            - [Problemi numerici](a/ah/ahcaa.html)
+            - [Problemi tipo "Settimana enigmistica"](a/ah/ahcab.html)
+            - [Problemi geometrici](a/ah/ahcac.html)
+        - [Problemi risolubili mediante un sistema](a/ah/ahcb.html)
+            - [Problemi numerici](a/ah/ahcba.html)
+            - [Problemi tipo "Settimana enigmistica"](a/ah/ahcbb.html)
+            - [Problemi geometrici](a/ah/ahcbc.html)
+    - [Problemi di secondo grado](a/ah/ahd.html)
+        - [Problemi di tipo numerico](a/ah/ahda.html)
+        - [Problemi di tipo geometrico](a/ah/ahdb.html)
+    - [Problemi di grado superiore](a/ah/ahe.html)
+- [Sistemi di equazioni](a/ai/ai.html)
+    - [Definizione](a/ai/aia.html)
+    - [Sistemi di primo grado](a/ai/aib.html)
+        - [Sistema di due equazioni in due incognite](a/ai/aiba.html)
+            - [Soluzione di un sistema di due equazioni in due incognite](a/ai/aibaa.html)
+                - [Metodo di sostituzione](a/ai/aibaaa.html)
+                - [Metodo di addizione](a/ai/aibaab.html)
+                - [Metodo di confronto](a/ai/aibaac.html)
+                - [Metodo di Cramer](a/ai/aibaad.html)
+            - [Sistema possibile, impossibile, indeterminato](a/ai/aibab.html)
+            - [Significato geometrico di un sistema](a/ai/aibac.html)
+        - [Sistema di tre equazioni in tre incognite](a/ai/aibb.html)
+            - [Metodo di sostituzione](a/ai/aibba.html)
+            - [Metodo di Cramer](a/ai/aibbb.html)
+                - [Matrici del sistema](a/ai/aibbba.html)
+                - [Il determinante $3 \times 3$](a/ai/aibbbb.html)
+                - [Calcolo del determinante col metodo normale](a/ai/aibbbc.html)
+                - [Calcolo del determinante con la regola di Sarrus](a/ai/aibbbd.html)
+                - [Soluzione del sistema](a/ai/aibbbe.html)
+            - [Sistema possibile, impossibile e indeterminato](a/ai/aibbc.html)
+                - [Sistema possibile](a/ai/aibbca.html)
+                - [Sistema indeterminato](a/ai/aibbcb.html)
+                    - [Due equazioni equivalenti](a/ai/aibbcba.html)
+                    - [Tre equazioni equivalenti](a/ai/aibbcbb.html)
+                - [Dipendenza ed indipendenza lineare fra equazioni](a/ai/aibbcc.html)
+                - [Sistema impossibile](a/ai/aibbcd.html)
+                - [Rango di una matrice](a/ai/aibbce.html)
+                - [Teorema di Rouché-Capelli](a/ai/aibbcf.html)
+            - [Sistema omogeneo](a/ai/aibbd.html)
+        - [Sistema di $n$ equazioni in $n$ incognite](a/ai/aibc.html)
+            - [Sistema lineare non omogeneo](a/ai/aibca.html)
+            - [Sistema lineare omogeneo](a/ai/aibcb.html)
+            - [Sistema lineare con parametro](a/ai/aibcc.html)
+        - [Sistema di $k$ equazioni in $n$ incognite](a/ai/aibd.html)
+    - [Sistemi di grado superiore al primo](a/ai/aic.html)
+        - [Grado di un sistema](a/ai/aica.html)
+        - [Sistemi di secondo grado in due incognite](a/ai/aicb.html)
+        - [Sistemi di secondo grado a più incognite](a/ai/aicc.html)
+        - [Sistemi di grado superiore](a/ai/aicd.html)
+        - [Sistemi simmetrici](a/ai/aice.html)
+            - [Soluzione di un sistema simmetrico elementare](a/ai/aicea.html)
+            - [Formule di Waring](a/ai/aiceb.html)
+            - [Soluzione di sistemi simmetrici generali](a/ai/aicec.html)
+            - [Sistemi riconducibili a simmetrici](a/ai/aiced.html)
+        - [Sistemi omogenei](a/ai/aicf.html)
+        - [Sistemi che si risolvono con artifici](a/ai/aicg.html)
+- [Matrici e determinanti](a/aj/aj.html)
+    - [Matrici: concetti di base](a/aj/aja.html)
+    - [Matrici quadrate](a/aj/ajb.html)
+    - [Determinante di una matrice quadrata](a/aj/ajc.html)
+        - [Complemento algebrico di un elemento del determinante](a/aj/ajca.html)
+        - [Calcolo del determinante col metodo di Laplace](a/aj/ajcb.html)
+        - [Proprietà dei determinanti (utili per il loro calcolo)](a/aj/ajcc.html)
+        - [Esempi di calcolo di un determinante utilizzandone le proprietà](a/aj/ajcd.html)
+    - [Cenni di algebra delle matrici](a/aj/ajd.html)
+        - [Prodotto fra matrici](a/aj/ajda.html)
+        - [Somma fra matrici quadrate](a/aj/ajdb.html)
+        - [Matrice nulla](a/aj/ajdc.html)
+        - [Prodotto righe per colonne fra matrici quadrate](a/aj/ajdd.html)
+        - [Matrice unitaria](a/aj/ajde.html)
+        - [Matrice inversa di una matrice quadrata](a/aj/ajdf.html)
+        - [Prodotto esterno: scalare per matrice](a/aj/ajdg.html)
+        - [Algebra delle matrici](a/aj/ajdh.html)
+- [Introduzione ai radicali](a/ak/ak.html)
+    - [Definizione di radicale](a/ak/aka.html)
+    - [Radicali aritmetici](a/ak/akb.html)
+    - [Radicali algebrici](a/ak/akc.html)
+    - [Operazioni con i radicali](a/ak/akd.html)
+        - [Equivalenza](a/ak/akda.html)
+        - [Somma e differenza](a/ak/akdb.html)
+        - [Prodotto](a/ak/akdc.html)
+        - [Quoziente](a/ak/akdd.html)
+        - [Elevamento a potenza](a/ak/akde.html)
+        - [Portare fuori radice](a/ak/akdf.html)
+        - <span class="text-red-500">[esercizi sulle operazioni con radicali](a/ak/akdg.html)</span>
+    - [Radicali doppi](a/ak/ake.html)
+    - [Razionalizzazione](a/ak/akf.html)
+    - [Forma esponenziale dei radicali](a/ak/akg.html)
+        - [Applicazioni](a/ak/akga.html)
+    - <span class="text-red-500">[espressioni con i radicali](a/ak/akh.html)</span>
+    - [Disequazioni irrazionali ad indice pari](a/ak/aki.html)
+        - [Disequazione elementare del tipo $F(x) > \sqrt{G(x)}$](a/ak/akia.html)
+        - [Disequazione elementare del tipo $F(x) < \sqrt{G(x)}$](a/ak/akib.html)
+        - [Disequazioni più complesse](a/ak/akic.html)
+        - [Caso particolare](a/ak/akid.html)
+    - [Disequazioni irrazionali ad indice dispari](a/ak/akj.html)
+- [Logaritmi](a/al/al.html)
+    - [Utilità dei logaritmi](a/al/ala.html)
+    - [Cos'è il logaritmo](a/al/alb.html)
+    - [Definizione di logaritmo](a/al/alc.html)
+    - [Un po' di nomenclatura](a/al/ald.html)
+    - [Valori possibili](a/al/ale.html)
+    - [Possibili basi per i logaritmi](a/al/alf.html)
+        - [Logaritmi a base maggiore di $1$](a/al/alfa.html)
+        - [Logaritmi a base minore di $1$](a/al/alfb.html)
+    - [Proprietà dei logaritmi](a/al/alg.html)
+        - [Logaritmo di un prodotto](a/al/alga.html)
+        - [Logaritmo di un quoziente](a/al/algb.html)
+        - [Logaritmo di una potenza](a/al/algc.html)
+        - [Logaritmo di una radice](a/al/algd.html)
+        - [Esercizio](a/al/alge.html)
+    - [Cambiamento di base](a/al/alh.html)
+    - [Grafico della funzione logaritmo](a/al/ali.html)
+        - [La base $a$ è maggiore di $1$](a/al/alia.html)
+        - [La base $a$ è compresa fra $0$ ed $1$](a/al/alib.html)
+    - [Equazioni logaritmiche](a/al/alj.html)
+        - [Esercizi](a/al/alja.html)
+    - [Disequazioni logaritmiche](a/al/alk.html)
+        - [Disequazioni con logaritmi a base maggiore di $1$](a/al/alka.html)
+        - [Disequazioni con logaritmi a base compresa fra $0$ ed $1$](a/al/alkb.html)
+- [Esponenziali](a/am/am.html)
+    - [Funzione esponenziale](a/am/ama.html)
+    - [Grafico della funzione esponenziale](a/am/amb.html)
+        - [La base $a$ è maggiore di $1$](a/am/amba.html)
+        - [La base $a$ è compresa fra $0$ ed $1$](a/am/ambb.html)
+    - [Equazioni esponenziali](a/am/amc.html)
+    - [Disequazioni esponenziali](a/am/amd.html)
+        - [La base $a$ è maggiore di $1$](a/am/amda.html)
+        - [La base $a$ è compresa tra $0$ ed $1$](a/am/amdb.html)
 
-piano generale del sito
+[piano generale del sito](../piano.html)

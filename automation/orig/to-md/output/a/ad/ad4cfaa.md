@@ -1,17 +1,19 @@
-[.text-red]# Il triangolo di Tartaglia
+# <span class="text-red-600">Il triangolo di Tartaglia</span>
 
 $$
-\begin{gathered}
-\textcolor{blue}{1} \\
-\textcolor{blue}{1 \quad 1} \\
-\textcolor{blue}{1 \quad 2 \quad 1} \\
-\textcolor{blue}{1 \quad 3 \quad 3 \quad 1} \\
-\textcolor{blue}{1 \quad 4 \quad 6 \quad 4 \quad 1} \\
-\textcolor{blue}{1 \quad 5 \quad 10 \quad 10 \quad 5 \quad 1} \\
-\textcolor{blue}{1 \quad 6 \quad 15 \quad 20 \quad 15 \quad 6 \quad 1} \\
-\textcolor{blue}{1 \quad 7 \quad 21 \quad 35 \quad 35 \quad 21 \quad 7 \quad 1} \\
-\textcolor{blue}{1 \quad 8 \quad 28 \quad 56 \quad 70 \quad 56 \quad 28 \quad 8 \quad 1} \\
-\textcolor{blue}{1 \quad 9 \quad 36 \quad 84 \quad 126 \quad 126 \quad 84 \quad 36 \quad 9 \quad 1} \\
-\textcolor{blue}{\dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots}
-\end{gathered}
+\textcolor{blue}{
+\begin{matrix}
+1 \\
+1 & 1 \\
+1 & 2 & 1 \\
+1 & 3 & 3 & 1 \\
+1 & 4 & 6 & 4 & 1 \\
+1 & 5 & 10 & 10 & 5 & 1 \\
+1 & 6 & 15 & 20 & 15 & 6 & 1 \\
+1 & 7 & 21 & 35 & 35 & 21 & 7 & 1 \\
+1 & 8 & 28 & 56 & 70 & 56 & 28 & 8 & 1 \\
+1 & 9 & 36 & 84 & 126 & 126 & 84 & 36 & 9 & 1 \\
+\dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots
+\end{matrix}
+}
 $$

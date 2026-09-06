@@ -1,12 +1,12 @@
-# [Equazioni letterali]{.text-red}
+# Equazioni letterali
 
 Un'equazione si dice letterale quando oltre ai numeri ed alle incognite vi compaiono anche delle lettere.
 
 ***
 
 Va fatta subito una convenzione:
-useremo le ultime lettere minuscole dell'alfabeto per indicare le incognite: $\textcolor{red}{x, y, z, t, u, v, w, \dots}$
-useremo invece le prime lettere per indicare dei parametri, cioè dei simboli che possono essere sostituiti da numeri $\textcolor{red}{a, b, c, d, e, f, g, \dots}$
+- useremo le ultime lettere minuscole dell'alfabeto per indicare le incognite: $x, y, z, t, u, v, w, \dots$
+- useremo invece le prime lettere per indicare dei parametri, cioè dei simboli che possono essere sostituiti da numeri: $a, b, c, d, e, f, g, \dots$
 
 ***
 
@@ -15,33 +15,31 @@ Quando risolviamo un'equazione letterale occorre ricordare che la lettera occupa
 ***
 
 Sia da risolvere l'equazione
-$$
-\textcolor{red}{ax = 3}
-$$
-Per risolverla dovrei applicare il secondo principio, ma esso è applicabile solo se $\textcolor{red}{a \neq 0}$
-allora distinguo i due casi:
+$ax = 3$
 
-- $\textcolor{red}{a \neq 0}$ posso applicare il secondo principio quindi:
+Per risolverla dovrei applicare il secondo principio, ma esso è applicabile solo se $a \neq 0$, allora distinguo i due casi:
+
+- $a \neq 0$: posso applicare il secondo principio quindi:
 $$
-\textcolor{red}{\frac{ax}{a} = \frac{3}{a}}
+\frac{ax}{a} = \frac{3}{a}
 $$
 e semplificando:
 $$
-\textcolor{red}{x = \frac{3}{a}}
+x = \frac{3}{a}
 $$
 
-- $\textcolor{red}{a = 0}$ non posso applicare il secondo principio, ma sostituendo ad $\textcolor{red}{a}$ il suo valore l'equazione mi diventa:
+- $a = 0$: non posso applicare il secondo principio, ma sostituendo ad $a$ il suo valore l'equazione mi diventa:
 $$
-\textcolor{red}{0 \cdot x = 3}
+0 \cdot x = 3
 $$
 $$
-\textcolor{red}{0 = 3}
+0 = 3
 $$
-equazione impossibile
+equazione impossibile.
 
 Raccogliendo i risultati:
-se $\textcolor{red}{a \neq 0} \quad \textcolor{red}{x = 3/a}$;
-se $\textcolor{red}{a = 0} \quad \textcolor{red}{\text{equazione impossibile}}$
+- se $a \neq 0 \quad x = \frac{3}{a}$
+- se $a = 0$ equazione impossibile
 
 ***
 
@@ -49,7 +47,7 @@ Riassumendo: per risolvere un'equazione letterale occorre porre diversi da zero 
 
 ***
 
-> **Nota:** Fai attenzione perché è possibile rendere gli esercizi difficili a piacere, basta aumentare il numero delle lettere, inoltre questi esercizi sono considerati utili da molti docenti perché ti costringono a ragionare in modo analitico considerando tutte le possibilità.
+> **Fai attenzione** perché è possibile rendere gli esercizi difficili a piacere, basta aumentare il numero delle lettere, inoltre questi esercizi sono considerati utili da molti docenti perché ti costringono a ragionare in modo analitico considerando tutte le possibilità.
 
 ***
 

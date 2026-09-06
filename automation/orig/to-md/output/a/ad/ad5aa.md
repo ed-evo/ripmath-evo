@@ -1,37 +1,29 @@
-# Esercizio
+## Esercizio
 
-[$(6x^2 - 5x + 4) : (2x + 3) =$]{.text-red}
+$(6x^2 - 5x + 4) : (2x + 3) =$
 
-Impostiamo la divisione:
+impostiamo la divisione
 
 $$
-\textcolor{red}{6x^2 - 5x + 4 \quad : \quad 2x + 3}
-$$
-$$
-\textcolor{red}{-6x^2 - 9x}
-$$
-$$
-\textcolor{red}{\overline{\quad -14x + 4 \quad}}
-$$
-$$
-\textcolor{red}{+14x + 21}
-$$
-$$
-\textcolor{red}{\overline{\quad +25 \quad}}
+\begin{array}{r|ll}
+6x^2 - 5x + 4 & 2x + 3 \\ \cline{2-2}
+-6x^2 - 9x & 3x - 7 \\ \cline{1-1}
+-14x + 4 & \\
++14x + 21 & \\ \cline{1-1}
++25 &
+\end{array}
 $$
 
 [Se vuoi vedere i calcoli passaggio per passaggio](ad5aaa.html)
 
-***
-
-Il quoziente vale [$3x - 7$]{.text-blue}
-Il resto vale [$25$]{.text-blue}
+Il quoziente vale $\textcolor{blue}{3x - 7}$
+il resto vale $\textcolor{blue}{25}$
 
 Puoi controllare se hai fatto giusto facendone la prova con la regola:
-[$\text{Divisore} \cdot \text{Quoziente} + \text{Resto} = \text{polinomio di partenza}$]{.text-blue}
+$\textcolor{blue}{\text{Divisore} \cdot \text{Quoziente} + \text{Resto} = \text{polinomio di partenza}}$
 
-Quindi fai:
-[$(2x + 3)(3x - 7) + 25 =$]{.text-blue}
+quindi fai:
+$\textcolor{blue}{(2x + 3)(3x - 7) + 25 =}$
 
-E, se hai fatto giusto e non fai nessun errore, troverai come risultato:
-[$6x^2 - 5x + 4$]{.text-blue}
+e, se hai fatto giusto e non fai nessun errore, troverai come risultato:
+$\textcolor{blue}{6x^2 - 5x + 4}$

@@ -1,9 +1,19 @@
-# [MASSIMO COMUN DIVISORE FRA MONOMI]{.text-red}
+# <span class="text-red-600">MASSIMO COMUN DIVISORE FRA MONOMI</span>
 
-per la definizione generale di $M.C.D.$ [clicca qui](ac7a.html)
+Per la definizione generale di $\text{M.C.D.}$ [clicca qui](ac7a.html).
 
-Intuitivamente, anche se non è del tutto esatto per capire il concetto di $M.C.D.$ fra monomi puoi pensare al seguente esempio:
+Intuitivamente, anche se non è del tutto esatto per capire il concetto di $\text{M.C.D.}$ fra monomi puoi pensare al seguente esempio:
 
 Siete tre amici e volete organizzare una vacanza insieme; quanto mettete in comune?
 
-Perché nessuno ci rimetta ognuno dovrà versare nella cassa comune la stessa cifra e poiché siete in tre se il primo dispone di $100$ euro, il secondo di $200$ euro ed il terzo di $300$ euro metterete assieme $100$
+Perché nessuno ci rimetta ognuno dovrà versare nella cassa comune la stessa cifra e poiché siete in tre se il primo dispone di $100$ euro, il secondo di $200$ euro ed il terzo di $300$ euro metterete assieme $100$ euro a testa.
+
+Questo è il concetto di $\text{M.C.D.}$ quando i numeri (i simboli matematici) sono in forma di prodotto (come nei monomi) devi mettere in comune quello che c'è di uguale.
+
+> **Nota:** <span class="text-blue-600">attenzione nel Massimo Comun Divisore la parola che conta è DIVISORE non MASSIMO cioè il $\text{M.C.D.}$ è generalmente più piccolo dei monomi di partenza, quindi non farti portare fuori strada dalla parola MASSIMO</span>
+
+Allora per fare il $\text{M.C.D.}$ prima di tutto devi scomporre in fattori il numero davanti ai monomi poi sceglierai quello che hanno di uguale.
+
+Il Massimo Comun Divisore in Matematica viene usato quasi esclusivamente per eseguire il [Raccoglimento a Fattor Comune Totale](../ad/ad6aa.html) cui puoi fare riferimento per vedere un esercizio sviluppato.
+
+[esercizi sul $\text{M.C.D.}$ fra monomi](../../../../cdrom/cd/a0/aa/aae.html)

@@ -1,1 +1,1 @@
-> [Ricordati che la moltiplicazione vista al rovescio è una scomposizione, come una discesa vista dall'altra parte è una salita]{.text-blue}
+> <span class="text-slate-600">Ricordati che la moltiplicazione vista al rovescio è una scomposizione, come una discesa vista dall'altra parte è una salita</span>

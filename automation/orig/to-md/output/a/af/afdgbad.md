@@ -1,5 +1,4 @@
 Risolviamo l'equazione:
-
 $\textcolor{blue}{2x^2 + 5x + 2 = 0}$
 
 Prendiamo la formula risolutiva:
@@ -9,7 +8,6 @@ $$
 $$
 
 Abbiamo:
-
 $\textcolor{blue}{a = 2}$
 $\textcolor{blue}{b = 5}$
 $\textcolor{blue}{c = 2}$
@@ -17,35 +15,35 @@ $\textcolor{blue}{c = 2}$
 Sostituiamo nella formula:
 
 $$
-\textcolor{blue}{x_{1,2} = \frac{-5 \pm \sqrt{(5)^2 - 4(2)(2)}}{2(2)}}
+\textcolor{blue}{x_{1,2} = \frac{-5 \pm \sqrt{(5)^2 - 4(2)(2)}}{2(2)} =}
 $$
 
-Facciamo i calcoli dentro la radice:
+Facciamo i calcoli all'interno della radice:
 
 $$
-\textcolor{blue}{= \frac{-5 \pm \sqrt{25 - 16}}{4}}
-$$
-
-$$
-\textcolor{blue}{= \frac{-5 \pm \sqrt{9}}{4}}
+\textcolor{blue}{= \frac{-5 \pm \sqrt{25 - 16}}{4} =}
 $$
 
 $$
-\textcolor{blue}{= \frac{-5 \pm 3}{4}}
-$$
-
-Adesso devo prendere una volta il più ed una volta il meno:
-
-$$
-\textcolor{blue}{\frac{-5 + 3}{4} = -\frac{1}{2}}
+\textcolor{blue}{= \frac{-5 \pm \sqrt{9}}{4} =}
 $$
 
 $$
-\textcolor{blue}{\frac{-5 - 3}{4} = -2}
+\textcolor{blue}{= \frac{-5 \pm 3}{4} =}
+$$
+
+Adesso consideriamo una volta il più e una volta il meno:
+
+$$
+\textcolor{blue}{= \frac{-5 + 3}{4} = \frac{1}{2}}
+$$
+
+$$
+\textcolor{blue}{= \frac{-5 - 3}{4} = -2}
 $$
 
 Ho quindi le due soluzioni:
 
 $$
-\textcolor{red}{x_1 = -\frac{1}{2}} \quad \textcolor{red}{x_2 = -2}
+x_1 = \frac{1}{2} \quad x_2 = -2
 $$

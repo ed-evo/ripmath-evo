@@ -1,15 +1,15 @@
-# [Equazioni irrazionali con indice pari]{.text-red}
+# <span class="text-red-600">Equazioni irrazionali con indice pari</span>
 
-La radice con il suo termine è sempre considerata positiva quindi 
-$\textcolor{red}{\sqrt{x}}$ è un numero positivo
-$\textcolor{red}{-\sqrt{x}}$ è un numero negativo
+La radice con il suo termine è sempre considerata positiva quindi
+$\sqrt{x}$ è un numero positivo
+$-\sqrt{x}$ è un numero negativo
 
-Per poterle risolvere dovremo eliminare le radici elevando i termini a potenza pari.
+Per poterle risolvere dovremo eliminare le radici elevando i termini a potenza pari
 Ciò può tuttavia dar luogo a qualche problema: elevando a potenza pari potrebbero comparire delle soluzioni aggiunte dovute solamente all'elevamento. Per riconoscere quali soluzioni siano valide abbiamo due strade diverse:
 
-- la prima (più difficile e, di solito, meno seguita a parte qualche Liceo Scientifico) consiste nel porre le condizioni iniziali e poi accettare solo le soluzioni che le soddisfino.
-> **Nota:** Occorre saper fare i [sistemi di disequazioni](../ag/agc.html)
-- la seconda (più facile e quasi ovunque seguita) invece, consiste nel verificare, soluzione per soluzione, quali radici siano accettabili sostituendole nell'equazione di partenza e vedendo quali la verificano.
+- la prima (più difficile e, di solito, meno seguita a parte qualche Liceo Scientifico) consiste nel porre le condizioni iniziali e poi accettare solo le soluzioni che le soddisfino
+  > Occorre saper fare i [sistemi di disequazioni](../ag/agc.html)
+- la seconda (più facile e quasi ovunque seguita) invece, consiste nel verificare, soluzione per soluzione, quali radici siano accettabili sostituendole nell'equazione di partenza e vedendo quali la verificano
 
 Negli esercizi useremo il secondo metodo e, per i casi più semplici, anche il primo.
 

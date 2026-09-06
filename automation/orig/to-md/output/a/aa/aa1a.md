@@ -1,4 +1,4 @@
-# [RISPOSTA]{.text-red}
+# <span class="text-red-500">RISPOSTA</span>
 
 ---
 

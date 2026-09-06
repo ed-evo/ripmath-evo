@@ -1,11 +1,7 @@
-# [Equazioni fratte]{.text-red}
+# Equazioni fratte
 
 Un'equazione si dice fratta quando la $x$ compare sotto il segno di frazione.
-
-Al solito, tenendo conto del secondo principio quando farò il m.c.m. dovrò dire che l'equazione non è valida per il valore della $x$ che annulla il minimo comune multiplo.
-
-> Questa si chiama anche Condizione di Realtà (abbreviata in C.R.).
-
+Al solito, tenendo conto del secondo principio quando farò il m. c. m. dovrò dire che l'equazione non è valida per il valore della $x$ che annulla il minimo comune multiplo. Questa si chiama anche Condizione di Realtà (abbreviata in C.R.).
 Dopo aver risolto l'equazione dovrò controllare il valore della $x$:
 
 1. se il valore della $x$ non è quello che annullava il minimo comune multiplo la soluzione è accettabile
@@ -23,20 +19,21 @@ $$
 \frac{1}{2} = \frac{1}{x - 2}
 $$
 
-[m.c.m. = $2(x-2) \neq 0$]{.text-red}
-
+m.c.m. $= 2(x-2) \neq 0$
 cioè
-
-[Condizione di Realtà (C.R.) $x \neq 2$]{.text-red}
+Condizione di Realtà (C.R.) $x \neq 2$
 
 $$
-\frac{x - 2}{2(x - 2)} = \frac{2}{2(x - 2)}
+\frac{x - 2}{2(x-2)} = \frac{2}{2(x-2)}
 $$
 
 per il secondo principio tolgo i denominatori (posso farlo perché ho supposto il m.c.m. diverso da zero)
 
-[$x - 2 = 2$]{.text-red}
-[$x = 4$ accettabile]{.text-red}
+$$
+x - 2 = 2
+$$
+
+$x = 4$ accettabile
 
 ---
 
@@ -46,17 +43,23 @@ $$
 \frac{1}{2} - \frac{1}{x - 2} = \frac{-1}{x - 2}
 $$
 
-[m.c.m. = $2(x-2) \neq 0$]{.text-red}
-
+m.c.m. $= 2(x-2) \neq 0$
 cioè
-
-[C.R. $x \neq 2$]{.text-red}
+C. R. $x \neq 2$
 
 $$
-\frac{x - 2 - 2}{2(x - 2)} = \frac{-2}{2(x - 2)}
+\frac{x - 2 - 2}{2(x-2)} = \frac{-2}{2(x-2)}
 $$
 
 per il secondo principio tolgo i denominatori (posso farlo perché ho supposto il m.c.m. diverso da zero)
 
-[$x - 2 - 2 = -2$]{.text-red}
-[$x = 2$ non
+$$
+x - 2 - 2 = -2
+$$
+
+$x = 2$ non accettabile perché contraria alla condizione di realtà
+
+---
+
+[esercizi su equazioni numeriche fratte](../../../cdrom/cd/a0/ad/adc/adcd.html)
+[altri esercizi su equazioni letterali fratte](../../../cdrom/cd/a0/ad/adc/adcf.html)

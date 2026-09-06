@@ -1,42 +1,47 @@
-# [Esercizio]{.text-red}
+# <span class="text-red-600">Esercizio</span>
 
-[$x^2 - 3x - 10 \ge 0$]{.text-blue}
+$\textcolor{blue}{x^2 - 3x - 10 \ge 0}$
 
-Considero l'equazione associata:
-[$x^2 - 3x - 10 = 0$]{.text-blue}
+Considero l'equazione associata
 
-Risolvo:
-[$x_1 = -2$]{.text-blue}
-[$x_2 = 5$]{.text-blue}
+$\textcolor{blue}{x^2 - 3x - 10 = 0}$
 
-Quindi la disequazione è equivalente a:
-[$(x+2)(x-5) \ge 0$]{.text-blue}
+[Risolvo](agcaa4a.html)
 
-Devo risolvere le due disequazioni:
-[$x+2 \ge 0$]{.text-blue}
-[$x-5 \ge 0$]{.text-blue}
+$\textcolor{blue}{x_1 = -2}$
+$\textcolor{blue}{x_2 = 5}$
 
-e considerare dove i segni sono concordi perché devo trovare i valori dove tutta l'espressione è positiva, inoltre devo anche vedere dove l'espressione si annulla.
+Quindi la disequazione è equivalente a
+
+$\textcolor{blue}{(x+2) (x-5) \ge 0}$
+
+Devo risolvere le due disequazioni
+
+$\textcolor{blue}{(x+2) \ge 0}$
+$\textcolor{blue}{(x-5) \ge 0}$
+
+e considerare dove i segni sono concordi perché devo trovare i valori dove tutta l'espressione è positiva, inoltre devo anche vedere dove l'espressione si annulla
 
 Risolvo la prima:
-[$x + 2 \ge 0 \implies x \ge -2$]{.text-blue}
-Il primo fattore è positivo o nullo per $x$ maggiore o uguale a $-2$.
 
-Risolvo la seconda:
-[$x - 5 \ge 0 \implies x \ge 5$]{.text-blue}
-Il secondo fattore è positivo o nullo per $x$ maggiore o uguale a $5$.
+$\textcolor{blue}{x + 2 \ge 0} \quad \textcolor{blue}{x \ge -2}$ il primo fattore è positivo o nullo per $x$ maggiore o uguale a $-2$
 
-Faccio lo schema:
+Risolvo la seconda
 
-[$x \ge -2 \quad - - - - - - (-2) + + + + + + + + + + + + + + +$]{.text-blue}
-[$x \ge 5 \quad - - - - - - - - - - - - - - - (5) + + + + + + + + +$]{.text-blue}
-[$f(x) \quad + + + + (-2) - - - - - - (5) + + + + + + + + +$]{.text-red}
+$\textcolor{blue}{x - 5 \ge 0} \quad \textcolor{blue}{x \ge 5}$ il secondo fattore è positivo o nullo per $x$ maggiore o uguale a $5$
 
-> $f(x)$ indica l'espressione di partenza.
-> La parentesi tonda indica che l'espressione si annulla nel punto.
+faccio lo schema
 
-Io devo cercare dove l'espressione è positiva o nulla e questo succede per:
-[$x \le -2 \cup x \ge 5$]{.text-blue}
+> $\textcolor{blue}{x \ge -2} \quad \text{------- (-2) +++++++++++++++++++}$
+> $\textcolor{blue}{x \ge 5} \quad \text{----------------- (5) ++++++++}$
+> $f(x) \quad \text{++++ (-2) ------- (5) +++++++++++}$
 
-oppure in altra notazione:
-[$x \in (-\infty, -2] \cup [5, +\infty)$]{.text-blue}
+$f(x)$ indica l'espressione di partenza
+
+La parentesi tonda indica che l'espressione si annulla nel punto
+
+Io devo cercare dove l'espressione è positiva o nulla e questo succede per
+
+$\textcolor{blue}{x \le -2}$ ed anche per (unione) $\textcolor{blue}{x \ge 5}$
+
+oppure in altra notazione

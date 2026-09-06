@@ -1,4 +1,4 @@
-# [Esercizio]{.text-red}
+# <span class="text-red-600">Esercizio</span>
 
 $\textcolor{blue}{(x + 2)^2 - 2x < x^2 - 4x - 3}$
 
@@ -10,7 +10,7 @@ Trasporto le $x$ prima dell'uguale, i termini noti dopo l'uguale e chi salta l'u
 
 $\textcolor{blue}{x^2 + 4x - 2x - x^2 + 4x < - 4 - 3}$
 
-> **Nota:** Sommo (essendo esercizi su equazioni di primo grado, evidentemente i termini di grado due dovranno annullarsi).
+> Sommo (essendo esercizi su equazioni di primo grado evidentemente i termini di grado due dovranno annullarsi)
 
 $\textcolor{blue}{6x < - 7}$
 
@@ -20,6 +20,6 @@ $$
 \textcolor{blue}{\frac{6x}{6} < \frac{-7}{6}}
 $$
 
-Risultato
+**Risultato**
 
 $\textcolor{blue}{x < -\frac{7}{6}}$

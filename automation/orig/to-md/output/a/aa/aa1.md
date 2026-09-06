@@ -1,21 +1,21 @@
-# [DEFINIZIONE DI POTENZA]{.text-red}
+# DEFINIZIONE DI POTENZA
 
-La potenza non è altro che una moltiplicazione ripetuta: se devo scrivere $\textcolor{red}{6 \times 6 \times 6}$ è più facile e comodo scrivere $\textcolor{red}{6^3}$;
+La potenza non è altro che una moltiplicazione ripetuta: se devo scrivere $6 \times 6 \times 6$ è più facile e comodo scrivere $6^3$;
 
 quindi
 
 $$
-\textcolor{red}{6^3 = 6 \times 6 \times 6}
+6^3 = 6 \times 6 \times 6
 $$
 
-il $\textcolor{red}{6}$ si chiama base, il $\textcolor{red}{3}$ si chiama esponente e $\textcolor{red}{6^3}$ tutto quanto si chiama potenza.
+il $6$ si chiama base, il $3$ si chiama esponente e $6^3$ tutto quanto si chiama potenza.
 
-> (BATTUTA INDEGNA: cos'è un fattore di Potenza?)
+> (BATTUTA INDEGNA: cos'è un fattore di [Potenza?](aa1a.html))
 
-> **DEFINIZIONE:** [la potenza è il prodotto della base tante volte quant'è l'esponente]{.text-purple}
+> <span class="text-fuchsia-500">**DEFINIZIONE:** la potenza è il prodotto della base tante volte quant'è l'esponente</span>
 
-Per rendere la definizione più generale occorre usare le lettere, allora, poiché talvolta useremo $\textcolor{red}{x}$ come lettera sostituiamo il segno di prodotto $\textcolor{red}{\times}$ con il simbolo $\textcolor{red}{\cdot}$.
+Per rendere la definizione più generale occorre usare le lettere, allora, poiché talvolta useremo $x$ come lettera sostituiamo il segno di prodotto $\times$ con il simbolo $\cdot$.
 
-allora ad esempio $\textcolor{red}{a^3}$ sarà $\textcolor{red}{a \cdot a \cdot a}$
+allora ad esempio $a^3$ sarà $a \cdot a \cdot a$
 
-più in generale $\textcolor{red}{a^n}$ sarà $\textcolor{red}{a \cdot a \cdot \dots \cdot a}$ ove i puntini indicano che la moltiplicazione è fatta tante volte quant'è l'esponente cioè $\textcolor{red}{n}$ volte.
+più in generale $a^n$ sarà $a \cdot a \cdot \dots \cdot a$ ove i puntini indicano che la moltiplicazione è fatta tante volte quant'è l'esponente cioè $n$ volte.

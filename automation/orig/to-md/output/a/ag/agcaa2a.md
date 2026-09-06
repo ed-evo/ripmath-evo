@@ -1,4 +1,4 @@
-[Calcoli]{.text-red}
+# <span class="text-red-600">Calcoli</span>
 
 $$
 \textcolor{blue}{x_{1,2} = \frac{1 \pm \sqrt{1^2 - 4 \cdot 1 \cdot (-6)}}{2}}

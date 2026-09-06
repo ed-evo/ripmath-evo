@@ -1,4 +1,4 @@
-# [Discussione di equazioni con parametro]{.text-red}
+# <span class="text-red-600">Discussione di equazioni con parametro</span>
 
 Se cerchi le equazioni con parametro senza discussione guarda la [pagina precedente](afccg.html)
 
@@ -7,4 +7,4 @@ Se cerchi le equazioni con parametro senza discussione guarda la [pagina precede
 - [Introduzione](afccha.html)
 - [Discussione di equazioni di primo grado](afcchb.html)
 - [Discussione di equazioni di secondo grado](afcchc.html)
-- [ [Problemi con discussione]{.text-red} ](../../c/.html) fare link a geometria cartesiana
+- <span class="text-red-600">[Problemi con discussione](../../c/.html)</span> fare link a geometria cartesiana

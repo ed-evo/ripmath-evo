@@ -1,8 +1,9 @@
 $$
 \begin{array}{c|ccc|c}
-& \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\
+& 2 & 1 & 1 & -1 \\
 \hline
-\textcolor{red}{1/2} & \textcolor{red}{2} & & & \\
+\frac{1}{2} & & & & \\
 \hline
+& 2 & & & 
 \end{array}
 $$

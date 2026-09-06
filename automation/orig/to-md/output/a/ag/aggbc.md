@@ -1,9 +1,9 @@
-# [il modulo della differenza fra due moduli è maggiore od uguale alla differenza fra i moduli stessi]{.text-red}
+# <span class="text-red-600">Il modulo della differenza fra due moduli è maggiore od uguale alla differenza fra i moduli stessi</span>
 
 Se $p$ e $q$ sono numeri reali, vale sempre la disuguaglianza
 
 $$
-||p| - |q|| \geq |p| - |q|
+||p| - |q|| \ge |p| - |q|
 $$
 
 cioè
@@ -12,12 +12,14 @@ cioè
 
 [perché scrivo così](aggbca.html)
 
+---
+
 ## Dimostrazione
 
 Per la dimostrazione osserviamo che, per ogni numero reale $m$ vale sempre
 
 $$
-|m| \geq m
+|m| \ge m
 $$
 
 pongo $m = |p| - |q|$
@@ -25,13 +27,13 @@ pongo $m = |p| - |q|$
 vista l'osservazione precedente, posso scrivere
 
 $$
-||p| - |q|| = |m| \geq m = |p| - |q|
+||p| - |q|| = |m| \ge m = |p| - |q|
 $$
 
 e per la proprietà transitiva delle uguaglianze/disuguaglianze
 
 $$
-||p| - |q|| \geq |p| - |q|
+||p| - |q|| \ge |p| - |q|
 $$
 
 come volevamo

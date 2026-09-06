@@ -1,58 +1,65 @@
-# [esercizio]{.text-red}
+# <span class="text-red-600">esercizio</span>
 
-## Problema:
-[Dividere il numero $36$ in due parti tali che la prima superi di $6$ il doppio della seconda]{.text-blue}
+---
 
-Dividere il numero $36$ in due parti è la prima frase e significa che devo considerare due numeri: $x$ e $36 - x$.
+**Problema:**
+<span class="text-blue-600">Dividere il numero 36 in due parti tali che la prima superi di 6 il doppio della seconda</span>
 
-> **Attenzione:** qui dividere significa solo spezzare e non in parti uguali.
+---
 
-[prima parte = $\textcolor{red}{x}$]{.text-blue}
-[seconda parte = $\textcolor{red}{36 - x}$]{.text-blue}
+Dividere il numero 36 in due parti è la prima frase e significa che devo considerare due numeri: $x$ e $36 - x$
 
-Poi comincia un'altra frase: tali che la prima superi di $6$ il doppio della seconda.
+> **Attenzione:** qui dividere significa solo spezzare e non in parti uguali
 
-[tali che la prima [$\textcolor{red}{x}$]]{.text-blue}
-[superi di $6$ [$\textcolor{red}{= 6 +}$]]{.text-blue}
-[il doppio [$\textcolor{red}{2}$]]{.text-blue}
-[della [$\textcolor{red}{\cdot}$]]{.text-blue}
-[seconda [$\textcolor{red}{36 - x}$]]{.text-blue}
+- <span class="text-blue-600">prima parte = </span> $x$
+- <span class="text-blue-600">seconda parte = </span> $36 - x$
+
+poi comincia un'altra frase:
+tali che la prima superi di 6 il doppio della seconda
+
+- <span class="text-blue-600">tali che la prima [</span> $x \text{ ]}$
+- <span class="text-blue-600">superi di 6 [ </span> $= 6 + \text{ ]}$
+- <span class="text-blue-600">il doppio [</span> $2 \text{ ]}$
+- <span class="text-blue-600">della [</span> $\cdot \text{ ]}$
+- <span class="text-blue-600">seconda [ </span> $36 - x \text{ ]}$
 
 cioè
 
 $$
-\textcolor{red}{x = 6 + 2 \cdot (36 - x)}
+x = 6 + 2 \cdot (36 - x)
 $$
 
 risolvo le operazioni
 
 $$
-\textcolor{red}{x = 6 + 72 - 2x}
+x = 6 + 72 - 2x
 $$
 
 $$
-\textcolor{red}{x = 78 - 2x}
+x = 78 - 2x
 $$
 
-Primo principio: termini con $x$ prima dell'uguale, quelli senza $x$ dopo l'uguale, chi salta l'uguale cambia di segno.
+Primo principio: termini con $x$ prima dell'uguale, quelli senza $x$ dopo l'uguale, chi salta l'uguale cambia di segno
 
 $$
-\textcolor{red}{x + 2x = 78}
+x + 2x = 78
 $$
 
 $$
-\textcolor{red}{3x = 78}
+3x = 78
 $$
 
 Per il secondo principio divido per $3$ (per lasciare la $x$ da sola)
 
 $$
-\textcolor{red}{\frac{3x}{3} = \frac{78}{3}}
+\frac{3x}{3} = \frac{78}{3}
 $$
 
 $$
-\textcolor{red}{x = 26}
+x = 26
 $$
 
-[Il primo numero cercato è $26$]{.text-blue}
-[Il secondo è $36 - 26 = 10$]{.text-blue}
+<span class="text-blue-600">Il primo numero cercato è 26</span>
+<span class="text-blue-600">Il secondo è </span> $36 - 26 = 10$
+
+---

@@ -1,8 +1,5 @@
 Risolviamo l'equazione:
-
-$$
-\textcolor{red}{y^2 - y - 20 = 0}
-$$
+$y^2 - y - 20 = 0$
 
 Prendiamo la formula risolutiva:
 
@@ -11,38 +8,31 @@ $$
 $$
 
 Abbiamo:
-
-$$
-\textcolor{blue}{a = 1}
-$$
-$$
-\textcolor{blue}{b = -1}
-$$
-$$
-\textcolor{blue}{c = -20}
-$$
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = -1}$
+$\textcolor{blue}{c = -20}$
 
 Sostituiamo nella formula:
 
 $$
-\textcolor{blue}{y_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - 4(1)(-20)}}{2(1)}}
+\textcolor{blue}{y_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - 4(1)(-20)}}{2(1)} =}
 $$
 
-Facciamo i calcoli dentro radice:
+Facciamo i calcoli all'interno della radice:
 
 $$
-\textcolor{blue}{= \frac{1 \pm \sqrt{1 + 80}}{2}}
-$$
-
-$$
-\textcolor{blue}{= \frac{1 \pm \sqrt{81}}{2}}
+\textcolor{blue}{= \frac{1 \pm \sqrt{1 + 80}}{2} =}
 $$
 
 $$
-\textcolor{blue}{= \frac{1 \pm 9}{2}}
+\textcolor{blue}{= \frac{1 \pm \sqrt{81}}{2} =}
 $$
 
-Adesso devo prendere una volta il meno ed una volta il più:
+$$
+\textcolor{blue}{= \frac{1 \pm 9}{2} =}
+$$
+
+Adesso dobbiamo considerare una volta il meno e una volta il più:
 
 $$
 \textcolor{blue}{\frac{1 - 9}{2} = -4}
@@ -53,7 +43,4 @@ $$
 $$
 
 Ho quindi le due soluzioni:
-
-$$
-\textcolor{red}{y_1 = -4} \quad \textcolor{red}{y_2 = 5}
-$$
+$y_1 = -4$ $\quad$ $y_2 = 5$

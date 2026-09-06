@@ -1,35 +1,34 @@
-# [Problema]{.text-red}
+# Problema
 
-[In un trapezio di area $150\text{ m}^2$ l'altezza vale $5\text{ metri}$ e la base maggiore è doppia della minore. Calcolare la misura delle due basi]{.text-blue}
+<span class="text-blue-500">In un trapezio di area $150\text{ m}^2$ l'altezza vale $5\text{ metri}$ e la base maggiore è doppia della minore. Calcolare la misura delle due basi</span>
 
 Come prima cosa costruiamo la figura.
 Dai dati ho che l'altezza vale $5\text{ m}$:
-$\textcolor{blue}{\overline{AH} = 5\text{m}}$
+$\overline{AH} = 5\text{ m}$
 
 La prima relazione dice che l'area è $150\text{ m}^2$:
 
 $$
-\textcolor{red}{\frac{(\overline{BC} + \overline{AD}) \cdot \overline{AH}}{2} = 150\text{m}^2}
+\frac{(\overline{BC} + \overline{AD}) \cdot \overline{AH}}{2} = 150\text{ m}^2
 $$
 
 La seconda relazione dice che la base maggiore è doppia della minore:
-
-$\textcolor{red}{\overline{BC} = 2 \overline{AD}}$
+$\overline{BC} = 2\overline{AD}$
 
 Devo trovare la misura delle basi, quindi:
-$\textcolor{red}{\overline{BC} = x} \quad \textcolor{red}{\overline{AD} = y}$
+$\overline{BC} = x \quad \overline{AD} = y$
 
 Sostituisco nella prima relazione:
 
 $$
-\textcolor{red}{\frac{(x + y) \cdot 5}{2} = 150}
+\frac{(x + y) \cdot 5}{2} = 150
 $$
 
-> **Nota:** Avendo sostituito le incognite, tralascio di riportare la m di metro per semplicità.
+*Avendo sostituito le incognite tralascio di riportare la m di metro per semplicità*
 
-Moltiplico per $2$ a destra e a sinistra dell'uguale ed ottengo:
-$\textcolor{red}{(x + y) \cdot 5 = 300}$
-$\textcolor{red}{5x + 5y = 300}$
+Moltiplico per $2$ a destra e sinistra dell'uguale ed ottengo:
+$(x + y) \cdot 5 = 300$
+$5x + 5y = 300$
 
 Divido tutti i termini per $5$ ed ottengo:
 $\textcolor{blue}{x + y = 60}$
@@ -70,7 +69,7 @@ $$
 Ordino:
 
 $$
-\textcolor{red}{\begin{cases} x = 40 \\ y = 20 \end{cases}}
+\begin{cases} x = 40 \\ y = 20 \end{cases}
 $$
 
 Quindi:

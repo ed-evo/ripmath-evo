@@ -1,9 +1,9 @@
-# [esercizio]{.text-red}
+# <span class="text-red-600">esercizio</span>
 
 risolvere la seguente equazione:
 
 $$
-\textcolor{red}{3x - \frac{x^2 - 3x - 10}{3} + \frac{(x - 2)^2}{2} = 0}
+3x - \frac{x^2 - 3x - 10}{3} + \frac{(x - 2)^2}{2} = 0
 $$
 
 dobbiamo prima fare i calcoli: eseguiamo il quadrato
@@ -12,7 +12,7 @@ $$
 \textcolor{blue}{3x - \frac{x^2 - 3x - 10}{3} + \frac{x^2 - 4x + 4}{2} = 0}
 $$
 
-ora facciamo il minimo comune multiplo che è $6$
+ora facciamo il minimo comune multiplo che è 6
 
 $$
 \textcolor{blue}{\frac{18x - 2(x^2 - 3x - 10) + 3(x^2 - 4x + 4)}{6} = \frac{0}{6}}
@@ -24,7 +24,7 @@ $$
 \textcolor{blue}{\frac{18x - 2x^2 + 6x + 20 + 3x^2 - 12x + 12}{6} = \frac{0}{6}}
 $$
 
-adesso, essendo un'equazione posso moltiplicare prima e dopo l'uguale per $6$, cioè posso togliere i denominatori per il [secondo principio di equivalenza](../af/afbc.html)
+adesso, essendo un'equazione posso moltiplicare prima e dopo l'uguale per 6, cioè posso togliere i denominatori per il [secondo principio di equivalenza](../af/afbc.html)
 
 $$
 \textcolor{blue}{18x - 2x^2 + 6x + 20 + 3x^2 - 12x + 12 = 0}
@@ -36,13 +36,9 @@ $$
 \textcolor{blue}{x^2 + 12x + 32 = 0}
 $$
 
----
-
 Possiamo risolverla
 1. con la formula normale
 2. [con la formula ridotta](#secondo)
-
----
 
 consideriamo la formula risolutiva normale
 
@@ -52,9 +48,9 @@ $$
 
 abbiamo:
 
-[$a = 1$]{.text-blue}
-[$b = 12$]{.text-blue}
-[$c = 32$]{.text-blue}
+$\textcolor{blue}{a = 1}$
+$\textcolor{blue}{b = 12}$
+$\textcolor{blue}{c = 32}$
 
 sostituiamo nella formula
 
@@ -88,9 +84,7 @@ $$
 
 Ho quindi le due soluzioni
 
-[$x_1 = -4$]{.text-red} \quad [$x_2 = -8$]{.text-red}
-
----
+$x_1 = -4 \quad x_2 = -8$
 
 [torna su](#su)
 
@@ -102,9 +96,9 @@ $$
 
 abbiamo:
 
-[$a = 1$]{.text-blue}
-[$b = 12$]{.text-blue} \quad [$\beta = 6$]{.text-blue}
-[$c = 32$]{.text-blue}
+$\textcolor{blue}{a = 5}$
+$\textcolor{blue}{b = 12 \quad \beta = 6}$
+$\textcolor{blue}{c = 32}$
 
 sostituiamo nella formula
 
@@ -115,7 +109,7 @@ $$
 facciamo i calcoli dentro radice
 
 $$
-\textcolor{blue}{-6 \pm \sqrt{36 - 32}}
+\textcolor{blue}{\frac{-6 \pm \sqrt{36 - 32}}{(1)}}
 $$
 
 $$
@@ -128,13 +122,11 @@ $$
 
 adesso devo prendere una volta il più ed una volta il meno
 
-[$-6 + 2 = -4$]{.text-blue}
-[$-6 - 2 = -8$]{.text-blue}
+$\textcolor{blue}{-6 + 2 = -4}$
+$\textcolor{blue}{-6 - 2 = -8}$
 
 Ho quindi le due soluzioni
 
-[$x_1 = -4$]{.text-red} \quad [$x_2 = -8$]{.text-red}
+$x_1 = -4 \quad x_2 = -8$
 
 [torna su](#su)
-
----

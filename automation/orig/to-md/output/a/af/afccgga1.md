@@ -11,24 +11,25 @@ $$
 $$
 
 abbiamo:
+
 $\textcolor{blue}{a = 6}$
-$\textcolor{blue}{b = -2}$ $\textcolor{blue}{\beta = -1}$
+$\textcolor{blue}{b = -2} \quad \textcolor{blue}{\beta = -1}$
 $\textcolor{blue}{c = -8}$
 
 sostituiamo nella formula
 
 $$
-\textcolor{blue}{x_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - 6(-8)}}{6}}
+\textcolor{blue}{x_{1,2} = \frac{-(-1) \pm \sqrt{(-1)^2 - 6(-8)}}{6} =}
 $$
 
 eseguo i calcoli
 
 $$
-\textcolor{blue}{= \frac{1 \pm \sqrt{49}}{6}}
+\textcolor{blue}{= \frac{1 \pm \sqrt{49}}{6} =}
 $$
 
 $$
-\textcolor{blue}{= \frac{1 \pm 7}{6}}
+\textcolor{blue}{= \frac{1 \pm 7}{6} =}
 $$
 
 adesso devo prendere una volta il meno ed una volta il più

@@ -1,56 +1,43 @@
-# [Quadrato del trinomio]{.text-red}
-
-$\textcolor{red}{(a+b+c)^2 = (a+b+c) \cdot (a+b+c) =}$
-
-Devi moltiplicare ogni termine del primo polinomio per ogni termine del secondo:
+# Quadrato del trinomio
 
 $$
-\textcolor{red}{a \cdot a = a^2}
-$$
-$$
-\textcolor{red}{a \cdot b = ab}
-$$
-$$
-\textcolor{red}{a \cdot c = ac}
-$$
-$$
-\textcolor{red}{b \cdot a = ab}
-$$
-$$
-\textcolor{red}{b \cdot b = b^2}
-$$
-$$
-\textcolor{red}{b \cdot c = bc}
-$$
-$$
-\textcolor{red}{c \cdot a = ac}
-$$
-$$
-\textcolor{red}{c \cdot b = bc}
-$$
-$$
-\textcolor{red}{c \cdot c = c^2}
-$$
-$$
-\textcolor{red}{= a^2 + ab + ac + ab + b^2 + bc + ac + bc + c^2 =}
+(a+b+c)^2 = (a+b+c) \cdot (a+b+c) =
 $$
 
-Ora raccolgo i termini simili e li sommo.
-
-$\textcolor{red}{a^2}$ c'è solo lui e lo lascio, e così faccio anche per $\textcolor{red}{b^2}$ e $\textcolor{red}{c^2}$, poi:
+Devi moltiplicare ogni termine del primo monomio per ogni termine del secondo
 
 $$
-\textcolor{red}{ab + ab = 2ab}
-$$
-$$
-\textcolor{red}{ac + ac = 2ac}
-$$
-$$
-\textcolor{red}{bc + bc = 2bc}
+\begin{aligned}
+a \cdot a &= a^2 \\
+a \cdot b &= ab \\
+a \cdot c &= ac \\
+b \cdot a &= ab \\
+b \cdot b &= b^2 \\
+b \cdot c &= bc \\
+c \cdot a &= ac \\
+c \cdot b &= bc \\
+c \cdot c &= c^2
+\end{aligned}
 $$
 
-Raccogliendo il tutto:
+$$
+= a^2 + ab + ac + ab + b^2 + bc + ac + bc + c^2 =
+$$
+
+Ora raccolgo i termini simili e li sommo
+
+$a^2$ c'è solo lui e lo lascio e così faccio anche per $b^2$ e $c^2$ poi
 
 $$
-\textcolor{red}{= a^2 + b^2 + c^2 + 2ab + 2ac + 2bc}
+\begin{aligned}
+ab + ab &= 2ab \\
+ac + ac &= 2ac \\
+bc + bc &= 2bc
+\end{aligned}
+$$
+
+Raccogliendo il tutto
+
+$$
+= a^2 + b^2 + c^2 + 2ab + 2ac + 2bc
 $$

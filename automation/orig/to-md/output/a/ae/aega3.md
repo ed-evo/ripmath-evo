@@ -1,67 +1,67 @@
-Per ogni passaggio puoi vedere le operazioni nei particolari cliccando sulla dicitura.
+Per ogni passaggio puoi vedere le operazioni nei particolari cliccando sulla dicitura
 
 > **Nota:** Io farò tutti i passaggi, ma di solito si cerca di abbreviare.
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{(x+2)^2 - 2(2x-1) - 5}{x-1}} =}
+\frac{\frac{x}{x-1} + \frac{2x+1}{3x}}{\frac{1}{3x+3} + \frac{x}{x^2-1}} \div \frac{(x+2)^2 - 2(2x-1) - 5}{x-1}
 $$
 
-Eseguo i calcoli al numeratore della frazione in basso
+[eseguo i calcoli al numeratore della frazione in basso](aega3a.html)
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x}{3} + \frac{2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x}{x-1} + \frac{2x+1}{3x}}{\frac{1}{3x+3} + \frac{x}{x^2-1}} \div \frac{x^2 + 1}{x-1}
 $$
 
-Sommo le due frazioni al numeratore
+[sommo le due frazioni al numeratore](aega3b.html)
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{\frac{x^2+2x+1}{3x}}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x^2+2x+1}{3x}}{\frac{1}{3x+3} + \frac{x}{x^2-1}} \div \frac{x^2+1}{x-1}
 $$
 
-Moltiplico dopo la $x$ il numeratore per l'inverso del denominatore
+moltiplico dopo la $x$ il numeratore per l'inverso del denominatore
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3x+3} + x \cdot \frac{x^2+2x+1}{3x} \cdot \frac{1}{x^2-1}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x-1}{3x+3} + x \cdot \frac{x^2+2x+1}{3x} \cdot \frac{1}{x^2-1}}{\frac{x^2+1}{x-1}}
 $$
 
-Eseguo le moltiplicazioni
+[eseguo le moltiplicazioni](aega3c.html)
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3x+3} + \frac{x^3+2x^2+x}{3x \cdot (x^2-1)}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x-1}{3x+3} + \frac{x^3 + 2x^2 + x}{3x(x^2-1)}}{\frac{x^2+1}{x-1}}
 $$
 
-Scompongo i denominatori delle frazioni sopra
+[scompongo i denominatori delle frazioni sopra](aega3d.html)
 
 $$
-\textcolor{red}{\frac{\frac{x-1}{3(x+1)} + \frac{x^3+2x^2+x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x-1}{3(x+1)} + \frac{x^3 + 2x^2 + x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
 $$
 
-Faccio il minimo comune multiplo fra le due frazioni al numeratore
+[faccio il minimo comune multiplo fra le due frazioni al numeratore](aega3e.html)
 
 $$
-\textcolor{red}{\frac{\frac{x \cdot (x-1)^2 + x^3+2x^2+x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{x(x-1)^2 + x^3 + 2x^2 + x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
 $$
 
-Eseguo le operazioni e sommo i termini simili
+[eseguo le operazioni e sommo i termini simili](aega3f.html)
 
 $$
-\textcolor{red}{\frac{\frac{2x^3+2x}{3x \cdot (x-1) \cdot (x+1)}}{\frac{x^2+1}{x-1}} =}
+\frac{\frac{2x^3 + 2x}{3x(x-1)(x+1)}}{\frac{x^2+1}{x-1}}
 $$
 
-Moltiplico il numeratore per l'inverso del denominatore
+moltiplico il numeratore per l'inverso del denominatore
 
 $$
-\textcolor{red}{= \frac{2x^3+2x}{3x \cdot (x-1) \cdot (x+1)} \cdot \frac{x-1}{x^2+1} =}
+\frac{2x^3 + 2x}{3x(x-1)(x+1)} \cdot \frac{x-1}{x^2 + 1}
 $$
 
-Scompongo ove possibile
+[scompongo ove possibile](aega3g.html)
 
 $$
-\textcolor{red}{= \frac{2x \cdot (x^2+1)}{3x \cdot (x-1) \cdot (x+1)} \cdot \frac{x-1}{x^2+1} =}
+\frac{2x(x^2 + 1)}{3x(x-1)(x+1)} \cdot \frac{x-1}{x^2 + 1}
 $$
 
-Semplifico i fattori uguali sopra e sotto
+[semplifico i fattori uguali sopra e sotto](aega3h.html)
 
 $$
-\textcolor{red}{= \frac{2}{3 \cdot (x+1)}}
+= \frac{2}{3(x+1)}
 $$

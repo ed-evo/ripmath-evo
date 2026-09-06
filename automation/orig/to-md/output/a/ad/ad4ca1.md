@@ -1,17 +1,17 @@
-# [Regola della somma di $2$ monomi per la loro differenza]{.text-red}
+# Regola della somma di 2 monomi per la loro differenza
 
 $$
-\textcolor{red}{(a+b) \cdot (a-b) = a^2 - b^2}
+(a+b) \cdot (a-b) = a^2 - b^2
 $$
 
-Questa è la regola in linguaggio "matematico" per fare la traduzione devi seguire questa procedura:
+Questa è la regola in linguaggio "matematico"; per fare la traduzione devi seguire questa procedura:
 
-Per leggere la regola devi cominciare prima dell'uguale leggendo l'operazione che coinvolge tutti in termini ([il prodotto]{.text-purple}) poi devi dire fra chi è quest'operazione descrivendo il primo fattore ([fra la somma di due monomi]{.text-purple}) ed il secondo fattore ([e la loro differenza]{.text-purple})
+Per leggere la regola devi cominciare prima dell'uguale leggendo l'operazione che coinvolge tutti in termini (<span class="text-purple-600">il prodotto</span>), poi devi dire fra chi è quest'operazione descrivendo il primo fattore (<span class="text-purple-600">fra la somma di due monomi</span>) ed il secondo fattore (<span class="text-purple-600">e la loro differenza</span>).
 
-a questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo ([è uguale a]{.text-purple})
+A questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo (<span class="text-purple-600">è uguale a</span>).
 
-ora devi leggere il secondo termine $\textcolor{red}{a^2 - b^2}$; leggi l'operazione ([la differenza]{.text-purple}) descrivendo fra chi è l'operazione ([fra il quadrato del primo monomio ed il quadrato del secondo]{.text-purple})
+Ora devi leggere il secondo termine $a^2 - b^2$; leggi l'operazione (<span class="text-purple-600">la differenza</span>) descrivendo fra chi è l'operazione (<span class="text-purple-600">fra il quadrato del primo monomio ed il quadrato del secondo</span>).
 
-se metti assieme il tutto ottieni la regola:
+Se metti assieme il tutto ottieni la regola:
 
-> [Il prodotto fra la somma di due monomi e la loro differenza è uguale alla differenza fra il quadrato del primo monomio ed il quadrato del secondo monomio]{.text-blue}
+> <span class="text-blue-600">Il prodotto fra la somma di due monomi e la loro differenza è uguale alla differenza fra il quadrato del primo monomio ed il quadrato del secondo monomio</span>

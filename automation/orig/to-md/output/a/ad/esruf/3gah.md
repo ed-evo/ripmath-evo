@@ -1,8 +1,7 @@
-> $$
-> \begin{array}{c|ccc|c}
-> & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{-1} \\
-> \textcolor{red}{\frac{1}{2}} & & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{1} \\
-> \hline
-> & \textcolor{red}{2} & \textcolor{red}{2} & \textcolor{red}{2} & \textcolor{red}{0}
-> \end{array}
-> $$
+$$
+\begin{array}{c|ccc|c}
+& 2 & 1 & 1 & -1 \\
+1/2 & & 1 & 1 & 1 \\ \hline
+& 2 & 2 & 2 & 0
+\end{array}
+$$

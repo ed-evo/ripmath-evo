@@ -1,1 +1,1 @@
-intersezioni n° [$$2$]{.text-red} coincidenti
+## intersezioni n° $2$ coincidenti

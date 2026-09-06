@@ -1,78 +1,80 @@
-# [esercizio]{.text-red}
+# esercizio
 
-## Problema:
-[La somma del numeratore e del denominatore di una frazione è $8$, aggiungendo $15$ ad entrambi si ottiene una frazione equivalente a $10/9$. Qual è la frazione di partenza?]{.text-blue}
+**Problema:**
+<span class="text-blue-500">La somma del numeratore e del denominatore di una frazione è $8$, aggiungendo $15$ ad entrambi si ottiene una frazione equivalente a $\frac{10}{9}$. Qual è la frazione di partenza?</span>
 
-La somma del numeratore e del denominatore di una frazione è $8$, è la prima frase e significa che conviene chiamare il numeratore $x$ ed il denominatore $8 - x$.
+La somma del numeratore e del denominatore di una frazione è $8$; è la prima frase e significa che conviene chiamare il numeratore $x$ e il denominatore $8 - x$.
 
-> avrei anche potuto chiamare il numeratore $8-x$ e il denominatore $x$
+> avrei anche potuto chiamare il numeratore $8 - x$ e il denominatore $x$
 
-[numeratore = $\textcolor{red}{x}${.text-blue}]
-[denominatore = $\textcolor{red}{8 - x}${.text-blue}]
+<span class="text-blue-500">numeratore = $x$</span>
+<span class="text-blue-500">denominatore = $8 - x$</span>
 
-poi comincia un'altra frase:
-aggiungendo $15$ ad entrambi si ottiene una frazione equivalente a $10/9$.
+Poi comincia un'altra frase:
+aggiungendo $15$ ad entrambi si ottiene una frazione equivalente a $\frac{10}{9}$.
 
-[aggiungendo $15$ al numeratore [$\textcolor{red}{x + 15}$]]{.text-blue}
-[aggiungendo $15$ al denominatore [$\textcolor{red}{8 - x + 15}$]]{.text-blue}
+<span class="text-blue-500">aggiungendo $15$ al numeratore $[x + 15]$</span>
 
-[si ottiene una frazione: devo fare la frazione con i nuovi termini]{.text-blue}
+<span class="text-blue-500">aggiungendo $15$ al denominatore $[8 - x + 15]$</span>
+
+<span class="text-blue-500">si ottiene una frazione: devo fare la frazione con i nuovi termini</span>
 
 $$
-\textcolor{red}{\frac{x + 15}{8 - x + 15}}
+\frac{x + 15}{8 - x + 15}
 $$
 
-[equivalente a $10/9$ [$\textcolor{red}{= 10/9}$]]{.text-blue}
+<span class="text-blue-500">equivalente a $\frac{10}{9}$ $[= \frac{10}{9}]$</span>
 
 cioè
 
 $$
-\textcolor{red}{\frac{x + 15}{8 - x + 15} = \frac{10}{9}}
+\frac{x + 15}{8 - x + 15} = \frac{10}{9}
 $$
 
 $$
-\textcolor{red}{\frac{x + 15}{23 - x} = \frac{10}{9}}
+\frac{x + 15}{23 - x} = \frac{10}{9}
 $$
 
-È un'equazione fratta la risolvo sotto la condizione $x$ diverso da $23$.
-[C.R. $\textcolor{red}{x \neq 23}$]
+È un'[equazione fratta](../af/afbg.html); la risolvo sotto la condizione $x$ diverso da $23$.
 
-minimo comune multiplo $9(23 - x)$ in pratica moltiplico in croce
+$C.R. \quad x \neq 23$
 
-$$
-\textcolor{red}{\frac{9(x + 15)}{9(23 - x)} = \frac{10(23 - x)}{9(23 - x)}}
-$$
-
-Elimino i denominatori (secondo principio)
+Minimo comune multiplo $9(23 - x)$; in pratica moltiplico in croce:
 
 $$
-\textcolor{red}{9(x + 15) = 10(23 - x)}
+\frac{9(x + 15)}{9(23 - x)} = \frac{10(23 - x)}{9(23 - x)}
 $$
 
-$$
-\textcolor{red}{9x + 135 = 230 - 10x}
-$$
-
-primo principio: termini con $x$ prima dell'uguale, quelli senza $x$ dopo l'uguale, chi salta l'uguale cambia di segno
+Elimino i denominatori (secondo principio):
 
 $$
-\textcolor{red}{9x + 10x = 230 - 135}
+9(x + 15) = 10(23 - x)
 $$
 
 $$
-\textcolor{red}{19x = 95}
+9x + 135 = 230 - 10x
 $$
 
-divido per $19$ (per lasciare la $x$ da sola)
+Primo principio: termini con $x$ prima dell'uguale, quelli senza $x$ dopo l'uguale; chi salta l'uguale cambia di segno:
 
 $$
-\textcolor{red}{\frac{19x}{19} = \frac{95}{19}}
+9x + 10x = 230 - 135
 $$
 
 $$
-\textcolor{red}{x = 5} \text{ accettabile}
+19x = 95
 $$
 
-[Il numeratore è $5${.text-blue}]
-[Il denominatore è $3${.text-blue}]
-[la frazione di partenza è $5/3${.text-blue}]
+Divido per $19$ (per lasciare la $x$ da sola):
+
+$$
+\frac{19x}{19} = \frac{95}{19}
+$$
+
+$$
+x = 5 \quad \text{accettabile}
+$$
+
+<span class="text-blue-500">Il numeratore è $5$</span>
+<span class="text-blue-500">Il denominatore è $3$</span>
+<span class="text-blue-500">la frazione di partenza è $\frac{5}{3}$</span>

@@ -1,3 +1,5 @@
-# [Esercizi sul quadrato del binomio]{.text-red}
+# <span class="text-red-600">Esercizi sul quadrato del binomio</span>
 
-[Pagina in costruzione]{.text-red}
+---
+
+# <span class="text-red-600">Pagina in costruzione</span>

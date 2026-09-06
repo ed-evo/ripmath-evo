@@ -1,1 +1,1 @@
-# [Esercizi]{.text-red}
+# <span class="text-red-600">Esercizi</span>

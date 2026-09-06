@@ -1,4 +1,4 @@
-# [equazioni di secondo grado]{.text-red}
+# <span class="text-red-600">equazioni di secondo grado</span>
 
 Un'equazione si dice di secondo grado quando la $x$ vi compare a potenza $2$, cioè c'è un termine con $x^2$.
 
@@ -8,4 +8,4 @@ A seconda dei termini presenti, oltre a quello di secondo grado, le equazioni po
 - [Equazioni spurie](afcb.html)
 - [Equazioni complete](afcc.html)
 
-Per affrontare correttamente l'argomento occorre aver prima studiato [i radicali](../ak/ak.html)
+Per affrontare correttamente l'argomento occorre aver prima studiato [i radicali](../ak/ak.html).

@@ -1,64 +1,53 @@
-# Esercizio
+## <span class="text-red-500">Esercizio</span>
 
-Risolviamo la disequazione:
+risolviamo la disequazione:
 
-$$
-\textcolor{red}{x^4 - 5x^2 + 4 \le 0}
-$$
+$x^4 - 5x^2 + 4 \le 0$
 
-Considero il polinomio associato:
+Considero il polinomio associato
 
-$$
-\textcolor{blue}{x^4 - 5x^2 + 4 =}
-$$
+$\textcolor{blue}{x^4 - 5x^2 + 4 =}$
 
-Devo scomporlo in fattori; sono 3 termini, se faccio la sostituzione $x^2 = y$ ottengo:
+devo [scomporlo](../ad/ad6g.html) in fattori; sono $3$ termini, se faccio la sostituzione $x^2 = y$ ottengo
 
-$$
-\textcolor{blue}{y^2 - 5y + 4 =}
-$$
+$\textcolor{blue}{x^2 - 5x + 4 =}$
 
-Questo posso scomporlo come trinomio notevole:
+questo posso scomporlo come [trinomio notevole](../ad/ad6e.html)
 
-$$
-\textcolor{blue}{y^2 - 5y + 4 = (y - 1)(y - 4)}
-$$
+$\textcolor{blue}{x^2 - 5x + 4 = (y - 1)(y - 4)}$
 
-Ora rimetto $x^2$ al posto di $y$:
+ora rimetto $x^2$ al posto di $y$
 
-$$
-\textcolor{blue}{x^4 - 5x^2 + 4 = (x^2 - 1)(x^2 - 4)}
-$$
+$\textcolor{blue}{x^4 - 5x^2 + 4 = (x^2 - 1)(x^2 - 4)}$
 
 Ora devo decidere se voglio fare la disequazione con fattori di secondo grado oppure solo con fattori di primo grado scomponendo anche gli ultimi fattori tra parentesi.
 
-Un metodo vale l'altro: noi utilizzeremo, fin dove possibile, fattori di primo grado. Dentro parentesi sono due termini e precisamente la differenza fra due quadrati, cioè:
+Un metodo vale l'altro: noi utilizzeremo [fin dove possibile](agfba.html) fattori di primo grado.
+
+Dentro parentesi sono due termini e precisamente la [differenza fra due quadrati](../ad/ad6ca.html), cioè:
 
 $$
 \textcolor{blue}{x^2 - 1 = (x - 1)(x + 1)}
 $$
-
 $$
 \textcolor{blue}{x^2 - 4 = (x - 2)(x + 2)}
 $$
 
-E quindi avrò:
+e quindi avrò:
 
-$$
-\textcolor{blue}{x^4 - 5x^2 + 4 = (x - 1)(x + 1)(x - 2)(x + 2) > 0}
-$$
+$\textcolor{blue}{x^4 - 5x^2 + 4 = (x - 1)(x + 1)(x - 2)(x + 2) > 0}$
 
-Poniamo ogni fattore maggiore di zero:
+poniamo ogni fattore maggiore di zero:
 
 - $\textcolor{blue}{x - 1 > 0 \implies x > 1}$
 - $\textcolor{blue}{x + 1 > 0 \implies x > -1}$
 - $\textcolor{blue}{x - 2 > 0 \implies x > 2}$
 - $\textcolor{blue}{x + 2 > 0 \implies x > -2}$
 
-Adesso riporto i risultati su un grafico, indicando con un $+$ dove ogni disequazione è positiva, con un $-$ dove è negativa e con un cerchietto i punti dove il fattore vale zero ed è accettabile, e faccio il conto dei segni: devo prendere gli intervalli dove il prodotto dei segni dei fattori (cioè il segno dell'espressione) risulta negativo o nullo.
+Adesso riporto i risultati su un grafico indicando con un $+$ dove ogni disequazione è positiva e con un $-$ dove è negativa e con un cerchietto i punti dove il fattore vale zero ed è accettabile e faccio il conto dei segni: devo prendere gli intervalli dove il prodotto dei segni dei fattori (cioè il segno dell'espressione) risulta negativo o nullo.
 
 Ottengo come risultato:
 
 $$
-\textcolor{red}{-2 \le x \le -1 \quad \cup \quad 1 \le x \le 2}
+-2 \le x \le -1 \quad \cup \quad 1 \le x \le 2
 $$

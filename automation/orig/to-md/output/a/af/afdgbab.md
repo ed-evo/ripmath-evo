@@ -8,7 +8,7 @@ $$
 \textcolor{blue}{\frac{x^2 + 1}{x} = \frac{x y_1}{x}}
 $$
 
-siccome l'equazione è reciproca e il numero zero [non ha reciproco]{.text-blue} allora la $\textcolor{blue}{x}$ è certamente diversa da zero e posso togliere il denominatore
+siccome l'equazione è reciproca e il numero zero [non ha reciproco](afdgbaba.html) allora la $\textcolor{blue}{x}$ è certamente diversa da zero e posso togliere il denominatore
 
 $$
 \textcolor{blue}{x^2 + 1 = x y_1}

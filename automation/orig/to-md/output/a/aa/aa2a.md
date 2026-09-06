@@ -1,15 +1,15 @@
 $$
-\textcolor{red}{a^r \cdot a^s = a^{r+s}}
+a^r \cdot a^s = a^{r+s}
 $$
 
-Questa è la regola in linguaggio "matematico"; per fare la traduzione devi seguire questa procedura:
+Questa è la regola in linguaggio "matematico" per fare la traduzione devi seguire questa procedura:
 
-Per leggere la regola devi cominciare prima dell'uguale $\textcolor{red}{a^r \cdot a^s}$ leggendo l'operazione che coinvolge tutti i termini ([il prodotto]{.text-purple}), poi devi dire fra chi è quest'operazione ([fra 2 potenze]{.text-purple}) descrivendo i termini, indicando cos'hanno di uguale ([aventi la stessa base]{.text-purple}).
+Per leggere la regola devi cominciare prima dell'uguale $a^r \cdot a^s$ leggendo l'operazione che coinvolge tutti i termini (<span class="text-purple-600">il prodotto</span>) poi devi dire fra chi è quest'operazione (<span class="text-purple-600">fra 2 potenze</span>) descrivendo i termini, indicando cos'hanno di uguale (<span class="text-purple-600">aventi la stessa base</span>)
 
-A questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo ([è uguale a]{.text-purple}).
+a questo punto hai finito di leggere la prima parte e c'è l'uguale che si legge come un verbo (<span class="text-purple-600">è uguale a</span>)
 
-Ora devi leggere il secondo termine $\textcolor{red}{a^{r+s}}$; non essendoci operazioni descrivi il secondo termine ([una potenza]{.text-purple}) e descrivendola indica in cosa è uguale ([avente per base la stessa base]{.text-purple}) e cosa ha di diverso ([e per esponente la somma degli esponenti]{.text-purple}).
+ora devi leggere il secondo termine $a^{r+s}$; non essendoci operazioni descrivi il secondo termine (<span class="text-purple-600">una potenza</span>) e descrivendola indica in cosa è uguale (<span class="text-purple-600">avente per base la stessa base</span>) e cosa ha di diverso (<span class="text-purple-600">e per esponente la somma degli esponenti</span>)
 
-Se metti assieme il tutto ottieni la regola:
+se metti assieme il tutto ottieni la regola
 
-> **REGOLA:** [il prodotto fra due potenze aventi la stessa base è uguale a una potenza avente per base la stessa base e per esponente la somma degli esponenti.]{.text-purple}
+> **REGOLA:** <span class="text-purple-600">il prodotto fra due potenze aventi la stessa base è uguale a una potenza avente per base la stessa base e per esponente la somma degli esponenti.</span>

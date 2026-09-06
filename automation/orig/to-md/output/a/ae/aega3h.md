@@ -1,14 +1,14 @@
 $$
-\textcolor{red}{\frac{2x \cdot (x^2 + 1)}{3x \cdot (x - 1) \cdot (x + 1)} \cdot \frac{x - 1}{x^2 + 1}}
+= \frac{2x(x^2 + 1)}{3x(x - 1)(x + 1)} \cdot \frac{x - 1}{x^2 + 1} =
 $$
 
-Semplifico i fattori uguali sopra e sotto: tolgo
-- $\textcolor{red}{(x^2 + 1)}$ sopra con $\textcolor{red}{x^2 + 1}$ sotto
-- $\textcolor{red}{x}$ sopra con $\textcolor{red}{x}$ sotto
-- $\textcolor{red}{(x - 1)}$ sotto con $\textcolor{red}{(x - 1)}$ sopra
+> Semplifico i fattori uguali sopra e sotto: tolgo
+> - $(x^2 + 1)$ sopra con $x^2 + 1$ sotto
+> - $x$ sopra con $x$ sotto
+> - $(x - 1)$ sotto con $(x - 1)$ sopra
 
 Resta:
 
 $$
-\textcolor{red}{\frac{2}{3 \cdot (x + 1)} \cdot \frac{1}{1}}
+= \frac{2}{3(x + 1)} \cdot \frac{1}{1}
 $$

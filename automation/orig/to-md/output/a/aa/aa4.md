@@ -2,39 +2,42 @@
 
 Se devo fare
 $$
-\textcolor{red}{(2^3)^4 =}
+(2^3)^4 =
 $$
 poiché prima devo sempre considerare le operazioni che coinvolgono tutto dovrò considerare la potenza quattro, cioè
 $$
-\textcolor{red}{= 2^3 \times 2^3 \times 2^3 \times 2^3 =}
+= 2^3 \times 2^3 \times 2^3 \times 2^3 =
 $$
 e poiché
 $$
-\textcolor{red}{2^3 = 2 \times 2 \times 2}
+2^3 = 2 \times 2 \times 2
 $$
 otterrai
 $$
-\textcolor{red}{= \textcolor{yellow}{(2 \times 2 \times 2)} \times \textcolor{yellow}{(2 \times 2 \times 2)} \times \textcolor{yellow}{(2 \times 2 \times 2)} \times \textcolor{yellow}{(2 \times 2 \times 2)} =}
+= \textcolor{yellow}{(} 2 \times 2 \times 2 \textcolor{yellow}{)} \times \textcolor{yellow}{(} 2 \times 2 \times 2 \textcolor{yellow}{)} \textcolor{yellow}{(} 2 \times 2 \times 2 \textcolor{yellow}{)} \times \textcolor{yellow}{(} 2 \times 2 \times 2 \textcolor{yellow}{)} =
 $$
 $$
-\textcolor{red}{= 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 2^{12} = 2^{3 \times 4}}
+= 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 2^{12} = 2^{3 \times 4}
 $$
-in quanto vi sono quattro gruppi di tre $2$ ciascuno quindi per fare il prodotto quando hanno la stessa base basta moltiplicare gli esponenti ora rendiamo il risultato più generale possibile usando le lettere.
+in quanto vi sono quattro gruppi di tre $2$ ciascuno.
+Quindi per fare il prodotto quando hanno la stessa base basta moltiplicare gli esponenti.
+Ora rendiamo il risultato più generale possibile usando le lettere.
 
 $$
-\textcolor{red}{(a^r)^s = \textcolor{yellow}{(a \cdot a \cdot \dots \cdot a)} \cdot \textcolor{yellow}{(a \cdot a \cdot \dots \cdot a)} \cdot \textcolor{yellow}{(a \cdot a \cdot \dots \cdot a)} \dots \textcolor{yellow}{(a \cdot a \cdot \dots \cdot a)} =}
+(a^r)^s = \textcolor{yellow}{(} a \cdot a \cdots a \textcolor{yellow}{)} \cdot \textcolor{yellow}{(} a \cdot a \cdots a \textcolor{yellow}{)} \textcolor{yellow}{(} a \cdot a \cdots a \textcolor{yellow}{)} \cdots \textcolor{yellow}{(} a \cdot a \cdots a \textcolor{yellow}{)} =
 $$
 togliendo le parentesi
 $$
-\textcolor{red}{= a \cdot a \cdot \dots \cdot a \cdot a \cdot a \cdot \dots \cdot a \cdot a \cdot a \cdot \dots \cdot a \cdot a \cdot \dots \cdot a \cdot a \cdot \dots \cdot a = a^{r \cdot s}}
+= a \cdot a \cdots a \cdot a \cdot a \cdots a \cdot a \cdot a \cdots a \cdot a \cdot a \cdots a \cdot a \cdot a \cdots a = a^{r \cdot s}
 $$
 perché saranno $s$ gruppi di $r$ lettere ciascuno.
-
-Per trovare la regola basta leggere il primo termine e l'ultimo termine dell'uguaglianza:
+Per trovare la regola basta leggere il primo termine e l'ultimo termine dell'uguaglianza
 $$
-\textcolor{red}{(a^r)^s = a^{r \cdot s}}
+(a^r)^s = a^{r \cdot s}
 $$
 
-> [**REGOLA:** la potenza di una potenza è ancora una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti.]{.text-purple}
+> <span class="text-purple-600">**REGOLA:** la potenza di una potenza è ancora una potenza che ha per base la stessa base e per esponente il prodotto degli esponenti.</span>
 
-Se hai bisogno di aiuto per leggere la regola fai click [qui](aa4a.html).
+se hai bisogno di aiuto per leggere la regola fai click [qui](aa4a.html)
+
+[esercizi sulla potenza di potenza](../../../cdrom/cd/0/0c.html)

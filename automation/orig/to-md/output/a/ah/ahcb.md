@@ -1,5 +1,5 @@
-# [Problemi risolubili mediante un sistema]{.text-red}
+# <span class="text-red-600">Problemi risolubili mediante un sistema</span>
 
 - [Problemi numerici](ahcba.html)
-- [ [Problemi tipo "Settimana enigmistica"]{.text-red} ](ahcbb.html)
-- [ [Problemi geometrici]{.text-red} ](ahcbc.html)
+- [<span class="text-red-600">Problemi tipo "Settimana enigmistica"</span>](ahcbb.html)
+- [<span class="text-red-600">Problemi geometrici</span>](ahcbc.html)

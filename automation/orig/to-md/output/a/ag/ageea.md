@@ -1,34 +1,34 @@
-# [Esercizio su disequazione più complessa]{.text-red}
+# Esercizio su disequazione più complessa
 
-Risolviamo la disequazione:
-
-$$
-\textcolor{red}{\frac{(x^2 - 4x + 3)(x^2 + x + 1)(x + 4)}{(x - 2)(x^2 + 9)} < 0}
-$$
-
-Pongo ogni fattore al numeratore e al denominatore maggiore di zero:
+risolviamo la disequazione:
 
 $$
-\textcolor{blue}{\begin{cases} x^2 - 4x + 3 > 0 \\ x^2 + x + 1 > 0 \\ x + 4 > 0 \\ x - 2 > 0 \\ x^2 + 9 > 0 \end{cases}}
+\frac{(x^2 - 4x + 3)(x^2 + x + 1)(x + 4)}{(x - 2)(x^2 + 9)} < 0
 $$
 
-- la prima $\textcolor{blue}{x^2 - 4x + 3 > 0}$ è verificata per $\textcolor{blue}{x < 1 \cup x > 3}$ (Calcoli)
-- la seconda $\textcolor{blue}{x^2 + x + 1 > 0}$ è sempre verificata (Calcoli)
+Pongo ogni fattore al numeratore e al denominatore maggiore di zero
+
+$$
+\begin{cases} \textcolor{blue}{x^2 - 4x + 3 > 0} \\ \textcolor{blue}{x^2 + x + 1 > 0} \\ \textcolor{blue}{x + 4 > 0} \\ \textcolor{blue}{x - 2 > 0} \\ \textcolor{blue}{x^2 + 9 > 0} \end{cases}
+$$
+
+- la prima $\textcolor{blue}{x^2 - 4x + 3 > 0}$ è verificata per $\textcolor{blue}{x < 1 \cup x > 3}$ [Calcoli](ageeaa.html)
+- la seconda $\textcolor{blue}{x^2 + x + 1 > 0}$ è sempre verificata [Calcoli](ageeab.html)
 - la terza $\textcolor{blue}{x + 4 > 0}$ è verificata per $\textcolor{blue}{x > -4}$
 - la quarta $\textcolor{blue}{x - 2 > 0}$ è verificata per $\textcolor{blue}{x > 2}$
-- la quinta $\textcolor{blue}{x^2 + 9 > 0}$ è sempre verificata (Calcoli)
+- la quinta $\textcolor{blue}{x^2 + 9 > 0}$ è sempre verificata [Calcoli](ageeac.html)
 
-Quindi il mio sistema è equivalente al sistema:
+quindi il mio sistema è equivalente al sistema
 
 $$
-\textcolor{blue}{\begin{cases} x < 1 \cup x > 3 \\ \text{sempre positiva} \\ x > -4 \\ x > 2 \\ \text{sempre positiva} \end{cases}}
+\begin{cases} \textcolor{blue}{x < 1 \cup x > 3} \\ \textcolor{blue}{\text{sempre positiva}} \\ \textcolor{blue}{x > -4} \\ \textcolor{blue}{x > 2} \\ \textcolor{blue}{\text{sempre positiva}} \end{cases}
 $$
 
-Riporto su un grafico, evidenziando con un più dove il fattore è positivo e con un meno dove è negativo. Nella riga in blu metto il segno dell'espressione quoziente.
-
+Riporto su un grafico, evidenziando con un più dove il fattore è positivo e con un meno dove è negativo.
+Nella riga in blu metto il segno dell'espressione quoziente.
 Ora faccio il calcolo dei segni: siccome devo prendere dove l'espressione è negativa, l'espressione quoziente sarà negativa dove il prodotto dei segni di tutti i fattori dà risultato negativo.
 
-La soluzione è:
+La soluzione è
 
 $$
 \textcolor{blue}{-4 < x < 1 \cup 2 < x < 3}
