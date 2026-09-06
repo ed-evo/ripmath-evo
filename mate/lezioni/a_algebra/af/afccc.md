@@ -30,9 +30,9 @@ Siccome il termine è dentro radice abbiamo tre possibilità:
   $\Delta = b^2 - 4ac < 0$
   in tal caso non posso fare la radice nei numeri reali ma solo nei numeri immaginari e poiché devo sommare e sottrarre otterrò due radici complesse che differiranno solo per il segno in mezzo ai numeri (radici complesse e coniugate)
 
-> <span class="text-purple-600">**Regola:** un'equazione di secondo grado ammette sempre due soluzioni che potranno essere:
-> - reali e distinte se il discriminante è maggiore di zero
-> - reali coincidenti se il discriminante è uguale a zero
-> - complesse e coniugate se il discriminante è minore di zero</span>
-
+> **Regola:** un'equazione di secondo grado ammette sempre due soluzioni che potranno essere:  {.text-purple-600}
+> - reali e distinte se il discriminante è maggiore di zero {.text-purple-600}
+> - reali coincidenti se il discriminante è uguale a zero {.text-purple-600}
+> - complesse e coniugate se il discriminante è minore di zero {.text-purple-600}
+>
 > Se il tuo insegnante non ti ha spiegato i numeri complessi puoi semplicemente dire che se il discriminante è minore di zero l'equazione non ammette soluzioni reali.
