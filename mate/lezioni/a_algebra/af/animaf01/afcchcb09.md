@@ -1,1 +1,0 @@
-intersezioni $n^\circ 2$ un limite
