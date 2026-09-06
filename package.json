@@ -17,12 +17,14 @@
   "license": "ISC",
   "devDependencies": {
     "@mdit/plugin-katex": "^1.1.0",
+    "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^26.4.0",
     "eslint": "^10.9.1",
     "eslint-config-vuetify": "^4.7.2",
     "jiti": "^2.7.0",
     "katex": "^0.18.4",
     "playwright": "^1.62.1",
+    "tailwindcss": "^4.3.3",
     "tsx": "^4.23.12",
     "vitepress": "2.0.0-alpha.19",
     "vue-tsc": "^3.3.11"

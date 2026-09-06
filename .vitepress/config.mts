@@ -1,4 +1,5 @@
 import { katex } from '@mdit/plugin-katex'
+import tailwindcss from '@tailwindcss/vite'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -29,11 +30,16 @@ export default defineConfig({
   markdown: {
     html: true,
     config: (md) => {
-      md.use(katex)
+      md.use(katex as any)
     }
   },
   sitemap: {
     hostname: 'https://ed-evo.github.io/ripmath-evo',
     lastmodDateOnly: true
-  }
+  },
+  vite: {
+    plugins: [
+      tailwindcss(),
+    ]
+  },
 })

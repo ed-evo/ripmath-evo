@@ -135,7 +135,6 @@
  * CUSTOMIZATION
  */
 
-// katex in summary
 details summary > p:has(.katex) {
   display: inline;
   margin: 0;
@@ -145,3 +144,5 @@ details summary > p:has(.katex) {
 .katex {
   color: red;
 }
+
+@import 'tailwindcss'
