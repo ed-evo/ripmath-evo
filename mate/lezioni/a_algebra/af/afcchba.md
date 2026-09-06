@@ -1,20 +1,22 @@
-# discussione di equazioni di primo grado metodo diretto
+# Discussione di equazioni di primo grado: metodo diretto
 
 Basta semplicemente confrontare la radice dell'equazione con il numero od i numeri dati.
 Vediamolo su un semplice esempio.
 
+---
+
 Discutere l'equazione
 $$
-\textcolor{red}{2x + k - 1 = 0}
+2x + k - 1 = 0
 $$
 rispetto alla condizione
 $$
-\textcolor{red}{x > 2}
+x > 2
 $$
 
 In pratica devo vedere quali valori assegnare a $k$ affinché la soluzione sia maggiore di $2$.
-
 Trovo la soluzione:
+
 $$
 \textcolor{blue}{2x + k - 1 = 0}
 $$
@@ -26,6 +28,7 @@ $$
 $$
 
 Ora pongo la soluzione maggiore di $2$:
+
 $$
 \textcolor{blue}{\frac{1 - k}{2} > 2}
 $$
@@ -41,7 +44,11 @@ $$
 
 Cambio di segno e verso:
 $$
-\textcolor{red}{k < -3}
+k < -3
 $$
 
 Quindi se prendiamo $k$ minore di $-3$ avremo che la soluzione $x$ sarà maggiore di $2$.
+
+---
+
+[Pagina iniziale](../../../index.html) | [Indice di algebra](../../a.html) | [Pagina precedente](afcchb.html) | [Pagina successiva](afcchbb.html)

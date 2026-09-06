@@ -20,11 +20,19 @@ const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
             { text: 'M.C.D m.c.m.', link: '/lezioni/a_algebra/02.calcolo-letterale/02.polinomi/04.mcd-mcm' },
           ],
         },
-        { text: 'Frazioni Algebriche', link: '/lezioni/a_algebra/02.calcolo-letterale/03.frazioni-algebriche' },
+        {
+          text: 'Frazioni Algebriche',
+          link: '/lezioni/a_algebra/02.calcolo-letterale/03.frazioni-algebriche',
+        },
       ]
     },
     {
-      text: '03. Equazioni', link: '/lezioni/a_algebra/03.equazioni/'
+      text: '03. Equazioni',
+      link: '/lezioni/a_algebra/03.equazioni/',
+      items: [
+        { text: 'di Primo Grado', link: '/lezioni/a_algebra/03.equazioni/01.equazioni-primo-grado'},
+        { text: 'di Secondo Grado', link: '/lezioni/a_algebra/03.equazioni/02.equazioni-secondo-grado'},
+      ],
     }
   ]
 }

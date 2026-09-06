@@ -1,4 +1,4 @@
-# esercizi sulle equazioni di secondo grado pure
+# <span class="text-red-600">esercizi sulle equazioni di secondo grado pure</span>
 
 Vediamo alcuni esercizi graduati per difficoltà
 
@@ -6,35 +6,58 @@ Vediamo alcuni esercizi graduati per difficoltà
 
 Risolvere le seguenti equazioni:
 
-### Esercizio 1
-[$2x^2 - 18 = 0$]{.text-blue} [soluzione](afccgaa.html)
+**esercizio 1**
 
-### Esercizio 2
-[$(2x - 3)^2 = x(x - 12) + 12$]{.text-blue} [soluzione](afccgab.html)
+$$
+\textcolor{blue}{2x^2 - 18 = 0}
+$$
 
-### Esercizio 3
-[$(x - 3)(x + 3) + 5x = 5(x - 5)$]{.text-blue} [soluzione](afccgac.html)
+[soluzione](afccgaa.html)
 
-### Esercizio 4
-[
-$$
-\frac{10}{3} - \frac{x - 5}{x + 5} = \frac{x + 5}{x - 5}
-$$
-]{.text-blue} [soluzione](afccgad.html)
+**esercizio 2**
 
-### Esercizio 5
-[
 $$
-\frac{5}{2x - 2} + \frac{1}{2x - 3} = \frac{1}{2x + 2}
+\textcolor{blue}{(2x - 3)^2 = x(x - 12) + 12}
 $$
-]{.text-blue} [soluzione](afccgae.html)
 
-### Esercizio 6
-[$ax^2 = 0$]{.text-blue} [soluzione](afccgaf.html)
+[soluzione](afccgab.html)
 
-### Esercizio 7
-[
+**esercizio 3**
+
 $$
-\frac{x - a}{x + a} = 3 + \frac{x + a}{a - x}
+\textcolor{blue}{(x - 3)(x + 3) + 5x = 5(x - 5)}
 $$
-]{.text-blue} [soluzione](afccgag.html)
+
+[soluzione](afccgac.html)
+
+**esercizio 4**
+
+$$
+\textcolor{blue}{\frac{10}{3} - \frac{x - 5}{x + 5} = \frac{x + 5}{x - 5}}
+$$
+
+[soluzione](afccgad.html)
+
+**esercizio 5**
+
+$$
+\textcolor{blue}{\frac{5}{2x - 2} + \frac{1}{2x - 3} = \frac{1}{2x + 2}}
+$$
+
+[soluzione](afccgae.html)
+
+**esercizio 6**
+
+$$
+\textcolor{blue}{ax^2 = 0}
+$$
+
+[soluzione](afccgaf.html)
+
+**esercizio 7**
+
+$$
+\textcolor{blue}{\frac{x - a}{x + a} = 3 + \frac{x + a}{a - x}}
+$$
+
+[soluzione](afccgag.html)

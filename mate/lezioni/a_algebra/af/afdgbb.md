@@ -1,14 +1,14 @@
-# [Equazioni reciproche di quarto grado]{.text-red-darken-1}
-[di seconda specie]{.text-red-darken-1}
+# Equazioni reciproche di quarto grado
+<span class="text-sm">di seconda specie</span>
 
 Sono del tipo:
 $$
 \textcolor{blue}{ax^4 + bx^3 - bx - a = 0}
 $$
 
-Il polinomio associato è sempre scomponibile per $\textcolor{blue}{(x-1)(x+1)}$.
+Il polinomio associato è sempre scomponibile per $(x-1)(x+1)$.
 
-Per mostrare che è possibile utilizzare la scomposizione di Ruffini con i divisori $\textcolor{blue}{(x-1)(x+1)}$ consideriamo il polinomio associato e scomponiamolo:
+Per mostrare che è possibile utilizzare la scomposizione di Ruffini con i divisori $\textcolor{blue}{(x-1)(x+1)}$, consideriamo il polinomio associato e scomponiamolo:
 
 $$
 \textcolor{blue}{ax^4 + bx^3 - bx - a =}
@@ -20,7 +20,7 @@ $$
 \textcolor{blue}{= a(x^4 - 1) + bx(x^2 - 1) =}
 $$
 
-Dentro la prima parentesi ho una differenza di quadrati, la scompongo:
+Dentro la prima parentesi ho una differenza di quadrati: la scompongo:
 
 $$
 \textcolor{blue}{= a(x^2 - 1)(x^2 + 1) + bx(x^2 - 1) =}
@@ -45,19 +45,19 @@ Quindi due fattori del polinomio sono $\textcolor{blue}{(x-1)(x+1)}$ e scomponen
 ***
 
 Vediamo un esempio:
-Risolvere l'equazione:
+Risolvere l'equazione
 $$
-\textcolor{red}{3x^4 - 10x^3 + 10x - 3 = 0}
+3x^4 - 10x^3 + 10x - 3 = 0
 $$
 
-Considero il polinomio associato $\textcolor{blue}{3x^4 - 10x^3 + 10x - 3}$ e scompongo per $\textcolor{blue}{(x-1)}$. Effettuo la divisione di Ruffini ricordandomi di ordinare perché manca il termine in $x^2$.
+Considero il polinomio associato $\textcolor{blue}{3x^4 - 10x^3 + 10x - 3}$ e scompongo per $\textcolor{blue}{(x-1)}$: faccio subito la divisione di Ruffini ricordandomi di ordinare perché manca il termine in $x^2$.
 
 Ottengo:
 $$
-\textcolor{blue}{3x^4 - 10x^3 + 10x - 3 = (x - 1)(3x^3 - 7x^2 - 7x + 3)}
+\textcolor{blue}{3x^4 - 10x^3 + 10x - 3 = (x - 1)(3x^3 - 7x^2 - 7x + 3) =}
 $$
 
-Ora continuo a scomporre per $\textcolor{blue}{(x+1)}$ effettuando la divisione di Ruffini.
+Ora continuo a scomporre per $\textcolor{blue}{(x+1)}$: faccio subito la divisione di Ruffini.
 
 Quindi ho:
 $$
@@ -70,15 +70,15 @@ $$
 $$
 
 Pongo ogni fattore uguale a zero:
-- $\textcolor{blue}{x - 1 = 0} \implies \textcolor{blue}{x = 1}$
-- $\textcolor{blue}{x + 1 = 0} \implies \textcolor{blue}{x = -1}$
+- $\textcolor{blue}{x - 1 = 0}$ $\rightarrow$ ottengo $\textcolor{blue}{x = 1}$
+- $\textcolor{blue}{x + 1 = 0}$ $\rightarrow$ ottengo $\textcolor{blue}{x = -1}$
 - $\textcolor{blue}{3x^2 - 10x + 3 = 0}$
-  ha come soluzioni:
+  ha come soluzioni [calcoli](afdgbae.html)
   $$
   \textcolor{blue}{x_1 = \frac{1}{3}, \quad x_2 = 3}
   $$
 
-Quindi le soluzioni dell'equazione di partenza sono (ordinate):
+Quindi le soluzioni dell'equazione di partenza sono (le ho ordinate):
 $$
-\textcolor{red}{x_1 = -1, \quad x_2 = \frac{1}{3}, \quad x_3 = 1, \quad x_4 = 3}
+x_1 = -1, \quad x_2 = \frac{1}{3}, \quad x_3 = 1, \quad x_4 = 3
 $$

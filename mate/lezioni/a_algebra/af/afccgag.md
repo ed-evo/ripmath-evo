@@ -1,6 +1,6 @@
-# esercizio
+# <span class="text-red-600">esercizio</span>
 
-Risolvere la seguente equazione:
+risolvere la seguente equazione:
 
 $$
 \textcolor{blue}{\frac{x - a}{x + a} = 3 + \frac{x + a}{a - x}}
@@ -12,23 +12,14 @@ $$
 \textcolor{blue}{\frac{x - a}{a + x} = 3 + \frac{x + a}{a - x}}
 $$
 
-È un' [equazione fratta]{.text-blue} e, contemporaneamente, un' [equazione letterale]{.text-blue}.
+È un' [equazione fratta](afbg.html) e, contemporaneamente, un' [equazione letterale](afbf.html).
 Prima di risolverla dobbiamo porre le condizioni di realtà:
 
-$$
-\textcolor{red}{C.R.}
-$$
+> **C.R.**
+> $a + x \neq 0 \implies x \neq -a$
+> $a - x \neq 0 \implies x \neq a$
 
-$$
-\textcolor{red}{a + x \neq 0 \implies x \neq -a}
-$$
-
-$$
-\textcolor{red}{a - x \neq 0 \implies x \neq a}
-$$
-
-> **Nota:** Cioè se troveremo come soluzione $x=a$ o $x=-a$ diremo che l'equazione è impossibile.
-
+Cioè, se troveremo come soluzione $x = a$ o $x = -a$, diremo che l'equazione è impossibile.
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
 
 $$
@@ -39,7 +30,7 @@ $$
 \textcolor{blue}{\frac{(x-a)(a-x)}{(a+x)(a-x)} = \frac{3(a+x)(a-x) + (x+a)(a+x)}{(a+x)(a-x)}}
 $$
 
-O meglio, ricordando che $(a-x) = -(x-a)$:
+o meglio, ricordando che $(a-x) = -(x-a)$:
 
 $$
 \textcolor{blue}{\frac{-(x-a)^2}{(a+x)(a-x)} = \frac{3(a+x)(a-x) + (x+a)^2}{(a+x)(a-x)}}
@@ -53,19 +44,19 @@ $$
 \textcolor{blue}{-(x-a)^2 = 3(a+x)(a-x) + (x+a)^2}
 $$
 
-Eseguo i calcoli, prima i prodotti notevoli:
+eseguo i calcoli, prima i prodotti notevoli:
 
 $$
 \textcolor{blue}{-(x^2 - 2ax + a^2) = 3(a^2 - x^2) + x^2 + 2ax + a^2}
 $$
 
-Poi moltiplico e faccio cadere le parentesi:
+poi moltiplico e faccio cadere le parentesi:
 
 $$
 \textcolor{blue}{-x^2 + 2ax - a^2 = 3a^2 - 3x^2 + x^2 + 2ax + a^2}
 $$
 
-Conviene portare tutto prima dell'uguale:
+conviene portare tutto prima dell'uguale:
 
 $$
 \textcolor{blue}{-x^2 + 2ax - a^2 - 3a^2 + 3x^2 - x^2 - 2ax - a^2 = 0}
@@ -75,7 +66,7 @@ $$
 \textcolor{blue}{x^2 - 5a^2 = 0}
 $$
 
-Porto il termine noto dopo l'uguale:
+porto il termine noto dopo l'uguale:
 
 $$
 \textcolor{blue}{x^2 = 5a^2}
@@ -84,10 +75,10 @@ $$
 Applico la radice da entrambe le parti dell'uguale (il più o meno lo mettiamo sempre solo davanti al secondo termine):
 
 $$
-\textcolor{blue}{\sqrt{x^2} = \pm \sqrt{5a^2}}
+\textcolor{blue}{\sqrt{x^2} = \pm\sqrt{5a^2}}
 $$
 
-Estraggo $a$ dalla radice:
+estraggo $a$ dalla radice:
 
 $$
 \textcolor{blue}{x = \pm a\sqrt{5}}
@@ -96,25 +87,14 @@ $$
 Ho quindi le due soluzioni:
 
 $$
-\textcolor{red}{x_1 = -a\sqrt{5}} \quad \textcolor{red}{x_2 = +a\sqrt{5}}
+x_1 = -a\sqrt{5} \quad x_2 = +a\sqrt{5}
 $$
 
 Per finire, siccome abbiamo delle soluzioni letterali, dobbiamo porre che le soluzioni trovate rispettino le condizioni di realtà: quindi dovrà essere:
 
-$$
-\textcolor{red}{-a\sqrt{5} \neq -a \implies a \neq 0}
-$$
+> $-a\sqrt{5} \neq -a \implies a \neq 0$ [calcoli](afccgaga.html)
+> $-a\sqrt{5} \neq a \implies a \neq 0$ [calcoli](afccgagb.html)
+> $a\sqrt{5} \neq -a \implies a \neq 0$ [calcoli](afccgagc.html)
+> $a\sqrt{5} \neq a \implies a \neq 0$ [calcoli](afccgagd.html)
 
-$$
-\textcolor{red}{-a\sqrt{5} \neq a \implies a \neq 0}
-$$
-
-$$
-\textcolor{red}{a\sqrt{5} \neq -a \implies a \neq 0}
-$$
-
-$$
-\textcolor{red}{a\sqrt{5} \neq a \implies a \neq 0}
-$$
-
-Quindi le soluzioni sono accettabili se $a$ è diverso da zero.
+quindi le soluzioni sono accettabili se $a$ è diverso da zero.

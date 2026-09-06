@@ -1,4 +1,4 @@
-# [.text-red]esercizio
+# <span class="text-red-600">esercizio</span>
 
 risolvere la seguente equazione:
 
@@ -12,37 +12,32 @@ $$
 \textcolor{blue}{\frac{5}{2(x - 1)} + \frac{1}{2x - 3} = \frac{1}{2(x + 1)}}
 $$
 
-È un'equazione fratta quindi prima di risolverla dobbiamo porre le condizioni di realtà: ogni termine al denominatore, che contenga la $x$, va posto diverso da zero; le costanti moltiplicate (il $2$) puoi saltarle perché sono certamente diverse da zero.
+È un' [equazione fratta](afbg.html) quindi prima di risolverla dobbiamo porre le condizioni di realtà: ogni termine al denominatore, che contenga la $x$, va posto diverso da zero; le costanti moltiplicate (il $2$) puoi saltarle perché sono certamente diverse da zero.
 
-[.text-red]**C.R.**
+<span class="text-red-600">C.R.</span>
 $$
-\textcolor{red}{x - 1 \neq 0 \implies x \neq 1}
-$$
-$$
-\textcolor{red}{2x - 3 \neq 0 \implies x \neq 3/2}
-$$
-$$
-\textcolor{red}{x + 1 \neq 0 \implies x \neq -1}
+\begin{aligned}
+x - 1 \neq 0 &\implies x \neq 1 \\
+2x - 3 \neq 0 &\implies x \neq 3/2 \\
+x + 1 \neq 0 &\implies x \neq -1
+\end{aligned}
 $$
 
 Cioè se troveremo come soluzione $x = -1$, $x = 1$ o $x = 3/2$ diremo che l'equazione è impossibile.
 
 Ora possiamo fare il minimo comune multiplo e poi semplificarlo:
+$\textcolor{blue}{\text{m.c.m.} = 2(x - 1)(x + 1)(2x - 3)}$
 
 $$
-\textcolor{blue}{\text{m.c.m.} = 2(x-1)(x+1)(2x-3)}
-$$
-
-$$
-\textcolor{blue}{\frac{5(x+1)(2x-3) + 2(x-1)(x+1)}{2(x-1)(x+1)(2x-3)} = \frac{(x-1)(2x-3)}{2(x-1)(x+1)(2x-3)}}
+\textcolor{blue}{\frac{5(x + 1)(2x - 3) + 2(x - 1)(x + 1)}{2(x - 1)(x + 1)(2x - 3)} = \frac{(x - 1)(2x - 3)}{2(x - 1)(x + 1)(2x - 3)}}
 $$
 
 Elimino i denominatori
 
-> Devo moltiplicare da entrambe le parti per $2(x-1)(x+1)(2x-3)$; posso farlo perché so che ogni termine è diverso da zero.
+> Devo moltiplicare da entrambe le parti per $2(x - 1)(x + 1)(2x - 3)$; posso farlo perché so che ogni termine è diverso da zero.
 
 $$
-\textcolor{blue}{5(x+1)(2x-3) + 2(x-1)(x+1) = (x-1)(2x-3)}
+\textcolor{blue}{5(x + 1)(2x - 3) + 2(x - 1)(x + 1) = (x - 1)(2x - 3)}
 $$
 
 eseguo i calcoli, prima i prodotti fra parentesi
@@ -92,7 +87,7 @@ $$
 Ho quindi le due soluzioni
 
 $$
-\textcolor{red}{x_1 = -\sqrt{2}} \quad \textcolor{red}{x_2 = +\sqrt{2}}
+x_1 = -\sqrt{2} \quad x_2 = +\sqrt{2}
 $$
 
 e rispettano le condizioni di realtà.

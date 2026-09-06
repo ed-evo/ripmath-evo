@@ -1,50 +1,37 @@
 # Esercizio
 
 Risolvere:
-
-$$
-\textcolor{red}{x^2 + \sqrt{x^2 - 4} = 0}
-$$
+$x^2 + \sqrt{x^2 - 4} = 0$
 
 Isolo la radice ed ottengo:
+$\sqrt{x^2 - 4} = -x^2$
+
+Pongo le condizioni iniziali: il termine sotto radice deve essere maggiore od uguale a zero e l'altro termine deve avere lo stesso segno del radicale
 
 $$
-\textcolor{red}{\sqrt{x^2 - 4} = -x^2}
-$$
-
-Pongo le condizioni iniziali: il termine sotto radice deve essere maggiore od uguale a zero e l'altro termine deve avere lo stesso segno del radicale:
-
-$$
-\textcolor{red}{
-\begin{cases} 
-x^2 - 4 \ge 0 \\ 
--x^2 \ge 0 
+\begin{cases}
+x^2 - 4 \geq 0 \\
+-x^2 \geq 0
 \end{cases}
-}
 $$
 
-Cambio di segno e di verso la seconda:
+Cambio di segno e di verso la seconda
 
 $$
-\textcolor{red}{
-\begin{cases} 
-x^2 - 4 \ge 0 \\ 
-x^2 \le 0 
+\begin{cases}
+x^2 - 4 \geq 0 \\
+x^2 \leq 0
 \end{cases}
-}
 $$
+<span class="text-blue-500">Questa ammette la sola soluzione $x=0$</span>
 
-[Questa ammette la sola soluzione $x=0$]{.text-blue}
-
-Risolvo:
+Risolvo
 
 $$
-\textcolor{red}{
-\begin{cases} 
-x \le -2 \cup x \ge 2 \\ 
-x = 0 
+\begin{cases}
+x \leq -2 \cup x \geq 2 \\
+x = 0
 \end{cases}
-}
 $$
 
-Il sistema non ammette soluzioni quindi l'equazione irrazionale non è risolvibile.
+Il sistema non ammette soluzioni quindi l'equazione irrazionale non è risolvibile

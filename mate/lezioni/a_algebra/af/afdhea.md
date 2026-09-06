@@ -8,7 +8,7 @@ vediamolo intuitivamente
 Posso scrivere:
 
 $$
-\textcolor{blue}{\sqrt{-3(\sqrt[3]{7})^2} =}
+\textcolor{blue}{= \sqrt{-3(\sqrt[3]{7})^2} =}
 $$
 
 adesso estraggo il quadrato dalla radice ed ottengo

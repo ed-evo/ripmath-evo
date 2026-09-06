@@ -4,9 +4,9 @@ Risolvo il sistema:
 
 $$
 \begin{cases}
-\textcolor{red}{x_1 + 3x_2 = 7} \\
-\textcolor{red}{kx_1 + kx_2 = k - 2} \\
-\textcolor{red}{kx_1 \cdot x_2 = 1}
+x_1 + 3x_2 = 7 \\
+kx_1 + kx_2 = k-2 \\
+kx_1 \cdot x_2 = 1
 \end{cases}
 $$
 
@@ -14,9 +14,9 @@ Ricavo $x_1$ dalla prima e sostituisco nella seconda e nella terza
 
 $$
 \begin{cases}
-\textcolor{red}{x_1 = -3x_2 + 7} \\
-\textcolor{red}{k(-3x_2 + 7) + kx_2 = k - 2} \\
-\textcolor{red}{k(-3x_2 + 7) \cdot x_2 = 1}
+x_1 = -3x_2 + 7 \\
+k(-3x_2 + 7) + kx_2 = k-2 \\
+k(-3x_2 + 7) \cdot x_2 = 1
 \end{cases}
 $$
 
@@ -24,17 +24,17 @@ Eseguo i calcoli nella seconda e nella terza; al posto della prima metto una lin
 
 $$
 \begin{cases}
-\textcolor{red}{\text{----------------------}} \\
-\textcolor{red}{-3kx_2 + 7k + kx_2 - k + 2 = 0} \\
-\textcolor{red}{-3kx_2^2 + 7kx_2 = 1}
+\text{----------------------} \\
+-3kx_2 + 7k + kx_2 - k + 2 = 0 \\
+-3kx_2^2 + 7kx_2 = 1
 \end{cases}
 $$
 
 $$
 \begin{cases}
-\textcolor{red}{\text{----------------------}} \\
-\textcolor{red}{-2kx_2 + 6k + 2 = 0} \\
-\textcolor{red}{-3kx_2^2 + 7kx_2 = 1}
+\text{----------------------} \\
+-2kx_2 + 6k + 2 = 0 \\
+-3kx_2^2 + 7kx_2 = 1
 \end{cases}
 $$
 
@@ -42,9 +42,9 @@ divido la seconda equazione per $-2$
 
 $$
 \begin{cases}
-\textcolor{red}{\text{----------------------}} \\
-\textcolor{red}{kx_2 - 3k - 1 = 0} \\
-\textcolor{red}{-3kx_2^2 + 7kx_2 = 1}
+\text{----------------------} \\
+kx_2 - 3k - 1 = 0 \\
+-3kx_2^2 + 7kx_2 = 1
 \end{cases}
 $$
 
@@ -52,9 +52,9 @@ ricavo $x_2$ dalla seconda e sostituisco nella terza (conviene lasciare per ulti
 
 $$
 \begin{cases}
-\textcolor{red}{\text{----------------------}} \\
-\textcolor{red}{x_2 = (3k + 1)/k} \\
-\textcolor{red}{-3k(3k + 1)^2/k^2 + 7k(3k + 1)/k = 1}
+\text{----------------------} \\
+x_2 = \frac{3k + 1}{k} \\
+-3k\frac{(3k + 1)^2}{k^2} + 7k\frac{3k + 1}{k} = 1
 \end{cases}
 $$
 
@@ -63,43 +63,43 @@ essendo interessato solamente ai valori di $k$ considero solamente la terza equa
 > in futuro fare link "voglio risolvere tutto il sistema"
 
 $$
-\textcolor{red}{-3k \frac{(3k + 1)^2}{k^2} + 7k \frac{(3k + 1)}{k} = 1}
+-3k \frac{(3k + 1)^2}{k^2} + 7k \frac{3k + 1}{k} = 1
 $$
 
 semplifico i $k$ al numeratore e al denominatore
 
 $$
-\textcolor{red}{-3 \frac{(3k + 1)^2}{k} + 7(3k + 1) = 1}
+-3 \frac{(3k + 1)^2}{k} + 7(3k + 1) = 1
 $$
 
 supponendo $k$ diverso da zero faccio il minimo comune multiplo poi tolgo i denominatori uguali
 
 $$
-\textcolor{red}{\frac{-3(3k + 1)^2 + 7k(3k + 1)}{k} = \frac{k}{k}}
+\frac{-3(3k + 1)^2 + 7k(3k + 1)}{k} = \frac{k}{k}
 $$
 
 $$
-\textcolor{red}{-3(3k + 1)^2 + 7k(3k + 1) = k}
+-3(3k + 1)^2 + 7k(3k + 1) = k
 $$
 
 eseguo i calcoli
 
 $$
-\textcolor{red}{-3(9k^2 + 6k + 1) + 21k^2 + 7k = k}
+-3(9k^2 + 6k + 1) + 21k^2 + 7k = k
 $$
 
 $$
-\textcolor{red}{-27k^2 - 18k - 3 + 21k^2 + 7k - k = 0}
+-27k^2 - 18k - 3 + 21k^2 + 7k - k = 0
 $$
 
 $$
-\textcolor{red}{-6k^2 - 12k - 3 = 0}
+-6k^2 - 12k - 3 = 0
 $$
 
 divido tutto per $-3$
 
 $$
-\textcolor{red}{2k^2 + 4k + 1 = 0}
+2k^2 + 4k + 1 = 0
 $$
 
 risolvo l'equazione: applico la formula ridotta
@@ -109,13 +109,10 @@ $$
 $$
 
 Abbiamo:
-$$
-\begin{aligned}
-\textcolor{blue}{a} &= \textcolor{blue}{2} \\
-\textcolor{blue}{b} &= \textcolor{blue}{4} \quad \textcolor{blue}{b/2} = \textcolor{blue}{2} \\
-\textcolor{blue}{c} &= \textcolor{blue}{1}
-\end{aligned}
-$$
+
+$\textcolor{blue}{a = 2}$
+$\textcolor{blue}{b = 4 \quad b/2 = 2}$
+$\textcolor{blue}{c = 1}$
 
 $$
 \textcolor{blue}{k_{1,2} = \frac{-(2) \pm \sqrt{2^2 - (1)(2)}}{2}}
