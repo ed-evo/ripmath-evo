@@ -27,7 +27,7 @@ func main() {
 	flag.Parse()
 
 	if err := run(resourcePtr); err != nil {
-		l.Error(fmt.Sprintf("Execcution error: %v", err))
+		l.Error(fmt.Sprintf("Execution error: %v", err))
 		log.Fatalf("Execution error: %v", err)
 	}
 }
