@@ -32,7 +32,10 @@ $$
 \textcolor{blue}{= \frac{-\sqrt[3]{7} \pm \sqrt{-3\sqrt[3]{7^2}}}{\sqrt[3]{7^2}} =}
 $$
 
-Posso estrarre $\sqrt[3]{7}$ dalla radice perché ho $7^2$ <span class="text-red-500">[calcoli](afdhea.html)</span>
+Posso estrarre $\sqrt[3]{7}$ dalla radice perché ho $7^2$ 
+::: details <span class="text-red-500">[calcoli]</span>
+<!--@include: ./afdhea.md-->
+:::
 
 $$
 \textcolor{blue}{= \frac{-\sqrt[3]{7} \pm \sqrt[3]{7}\sqrt{-3}}{\sqrt[3]{7^2}} =}

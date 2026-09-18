@@ -1,5 +1,3 @@
-# <span class="text-red-600">esercizio</span>
-
 Trovare tutte le soluzioni delle equazioni
 $$
 x^3 + 1 = 0
@@ -8,7 +6,7 @@ $$
 x^3 + 8 = 0
 $$
 
-Risolvo la prima: devo [scomporre](../../a/ad/ad6db.html)
+Risolvo la prima: devo [scomporre](../../lezioni/a_algebra/02.calcolo-letterale/02.polinomi/03.scomposizione#somma-di-potenze-dispari)
 $$
 x^3 + 1 = (x + 1)(x^2 - x + 1) = 0
 $$
@@ -39,7 +37,7 @@ $x_1 = -1 \quad x_2 = (1 - i\sqrt{3})/2 \quad x_3 = (1 + i\sqrt{3})/2$
 
 ***
 
-Risolvo la seconda: devo [scomporre](../../a/ad/ad6db.html)
+Risolvo la seconda: devo [scomporre](../../lezioni/a_algebra/02.calcolo-letterale/02.polinomi/03.scomposizione#somma-di-potenze-dispari)
 $$
 x^3 + 8 = (x + 2)(x^2 - 2x + 4) = 0
 $$
@@ -68,7 +66,7 @@ $x_1 = -2 \quad x_2 = 1 - i\sqrt{3} \quad x_3 = 1 + i\sqrt{3}$
 
 ***
 
-In accordo con il [teorema fondamentale dell'algebra](afda.html) ho 6 soluzioni
+In accordo con il [teorema fondamentale dell'algebra](../../lezioni/a_algebra/03.equazioni/03.grado-superiore#teorema-fondamentale-dellalgebra) ho 6 soluzioni
 $x_1 = -1 \quad x_2 = (1 - i\sqrt{3})/2 \quad x_3 = (1 + i\sqrt{3})/2$
 $x_4 = -2 \quad x_5 = 1 - i\sqrt{3} \quad x_6 = 1 + i\sqrt{3}$
 

@@ -1,5 +1,3 @@
-# <span class="text-red-600">esercizio</span>
-
 $\textcolor{blue}{x^4 - 3x^2 - 4 = 0}$ pongo
 
 $x^2 = y$ e quindi $x^4 = y^2$

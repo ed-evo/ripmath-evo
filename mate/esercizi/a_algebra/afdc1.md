@@ -1,12 +1,10 @@
-# <span class="text-red-600">esercizio</span>
-
 $\textcolor{blue}{x^4 - 10x^2 + 9 = 0}$ pongo
 $x^2 = y$ e quindi $x^4 = y^2$
 $y^2 - 10y + 9 = 0$
-risolvo rispetto ad $y$ (con la [formula ridotta](afccb.html))
+risolvo rispetto ad $y$ (con la [formula ridotta](../../lezioni/a_algebra/03.equazioni/02.secondo-grado#formula-ridotta))
 
 $$
-y_{1,2} = \frac{-\frac{b}{2} \pm \sqrt{\frac{b^2}{4} - ac}}{a}
+y_{1,2} = \frac{-\dfrac{b}{2} \pm \sqrt{\dfrac{b^2}{4} - ac}}{a}
 $$
 
 $$

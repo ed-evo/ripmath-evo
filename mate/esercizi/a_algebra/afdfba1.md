@@ -1,5 +1,3 @@
-# Esercizio
-
 Risolvere:
 
 $$

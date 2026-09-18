@@ -1,5 +1,3 @@
-# <span class="text-red-600">esercizio</span>
-
 Trovare le soluzioni reali delle equazioni
 $$
 x^3 = -1

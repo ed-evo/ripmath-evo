@@ -1,5 +1,3 @@
-# <span class="text-red-600">Esercizio</span>
-
 Risolvere:
 $x + 2 - \sqrt{x^2 - 4} = 0$
 
