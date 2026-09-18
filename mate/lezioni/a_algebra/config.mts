@@ -30,8 +30,9 @@ const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
       text: '03. Equazioni',
       link: '/lezioni/a_algebra/03.equazioni/',
       items: [
-        { text: 'di Primo Grado', link: '/lezioni/a_algebra/03.equazioni/01.equazioni-primo-grado'},
-        { text: 'di Secondo Grado', link: '/lezioni/a_algebra/03.equazioni/02.equazioni-secondo-grado'},
+        { text: 'Primo Grado', link: '/lezioni/a_algebra/03.equazioni/01.primo-grado'},
+        { text: 'Secondo Grado', link: '/lezioni/a_algebra/03.equazioni/02.secondo-grado'},
+        { text: 'Grado Superiore', link: '/lezioni/a_algebra/03.equazioni/03.grado-superiore'},
       ],
     }
   ]

@@ -1,8 +1,8 @@
 # Equazioni ad una incognita
 
-- [Equazioni di primo grado](./01.equazioni-primo-grado)
-- [Equazioni di secondo grado](afc.html)
-- [Equazioni di grado superiore](afd.html)
+- [Equazioni di primo grado](./01.primo-grado)
+- [Equazioni di secondo grado](./02.secondo-grado)
+- [Equazioni di grado superiore](./03.grado-superiore)
 - [<span class="text-red-600">Equazioni esponenziali</span>](../an/an.html)
 - [<span class="text-red-600">Equazioni logaritmiche</span>](../am/am.html)
 - [<span class="text-red-600">Equazioni trigonometriche</span>](../h/h.html)
