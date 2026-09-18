@@ -14,6 +14,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Lezioni', link: '/lezioni/' },
+      { text: 'Esercizi', link: '/esercizi/' },
       { text: 'RipMat[orig.]', link: 'https://www.ripmat.it/'}
     ],
 
