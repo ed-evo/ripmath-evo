@@ -1,23 +1,3 @@
-<script setup lang="ts">
-import GgbCommandClient from '../.vitepress/theme/components/GgbCommand.client.vue';
-import GgbGraphClient from '../.vitepress/theme/components/GgbGraph.client.vue';
-
-</script>
-
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
----
-
-> Test Graph
-<GgbGraphClient>
-    <GgbCommandClient>
-    f(x) = x^2 -4
-    </GgbCommandClient>
-</GgbGraphClient>
-
-
 # Ripasso di Matematica
 
 Questo sito è dedicato a chi ha qualche difficoltà con la matematica: la matematica non deve complicarci la vita ma aiutarci a viverla meglio. Se hai qualche difficoltà significa che nella tua carriera scolastica hai recepito qualcosa in modo sbagliato oppure lacunoso; spero che questo sito ti aiuti a capire dove sbagli ed a superare le tue *difficoltà*

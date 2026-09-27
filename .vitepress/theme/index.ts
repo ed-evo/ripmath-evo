@@ -6,6 +6,19 @@ import './style.css'
 import GgbGraph from './components/GgbGraph.client.vue'
 import GgbCommand from './components/GgbCommand.client.vue'
 
+declare global {
+  namespace vue {
+
+  }
+}
+
+declare module 'vue' {
+  export interface GlobalComponents {
+    GgbGraph: typeof GgbGraph
+    GgbCommand: typeof GgbCommand
+  }
+}
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
