@@ -6,7 +6,7 @@
 
 <script setup lang="ts">
 import { inject, onMounted, onUnmounted, ref, watch, nextTick, type Ref } from 'vue'
-import type { GeoGebraAPI } from './GgbGraph.client.vue'
+import { GeoGebraAppApi } from '../../utils/loadGeoGebra';
 
 interface Props {
   color?: string
@@ -22,7 +22,7 @@ const props = withDefaults(defineProps<Props>(), {
 
 const contentRef = ref<HTMLDivElement | null>(null)
 // Fallback to empty ref if not provided
-const ggbApi = inject<Ref<GeoGebraAPI | null>>('ggbApi', ref(null))
+const ggbApi = inject<Ref<GeoGebraAppApi | null>>('ggbApi', ref(null))
 let createdObjName: string | null = null
 
 const executeCommand = async () => {

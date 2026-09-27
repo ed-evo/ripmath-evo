@@ -1,6 +1,6 @@
 <template>
-  <div class="ggb-wrapper" :style="{ width, height }">
-    <div :id="containerId" ref="containerRef" class="ggb-container"></div>
+  <div class="ggb-wrapper">
+    <div ref="containerRef" class="ggb-container"></div>
     <!-- Render child components in a hidden container so they mount and run lifecycle hooks -->
     <div style="display: none;">
       <slot />
@@ -11,23 +11,15 @@
 <script setup lang="ts">
 import { onMounted, onUnmounted, provide, ref, watch } from 'vue'
 import {
+  GeoGebraAppApi,
+  GeoGebraAppletParameters,
   loadGeoGebra,
   type GeoGebraVariant
 } from '../../utils/loadGeoGebra'
 
-// Define complete GeoGebra Applet API interface
-export interface GeoGebraAPI {
-  setCoordSystem(xMin: number, xMax: number, yMin: number, yMax: number): void
-  evalCommand(cmd: string): boolean
-  deleteObject(objName: string): void
-  unregisterAddListener(listener: unknown): void
-  [key: string]: unknown
-}
-
 interface Props {
-  id?: string
   variant?: GeoGebraVariant
-  appName?: 'graphing' | 'geometry' | '3d' | 'classic' | 'suite' | 'cas'
+  appParams?: GeoGebraAppletParameters
   xMin?: number
   xMax?: number
   yMin?: number
@@ -36,51 +28,49 @@ interface Props {
   height?: string
 }
 
-const props = withDefaults(defineProps<Props>(), {
-  id: 'ggb-' + Math.random().toString(36).substring(2, 9),
-  variant: 'web3d',
-  appName: 'graphing',
-  xMin: -5,
-  xMax: 5,
-  yMin: -5,
-  yMax: 5,
-  width: '100%',
-  height: '400px'
-})
+const {
+  variant = 'web3d',
+  xMin = -5,
+  xMax = 5,
+  yMin = -5,
+  yMax = 5,
+  appParams = {}
+} = defineProps<Props>()
 
-const containerId = ref(props.id)
 const containerRef = ref<HTMLDivElement | null>(null)
-const ggbApi = ref<GeoGebraAPI | null>(null)
+const ggbApi = ref<GeoGebraAppApi | null>(null)
 
 // Provide typed API reference to child components
 provide('ggbApi', ggbApi)
 
 const setupView = () => {
-  if (!ggbApi.value) return
-  ggbApi.value.setCoordSystem(props.xMin, props.xMax, props.yMin, props.yMax)
+  const api = ggbApi.value
+  if (!api) return
+  api.setCoordSystem(xMin, xMax, yMin, yMax)
+  api.setGraphicsOptions(1, { gridType: 4 })
 }
 
 const initGgb = async () => {
   if (!containerRef.value) return
 
   try {
-    const mathApps = await loadGeoGebra(props.variant)
+    const mathApps = await loadGeoGebra(variant)
     const el = containerRef.value
 
     console.log("ggb elt", el, el.clientWidth, el.clientHeight)
 
     const applet = mathApps.create({
-      appName: props.appName,
+      element: el,
       width: el.clientWidth || 600,
       height: el.clientHeight || 400,
-      showToolBar: false,
-      showAlgebraInput: false,
-      showMenuBar: false,
-      showResetIcon: false,
-      enableShiftDragZoom: true
+      // component default override
+      perspective: 'G',
+      enable3D: false,
+      borderColor: 'none',
+      // custom
+      ...appParams
     })
 
-    applet.inject(el)
     ggbApi.value = await applet.getAPI()
     setupView()
   } catch (err) {
@@ -89,7 +79,7 @@ const initGgb = async () => {
 }
 
 watch(
-  () => [props.xMin, props.xMax, props.yMin, props.yMax],
+  () => [xMin, xMax, yMin, yMax],
   setupView
 )
 
