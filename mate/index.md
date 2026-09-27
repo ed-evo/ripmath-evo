@@ -1,8 +1,22 @@
+<script setup lang="ts">
+import GgbCommandClient from '../.vitepress/theme/components/GgbCommand.client.vue';
+import GgbGraphClient from '../.vitepress/theme/components/GgbGraph.client.vue';
+
+</script>
+
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 ---
+
+> Test Graph
+<GgbGraphClient>
+    <GgbCommandClient>
+    f(x) = x^2 -4
+    </GgbCommandClient>
+</GgbGraphClient>
+
 
 # Ripasso di Matematica
 
