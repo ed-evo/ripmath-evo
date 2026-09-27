@@ -3,8 +3,8 @@ import DefaultTheme from 'vitepress/theme'
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
 import './style.css'
-import GgbGraph from './components/GgbGraph.vue'
-import GgbCommand from './components/GgbCommand.vue'
+import GgbGraph from './components/GgbGraph.client.vue'
+import GgbCommand from './components/GgbCommand.client.vue'
 
 export default {
   extends: DefaultTheme,
