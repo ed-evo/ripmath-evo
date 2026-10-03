@@ -34,6 +34,15 @@ const AlgebraSidebarItem: DefaultTheme.SidebarItem = {
         { text: 'Secondo Grado', link: '/lezioni/a_algebra/03.equazioni/02.secondo-grado'},
         { text: 'Grado Superiore', link: '/lezioni/a_algebra/03.equazioni/03.grado-superiore'},
       ],
+    },
+    {
+      text: '04. Disequazioni',
+      link: '/lezioni/a_algebra/04.disequazioni/',
+      items: [
+        { text: 'Primo Grado', link: '/lezioni/a_algebra/04.disequazioni/01.primo-grado'},
+        { text: 'Secondo Grado', link: '/lezioni/a_algebra/04.disequazioni/02.secondo-grado'},
+        { text: 'Grado Superiore', link: '/lezioni/a_algebra/04.disequazioni/03.grado-superiore'},
+      ],
     }
   ]
 }

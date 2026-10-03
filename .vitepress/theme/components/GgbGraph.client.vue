@@ -20,6 +20,7 @@ import {
 interface Props {
   variant?: GeoGebraVariant
   appParams?: GeoGebraAppletParameters
+  graphicsOptions?: Record<string, unknown>
   xMin?: number
   xMax?: number
   yMin?: number
@@ -34,7 +35,8 @@ const {
   xMax = 5,
   yMin = -5,
   yMax = 5,
-  appParams = {}
+  appParams = {},
+  graphicsOptions = {}
 } = defineProps<Props>()
 
 const containerRef = ref<HTMLDivElement | null>(null)
@@ -46,8 +48,11 @@ provide('ggbApi', ggbApi)
 const setupView = () => {
   const api = ggbApi.value
   if (!api) return
-  api.setCoordSystem(xMin, xMax, yMin, yMax)
-  api.setGraphicsOptions(1, { gridType: 4 })
+  // api.setCoordSystem(xMin, xMax, yMin, yMax)
+  api.setGraphicsOptions(1, {
+    ...graphicsOptions,
+    gridType: 4
+  })
 }
 
 const initGgb = async () => {

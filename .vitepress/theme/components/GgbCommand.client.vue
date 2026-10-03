@@ -10,15 +10,17 @@ import { GeoGebraAppApi } from '../../utils/loadGeoGebra';
 
 interface Props {
   color?: string
+  filling?: number
   thickness?: number | string
   pointStyle?: number | string
 }
 
-const props = withDefaults(defineProps<Props>(), {
-  color: '',
-  thickness: '',
-  pointStyle: ''
-})
+const {
+  color = '',
+  filling = undefined,
+  thickness = '',
+  pointStyle = '',
+} = defineProps<Props>()
 
 const contentRef = ref<HTMLDivElement | null>(null)
 // Fallback to empty ref if not provided
@@ -57,14 +59,17 @@ const executeCommand = async () => {
     createdObjName = match[1]
 
     // 3. Apply optional styling
-    if (props.color) {
-      api.evalCommand(`SetColor(${createdObjName}, "${props.color}")`)
+    if (color) {
+      api.evalCommand(`SetColor(${createdObjName}, "${color}")`)
     }
-    if (props.thickness !== '') {
-      api.evalCommand(`SetLineThickness(${createdObjName}, ${props.thickness})`)
+    if (filling) {
+      api.evalCommand(`SetFilling(${createdObjName}, ${filling})`)
     }
-    if (props.pointStyle !== '') {
-      api.evalCommand(`SetPointStyle(${createdObjName}, ${props.pointStyle})`)
+    if (thickness !== '') {
+      api.evalCommand(`SetLineThickness(${createdObjName}, ${thickness})`)
+    }
+    if (pointStyle !== '') {
+      api.evalCommand(`SetPointStyle(${createdObjName}, ${pointStyle})`)
     }
   }
 }
@@ -91,7 +96,7 @@ watch(
 
 // Watch for prop changes (e.g., dynamic color adjustments from parent)
 watch(
-  () => [props.color, props.thickness, props.pointStyle],
+  () => [color, filling, thickness, pointStyle],
   () => {
     executeCommand()
   }
