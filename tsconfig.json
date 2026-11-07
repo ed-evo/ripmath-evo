@@ -20,7 +20,9 @@
   "exclude": [
     "node_modules",
     ".vitepress/dist",
-    ".vitepress/cache"
+    ".vitepress/cache",
+    "automation/orig/plots",
+    "automation/orig/to-md"
   ],
   "vueCompilerOptions": {
     "vitePressExtensions": [".md"],
